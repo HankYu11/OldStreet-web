@@ -1,0 +1,987 @@
+{
+ "streets": [
+  {
+   "id": "toucheng-old-street",
+   "name_zh": "頭城老街",
+   "name_en": "Toucheng Old Street",
+   "aliases": [
+    "頭圍老街",
+    "頭圍街",
+    "和平街",
+    "開蘭第一街"
+   ],
+   "county": "宜蘭縣",
+   "district": "頭城鎮",
+   "address_hint": "和平街（南門福德祠至北門福德祠）",
+   "lat": 24.8575,
+   "lng": 121.824,
+   "status": "active",
+   "scores": {
+    "food": 1,
+    "history": 3,
+    "architecture": 2,
+    "shopping": 1,
+    "crowd": 1
+   },
+   "architecture_styles": [
+    "minnan",
+    "baroque-facade",
+    "arcade"
+   ],
+   "themes": [
+    "qing-era",
+    "japanese-era",
+    "port-trade",
+    "temple"
+   ],
+   "best_for": [
+    "history-buff",
+    "architecture",
+    "photography",
+    "slow-travel",
+    "day-trip-from-taipei"
+   ],
+   "signature_foods": [
+    "芋冰"
+   ],
+   "specialties": [],
+   "landmarks": [
+    "盧纘祥故宅",
+    "頭城慶元宮",
+    "新長興樹記",
+    "南門福德祠",
+    "北門福德祠"
+   ],
+   "tagline_zh": "開蘭第一街，頭圍港貨物集散的六百公尺",
+   "tagline_en": "'First Street of Yilan' — a 600 m Qing-era port street of shophouses and old temples",
+   "story_zh": "頭城古稱頭圍，是吳沙於1796年率眾入墾蘭陽平原的第一個據點，和平街因而有「開蘭第一街」之稱。街道沿著頭圍港與通往烏石港的港道發展，清代是宜蘭貨物進出的集散中心。1924年大水淤塞港道，加上鐵路取代海運，老街從此沒落，卻也因此留下閩南街屋、洋樓立面與古廟老榕。",
+   "story_en": "Toucheng (old name Touwei) was the first foothold Wu Sha's settlers built on the Lanyang Plain in 1796, which is why Heping Street calls itself the 'first street of Yilan'. Growing beside Touwei harbour and the channel to Wushi port, it was the region's freight hub in the Qing era. A 1924 flood silted up the harbour and the railway took over trade, so the street declined — leaving its Minnan shophouses, Western-style facades, temples and old banyans largely in place.",
+   "getting_there": "台鐵頭城站步行約5分鐘",
+   "visit_duration": "1-2h",
+   "best_time": "農曆七月底「頭城搶孤」期間最熱鬧；平日安靜適合散步",
+   "confidence": "high",
+   "sources": [
+    "https://zh.wikipedia.org/wiki/頭城老街",
+    "https://smiletaiwan.cw.com.tw/article/6572"
+   ]
+  },
+  {
+   "id": "dali-old-street",
+   "name_zh": "大里老街",
+   "name_en": "Dali Old Street",
+   "aliases": [],
+   "county": "宜蘭縣",
+   "district": "頭城鎮",
+   "address_hint": "大里里濱海公路（台2線）旁、慶雲宮一帶",
+   "lat": 24.9672,
+   "lng": 121.9225,
+   "status": "quiet",
+   "scores": {
+    "food": 1,
+    "history": 2,
+    "architecture": 1,
+    "shopping": 0,
+    "crowd": 1
+   },
+   "architecture_styles": [
+    "stone-house"
+   ],
+   "themes": [
+    "qing-era",
+    "temple",
+    "fishing",
+    "nature"
+   ],
+   "best_for": [
+    "slow-travel",
+    "history-buff",
+    "day-trip-from-taipei"
+   ],
+   "signature_foods": [
+    "米粉羹",
+    "炸花枝丸"
+   ],
+   "specialties": [],
+   "landmarks": [
+    "大里天公廟（慶雲宮）",
+    "大里車站",
+    "草嶺古道登山口"
+   ],
+   "tagline_zh": "草嶺古道口的海邊小村，石頭厝與天公廟",
+   "tagline_en": "A seaside hamlet at the foot of the Caoling Historic Trail, with stone houses and a Jade Emperor temple",
+   "story_zh": "大里位於草嶺古道的宜蘭端出入口，清代往來淡水與噶瑪蘭的旅人在此歇腳，聚落一度熱鬧。相傳旅人出發翻山前，會撿一顆圓石到大里天公廟過爐作為護身符。如今只剩沿海岸線的小漁村，街上仍可見零星石頭厝與老榕。",
+   "story_en": "Dali sits at the Yilan end of the Caoling Historic Trail, where Qing-era travellers between Tamsui and Kavalan rested before or after crossing the mountains. Legend says walkers picked up a round pebble and passed it over the incense burner at the Dali Jade Emperor Temple as a protective charm. Today it is a small fishing village strung along the coast road, with a few stone houses and old banyans left.",
+   "getting_there": "台鐵大里站下車即達",
+   "visit_duration": "<1h",
+   "best_time": "可與草嶺古道健行（秋季芒花季）合併安排",
+   "confidence": "low",
+   "sources": [
+    "https://smiletaiwan.cw.com.tw/article/6572",
+    "https://travel.yam.com/article/115832"
+   ]
+  },
+  {
+   "id": "lizejian-old-street",
+   "name_zh": "利澤簡老街",
+   "name_en": "Lizejian Old Street",
+   "aliases": [
+    "利簡澤老街",
+    "利澤老街"
+   ],
+   "county": "宜蘭縣",
+   "district": "五結鄉",
+   "address_hint": "利澤村利澤路（利生醫院至永安宮）",
+   "lat": 24.6625,
+   "lng": 121.8225,
+   "status": "quiet",
+   "scores": {
+    "food": 1,
+    "history": 2,
+    "architecture": 1,
+    "shopping": 0,
+    "crowd": 1
+   },
+   "architecture_styles": [
+    "baroque-facade",
+    "minnan"
+   ],
+   "themes": [
+    "qing-era",
+    "japanese-era",
+    "river-port",
+    "indigenous",
+    "temple"
+   ],
+   "best_for": [
+    "history-buff",
+    "slow-travel"
+   ],
+   "signature_foods": [],
+   "specialties": [],
+   "landmarks": [
+    "利生醫院（縣定古蹟）",
+    "利澤永安宮"
+   ],
+   "tagline_zh": "噶瑪蘭「休息地」，元宵走尪的河港老街",
+   "tagline_en": "A Kavalan 'resting place' turned river port, famous for its Lantern Festival god-running",
+   "story_zh": "「利澤簡」源自噶瑪蘭舊社地名，意為「休息地」。清代靠著冬山河的港口地利成為貨物集散地，還設有「利澤簡堡」，後因陸運興起而沒落，地名也簡化為「利澤」。每年元宵節的「走尪」，壯丁抬神轎從街頭的利生醫院一路奔跑到街尾永安宮，是宜蘭獨特的民俗。",
+   "story_en": "The name Lizejian comes from a Kavalan village name meaning 'resting place'. In the Qing era its landing on the Dongshan River made it a freight hub and an administrative seat, but overland transport later drained its trade and the name was shortened to Lize. Every Lantern Festival, young men carry palanquins at a run from the 1920 Lisheng Clinic at one end of the street to Yong'an Temple at the other in the 'running gods' ritual.",
+   "getting_there": "建議開車，或自羅東轉乘公車",
+   "visit_duration": "<1h",
+   "best_time": "元宵節「走尪」活動",
+   "confidence": "medium",
+   "sources": [
+    "https://smiletaiwan.cw.com.tw/article/3036",
+    "https://news.pts.org.tw/article/620885"
+   ]
+  },
+  {
+   "id": "dongshan-old-street",
+   "name_zh": "冬山老街",
+   "name_en": "Dongshan Old Street",
+   "aliases": [],
+   "county": "宜蘭縣",
+   "district": "冬山鄉",
+   "address_hint": "冬山車站周邊、中正路一帶",
+   "lat": 24.6355,
+   "lng": 121.793,
+   "status": "quiet",
+   "scores": {
+    "food": 1,
+    "history": 1,
+    "architecture": 1,
+    "shopping": 1,
+    "crowd": 1
+   },
+   "architecture_styles": [
+    "arcade",
+    "modernist"
+   ],
+   "themes": [
+    "agriculture",
+    "art-murals"
+   ],
+   "best_for": [
+    "slow-travel"
+   ],
+   "signature_foods": [],
+   "specialties": [],
+   "landmarks": [],
+   "tagline_zh": "社區用老照片門牌說故事的小鎮街道",
+   "tagline_en": "A small-town main street telling its past through old-photo doorplates",
+   "story_zh": "冬山老街是冬山鄉舊市街，商圈協會近年加裝燈飾、街頭彩繪，並把鄉內老照片做成店家門牌，掃QR code就能看到店家介紹。其中一張舊照記錄早年冬山常淹水、居民搭船娶親的景象。街區以日常商店為主，適合順路散步。",
+   "story_en": "Dongshan's old main street is a working small-town commercial strip. The local business association has added lighting, murals and doorplates printed with historic photos of the township, with QR codes linking to each shop's story. One photo shows a wedding party travelling by boat during the floods that once plagued the area. It's an everyday street best enjoyed as a short stroll.",
+   "getting_there": "台鐵冬山站步行可達",
+   "visit_duration": "<1h",
+   "best_time": "",
+   "confidence": "low",
+   "sources": [
+    "https://news.pts.org.tw/article/669882"
+   ]
+  },
+  {
+   "id": "xincheng-old-street",
+   "name_zh": "新城老街",
+   "name_en": "Xincheng Old Street",
+   "aliases": [],
+   "county": "花蓮縣",
+   "district": "新城鄉",
+   "address_hint": "博愛路",
+   "lat": 24.127,
+   "lng": 121.644,
+   "status": "quiet",
+   "scores": {
+    "food": 2,
+    "history": 2,
+    "architecture": 1,
+    "shopping": 1,
+    "crowd": 1
+   },
+   "architecture_styles": [
+    "japanese-era",
+    "wooden-house"
+   ],
+   "themes": [
+    "japanese-era",
+    "mining"
+   ],
+   "best_for": [
+    "foodie",
+    "history-buff",
+    "slow-travel"
+   ],
+   "signature_foods": [
+    "檸檬汁",
+    "冰品"
+   ],
+   "specialties": [],
+   "landmarks": [
+    "新城照相館",
+    "新城天主堂（新城神社遺址鳥居）"
+   ],
+   "tagline_zh": "淘金熱留下的小街，老照相館與神社鳥居",
+   "tagline_en": "A gold-rush-era main street near Taroko, with an old photo studio and a shrine gate",
+   "story_zh": "新城博愛路一帶早年因立霧溪淘金熱而繁華，礦業退燒與台9線改道後逐漸沒落。街上的新城照相館是日治時期就開業的老店，近年因道路拓寬計畫面臨拆除爭議。附近的新城天主堂建在新城神社遺址上，日式鳥居仍保留在入口。",
+   "story_en": "Boai Road in Xincheng boomed during the Liwu River gold rush, then faded as mining ended and Highway 9 was rerouted. Its Xincheng Photo Studio dates from the Japanese era and has recently been at the centre of a debate over road widening. Nearby, Xincheng Catholic Church stands on the site of a Shinto shrine, with the torii gate still at its entrance.",
+   "getting_there": "台鐵新城（太魯閣）站步行約10分鐘",
+   "visit_duration": "<1h",
+   "best_time": "可與太魯閣行程順遊",
+   "confidence": "medium",
+   "sources": [
+    "https://smiletaiwan.cw.com.tw/article/6875",
+    "https://news.pts.org.tw/article/746809"
+   ]
+  },
+  {
+   "id": "tongmen-machete-street",
+   "name_zh": "山刀老街",
+   "name_en": "Tongmen Machete Street",
+   "aliases": [
+    "銅門刀街"
+   ],
+   "county": "花蓮縣",
+   "district": "秀林鄉",
+   "address_hint": "銅門村部落主要道路",
+   "lat": 23.969,
+   "lng": 121.493,
+   "status": "quiet",
+   "scores": {
+    "food": 0,
+    "history": 1,
+    "architecture": 0,
+    "shopping": 1,
+    "crowd": 1
+   },
+   "architecture_styles": [],
+   "themes": [
+    "indigenous",
+    "crafts",
+    "nature"
+   ],
+   "best_for": [
+    "slow-travel"
+   ],
+   "signature_foods": [],
+   "specialties": [
+    "銅門刀（手工鍛造山刀）"
+   ],
+   "landmarks": [],
+   "tagline_zh": "太魯閣族部落裡的手工鍛刀街",
+   "tagline_en": "A Truku village where blacksmiths still hand-forge mountain knives",
+   "story_zh": "銅門村位於木瓜溪畔、中央山脈山腳，是台灣少數擁有成熟製刀技術的原住民部落。當地鐵鋪以手工鍛打山刀聞名，融合太魯閣族的用刀智慧，部分鐵鋪已傳承數代。所謂「老街」其實是幾家打鐵店聚集的部落道路，而非傳統街屋群。",
+   "story_en": "Tongmen, on the Mugua River at the foot of the Central Range, is one of the few Indigenous villages in Taiwan with an established blade-forging tradition. Its smithies hand-forge mountain knives shaped by Truku know-how, some run by the same family for generations. The 'old street' is really a village road with a handful of forges rather than a row of historic shophouses.",
+   "getting_there": "建議開車，花蓮市區約30分鐘",
+   "visit_duration": "<1h",
+   "best_time": "可與慕谷慕魚（需申請）行程結合",
+   "confidence": "low",
+   "sources": [
+    "https://smiletaiwan.cw.com.tw/article/2488"
+   ]
+  },
+  {
+   "id": "lilong-old-street",
+   "name_zh": "里壠老街",
+   "name_en": "Lilong (Guanshan) Old Street",
+   "aliases": [
+    "關山老街"
+   ],
+   "county": "臺東縣",
+   "district": "關山鎮",
+   "address_hint": "中正路、中山路一帶舊市街",
+   "lat": 23.047,
+   "lng": 121.164,
+   "status": "quiet",
+   "scores": {
+    "food": 1,
+    "history": 2,
+    "architecture": 1,
+    "shopping": 1,
+    "crowd": 1
+   },
+   "architecture_styles": [
+    "japanese-era",
+    "wooden-house"
+   ],
+   "themes": [
+    "japanese-era",
+    "railway",
+    "agriculture",
+    "indigenous"
+   ],
+   "best_for": [
+    "slow-travel",
+    "history-buff"
+   ],
+   "signature_foods": [
+    "關山便當",
+    "關山米"
+   ],
+   "specialties": [],
+   "landmarks": [
+    "舊關山火車站",
+    "嘉賓旅社"
+   ],
+   "tagline_zh": "日治關山郡治所在，棋盤街區的縱谷小鎮",
+   "tagline_en": "A grid-plan valley town that was a Japanese-era district seat",
+   "story_zh": "關山舊名「里壠」，源自阿美語，指當地多恙蟲。日治時期1915年設里壠支廳，1937年改為關山郡，是池上、鹿野、海端等地的行政核心，並因製糖、樟腦與木材業吸引移民，形成棋盤式街道。今天舊車站、鐵道宿舍與嘉賓旅社等老建築散落其間，部分官舍已殘破。",
+   "story_en": "Guanshan was once called Lilong, from an Amis word referring to the chiggers common here. Under Japanese rule it became a sub-prefecture seat in 1915 and the Guanshan district capital in 1937, drawing settlers for sugar, camphor and timber and laid out on a grid. The old station, railway dormitories and the Jiabin Hotel remain among newer buildings, though some official residences are in ruins.",
+   "getting_there": "台鐵關山站步行可達",
+   "visit_duration": "1-2h",
+   "best_time": "可搭配關山環鎮自行車道",
+   "confidence": "medium",
+   "sources": [
+    "https://smiletaiwan.cw.com.tw/article/2775",
+    "https://smiletaiwan.cw.com.tw/article/1830"
+   ]
+  },
+  {
+   "id": "zhiben-hot-spring-street",
+   "name_zh": "知本溫泉老街",
+   "name_en": "Zhiben Hot Spring Street",
+   "aliases": [
+    "知本溫泉街",
+    "龍泉路"
+   ],
+   "county": "臺東縣",
+   "district": "卑南鄉",
+   "address_hint": "溫泉村龍泉路",
+   "lat": 22.689,
+   "lng": 121.011,
+   "status": "active",
+   "scores": {
+    "food": 1,
+    "history": 1,
+    "architecture": 0,
+    "shopping": 1,
+    "crowd": 2
+   },
+   "architecture_styles": [
+    "modernist"
+   ],
+   "themes": [
+    "hot-spring",
+    "night-market",
+    "indigenous",
+    "nature"
+   ],
+   "best_for": [
+    "family",
+    "nightlife",
+    "slow-travel"
+   ],
+   "signature_foods": [],
+   "specialties": [],
+   "landmarks": [],
+   "tagline_zh": "溫泉飯店林立的龍泉路，入夜像小夜市",
+   "tagline_en": "The hot-spring resort strip of Longquan Road, a mini night market after dark",
+   "story_zh": "知本溫泉是卑南族知本部落傳統領域，日治時期開始被開發為溫泉地，戰後發展成台東最知名的溫泉區。龍泉路沿線溫泉旅館、小吃店與紀念品店林立，入夜後攤商聚集，像一座小型夜市。這裡的「老街」指溫泉商圈，幾乎沒有歷史建築。",
+   "story_en": "Zhiben's springs lie in the traditional territory of the Puyuma Katratripulr community and were developed as a spa under Japanese rule, growing into Taitung's best-known hot-spring resort after the war. Longquan Road is lined with spa hotels, snack shops and souvenir stores, and stalls gather after dark like a small night market. The 'old street' is a resort strip rather than a historic district, with almost no old buildings.",
+   "getting_there": "台鐵知本站轉乘公車約20分鐘",
+   "visit_duration": "1-2h",
+   "best_time": "冬季泡湯季、晚上逛街",
+   "confidence": "low",
+   "sources": [
+    "https://uptogo.com.tw/?p=1379091"
+   ]
+  },
+  {
+   "id": "dawu-old-street",
+   "name_zh": "大武老街",
+   "name_en": "Dawu Old Street",
+   "aliases": [],
+   "county": "臺東縣",
+   "district": "大武鄉",
+   "address_hint": "大武村橋北舊市街",
+   "lat": 22.356,
+   "lng": 120.895,
+   "status": "faded",
+   "scores": {
+    "food": 1,
+    "history": 1,
+    "architecture": 1,
+    "shopping": 0,
+    "crowd": 1
+   },
+   "architecture_styles": [
+    "modernist"
+   ],
+   "themes": [
+    "fishing",
+    "nature"
+   ],
+   "best_for": [
+    "slow-travel"
+   ],
+   "signature_foods": [],
+   "specialties": [],
+   "landmarks": [
+    "大武漁港"
+   ],
+   "tagline_zh": "南迴伐木年代的熱鬧街，如今靜靜靠著太平洋",
+   "tagline_en": "A South-Link town street that boomed with loggers, now quiet by the Pacific",
+   "story_zh": "大武位於南迴東西交通的入口，1960年代伐木工人眾多，老街曾有多家旅社、南台東最大的戲院、碾米廠與魚苗批發。伐木業式微、台9線開通後人潮不再，不少老屋殘破或無人居住。社區近年推動散步路線，講述楊家碾米廠與瑞士修女的故事。",
+   "story_en": "Dawu sits where the South-Link route reaches the east coast. In the 1960s loggers filled its old street, which had several inns, the largest cinema in southern Taitung, a rice mill and fish-fry wholesalers. As logging declined and Highway 9 bypassed the town, trade drained away and many houses now stand empty. The community now runs walking routes telling stories of the Yang family rice mill and Swiss nuns who served here.",
+   "getting_there": "台鐵大武站步行可達",
+   "visit_duration": "<1h",
+   "best_time": "",
+   "confidence": "low",
+   "sources": [
+    "https://smiletaiwan.cw.com.tw/article/2788",
+    "https://smiletaiwan.cw.com.tw/article/2082"
+   ]
+  },
+  {
+   "id": "zhongyang-old-street-magong",
+   "name_zh": "中央老街",
+   "name_en": "Central Old Street (Magong)",
+   "aliases": [
+    "媽宮老街",
+    "中央街",
+    "街內"
+   ],
+   "county": "澎湖縣",
+   "district": "馬公市",
+   "address_hint": "中央街（天后宮後方）",
+   "lat": 23.564,
+   "lng": 119.564,
+   "status": "active",
+   "scores": {
+    "food": 2,
+    "history": 3,
+    "architecture": 2,
+    "shopping": 2,
+    "crowd": 2
+   },
+   "architecture_styles": [
+    "minnan",
+    "stone-house"
+   ],
+   "themes": [
+    "qing-era",
+    "port-trade",
+    "temple",
+    "fishing"
+   ],
+   "best_for": [
+    "history-buff",
+    "architecture",
+    "foodie",
+    "photography",
+    "shopping"
+   ],
+   "signature_foods": [
+    "黑糖糕",
+    "仙人掌冰",
+    "鹹餅"
+   ],
+   "specialties": [],
+   "landmarks": [
+    "澎湖天后宮",
+    "四眼井",
+    "施公祠",
+    "萬軍井"
+   ],
+   "tagline_zh": "澎湖第一街，天后宮後的媽宮街內",
+   "tagline_en": "Penghu's first street, behind Taiwan's oldest Mazu temple",
+   "story_zh": "中央街俗稱「街內」，清代澎湖納入版圖後，媽宮港澳初期只駐軍，到乾隆年間天后宮周邊商店才漸成規模，是澎湖最早的商業街。街上仍有四眼井、施公祠、萬軍井等古蹟，房屋以紅磚、木料與咾咕石建成。如今老屋多改為伴手禮與小吃店，是馬公最熱門的散步街區。",
+   "story_en": "Known locally as 'inside the street', Central Street grew up behind the Penghu Tianhou Temple, Taiwan's oldest Mazu temple, after the Qing took the islands; merchants clustered here from the Qianlong era, making it Penghu's first commercial street. Relics like the Four-Eyed Well, Shi Lang Shrine and Wanjun Well survive among houses built of red brick, timber and coral stone. Today many old houses sell local snacks and souvenirs, making it Magong's favourite stroll.",
+   "getting_there": "馬公市區步行可達（距馬公港約5分鐘）",
+   "visit_duration": "1-2h",
+   "best_time": "傍晚涼爽時；夏季花火節期間人潮多",
+   "confidence": "high",
+   "sources": [
+    "https://zh.wikipedia.org/wiki/中央老街",
+    "https://smiletaiwan.cw.com.tw/article/1609"
+   ]
+  },
+  {
+   "id": "xiaochijiao-zhuzai-street",
+   "name_zh": "小池角竹仔街",
+   "name_en": "Xiaochijiao Zhuzai Street",
+   "aliases": [
+    "竹仔街"
+   ],
+   "county": "澎湖縣",
+   "district": "西嶼鄉",
+   "address_hint": "池西村（舊稱小池角）聚落內",
+   "lat": 23.5915,
+   "lng": 119.493,
+   "status": "faded",
+   "scores": {
+    "food": 0,
+    "history": 1,
+    "architecture": 1,
+    "shopping": 0,
+    "crowd": 1
+   },
+   "architecture_styles": [
+    "stone-house",
+    "minnan"
+   ],
+   "themes": [
+    "fishing",
+    "qing-era"
+   ],
+   "best_for": [
+    "slow-travel"
+   ],
+   "signature_foods": [],
+   "specialties": [],
+   "landmarks": [
+    "小池角雙曲橋"
+   ],
+   "tagline_zh": "西嶼小池角聚落裡的舊街巷",
+   "tagline_en": "A barely-documented old lane in the Xiaochijiao fishing village on Xiyu",
+   "story_zh": "小池角是西嶼鄉池西村的舊稱，為傳統漁村聚落，竹仔街據傳是聚落內舊時的商店街巷。目前公開資料極少，現場多為民居與零星咾咕石老屋，沒有成形的商圈。可與鄰近的小池角雙曲橋、池西岩瀑一起順遊。",
+   "story_en": "Xiaochijiao is the old name of Chixi village on Xiyu island, a traditional fishing settlement; Zhuzai Street is said to have been its old shopping lane. Very little is documented about it, and today it is mostly homes with a few coral-stone houses and no real shops. It is best treated as a detour from the nearby Xiaochijiao Double-Curved Bridge and Chixi basalt cliffs.",
+   "getting_there": "建議騎車或開車，馬公市區約40分鐘",
+   "visit_duration": "<1h",
+   "best_time": "",
+   "confidence": "low",
+   "sources": [
+    "https://supertaste.tvbs.com.tw/infocard/14968"
+   ]
+  },
+  {
+   "id": "erkan-settlement",
+   "name_zh": "二崁聚落",
+   "name_en": "Erkan Historic Village",
+   "aliases": [
+    "二崁古厝聚落"
+   ],
+   "county": "澎湖縣",
+   "district": "西嶼鄉",
+   "address_hint": "二崁村",
+   "lat": 23.6155,
+   "lng": 119.517,
+   "status": "active",
+   "scores": {
+    "food": 1,
+    "history": 2,
+    "architecture": 3,
+    "shopping": 1,
+    "crowd": 2
+   },
+   "architecture_styles": [
+    "minnan",
+    "stone-house"
+   ],
+   "themes": [
+    "qing-era",
+    "herbal-medicine",
+    "crafts"
+   ],
+   "best_for": [
+    "architecture",
+    "photography",
+    "history-buff",
+    "family"
+   ],
+   "signature_foods": [
+    "杏仁茶"
+   ],
+   "specialties": [
+    "香草製品"
+   ],
+   "landmarks": [
+    "二崁陳氏古厝"
+   ],
+   "tagline_zh": "澎湖保存最完整的玄武岩與咾咕石聚落",
+   "tagline_en": "Penghu's best-preserved village of basalt and coral-stone courtyard houses",
+   "story_zh": "二崁是以陳姓為主的單姓聚落，傳統合院以玄武岩、咾咕石與紅磚砌成，是澎湖第一個傳統聚落保存區。族人早年遠赴外地經商、行醫致富後回鄉蓋屋，陳氏古厝即是代表。如今村民經營杏仁茶與香草小舖，傳統戲曲「褒歌」也在村中傳唱。",
+   "story_en": "Erkan is a single-clan village of the Chen family whose courtyard houses are built of basalt, coral stone and red brick; it was Penghu's first designated traditional settlement preservation area. Clan members who made their fortunes as merchants and doctors elsewhere came home to build the grand Chen family houses. Villagers now run small shops selling almond tea and herbal products.",
+   "getting_there": "建議騎車或開車，馬公市區約30分鐘",
+   "visit_duration": "1-2h",
+   "best_time": "早上或傍晚避開烈日",
+   "confidence": "medium",
+   "sources": [
+    "https://travel.yam.com/article/114791"
+   ]
+  },
+  {
+   "id": "shamei-old-street",
+   "name_zh": "沙美老街",
+   "name_en": "Shamei Old Street",
+   "aliases": [
+    "八卦街"
+   ],
+   "county": "金門縣",
+   "district": "金沙鎮",
+   "address_hint": "沙美市區（萬安堂周邊）",
+   "lat": 24.492,
+   "lng": 118.411,
+   "status": "quiet",
+   "scores": {
+    "food": 1,
+    "history": 2,
+    "architecture": 2,
+    "shopping": 1,
+    "crowd": 1
+   },
+   "architecture_styles": [
+    "minnan",
+    "modernist"
+   ],
+   "themes": [
+    "qing-era",
+    "temple",
+    "military",
+    "art-murals"
+   ],
+   "best_for": [
+    "photography",
+    "history-buff",
+    "slow-travel"
+   ],
+   "signature_foods": [],
+   "specialties": [],
+   "landmarks": [
+    "萬安堂",
+    "沙美萬安堂起源地紀念公園"
+   ],
+   "tagline_zh": "鹽場興起的八卦街，時光停在數十年前",
+   "tagline_en": "A salt-trade 'Bagua Street' where time seems to have stopped decades ago",
+   "story_zh": "沙美是金門最早形成的市街之一，舊稱「八卦街」，明代金門鹽業興盛，鹽場多集中於此，帶來萬商雲集的景況。戰地時期曾是阿兵哥消費的熱鬧街區，駐軍減少後逐漸沉寂，街景大致保留數十年前的樣貌。近年部分廢屋被彩繪成異國風建築，成為網路拍照點。",
+   "story_en": "Shamei is one of Kinmen's oldest market towns, nicknamed 'Bagua (Eight Trigrams) Street' for its maze of lanes; it boomed in the Ming dynasty when Kinmen's salt fields clustered here. During the military era it bustled with soldiers on leave, then went quiet as garrisons shrank, leaving its streetscape much as it was decades ago. Some abandoned houses have recently been repainted in Middle Eastern style, drawing photographers.",
+   "getting_there": "金門公車至沙美站，或騎車／開車",
+   "visit_duration": "<1h",
+   "best_time": "",
+   "confidence": "medium",
+   "sources": [
+    "https://travel.yam.com/article/124824",
+    "https://www.beauty321.com/post/34511"
+   ]
+  },
+  {
+   "id": "yangzhai-old-street",
+   "name_zh": "陽翟老街",
+   "name_en": "Yangzhai Old Street",
+   "aliases": [
+    "陽翟大街"
+   ],
+   "county": "金門縣",
+   "district": "金沙鎮",
+   "address_hint": "陽翟大街（金東電影院旁）",
+   "lat": 24.4778,
+   "lng": 118.411,
+   "status": "quiet",
+   "scores": {
+    "food": 0,
+    "history": 2,
+    "architecture": 2,
+    "shopping": 0,
+    "crowd": 1
+   },
+   "architecture_styles": [
+    "modernist",
+    "minnan"
+   ],
+   "themes": [
+    "military",
+    "film-location"
+   ],
+   "best_for": [
+    "photography",
+    "history-buff"
+   ],
+   "signature_foods": [],
+   "specialties": [],
+   "landmarks": [
+    "金東電影院"
+   ],
+   "tagline_zh": "凍結在戰地年代的阿兵哥街，電影《軍中樂園》場景",
+   "tagline_en": "A soldiers' street frozen in the Cold War era, set for the film Paradise in Service",
+   "story_zh": "陽翟老街在戰地時期是駐軍休假消費的街區，撞球間、冰果室、照相館與金東電影院沿街排開。撤軍後店家相繼歇業，整條街幾乎原樣保留，2014年電影《軍中樂園》即在此取景。現場以懷舊招牌與空屋為主，商業活動很少。",
+   "story_en": "During Kinmen's front-line years, Yangzhai's street served soldiers on leave with billiard halls, ice shops, photo studios and the Jindong Cinema. After the troops left the shops closed one by one, leaving the street almost untouched, and it served as a set for the 2014 film Paradise in Service. Expect retro signboards and empty storefronts rather than open shops.",
+   "getting_there": "建議騎車或開車；可搭金門公車",
+   "visit_duration": "<1h",
+   "best_time": "",
+   "confidence": "medium",
+   "sources": [
+    "https://www.funtime.com.tw/blog/?p=142148",
+    "https://city.gvm.com.tw/article/112679"
+   ]
+  },
+  {
+   "id": "jincheng-old-street",
+   "name_zh": "金城老街",
+   "name_en": "Jincheng Old Street",
+   "aliases": [
+    "後浦老街",
+    "莒光路"
+   ],
+   "county": "金門縣",
+   "district": "金城鎮",
+   "address_hint": "莒光路、民權路一帶（後浦）",
+   "lat": 24.4335,
+   "lng": 118.318,
+   "status": "thriving",
+   "scores": {
+    "food": 3,
+    "history": 3,
+    "architecture": 2,
+    "shopping": 3,
+    "crowd": 2
+   },
+   "architecture_styles": [
+    "minnan",
+    "baroque-facade",
+    "arcade"
+   ],
+   "themes": [
+    "qing-era",
+    "temple",
+    "military",
+    "port-trade"
+   ],
+   "best_for": [
+    "foodie",
+    "shopping",
+    "history-buff",
+    "architecture",
+    "family"
+   ],
+   "signature_foods": [
+    "廣東粥",
+    "蚵仔麵線",
+    "金門燒餅",
+    "貢糖",
+    "石蚵"
+   ],
+   "specialties": [
+    "菜刀（砲彈鋼刀）",
+    "高粱酒"
+   ],
+   "landmarks": [
+    "金門總兵署",
+    "邱良功母節孝坊",
+    "後浦城隍廟"
+   ],
+   "tagline_zh": "後浦城隍廟前的金門美食伴手禮中心",
+   "tagline_en": "Kinmen's food-and-souvenir heart around the old Houpu town god temple",
+   "story_zh": "金城舊稱後浦，清代金門總兵署由舊金城遷到此地後，成為全島政經中心。莒光路一帶老街以城隍廟為中心，周邊有國定古蹟邱良功母節孝坊、總兵署與洋樓。今日街上滿是廣東粥、燒餅、貢糖與砲彈菜刀店，是遊客必訪的金門市區。",
+   "story_en": "Jincheng was called Houpu; after the Qing moved the Kinmen garrison headquarters here from the old walled town, it became the island's political and commercial centre. The old streets around Juguang Road radiate from the Town God Temple, near the Qiu Liang-gong Mother's Chastity Arch and the restored Garrison Headquarters. Today they are packed with shops selling Cantonese congee, sesame flatbreads, peanut candy and knives forged from artillery shells.",
+   "getting_there": "金城車站步行約3分鐘",
+   "visit_duration": "half-day",
+   "best_time": "早上吃廣東粥；農曆四月十二日迎城隍最熱鬧",
+   "confidence": "high",
+   "sources": [
+    "https://city.gvm.com.tw/article/112679",
+    "https://travel.yam.com/article/114791"
+   ]
+  },
+  {
+   "id": "mingyi-old-street",
+   "name_zh": "明遺老街",
+   "name_en": "Mingyi Ancient Street",
+   "aliases": [
+    "明故老街",
+    "明遺古街"
+   ],
+   "county": "金門縣",
+   "district": "金城鎮",
+   "address_hint": "古城村金門城北門外",
+   "lat": 24.4155,
+   "lng": 118.3035,
+   "status": "quiet",
+   "scores": {
+    "food": 0,
+    "history": 3,
+    "architecture": 2,
+    "shopping": 0,
+    "crowd": 1
+   },
+   "architecture_styles": [
+    "minnan",
+    "fujian-granite"
+   ],
+   "themes": [
+    "qing-era",
+    "military"
+   ],
+   "best_for": [
+    "history-buff",
+    "architecture",
+    "slow-travel"
+   ],
+   "signature_foods": [],
+   "specialties": [],
+   "landmarks": [
+    "金門城北門遺址",
+    "明遺古街故事館"
+   ],
+   "tagline_zh": "明代金門城外的賣菜街，六百年的石板路",
+   "tagline_en": "A Ming-dynasty market lane outside the old Kinmen walled town",
+   "story_zh": "明遺老街位於舊金門城北門外，可追溯至明洪武年間築城時期。城門有出入限制與宵禁，商販便在城外交易，形成「賣菜街」，路寬剛好容手推板車通行。清代政經中心移往後浦後逐漸沒落，2005年登錄為歷史建築，街屋混合明代店屋、閩南合院與戰地防空洞。",
+   "story_en": "This lane lies outside the north gate of the old Kinmen walled town, built in the early Ming. With gate controls and curfews inside, traders set up outside the walls, creating a vegetable-market street just wide enough for handcarts. When the Qing moved the seat of power to Houpu it declined; it was registered as a historic building in 2005 and mixes Ming-style shophouses, Minnan courtyard homes and military-era air-raid shelters.",
+   "getting_there": "建議騎車或開車，距金城市區約10分鐘",
+   "visit_duration": "<1h",
+   "best_time": "",
+   "confidence": "medium",
+   "sources": [
+    "https://www.gvm.com.tw/article/35631",
+    "https://smiletaiwan.cw.com.tw/article/3954"
+   ]
+  },
+  {
+   "id": "mofan-street",
+   "name_zh": "模範街",
+   "name_en": "Mofan Street",
+   "aliases": [
+    "自強街"
+   ],
+   "county": "金門縣",
+   "district": "金城鎮",
+   "address_hint": "模範街（金城莒光路旁）",
+   "lat": 24.4325,
+   "lng": 118.3175,
+   "status": "active",
+   "scores": {
+    "food": 2,
+    "history": 3,
+    "architecture": 3,
+    "shopping": 2,
+    "crowd": 2
+   },
+   "architecture_styles": [
+    "japanese-era",
+    "baroque-facade",
+    "arcade",
+    "minnan"
+   ],
+   "themes": [
+    "japanese-era",
+    "crafts"
+   ],
+   "best_for": [
+    "architecture",
+    "photography",
+    "history-buff",
+    "foodie",
+    "shopping"
+   ],
+   "signature_foods": [
+    "金門燒餅",
+    "貢糖",
+    "廣東粥"
+   ],
+   "specialties": [
+    "高粱酒",
+    "菜刀（砲彈鋼刀）"
+   ],
+   "landmarks": [
+    "模範街紅磚拱廊店屋"
+   ],
+   "tagline_zh": "南洋僑資打造、「足以為模範」的紅磚拱廊街",
+   "tagline_en": "A 1924 red-brick arcade street built with overseas Chinese money 'to serve as a model'",
+   "story_zh": "1924年，金門商會會長傅錫琪與仕紳翁同文遠赴南洋集資，要蓋一條「足以為模範」的街道。T字形街區共40間店屋，前進為日式洋樓紅磚拱廊，後進為閩式建築，融合日本、閩南、西洋與南洋風格。1979年中美斷交時曾改名自強街，數年後才改回原名，現為歷史建築。",
+   "story_en": "In 1924 Kinmen chamber of commerce head Fu Xi-qi and gentleman Weng Tong-wen raised funds in Southeast Asia to build a street 'worthy of being a model'. Its 40 T-shaped-plan shophouses pair red-brick arcaded Western-Japanese fronts with Minnan rear halls. Renamed 'Self-Strengthening Street' after the US cut ties with Taiwan in 1979, it regained its name a few years later and is now a registered historic building.",
+   "getting_there": "金城車站步行約5分鐘",
+   "visit_duration": "<1h",
+   "best_time": "傍晚紅磚拱廊打燈時拍照最好",
+   "confidence": "high",
+   "sources": [
+    "https://zh.wikipedia.org/wiki/模範街",
+    "https://city.gvm.com.tw/article/112679"
+   ]
+  },
+  {
+   "id": "niujiao-settlement",
+   "name_zh": "牛角聚落老街",
+   "name_en": "Niujiao Village Old Street",
+   "aliases": [
+    "大澳老街",
+    "牛角聚落"
+   ],
+   "county": "連江縣",
+   "district": "南竿鄉",
+   "address_hint": "復興村牛角聚落大澳",
+   "lat": 26.159,
+   "lng": 119.9475,
+   "status": "quiet",
+   "scores": {
+    "food": 1,
+    "history": 2,
+    "architecture": 2,
+    "shopping": 1,
+    "crowd": 1
+   },
+   "architecture_styles": [
+    "fujian-granite",
+    "stone-house"
+   ],
+   "themes": [
+    "fishing",
+    "temple",
+    "military"
+   ],
+   "best_for": [
+    "architecture",
+    "photography",
+    "slow-travel"
+   ],
+   "signature_foods": [
+    "繼光餅",
+    "魚麵",
+    "老酒麵線"
+   ],
+   "specialties": [
+    "老酒"
+   ],
+   "landmarks": [],
+   "tagline_zh": "馬祖聚落保存的起點，曾是牛角的商店街",
+   "tagline_en": "Where Matsu's village-preservation movement began, once Niujiao's shopping street",
+   "story_zh": "牛角聚落以一條已加蓋的小溪分為東西兩區，東側的「大澳」是昔日商店街，居民以曹姓為主，靠漁業與商業維生。1990年代中期起地方推動「長住馬祖與聚落保存」，花崗岩老屋陸續整修為咖啡屋與民宿，風潮再擴及北竿芹壁等地。元宵「擺暝」祭典也是牛角重要的年節活動。",
+   "story_en": "Niujiao is split by a now-covered stream; the eastern side, Da'ao, was the village's shopping street, home mostly to the Cao clan who lived by fishing and trade. From the mid-1990s local leaders championed 'living in Matsu and preserving its villages', restoring granite houses as cafes and guesthouses — a movement that later spread to Qinbi in Beigan. Lantern Festival 'Baimeng' rites remain a highlight of the village calendar.",
+   "getting_there": "南竿公車至牛角站，或騎車",
+   "visit_duration": "<1h",
+   "best_time": "元宵擺暝期間",
+   "confidence": "medium",
+   "sources": [
+    "https://www.thenewslens.com/article/182984",
+    "https://blog.udn.com/stonejung/6688748"
+   ]
+  }
+ ],
+ "additions": []
+}

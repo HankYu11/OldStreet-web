@@ -47,7 +47,9 @@ changes. One-time setup:
 1. `firebase hosting:sites:create oldstreet-web --project freshtogo-e52a1`
 2. Firebase console → Hosting → `oldstreet-web` → Add custom domain → `oldstreet.handyla.co`, then add the DNS
    record it shows at your domain registrar.
-3. Add the repo secret `FIREBASE_SERVICE_ACCOUNT` (the same service-account JSON QiSi-web uses).
+3. Run `firebase init hosting:github` in a local clone, enter `HankYu11/OldStreet-web`, and answer **No** to
+   writing workflow files (this repo already has one). It creates the service account and uploads the
+   `FIREBASE_SERVICE_ACCOUNT_FRESHTOGO_E52A1` secret, which the workflow picks up.
 
 Manual deploy: `npm run build && firebase deploy --only hosting:prod`.
 

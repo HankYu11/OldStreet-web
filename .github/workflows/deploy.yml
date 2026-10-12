@@ -17,8 +17,9 @@ jobs:
       contents: read
       pull-requests: write
     env:
-      # Deploy steps are skipped (build still runs) until the secret is configured.
-      HAS_FIREBASE_SA: ${{ secrets.FIREBASE_SERVICE_ACCOUNT != '' }}
+      # `firebase init hosting:github` names the secret FIREBASE_SERVICE_ACCOUNT_<PROJECT>; accept either.
+      # Deploy steps are skipped (build still runs) until one of them is configured.
+      FIREBASE_SA: ${{ secrets.FIREBASE_SERVICE_ACCOUNT || secrets.FIREBASE_SERVICE_ACCOUNT_FRESHTOGO_E52A1 }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -29,21 +30,19 @@ jobs:
       - run: npm run build
       - name: Deploy PR preview
         uses: FirebaseExtended/action-hosting-deploy@v0
-        if: github.event_name == 'pull_request' && env.HAS_FIREBASE_SA == 'true'
-        env:
-          SITE_URL: https://oldstreet.handyla.co
+        if: github.event_name == 'pull_request' && env.FIREBASE_SA != ''
         with:
           repoToken: ${{ secrets.GITHUB_TOKEN }}
-          firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+          firebaseServiceAccount: ${{ env.FIREBASE_SA }}
           expires: 7d
           projectId: freshtogo-e52a1
           target: prod
       - name: Deploy live
         uses: FirebaseExtended/action-hosting-deploy@v0
-        if: github.event_name != 'pull_request' && env.HAS_FIREBASE_SA == 'true'
+        if: github.event_name != 'pull_request' && env.FIREBASE_SA != ''
         with:
           repoToken: ${{ secrets.GITHUB_TOKEN }}
-          firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+          firebaseServiceAccount: ${{ env.FIREBASE_SA }}
           channelId: live
           projectId: freshtogo-e52a1
           target: prod

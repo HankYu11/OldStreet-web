@@ -1,0 +1,11 @@
+---
+import StreetPage from "../../components/StreetPage.astro";
+import { streets, type Street } from "../../lib/streets";
+
+export function getStaticPaths() {
+  return streets.map((s) => ({ params: { id: s.id }, props: { s } }));
+}
+const { s } = Astro.props as { s: Street };
+---
+
+<StreetPage s={s} lang="zh" />

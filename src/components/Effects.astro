@@ -1,0 +1,163 @@
+---
+// Site-wide motion layer. Everything is progressive enhancement: without JS, or with
+// prefers-reduced-motion, the page is complete and static.
+---
+
+<div class="fx-progress" aria-hidden="true"></div>
+
+<script>
+  const reduce = matchMedia("(prefers-reduced-motion: reduce)").matches;
+  const fine = matchMedia("(pointer: fine)").matches;
+  const root = document.documentElement;
+
+  /* ---- scroll progress ---- */
+  const bar = document.querySelector<HTMLElement>(".fx-progress")!;
+  const onScroll = () => {
+    const max = root.scrollHeight - innerHeight;
+    bar.style.transform = `scaleX(${max > 0 ? scrollY / max : 0})`;
+  };
+  addEventListener("scroll", onScroll, { passive: true });
+  onScroll();
+
+  /* ---- reveals ---- */
+  const reveal = document.querySelectorAll<HTMLElement>("[data-reveal]");
+  if (reduce || !("IntersectionObserver" in window)) {
+    reveal.forEach((el) => el.classList.add("in"));
+  } else {
+    const io = new IntersectionObserver(
+      (es) =>
+        es.forEach((e) => {
+          if (!e.isIntersecting) return;
+          e.target.classList.add("in");
+          io.unobserve(e.target);
+        }),
+      { rootMargin: "0px 0px -6% 0px" },
+    );
+    reveal.forEach((el) => io.observe(el));
+    // never leave content hidden if the observer doesn't report (or when printing)
+    const sweep = () =>
+      reveal.forEach((el) => el.getBoundingClientRect().top < innerHeight && el.classList.add("in"));
+    setTimeout(sweep, 2500);
+    addEventListener("beforeprint", () => reveal.forEach((el) => el.classList.add("in")));
+  }
+
+  /* ---- decode / scramble text: characters resolve out of noise ---- */
+  const GLYPHS = "老街時光機台灣古巷廟埕騎樓牌樓紅磚01<>/#*+";
+  document.querySelectorAll<HTMLElement>("[data-scramble]").forEach((el, n) => {
+    if (reduce) return;
+    const final = el.textContent ?? "";
+    el.setAttribute("aria-label", final);
+    const chars = [...final];
+    const start = performance.now() + n * 220;
+    const dur = 900 + chars.length * 35;
+    const tick = (now: number) => {
+      const k = Math.max(0, (now - start) / dur);
+      el.textContent = chars
+        .map((c, i) => {
+          if (c === " " || k * chars.length * 1.15 > i + 1) return c;
+          return GLYPHS[(Math.random() * GLYPHS.length) | 0];
+        })
+        .join("");
+      if (k < 1) requestAnimationFrame(tick);
+      else el.textContent = final;
+    };
+    requestAnimationFrame(tick);
+  });
+
+  /* ---- count-up numbers ---- */
+  const counters = document.querySelectorAll<HTMLElement>("[data-count]");
+  if (counters.length && !reduce && "IntersectionObserver" in window) {
+    const io = new IntersectionObserver((es) =>
+      es.forEach((e) => {
+        if (!e.isIntersecting) return;
+        const el = e.target as HTMLElement;
+        const to = Number(el.dataset.count);
+        const t0 = performance.now();
+        const run = (now: number) => {
+          const k = Math.min(1, (now - t0) / 1600);
+          el.textContent = String(Math.round(to * (1 - Math.pow(1 - k, 4))));
+          if (k < 1) requestAnimationFrame(run);
+        };
+        requestAnimationFrame(run);
+        io.unobserve(el);
+      }),
+    );
+    counters.forEach((el) => {
+      el.textContent = "0";
+      io.observe(el);
+    });
+  }
+
+  if (!reduce && fine) {
+    /* ---- lantern light follows the cursor ---- */
+    const light = document.querySelector<HTMLElement>(".cursor-light");
+    let raf = 0;
+    addEventListener(
+      "pointermove",
+      (e) => {
+        cancelAnimationFrame(raf);
+        raf = requestAnimationFrame(() => {
+          light?.style.setProperty("--cx", `${e.clientX}px`);
+          light?.style.setProperty("--cy", `${e.clientY}px`);
+        });
+      },
+      { passive: true },
+    );
+
+    /* ---- spotlight: light follows the pointer across cards (delegated) ---- */
+    document.addEventListener(
+      "pointermove",
+      (e) => {
+        const el = (e.target as HTMLElement).closest<HTMLElement>("[data-spotlight]");
+        if (!el) return;
+        const r = el.getBoundingClientRect();
+        el.style.setProperty("--mx", `${e.clientX - r.left}px`);
+        el.style.setProperty("--my", `${e.clientY - r.top}px`);
+      },
+      { passive: true },
+    );
+
+    /* ---- 3D tilt (delegated) ---- */
+    let tilted: HTMLElement | null = null;
+    document.addEventListener(
+      "pointermove",
+      (e) => {
+        const el = (e.target as HTMLElement).closest<HTMLElement>("[data-tilt]");
+        if (tilted && tilted !== el) tilted.style.transform = "";
+        tilted = el;
+        if (!el) return;
+        const r = el.getBoundingClientRect();
+        const x = (e.clientX - r.left) / r.width - 0.5;
+        const y = (e.clientY - r.top) / r.height - 0.5;
+        el.style.transform = `perspective(900px) rotateY(${x * 8}deg) rotateX(${-y * 7}deg) translateZ(0)`;
+      },
+      { passive: true },
+    );
+    document.addEventListener("pointerleave", () => tilted && (tilted.style.transform = ""));
+
+    /* ---- magnetic buttons ---- */
+    document.querySelectorAll<HTMLElement>("[data-magnetic]").forEach((el) => {
+      el.addEventListener("pointermove", (e) => {
+        const r = el.getBoundingClientRect();
+        el.style.translate = `${((e.clientX - r.left) / r.width - 0.5) * 12}px ${((e.clientY - r.top) / r.height - 0.5) * 10}px`;
+      });
+      el.addEventListener("pointerleave", () => (el.style.translate = ""));
+    });
+  }
+</script>
+
+<style is:global>
+  .fx-progress {
+    position: fixed;
+    z-index: 60;
+    left: 0;
+    right: 0;
+    top: 0;
+    height: 2px;
+    background: linear-gradient(90deg, var(--jade), var(--amber), var(--brick));
+    box-shadow: 0 0 12px var(--amber);
+    transform-origin: 0 50%;
+    transform: scaleX(0);
+    pointer-events: none;
+  }
+</style>

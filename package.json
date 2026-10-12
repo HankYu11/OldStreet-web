@@ -1,0 +1,22 @@
+{
+  "name": "oldstreet-web",
+  "type": "module",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "build": "node scripts/build-taiwan-shape.mjs && astro build",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "@fontsource-variable/noto-sans-tc": "^5.3.1",
+    "@fontsource-variable/space-grotesk": "^5.3.0",
+    "@fontsource/noto-serif-tc": "^5.3.1",
+    "astro": "^7.3.8",
+    "leaflet": "^1.9.4"
+  },
+  "devDependencies": {
+    "taiwan-atlas": "^2021.9.20",
+    "topojson-client": "^3.1.0"
+  }
+}

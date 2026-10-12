@@ -1,0 +1,2411 @@
+{
+ "streets": [
+  {
+   "id": "keelung-yi-er-road",
+   "name_zh": "義二路老街",
+   "name_en": "Yi'er Road (Keelung Ginza)",
+   "aliases": [
+    "義重町",
+    "基隆銀座"
+   ],
+   "county": "基隆市",
+   "district": "中正區",
+   "address_hint": "義二路、信二路口一帶",
+   "lat": 25.1302,
+   "lng": 121.7448,
+   "status": "quiet",
+   "scores": {
+    "food": 1,
+    "history": 2,
+    "architecture": 1,
+    "shopping": 1,
+    "crowd": 1
+   },
+   "architecture_styles": [
+    "japanese-era",
+    "arcade"
+   ],
+   "themes": [
+    "japanese-era",
+    "port-trade"
+   ],
+   "best_for": [
+    "history-buff",
+    "slow-travel"
+   ],
+   "signature_foods": [],
+   "specialties": [],
+   "landmarks": [
+    "岸田吳服店舊址（新維多利亞式建築）",
+    "基隆塔"
+   ],
+   "tagline_zh": "昭和摩登的「基隆銀座」，如今藏在港都日常裡",
+   "tagline_en": "Keelung's Showa-era 'Ginza', now a quiet street under the new Keelung Tower",
+   "story_zh": "日治時期義二路一帶屬義重町，商號、吳服店與旅館林立，被稱為「基隆銀座」。義二路與信二路口的新維多利亞式建築原為岸田吳服店與岸田飯店，戰後曾是知名的小上海酒家。如今街上僅零星留有日治建築痕跡，近年新建的基隆塔以電梯與天空步道把義二路商圈連上中正公園。",
+   "story_en": "In the Japanese era this area (Gijū-chō) was lined with merchants, kimono shops and inns, earning it the nickname 'Keelung Ginza'. The neo-Victorian building at Yi'er and Xin'er Roads once housed the Kishida kimono shop and hotel, later the famous Little Shanghai restaurant. Only scattered old facades remain, but the new Keelung Tower now links the street to Zhongzheng Park by lift and skywalk.",
+   "getting_there": "基隆火車站步行約15分鐘",
+   "visit_duration": "<1h",
+   "best_time": "可搭配基隆塔、中正公園一起走",
+   "confidence": "medium",
+   "sources": [
+    "https://www.storm.mg/lifestyle/4975259",
+    "https://news.ltn.com.tw/news/politics/paper/1757241"
+   ]
+  },
+  {
+   "id": "kanziding-fish-market",
+   "name_zh": "崁仔頂老街",
+   "name_en": "Kanziding Fish Market Street",
+   "aliases": [
+    "崁仔頂魚市"
+   ],
+   "county": "基隆市",
+   "district": "仁愛區",
+   "address_hint": "孝一路、愛四路一帶（旭川河畔）",
+   "lat": 25.129,
+   "lng": 121.7425,
+   "status": "active",
+   "scores": {
+    "food": 2,
+    "history": 2,
+    "architecture": 1,
+    "shopping": 1,
+    "crowd": 2
+   },
+   "architecture_styles": [
+    "minnan",
+    "arcade"
+   ],
+   "themes": [
+    "fishing",
+    "port-trade",
+    "night-market"
+   ],
+   "best_for": [
+    "foodie",
+    "photography",
+    "history-buff"
+   ],
+   "signature_foods": [
+    "現撈海鮮",
+    "生魚片"
+   ],
+   "specialties": [
+    "漁貨批發"
+   ],
+   "landmarks": [
+    "旭川河"
+   ],
+   "tagline_zh": "凌晨兩點才開張的百年漁市老街",
+   "tagline_en": "A century-old fish market street that only wakes up at 2 a.m.",
+   "story_zh": "「崁仔頂」意指河岸石階之上，清代至日治時期漁船可沿旭川河駛入卸貨，岸邊逐漸形成魚貨集散地。至今仍是北台灣重要的漁貨批發市場，每天約凌晨兩點到清晨五六點，攤商在騎樓下叫賣喊價，被稱為「基隆最晚睡的街」。白天則是一般住商街道，幾乎看不出市場痕跡。",
+   "story_en": "'Kanziding' means 'atop the stone embankment': boats once sailed up the Xuchuan River to unload here, and a fish trade grew on the banks. It remains a major wholesale fish market for northern Taiwan, with auctions under the arcades roughly from 2 a.m. to dawn. By day it looks like any ordinary street.",
+   "getting_there": "基隆火車站步行約10分鐘",
+   "visit_duration": "<1h",
+   "best_time": "凌晨2:00–5:00魚市最熱鬧，白天幾乎無市集",
+   "confidence": "medium",
+   "sources": [
+    "https://zh.wikipedia.org/wiki/崁仔頂"
+   ]
+  },
+  {
+   "id": "nuannuan-old-street",
+   "name_zh": "暖暖老街",
+   "name_en": "Nuannuan Old Street",
+   "aliases": [],
+   "county": "基隆市",
+   "district": "暖暖區",
+   "address_hint": "暖暖街、暖暖車站周邊",
+   "lat": 25.1025,
+   "lng": 121.7405,
+   "status": "faded",
+   "scores": {
+    "food": 1,
+    "history": 1,
+    "architecture": 0,
+    "shopping": 0,
+    "crowd": 1
+   },
+   "architecture_styles": [
+    "modernist"
+   ],
+   "themes": [
+    "qing-era",
+    "river-port",
+    "railway"
+   ],
+   "best_for": [
+    "slow-travel"
+   ],
+   "signature_foods": [],
+   "specialties": [],
+   "landmarks": [
+    "暖暖車站",
+    "安德宮"
+   ],
+   "tagline_zh": "基隆河上游的舊渡口，如今只剩地名與小車站",
+   "tagline_en": "A former Keelung River ferry stop where only the name and a small station remain",
+   "story_zh": "暖暖舊稱「那那社」，清代是基隆河上游舟楫往來的轉運點，也是往宜蘭淡蘭古道的起點之一。1977年道路拓寬後老屋多已拆除，今日街景以一般住商建築為主。若想看暖暖風景，周邊的暖東峽谷與暖暖親水公園比老街本身更值得前往。",
+   "story_en": "Once 'Nana' village, Nuannuan was a Qing-era transshipment point on the upper Keelung River and a starting point toward Yilan. Road widening in 1977 removed most old buildings, leaving an ordinary town street. Nearby Nuandong Gorge and the riverside park are the real draws.",
+   "getting_there": "台鐵暖暖車站下車即達",
+   "visit_duration": "<1h",
+   "best_time": "",
+   "confidence": "low",
+   "sources": [
+    "https://zh.wikipedia.org/wiki/暖暖區"
+   ]
+  },
+  {
+   "id": "dihua-street",
+   "name_zh": "迪化街",
+   "name_en": "Dihua Street",
+   "aliases": [
+    "永樂町通",
+    "大稻埕"
+   ],
+   "county": "臺北市",
+   "district": "大同區",
+   "address_hint": "迪化街一段",
+   "lat": 25.054418,
+   "lng": 121.510162,
+   "status": "thriving",
+   "scores": {
+    "food": 3,
+    "history": 3,
+    "architecture": 3,
+    "shopping": 3,
+    "crowd": 3
+   },
+   "architecture_styles": [
+    "baroque-facade",
+    "minnan",
+    "japanese-era",
+    "arcade"
+   ],
+   "themes": [
+    "qing-era",
+    "japanese-era",
+    "river-port",
+    "port-trade",
+    "tea",
+    "herbal-medicine",
+    "dried-goods"
+   ],
+   "best_for": [
+    "foodie",
+    "history-buff",
+    "architecture",
+    "shopping",
+    "photography"
+   ],
+   "signature_foods": [
+    "永樂市場周邊小吃",
+    "魯肉飯",
+    "米糕",
+    "雞捲",
+    "古早味紅茶"
+   ],
+   "specialties": [
+    "中藥材",
+    "南北貨",
+    "布料",
+    "茶葉",
+    "烏魚子"
+   ],
+   "landmarks": [
+    "大稻埕霞海城隍廟",
+    "永樂市場",
+    "屈臣氏大藥房",
+    "大稻埕碼頭"
+   ],
+   "tagline_zh": "台北最完整的老街，南北貨與巴洛克立面的大稻埕",
+   "tagline_en": "Taipei's best-preserved old street: Dadaocheng's dried goods, herbs and baroque facades",
+   "story_zh": "迪化街初建於1850年代，大稻埕開港後成為茶葉、南北貨、中藥材與布匹的集散中心，清末到日治時期台北的商業幾乎等於大稻埕。1980年代曾面臨拓寬拆除爭議，經保存運動才留下閩南、仿洋與巴洛克立面交錯的街屋。如今老店與文創、咖啡館並存，每年農曆春節前更化身熱鬧的「台北年貨大街」。",
+   "story_en": "Built in the 1850s, Dihua Street became the hub for tea, dried goods, Chinese herbs and fabric after Dadaocheng opened to trade. A 1980s plan to widen it was defeated by preservationists, saving rows of Minnan, Western-style and baroque shophouses. Old wholesalers now share the street with cafés and design shops, and before Lunar New Year it hosts Taipei's huge New Year goods market.",
+   "getting_there": "捷運北門站或大橋頭站步行約10分鐘",
+   "visit_duration": "half-day",
+   "best_time": "農曆春節前年貨大街最熱鬧；平日上午適合逛老店",
+   "confidence": "high",
+   "sources": [
+    "https://zh.wikipedia.org/wiki/迪化街",
+    "https://www.taiwan.net.tw/"
+   ]
+  },
+  {
+   "id": "taiheicho-yanping-north-road",
+   "name_zh": "太平町通",
+   "name_en": "Taiheichō-dōri (Yanping North Road)",
+   "aliases": [
+    "延平北路",
+    "太平町"
+   ],
+   "county": "臺北市",
+   "district": "大同區",
+   "address_hint": "延平北路一至二段",
+   "lat": 25.056,
+   "lng": 121.513,
+   "status": "quiet",
+   "scores": {
+    "food": 2,
+    "history": 3,
+    "architecture": 1,
+    "shopping": 1,
+    "crowd": 1
+   },
+   "architecture_styles": [
+    "japanese-era",
+    "arcade",
+    "modernist"
+   ],
+   "themes": [
+    "japanese-era"
+   ],
+   "best_for": [
+    "history-buff"
+   ],
+   "signature_foods": [
+    "圓環周邊小吃"
+   ],
+   "specialties": [],
+   "landmarks": [
+    "天馬茶房舊址（二二八事件起點）",
+    "第一劇場舊址"
+   ],
+   "tagline_zh": "台灣人社會運動大本營、二二八事件起點",
+   "tagline_en": "Taiwanese activists' heartland and the spot where the 228 Incident began",
+   "story_zh": "日治時期的太平町（今延平北路一帶）是台灣人經營的商業與文化中心，蔣渭水的大安醫院、台灣文化協會等活動都在附近，也有戲院、酒家與百貨。1947年2月27日晚上，查緝私菸的衝突就發生在天馬茶房前，引爆二二八事件。今日街道已多改建為一般店面，需靠解說牌與想像來回味那段歷史。",
+   "story_en": "In the Japanese era Taiheichō was the commercial and cultural heart of Taiwanese-run Taipei, home to Chiang Wei-shui's clinic, the Taiwanese Cultural Association, theatres and restaurants. On the evening of 27 February 1947 a cigarette-confiscation clash outside the Tianma Tea House sparked the 228 Incident. Most buildings have since been rebuilt, so the history lives mainly in plaques.",
+   "getting_there": "捷運北門站或大橋頭站步行約5–10分鐘",
+   "visit_duration": "<1h",
+   "best_time": "可與迪化街、大稻埕一起走",
+   "confidence": "medium",
+   "sources": [
+    "https://zh.wikipedia.org/wiki/太平町"
+   ]
+  },
+  {
+   "id": "niumoche-street",
+   "name_zh": "牛磨車街",
+   "name_en": "Niumoche Street (Dihua St Sec. 2)",
+   "aliases": [
+    "枋隙街",
+    "迪化街二段"
+   ],
+   "county": "臺北市",
+   "district": "大同區",
+   "address_hint": "迪化街二段（民權西路以北）",
+   "lat": 25.0625,
+   "lng": 121.5108,
+   "status": "quiet",
+   "scores": {
+    "food": 1,
+    "history": 1,
+    "architecture": 1,
+    "shopping": 1,
+    "crowd": 1
+   },
+   "architecture_styles": [
+    "minnan",
+    "arcade"
+   ],
+   "themes": [
+    "qing-era",
+    "agriculture"
+   ],
+   "best_for": [
+    "slow-travel",
+    "history-buff"
+   ],
+   "signature_foods": [],
+   "specialties": [],
+   "landmarks": [],
+   "tagline_zh": "迪化街北段的舊地名，碾米與木料行的老街",
+   "tagline_en": "The old name for northern Dihua Street, once home to rice mills and timber yards",
+   "story_zh": "牛磨車街是迪化街二段一帶的舊稱，據說得名於早年以牛拉石磨碾米的作坊；另名「枋隙街」則與木材（枋）買賣有關。這段比迪化街一段安靜許多，以住家與小型批發商為主，觀光性不高。我們能找到的文獻有限，地名由來請保留看待。",
+   "story_en": "Niumoche ('ox-mill') Street is the old name for Dihua Street Section 2, reportedly after ox-driven rice mills; its other name, Fangxi, relates to the timber trade. It is far quieter than Section 1, mostly homes and small wholesalers. Documentation is thin, so treat the name origins with caution.",
+   "getting_there": "捷運大橋頭站步行約10分鐘",
+   "visit_duration": "<1h",
+   "best_time": "",
+   "confidence": "low",
+   "sources": [
+    "https://zh.wikipedia.org/wiki/臺灣老街列表"
+   ]
+  },
+  {
+   "id": "dalongdong-44-shophouses",
+   "name_zh": "大龍峒四十四坎街",
+   "name_en": "Dalongdong 44-Shophouse Street",
+   "aliases": [
+    "四十四崁"
+   ],
+   "county": "臺北市",
+   "district": "大同區",
+   "address_hint": "哈密街一帶",
+   "lat": 25.0725,
+   "lng": 121.5145,
+   "status": "faded",
+   "scores": {
+    "food": 1,
+    "history": 2,
+    "architecture": 0,
+    "shopping": 0,
+    "crowd": 1
+   },
+   "architecture_styles": [
+    "modernist"
+   ],
+   "themes": [
+    "qing-era",
+    "temple",
+    "river-port"
+   ],
+   "best_for": [
+    "history-buff"
+   ],
+   "signature_foods": [],
+   "specialties": [],
+   "landmarks": [
+    "大龍峒保安宮",
+    "臺北孔廟",
+    "陳悅記祖宅（老師府）"
+   ],
+   "tagline_zh": "比大稻埕還早的大龍峒，當年一口氣蓋了四十四間店屋",
+   "tagline_en": "Older than Dadaocheng: Dalongdong's once-famous row of 44 shophouses",
+   "story_zh": "大龍峒是晚於艋舺、早於大稻埕的台北舊聚落，位於淡水河與基隆河交會處。清代地方仕紳在此一次興建44間連棟店屋，稱「四十四坎」，是當時繁華的商街。如今舊屋已多改建，但附近的保安宮、孔廟與陳悅記祖宅仍值得一訪。",
+   "story_en": "Dalongdong, founded after Mengjia but before Dadaocheng, sat where the Tamsui and Keelung rivers meet. In the Qing era local gentry built a single row of 44 linked shophouses here, a busy market street. The houses have mostly been rebuilt, but nearby Bao'an Temple, the Confucius Temple and the Chen Yueji mansion are well worth the trip.",
+   "getting_there": "捷運圓山站步行約10分鐘",
+   "visit_duration": "<1h",
+   "best_time": "可結合保安宮、孔廟參訪",
+   "confidence": "medium",
+   "sources": [
+    "https://zh.wikipedia.org/wiki/大龍峒"
+   ]
+  },
+  {
+   "id": "chifeng-street",
+   "name_zh": "赤峰街",
+   "name_en": "Chifeng Street",
+   "aliases": [
+    "打鐵街"
+   ],
+   "county": "臺北市",
+   "district": "大同區",
+   "address_hint": "赤峰街、赤峰街49巷",
+   "lat": 25.0545,
+   "lng": 121.5198,
+   "status": "active",
+   "scores": {
+    "food": 2,
+    "history": 1,
+    "architecture": 1,
+    "shopping": 2,
+    "crowd": 2
+   },
+   "architecture_styles": [
+    "arcade",
+    "modernist"
+   ],
+   "themes": [
+    "railway",
+    "crafts"
+   ],
+   "best_for": [
+    "foodie",
+    "photography",
+    "slow-travel"
+   ],
+   "signature_foods": [
+    "咖啡",
+    "甜點",
+    "小酒館"
+   ],
+   "specialties": [
+    "汽機車零件",
+    "五金",
+    "選物"
+   ],
+   "landmarks": [
+    "中山捷運線形公園"
+   ],
+   "tagline_zh": "從打鐵街到文青巷弄，五金行旁開咖啡館",
+   "tagline_en": "From blacksmiths' row to hip alley: cafés squeezed between auto-parts shops",
+   "story_zh": "赤峰街一帶過去靠近台鐵臺北機廠與鐵道，聚集許多打鐵、五金與汽機車零件行，有「打鐵街」之稱。近十多年老屋陸續被改造成咖啡館、選物店與小酒館，形成五金行與文青店家並存的獨特街景。建築多為戰後街屋，看點在氛圍而非古蹟。",
+   "story_en": "Near the old railway workshops, Chifeng Street filled with blacksmiths, hardware and auto-parts shops and was nicknamed 'Blacksmith Street'. Over the past decade its old houses have been converted into cafés, select shops and bars, side by side with grease-stained workshops. The buildings are mostly post-war; the charm is the mix rather than heritage.",
+   "getting_there": "捷運中山站或雙連站步行約3分鐘",
+   "visit_duration": "1-2h",
+   "best_time": "午後到晚上店家較齊",
+   "confidence": "medium",
+   "sources": [
+    "https://www.travel.taipei/"
+   ]
+  },
+  {
+   "id": "bangka-guiyang-street",
+   "name_zh": "艋舺老街",
+   "name_en": "Bangka Old Street (Guiyang St Sec. 2)",
+   "aliases": [
+    "貴陽街",
+    "艋舺第一街"
+   ],
+   "county": "臺北市",
+   "district": "萬華區",
+   "address_hint": "貴陽街二段",
+   "lat": 25.0385,
+   "lng": 121.501,
+   "status": "quiet",
+   "scores": {
+    "food": 2,
+    "history": 3,
+    "architecture": 1,
+    "shopping": 1,
+    "crowd": 1
+   },
+   "architecture_styles": [
+    "minnan",
+    "arcade",
+    "modernist"
+   ],
+   "themes": [
+    "qing-era",
+    "river-port",
+    "temple"
+   ],
+   "best_for": [
+    "history-buff",
+    "foodie"
+   ],
+   "signature_foods": [
+    "艋舺小吃",
+    "青草茶"
+   ],
+   "specialties": [
+    "神明雕刻",
+    "佛具"
+   ],
+   "landmarks": [
+    "艋舺青山宮",
+    "艋舺清水巖",
+    "剝皮寮"
+   ],
+   "tagline_zh": "「一府二鹿三艋舺」的台北第一條街",
+   "tagline_en": "Taipei's first street, from the days of 'one Tainan, two Lukang, three Bangka'",
+   "story_zh": "貴陽街二段被稱為台北最早形成的街道，清代艋舺因淡水河舟楫之利成為北台灣最大港街，留下「一府二鹿三艋舺」之稱。街上的青山宮每年農曆十月的青山王祭遶境是萬華重要廟會。淡水河淤積後艋舺商業地位被大稻埕取代，街屋也多已改建，如今是老社區與宗教用品店的日常街道。",
+   "story_en": "Guiyang Street Sec. 2 is often called Taipei's oldest street. In the Qing era Bangka thrived as northern Taiwan's biggest river port, giving rise to the saying 'One Tainan, two Lukang, three Bangka'. Qingshan Temple's procession each lunar October is still a major Wanhua festival. After the river silted up, trade moved to Dadaocheng and most shophouses were rebuilt.",
+   "getting_there": "捷運龍山寺站步行約8分鐘",
+   "visit_duration": "1-2h",
+   "best_time": "農曆十月青山王祭期間最熱鬧",
+   "confidence": "medium",
+   "sources": [
+    "https://zh.wikipedia.org/wiki/貴陽街"
+   ]
+  },
+  {
+   "id": "bopiliao-historic-block",
+   "name_zh": "剝皮寮老街",
+   "name_en": "Bopiliao Historic Block",
+   "aliases": [
+    "剝皮寮歷史街區"
+   ],
+   "county": "臺北市",
+   "district": "萬華區",
+   "address_hint": "康定路173巷",
+   "lat": 25.03638889,
+   "lng": 121.50138889,
+   "status": "active",
+   "scores": {
+    "food": 1,
+    "history": 3,
+    "architecture": 3,
+    "shopping": 1,
+    "crowd": 2
+   },
+   "architecture_styles": [
+    "minnan",
+    "baroque-facade",
+    "arcade",
+    "japanese-era"
+   ],
+   "themes": [
+    "qing-era",
+    "japanese-era",
+    "film-location"
+   ],
+   "best_for": [
+    "history-buff",
+    "architecture",
+    "photography",
+    "family"
+   ],
+   "signature_foods": [],
+   "specialties": [],
+   "landmarks": [
+    "剝皮寮歷史街區",
+    "臺北市鄉土教育中心",
+    "老松國小"
+   ],
+   "tagline_zh": "台北碩果僅存的清代街道，電影《艋舺》取景地",
+   "tagline_en": "Taipei's last intact Qing-dynasty street, set for the film Monga",
+   "story_zh": "剝皮寮是台北少數保存清代街道格局的街區，地名一說與當年從福州運來的杉木在此剝樹皮有關。日治時期因劃為學校預定地而禁止改建，意外讓整排街屋保留下來，2010年登錄為歷史建築。修復後成為展覽與鄉土教育空間，電影《艋舺》也在此取景。",
+   "story_en": "Bopiliao is one of the few places in Taipei that keeps a Qing-era street layout; the name is said to come from stripping bark off fir logs shipped from Fuzhou. A Japanese-era plan to use the land for a school froze redevelopment, accidentally preserving the whole row, which was registered as a historic building in 2010. Restored, it now hosts exhibitions and was a set for the film Monga.",
+   "getting_there": "捷運龍山寺站步行約3分鐘",
+   "visit_duration": "1-2h",
+   "best_time": "週一休館，展覽多在白天開放",
+   "confidence": "high",
+   "sources": [
+    "https://zh.wikipedia.org/wiki/剝皮寮"
+   ]
+  },
+  {
+   "id": "sakaecho-hengyang-road",
+   "name_zh": "台北榮町通",
+   "name_en": "Sakaechō-dōri (Hengyang Road)",
+   "aliases": [
+    "榮町",
+    "衡陽路",
+    "台北銀座"
+   ],
+   "county": "臺北市",
+   "district": "中正區",
+   "address_hint": "衡陽路、博愛路口一帶",
+   "lat": 25.0425,
+   "lng": 121.5112,
+   "status": "faded",
+   "scores": {
+    "food": 1,
+    "history": 2,
+    "architecture": 1,
+    "shopping": 2,
+    "crowd": 2
+   },
+   "architecture_styles": [
+    "japanese-era",
+    "arcade",
+    "modernist"
+   ],
+   "themes": [
+    "japanese-era"
+   ],
+   "best_for": [
+    "history-buff",
+    "shopping"
+   ],
+   "signature_foods": [],
+   "specialties": [
+    "布莊",
+    "西服"
+   ],
+   "landmarks": [
+    "菊元百貨舊址"
+   ],
+   "tagline_zh": "日治「台北銀座」，台灣第一座紅綠燈的所在",
+   "tagline_en": "Japanese-era 'Taipei Ginza', home to Taiwan's first traffic light",
+   "story_zh": "日治時期的榮町（今衡陽路一帶）是台北城內最繁華的商業區，有「台北銀座」之稱。1932年台灣第一家百貨公司菊元百貨在此開幕，1935年台灣第一座紅綠燈也設在附近。戰後這裡仍以布莊、西服與書店聞名，但舊建築多已改建，今日以一般商街為主。",
+   "story_en": "Japanese-era Sakaechō (around today's Hengyang Road) was the most fashionable shopping district inside the Taipei city walls, the 'Taipei Ginza'. Taiwan's first department store, Kikumoto, opened here in 1932, and the island's first traffic light followed in 1935. After the war it was known for fabric, tailors and bookshops, but most old buildings are gone.",
+   "getting_there": "捷運西門站或臺大醫院站步行約5分鐘",
+   "visit_duration": "<1h",
+   "best_time": "",
+   "confidence": "medium",
+   "sources": [
+    "https://zh.wikipedia.org/wiki/榮町_(臺北市)"
+   ]
+  },
+  {
+   "id": "kyomachi-boai-road",
+   "name_zh": "台北京町通",
+   "name_en": "Kyōmachi-dōri (Boai Road)",
+   "aliases": [
+    "京町",
+    "博愛路"
+   ],
+   "county": "臺北市",
+   "district": "中正區",
+   "address_hint": "博愛路、武昌街一段一帶",
+   "lat": 25.0448,
+   "lng": 121.5122,
+   "status": "faded",
+   "scores": {
+    "food": 1,
+    "history": 2,
+    "architecture": 1,
+    "shopping": 2,
+    "crowd": 1
+   },
+   "architecture_styles": [
+    "japanese-era",
+    "arcade"
+   ],
+   "themes": [
+    "japanese-era"
+   ],
+   "best_for": [
+    "history-buff",
+    "shopping"
+   ],
+   "signature_foods": [],
+   "specialties": [
+    "相機器材",
+    "印章"
+   ],
+   "landmarks": [
+    "菊元百貨舊址（博愛路、衡陽路口）"
+   ],
+   "tagline_zh": "日治京町，今日的台北相機街",
+   "tagline_en": "Japanese-era Kyōmachi, now Taipei's camera street",
+   "story_zh": "京町是日治時期台北城內的行政區，博愛路當時稱「京町通」，與榮町同為城內精華商區，菊元百貨就位於兩町交界的轉角。戰後博愛路逐漸聚集相機器材行，成為攝影迷熟知的「相機街」。街屋多已改建，僅零星可見騎樓與舊立面。",
+   "story_en": "Kyōmachi was a district inside the old Taipei walls; Boai Road was its main 'Kyōmachi-dōri', a prime shopping street next to Sakaechō, with the Kikumoto department store on the corner. After the war Boai Road filled with camera shops and became known to photographers as 'Camera Street'. Only scattered arcades and facades remain.",
+   "getting_there": "捷運臺大醫院站或西門站步行約5分鐘",
+   "visit_duration": "<1h",
+   "best_time": "",
+   "confidence": "medium",
+   "sources": [
+    "https://zh.wikipedia.org/wiki/京町"
+   ]
+  },
+  {
+   "id": "xikou-old-street",
+   "name_zh": "錫口老街",
+   "name_en": "Xikou Old Street (Songshan)",
+   "aliases": [
+    "錫口",
+    "松山舊街"
+   ],
+   "county": "臺北市",
+   "district": "松山區",
+   "address_hint": "八德路四段、慈祐宮周邊",
+   "lat": 25.051,
+   "lng": 121.5775,
+   "status": "active",
+   "scores": {
+    "food": 3,
+    "history": 2,
+    "architecture": 0,
+    "shopping": 2,
+    "crowd": 3
+   },
+   "architecture_styles": [
+    "modernist"
+   ],
+   "themes": [
+    "qing-era",
+    "river-port",
+    "temple",
+    "night-market"
+   ],
+   "best_for": [
+    "foodie",
+    "nightlife",
+    "history-buff"
+   ],
+   "signature_foods": [
+    "胡椒餅",
+    "藥燉排骨",
+    "麻辣臭豆腐"
+   ],
+   "specialties": [],
+   "landmarks": [
+    "松山慈祐宮",
+    "彩虹橋",
+    "饒河街夜市"
+   ],
+   "tagline_zh": "松山舊名錫口，媽祖廟前的河港老街",
+   "tagline_en": "Songshan's old river port, now fronted by a Mazu temple and night market",
+   "story_zh": "「錫口」源自平埔族語「河流彎曲處」，指基隆河在此的曲流，清代是河運轉運點，1920年日人改稱松山。1753年興建的慈祐宮（錫口媽祖宮）是聚落中心，廟前舊街如今與饒河街夜市相連。老建築幾乎已不存，看點是廟宇與夜市美食。",
+   "story_en": "'Xikou' comes from an indigenous word for a river bend, describing the Keelung River's meander here; it was a Qing-era river transshipment point, renamed Matsuyama (Songshan) in 1920. Ciyou Temple, founded around 1753, anchors the old settlement and today opens onto Raohe Night Market. Little old architecture remains; come for the temple and the food.",
+   "getting_there": "捷運松山站或台鐵松山站步行約2分鐘",
+   "visit_duration": "1-2h",
+   "best_time": "傍晚後夜市開張；農曆三月媽祖遶境",
+   "confidence": "medium",
+   "sources": [
+    "https://n.yam.com/Article/20250910468296",
+    "https://smiletaiwan.cw.com.tw/article/7206"
+   ]
+  },
+  {
+   "id": "jingmei-old-street",
+   "name_zh": "景美老街",
+   "name_en": "Jingmei Old Street",
+   "aliases": [
+    "梘尾"
+   ],
+   "county": "臺北市",
+   "district": "文山區",
+   "address_hint": "景美街",
+   "lat": 25.004,
+   "lng": 121.541,
+   "status": "active",
+   "scores": {
+    "food": 2,
+    "history": 1,
+    "architecture": 0,
+    "shopping": 2,
+    "crowd": 2
+   },
+   "architecture_styles": [
+    "modernist"
+   ],
+   "themes": [
+    "qing-era",
+    "agriculture",
+    "night-market",
+    "temple"
+   ],
+   "best_for": [
+    "foodie",
+    "nightlife"
+   ],
+   "signature_foods": [
+    "景美夜市小吃"
+   ],
+   "specialties": [],
+   "landmarks": [
+    "景美集應廟"
+   ],
+   "tagline_zh": "灌溉水梘尾端的聚落，今日是景美夜市",
+   "tagline_en": "A settlement at the end of an irrigation flume, now Jingmei Night Market",
+   "story_zh": "景美舊稱「梘尾」，因清代瑠公圳以木梘（水槽）跨越景美溪，聚落位在水梘尾端而得名。景美街是當地最早的街市，舊建築多已改建，如今以景美夜市與景美集應廟為主要看點。",
+   "story_en": "Jingmei was once 'Jianwei', the 'end of the flume', named after the Qing-era Liugong Canal's wooden aqueduct across the Jingmei River. Jingmei Street was the area's first market street; the old houses are gone and it now hosts Jingmei Night Market around Jiying Temple.",
+   "getting_there": "捷運景美站步行約3分鐘",
+   "visit_duration": "1-2h",
+   "best_time": "傍晚後夜市較熱鬧",
+   "confidence": "medium",
+   "sources": [
+    "https://zh.wikipedia.org/wiki/景美"
+   ]
+  },
+  {
+   "id": "shilin-old-street",
+   "name_zh": "士林老街",
+   "name_en": "Shilin Old Street",
+   "aliases": [
+    "士林新街",
+    "八芝蘭"
+   ],
+   "county": "臺北市",
+   "district": "士林區",
+   "address_hint": "大東路、大南路、大西路、大北路",
+   "lat": 25.0888,
+   "lng": 121.5248,
+   "status": "thriving",
+   "scores": {
+    "food": 3,
+    "history": 2,
+    "architecture": 1,
+    "shopping": 3,
+    "crowd": 3
+   },
+   "architecture_styles": [
+    "modernist",
+    "japanese-era"
+   ],
+   "themes": [
+    "qing-era",
+    "temple",
+    "night-market",
+    "herbal-medicine"
+   ],
+   "best_for": [
+    "foodie",
+    "nightlife",
+    "shopping",
+    "history-buff"
+   ],
+   "signature_foods": [
+    "大餅包小餅",
+    "豪大雞排",
+    "士林大香腸",
+    "生煎包"
+   ],
+   "specialties": [
+    "中藥材"
+   ],
+   "landmarks": [
+    "士林慈諴宮",
+    "士林市場",
+    "許聚茂中藥房"
+   ],
+   "tagline_zh": "大火後重建的棋盤新街，台北最大夜市的起點",
+   "tagline_en": "A grid town rebuilt after a fire, birthplace of Taipei's biggest night market",
+   "story_zh": "士林舊名八芝蘭，舊街在漳泉械鬥中被焚毀後，地方領袖潘永清主導遷到地勢較高處重建，規劃出大東、大南、大西、大北路的棋盤街廓，四周設隘門防衛。位於中央的慈諴宮廟前廣場成為交易場，1915年公有市場落成，日後發展成士林夜市。地方流傳「東路採藥去、南路拜媽祖、西路裁西服、北路磨名刀」的說法。",
+   "story_en": "Shilin's old town burned in a clan feud; leader Pan Yong-qing had it rebuilt on higher ground as a grid of East, South, West and North Roads with defensive gates. The square in front of Cicheng Temple at its centre became a trading ground, a public market opened in 1915, and the area grew into Shilin Night Market. Locals say: 'East Road for herbs, South Road for Mazu, West Road for tailors, North Road for blades.'",
+   "getting_there": "捷運劍潭站步行約5分鐘",
+   "visit_duration": "1-2h",
+   "best_time": "晚上夜市最熱鬧；白天可看慈諴宮與中藥行",
+   "confidence": "high",
+   "sources": [
+    "https://city.gvm.com.tw/article/67811",
+    "https://www.thenewslens.com/article/173334"
+   ]
+  },
+  {
+   "id": "beitou-old-street",
+   "name_zh": "北投老街",
+   "name_en": "Beitou Old Street",
+   "aliases": [
+    "舊北投"
+   ],
+   "county": "臺北市",
+   "district": "北投區",
+   "address_hint": "中正街、北投市場周邊",
+   "lat": 25.133,
+   "lng": 121.5012,
+   "status": "quiet",
+   "scores": {
+    "food": 3,
+    "history": 2,
+    "architecture": 1,
+    "shopping": 1,
+    "crowd": 2
+   },
+   "architecture_styles": [
+    "japanese-era",
+    "modernist"
+   ],
+   "themes": [
+    "japanese-era",
+    "hot-spring"
+   ],
+   "best_for": [
+    "foodie",
+    "slow-travel"
+   ],
+   "signature_foods": [
+    "北投市場小吃",
+    "滷肉飯",
+    "米苔目"
+   ],
+   "specialties": [],
+   "landmarks": [
+    "北投市場",
+    "北投慈后宮"
+   ],
+   "tagline_zh": "溫泉鄉背後的舊街與傳統市場",
+   "tagline_en": "The old market quarter behind Taipei's hot-spring town",
+   "story_zh": "舊北投是新北投溫泉區形成前的老聚落，中正街一帶靠近北投市場。日治時期溫泉旅館林立，旅館業者的採購需求讓市場與攤販聚集，北投市場至今仍是台北最大的零售市場之一，二樓熟食攤是在地人推薦的美食集中地。老街建築多已改建，適合泡湯後順道覓食散步。",
+   "story_en": "Old Beitou predates the hot-spring resort area of Xinbeitou. In the Japanese era, the many hot-spring inns needed daily supplies, and stalls clustered here; Beitou Market remains one of Taipei's largest retail markets, its upstairs food court a local favourite. Most buildings are rebuilt, so it is best as a food stop after a soak.",
+   "getting_there": "捷運北投站步行約5分鐘",
+   "visit_duration": "1-2h",
+   "best_time": "上午至中午市場最熱鬧",
+   "confidence": "medium",
+   "sources": [
+    "https://smiletaiwan.cw.com.tw/article/1385"
+   ]
+  },
+  {
+   "id": "guandu-old-street",
+   "name_zh": "關渡老街",
+   "name_en": "Guandu Old Street",
+   "aliases": [
+    "干豆"
+   ],
+   "county": "臺北市",
+   "district": "北投區",
+   "address_hint": "大度路三段301巷、關渡宮周邊",
+   "lat": 25.1172,
+   "lng": 121.4615,
+   "status": "quiet",
+   "scores": {
+    "food": 2,
+    "history": 2,
+    "architecture": 0,
+    "shopping": 1,
+    "crowd": 2
+   },
+   "architecture_styles": [
+    "modernist"
+   ],
+   "themes": [
+    "qing-era",
+    "temple",
+    "river-port"
+   ],
+   "best_for": [
+    "history-buff",
+    "family"
+   ],
+   "signature_foods": [
+    "關渡宮前小吃",
+    "烤玉米"
+   ],
+   "specialties": [],
+   "landmarks": [
+    "關渡宮",
+    "關渡自然公園"
+   ],
+   "tagline_zh": "北台灣最古老媽祖廟前的小街",
+   "tagline_en": "A short street outside northern Taiwan's oldest Mazu temple",
+   "story_zh": "關渡古稱「干豆」，位在淡水河與基隆河交會口，是早期船隻進入台北盆地的門戶。關渡宮相傳創建於17世紀末，是北台灣最古老的媽祖廟之一，廟前小街以小吃攤和香燭店為主。老建築已不多，可串連關渡自然公園與河濱自行車道。",
+   "story_en": "Guandu ('Kantau') sits at the confluence of the Tamsui and Keelung rivers, the old gateway into the Taipei basin. Guandu Temple, said to date to the late 17th century, is among northern Taiwan's oldest Mazu temples; the lane in front has snack stalls and incense shops. Few old buildings remain, but it pairs well with Guandu Nature Park and the riverside bike path.",
+   "getting_there": "捷運關渡站步行約10分鐘",
+   "visit_duration": "<1h",
+   "best_time": "假日廟前攤販較多",
+   "confidence": "low",
+   "sources": [
+    "https://tkutimes.az.tku.edu.tw/fdoc/13356.doc"
+   ]
+  },
+  {
+   "id": "nangang-old-street",
+   "name_zh": "南港老街",
+   "name_en": "Nangang Old Street (Zhongnan Street)",
+   "aliases": [
+    "中南街",
+    "橫街"
+   ],
+   "county": "臺北市",
+   "district": "南港區",
+   "address_hint": "中南街、南港路一段",
+   "lat": 25.0535,
+   "lng": 121.607,
+   "status": "quiet",
+   "scores": {
+    "food": 1,
+    "history": 1,
+    "architecture": 1,
+    "shopping": 0,
+    "crowd": 1
+   },
+   "architecture_styles": [
+    "modernist",
+    "arcade"
+   ],
+   "themes": [
+    "mining",
+    "railway",
+    "japanese-era"
+   ],
+   "best_for": [
+    "slow-travel"
+   ],
+   "signature_foods": [],
+   "specialties": [],
+   "landmarks": [
+    "南港長老教會",
+    "南港車站"
+   ],
+   "tagline_zh": "運煤年代的生活街，正在慢慢消失",
+   "tagline_en": "A coal-era everyday street that is slowly disappearing",
+   "story_zh": "中南街形成於清末，是南港最早的街道之一。日治時期附近煤礦以輕便車運至南港火車站，北基公路（今南港路）開通後，與之垂直的中南街被稱作「橫街」。街上有米店、鐘錶店等生活商家，南港長老教會可溯及馬偕1874年的宣教。隨都市更新，老屋正逐步被拆除。",
+   "story_en": "Zhongnan Street formed in the late Qing as one of Nangang's first streets. In the Japanese era coal was hauled by push-car to Nangang station, and once the Taipei–Keelung road opened this perpendicular lane became the 'cross street'. It has rice shops and watchmakers, and the Nangang Presbyterian Church traces back to Mackay's mission in 1874. Urban renewal is steadily removing the old houses.",
+   "getting_there": "捷運/台鐵南港站步行約5分鐘",
+   "visit_duration": "<1h",
+   "best_time": "",
+   "confidence": "low",
+   "sources": [
+    "https://tmrc.tiec.tp.edu.tw/HTML/RSR20081123182639L94/TMRC/dm/N.doc",
+    "https://foreignersintaiwan.com/blog/nangang-old-street"
+   ]
+  },
+  {
+   "id": "tamsui-old-street",
+   "name_zh": "淡水老街",
+   "name_en": "Tamsui Old Street",
+   "aliases": [
+    "滬尾"
+   ],
+   "county": "新北市",
+   "district": "淡水區",
+   "address_hint": "中正路（公館巷至重建街）",
+   "lat": 25.17,
+   "lng": 121.44,
+   "status": "thriving",
+   "scores": {
+    "food": 3,
+    "history": 3,
+    "architecture": 2,
+    "shopping": 3,
+    "crowd": 3
+   },
+   "architecture_styles": [
+    "minnan",
+    "japanese-era",
+    "arcade",
+    "modernist"
+   ],
+   "themes": [
+    "qing-era",
+    "port-trade",
+    "temple",
+    "film-location"
+   ],
+   "best_for": [
+    "foodie",
+    "family",
+    "day-trip-from-taipei",
+    "photography",
+    "shopping"
+   ],
+   "signature_foods": [
+    "阿給",
+    "魚丸湯",
+    "鐵蛋",
+    "魚酥",
+    "酸梅湯"
+   ],
+   "specialties": [
+    "童玩",
+    "伴手禮"
+   ],
+   "landmarks": [
+    "淡水福佑宮",
+    "淡水龍山寺",
+    "淡水禮拜堂",
+    "紅毛城"
+   ],
+   "tagline_zh": "阿給、鐵蛋與夕陽，北台灣最經典的河港老街",
+   "tagline_en": "Agei, iron eggs and sunsets at northern Taiwan's classic river port",
+   "story_zh": "淡水古稱滬尾，1860年開港後成為北台灣最大的國際貿易港，洋行、領事館與馬偕的醫館學堂都在此落腳。中正路是當年的商業主街，沿線有福佑宮等清代廟宇。港口淤積後貿易沒落，如今以小吃與河岸夕陽成為台北人最熟悉的老街之一。阿給據說是1960年代淡水人發明的小吃，名稱源自日語的油豆腐。",
+   "story_en": "Tamsui (Hobe) opened as a treaty port in 1860 and became northern Taiwan's main international port, drawing foreign trading houses, consulates and missionary George Mackay. Zhongzheng Road was its commercial spine, lined with Qing-era temples such as Fuyou Temple. After the harbour silted up, trade faded, and it reinvented itself around snacks and riverside sunsets. Agei, tofu stuffed with glass noodles, was reportedly invented here in the 1960s, its name from Japanese aburaage.",
+   "getting_there": "捷運淡水站步行約5分鐘",
+   "visit_duration": "half-day",
+   "best_time": "傍晚看夕陽；假日人潮多",
+   "confidence": "high",
+   "sources": [
+    "https://zh.wikipedia.org/wiki/淡水老街"
+   ]
+  },
+  {
+   "id": "bali-old-street",
+   "name_zh": "八里老街",
+   "name_en": "Bali Old Street (Ferry Pier)",
+   "aliases": [
+    "八里渡船頭老街"
+   ],
+   "county": "新北市",
+   "district": "八里區",
+   "address_hint": "渡船頭、龍米路一段周邊",
+   "lat": 25.1557,
+   "lng": 121.4345,
+   "status": "active",
+   "scores": {
+    "food": 3,
+    "history": 1,
+    "architecture": 0,
+    "shopping": 2,
+    "crowd": 3
+   },
+   "architecture_styles": [
+    "modernist"
+   ],
+   "themes": [
+    "river-port",
+    "fishing"
+   ],
+   "best_for": [
+    "foodie",
+    "family",
+    "day-trip-from-taipei"
+   ],
+   "signature_foods": [
+    "雙胞胎",
+    "孔雀蛤",
+    "花枝燒",
+    "酸菜包"
+   ],
+   "specialties": [],
+   "landmarks": [
+    "八里渡船頭",
+    "八里左岸自行車道",
+    "十三行博物館（鄰近）"
+   ],
+   "tagline_zh": "坐渡輪過河吃雙胞胎與孔雀蛤",
+   "tagline_en": "Hop the ferry across the river for twin doughnuts and green mussels",
+   "story_zh": "八里與淡水隔河相望，渡船頭一帶自古就是兩岸擺渡的碼頭。今日的老街其實是渡船頭周邊的小吃街，以雙胞胎、孔雀蛤與花枝燒等排隊名物聞名，老建築幾乎不存。沿左岸自行車道騎到十三行博物館，是常見的半日行程。",
+   "story_en": "Bali faces Tamsui across the river, and its ferry pier has carried people between the banks for centuries. Today's 'old street' is really a snack strip by the pier, famous for twin fried doughnuts, green mussels and squid cakes, with little historic architecture. Many visitors combine it with a cycle along the Left Bank to the Shihsanhang Museum.",
+   "getting_there": "淡水搭渡輪約10分鐘；或捷運關渡站轉紅13/紅22公車",
+   "visit_duration": "1-2h",
+   "best_time": "假日午後至傍晚最熱鬧",
+   "confidence": "medium",
+   "sources": [
+    "https://supertaste.tvbs.com.tw/food/358534"
+   ]
+  },
+  {
+   "id": "jinbaoli-old-street",
+   "name_zh": "金包里老街",
+   "name_en": "Jinbaoli Old Street (Jinshan)",
+   "aliases": [
+    "金山老街",
+    "金包里街"
+   ],
+   "county": "新北市",
+   "district": "金山區",
+   "address_hint": "金包里街、中山路190巷",
+   "lat": 25.2215,
+   "lng": 121.6385,
+   "status": "thriving",
+   "scores": {
+    "food": 3,
+    "history": 2,
+    "architecture": 1,
+    "shopping": 2,
+    "crowd": 3
+   },
+   "architecture_styles": [
+    "minnan",
+    "modernist"
+   ],
+   "themes": [
+    "qing-era",
+    "temple",
+    "hot-spring",
+    "agriculture"
+   ],
+   "best_for": [
+    "foodie",
+    "day-trip-from-taipei",
+    "family"
+   ],
+   "signature_foods": [
+    "金山鴨肉",
+    "番薯",
+    "芋圓"
+   ],
+   "specialties": [
+    "地瓜製品"
+   ],
+   "landmarks": [
+    "金山慈護宮",
+    "金山廣安宮"
+   ],
+   "tagline_zh": "排隊吃鴨肉、拜媽祖的北海岸老街",
+   "tagline_en": "A north-coast old street of queueing for duck and visiting Mazu",
+   "story_zh": "金包里源自平埔族金包里社，清代以來是北海岸重要的漁農聚落與交易街。老街以金山鴨肉最出名，假日排隊人潮綿延，街上的慈護宮與廣安宮是地方信仰中心。附近還有金山溫泉，每年八月也舉辦金山番薯節。",
+   "story_en": "Jinbaoli takes its name from the indigenous Kimpauri village and has been a fishing and farming market town on the north coast since the Qing. The street is best known for its braised duck, with long weekend queues, and Cihu and Guang'an temples are its spiritual centres. Jinshan hot springs are nearby, and a sweet-potato festival is held each August.",
+   "getting_there": "淡水或基隆搭台灣好行皇冠北海岸線至金山站",
+   "visit_duration": "1-2h",
+   "best_time": "避開週末午餐時段可少排隊",
+   "confidence": "high",
+   "sources": [
+    "https://zh.wikipedia.org/wiki/金包里老街"
+   ]
+  },
+  {
+   "id": "shenkeng-old-street",
+   "name_zh": "深坑老街",
+   "name_en": "Shenkeng Old Street",
+   "aliases": [
+    "深坑街"
+   ],
+   "county": "新北市",
+   "district": "深坑區",
+   "address_hint": "深坑街（北深路三段至平埔街段）",
+   "lat": 25.0025,
+   "lng": 121.6155,
+   "status": "thriving",
+   "scores": {
+    "food": 3,
+    "history": 2,
+    "architecture": 2,
+    "shopping": 2,
+    "crowd": 3
+   },
+   "architecture_styles": [
+    "minnan",
+    "baroque-facade",
+    "arcade"
+   ],
+   "themes": [
+    "qing-era",
+    "tea",
+    "agriculture"
+   ],
+   "best_for": [
+    "foodie",
+    "day-trip-from-taipei",
+    "family"
+   ],
+   "signature_foods": [
+    "深坑豆腐",
+    "麻辣臭豆腐",
+    "炭烤豆腐",
+    "紅燒豆腐"
+   ],
+   "specialties": [
+    "豆腐製品"
+   ],
+   "landmarks": [
+    "深坑老街大榕樹",
+    "深坑黃氏永安居（鄰近）"
+   ],
+   "tagline_zh": "滿街豆腐香的山城老街",
+   "tagline_en": "An old hill-town street that smells of tofu",
+   "story_zh": "深坑曾是茶葉與樟腦經景美溪運出的轉運集散地，老街保留不少紅磚街屋與牌樓。因當地水質適合製作豆腐，發展成「豆腐街」，臭豆腐、炭烤豆腐等各種豆腐料理是招牌。老街入口的大榕樹是地標，假日人潮擁擠。",
+   "story_en": "Shenkeng was a collecting point for tea and camphor shipped out along the Jingmei River, and keeps many red-brick shophouses. Thanks to good spring water it became a 'tofu town', serving stinky, grilled and braised tofu in every form. A huge banyan marks the entrance, and weekends are packed.",
+   "getting_there": "捷運木柵站轉660、819等公車至深坑站",
+   "visit_duration": "1-2h",
+   "best_time": "假日人潮多，平日較悠閒",
+   "confidence": "high",
+   "sources": [
+    "https://zh.wikipedia.org/wiki/深坑老街"
+   ]
+  },
+  {
+   "id": "shiding-old-street",
+   "name_zh": "石碇老街",
+   "name_en": "Shiding Old Street",
+   "aliases": [
+    "不見天街"
+   ],
+   "county": "新北市",
+   "district": "石碇區",
+   "address_hint": "石碇東街、石碇西街",
+   "lat": 24.9915,
+   "lng": 121.658,
+   "status": "quiet",
+   "scores": {
+    "food": 2,
+    "history": 2,
+    "architecture": 2,
+    "shopping": 1,
+    "crowd": 1
+   },
+   "architecture_styles": [
+    "minnan",
+    "stone-house",
+    "wooden-house"
+   ],
+   "themes": [
+    "qing-era",
+    "tea",
+    "mining",
+    "temple"
+   ],
+   "best_for": [
+    "slow-travel",
+    "photography",
+    "history-buff"
+   ],
+   "signature_foods": [
+    "石碇豆腐",
+    "包種茶"
+   ],
+   "specialties": [
+    "文山包種茶",
+    "東方美人茶"
+   ],
+   "landmarks": [
+    "石碇東街「不見天」",
+    "吊腳樓",
+    "石碇集順廟"
+   ],
+   "tagline_zh": "溪畔吊腳樓與「不見天」的山城",
+   "tagline_en": "A creek-side hill town of stilt houses and a roofed 'never-see-the-sky' street",
+   "story_zh": "石碇古時是通往宜蘭的要道，因茶葉與煤礦而興盛。石碇東街仍保留一段屋頂相連的「不見天」街道，沿溪而建的吊腳樓與石頭屋別具風味。礦業與交通沒落後人口外移，老街安靜而保有原味，部分老屋已活化為小店。",
+   "story_en": "Shiding was a waypoint on the old route to Yilan and grew rich on tea and coal. East Street keeps a stretch of 'Bujiantian', a covered street whose roofs join overhead, plus stilt houses and stone dwellings along the creek. With mining gone, the town is quiet and authentic, with a few old houses reborn as small shops.",
+   "getting_there": "捷運木柵站或景美站轉666公車至石碇站",
+   "visit_duration": "1-2h",
+   "best_time": "平日幾乎無觀光客，週末小店較多",
+   "confidence": "high",
+   "sources": [
+    "https://zh.wikipedia.org/wiki/石碇老街"
+   ]
+  },
+  {
+   "id": "pinglin-old-street",
+   "name_zh": "坪林老街",
+   "name_en": "Pinglin Old Street",
+   "aliases": [],
+   "county": "新北市",
+   "district": "坪林區",
+   "address_hint": "坪林街、北宜路八段周邊",
+   "lat": 24.9365,
+   "lng": 121.7105,
+   "status": "active",
+   "scores": {
+    "food": 2,
+    "history": 1,
+    "architecture": 1,
+    "shopping": 2,
+    "crowd": 2
+   },
+   "architecture_styles": [
+    "minnan",
+    "stone-house",
+    "modernist"
+   ],
+   "themes": [
+    "tea",
+    "agriculture",
+    "nature"
+   ],
+   "best_for": [
+    "foodie",
+    "slow-travel",
+    "family"
+   ],
+   "signature_foods": [
+    "茶葉蛋",
+    "茶油麵線",
+    "包種茶料理",
+    "茶凍"
+   ],
+   "specialties": [
+    "文山包種茶"
+   ],
+   "landmarks": [
+    "坪林茶業博物館",
+    "坪林拱橋"
+   ],
+   "tagline_zh": "包種茶的故鄉，茶香小街",
+   "tagline_en": "A short tea-scented street in the home of Pouchong tea",
+   "story_zh": "坪林是文山包種茶的主要產區，老街長約200公尺，沿街多為茶行與以茶入菜的餐館。北宜公路與國道五號通車後成為往宜蘭的中繼站，老街則保留了小鎮的生活感。旁邊的坪林茶業博物館是全台唯一以茶文化為主題的博物館。",
+   "story_en": "Pinglin is the heartland of Wenshan Pouchong tea. Its roughly 200 m old street is lined with tea shops and restaurants cooking with tea leaves. Once a rest stop on the road to Yilan, it keeps a small-town feel, and the nearby Pinglin Tea Museum is Taiwan's only museum dedicated to tea culture.",
+   "getting_there": "捷運新店站轉923公車或新店客運至坪林站",
+   "visit_duration": "1-2h",
+   "best_time": "春茶季（4–5月）茶香最濃",
+   "confidence": "medium",
+   "sources": [
+    "https://smiletaiwan.cw.com.tw/article/1753"
+   ]
+  },
+  {
+   "id": "wulai-old-street",
+   "name_zh": "烏來老街",
+   "name_en": "Wulai Old Street",
+   "aliases": [],
+   "county": "新北市",
+   "district": "烏來區",
+   "address_hint": "烏來街",
+   "lat": 24.865,
+   "lng": 121.5505,
+   "status": "thriving",
+   "scores": {
+    "food": 3,
+    "history": 2,
+    "architecture": 0,
+    "shopping": 2,
+    "crowd": 3
+   },
+   "architecture_styles": [
+    "modernist"
+   ],
+   "themes": [
+    "indigenous",
+    "hot-spring",
+    "nature"
+   ],
+   "best_for": [
+    "foodie",
+    "family",
+    "day-trip-from-taipei"
+   ],
+   "signature_foods": [
+    "竹筒飯",
+    "山豬肉香腸",
+    "馬告料理",
+    "小米酒",
+    "溫泉蛋"
+   ],
+   "specialties": [
+    "泰雅編織"
+   ],
+   "landmarks": [
+    "烏來泰雅民族博物館",
+    "烏來瀑布（鄰近）",
+    "烏來台車"
+   ],
+   "tagline_zh": "泰雅美食與溫泉的山中小街",
+   "tagline_en": "A mountain street of Atayal food and hot springs",
+   "story_zh": "烏來是泰雅族聚居地，名稱源自泰雅語「冒煙的熱水」。老街沿南勢溪而建，攤販賣竹筒飯、山豬肉香腸與小米酒，街頭有泰雅民族博物館。過了覽勝大橋可搭台車到烏來瀑布，日治時期的台車原本用來運送木材。",
+   "story_en": "Wulai is Atayal country; its name comes from the Atayal word for steaming hot water. The old street runs along the Nanshi River with stalls selling bamboo-tube rice, wild-boar sausages and millet wine, plus the Wulai Atayal Museum. Across the bridge, a Japanese-era logging push-car line now carries visitors to Wulai Falls.",
+   "getting_there": "捷運新店站轉849公車至烏來總站",
+   "visit_duration": "half-day",
+   "best_time": "冬季泡溫泉、平日人較少",
+   "confidence": "high",
+   "sources": [
+    "https://www.taiwan.net.tw/"
+   ]
+  },
+  {
+   "id": "jingtong-old-street",
+   "name_zh": "菁桐老街",
+   "name_en": "Jingtong Old Street",
+   "aliases": [
+    "菁桐坑"
+   ],
+   "county": "新北市",
+   "district": "平溪區",
+   "address_hint": "菁桐車站周邊",
+   "lat": 25.024,
+   "lng": 121.724,
+   "status": "active",
+   "scores": {
+    "food": 2,
+    "history": 2,
+    "architecture": 2,
+    "shopping": 2,
+    "crowd": 2
+   },
+   "architecture_styles": [
+    "japanese-era",
+    "wooden-house"
+   ],
+   "themes": [
+    "mining",
+    "railway",
+    "japanese-era",
+    "film-location"
+   ],
+   "best_for": [
+    "photography",
+    "day-trip-from-taipei",
+    "slow-travel"
+   ],
+   "signature_foods": [
+    "雞捲",
+    "礦工便當"
+   ],
+   "specialties": [
+    "許願竹筒"
+   ],
+   "landmarks": [
+    "菁桐車站",
+    "石底煤礦洗煤廠",
+    "臺陽礦業平溪招待所"
+   ],
+   "tagline_zh": "平溪線終點，掛滿許願竹筒的礦業小站",
+   "tagline_en": "End of the Pingxi Line: a mining village of wishing bamboo tubes",
+   "story_zh": "菁桐老街興起於1937年前後，因石底煤礦而繁榮，全盛時有「菁桐坑銀座」之稱。1975年煤礦收坑後迅速沒落，數十年未翻修的屋舍反而保存了懷舊街景。日式木造的菁桐車站與掛滿許願竹筒的月台，以及偶像劇取景，讓它成為平溪線的人氣小站。",
+   "story_en": "Jingtong boomed around 1937 thanks to the Shidi coal mine and was called the 'Ginza of Jingtong Pit'. When the mine closed in 1975 it declined fast, and the untouched houses now give a nostalgic streetscape. The Japanese-era wooden station, bamboo wish tubes and TV-drama shoots made it a favourite stop on the Pingxi Line.",
+   "getting_there": "台鐵平溪線菁桐站下車即達",
+   "visit_duration": "1-2h",
+   "best_time": "平日安靜，假日人多",
+   "confidence": "high",
+   "sources": [
+    "https://zh.wikipedia.org/wiki/菁桐老街"
+   ]
+  },
+  {
+   "id": "pingxi-old-street",
+   "name_zh": "平溪老街",
+   "name_en": "Pingxi Old Street",
+   "aliases": [
+    "石底老街"
+   ],
+   "county": "新北市",
+   "district": "平溪區",
+   "address_hint": "平溪街、靜安路",
+   "lat": 25.0257,
+   "lng": 121.7385,
+   "status": "active",
+   "scores": {
+    "food": 2,
+    "history": 2,
+    "architecture": 2,
+    "shopping": 2,
+    "crowd": 2
+   },
+   "architecture_styles": [
+    "minnan",
+    "wooden-house"
+   ],
+   "themes": [
+    "mining",
+    "railway",
+    "sky-lanterns",
+    "japanese-era"
+   ],
+   "best_for": [
+    "photography",
+    "day-trip-from-taipei",
+    "family"
+   ],
+   "signature_foods": [
+    "香腸",
+    "芋圓"
+   ],
+   "specialties": [
+    "天燈"
+   ],
+   "landmarks": [
+    "平溪車站",
+    "平溪郵局鑄鐵郵筒",
+    "平溪鐵道橋"
+   ],
+   "tagline_zh": "火車從頭頂開過的天燈故鄉",
+   "tagline_en": "Home of the sky lanterns, where trains rumble right above the street",
+   "story_zh": "平溪舊稱石底，因煤礦與平溪支線鐵路而興。長條型的傳統街屋依山而建，平溪線鐵橋從老街上方穿過，是攝影熱點。元宵節的平溪天燈節據說源自早年居民放天燈報平安、防盜的習俗，平溪郵局前還有台灣最古老的圓形鑄鐵郵筒之一。",
+   "story_en": "Pingxi, once called Shidi, grew on coal and the Pingxi branch railway. Its long narrow shophouses climb the hillside, and the railway bridge crosses right over the street, a classic photo spot. The Lantern Festival sky-lantern release reportedly began as villagers' signal of safety from bandits, and the post office keeps one of Taiwan's oldest cast-iron postboxes.",
+   "getting_there": "台鐵平溪線平溪站下車即達",
+   "visit_duration": "1-2h",
+   "best_time": "元宵節天燈節最熱鬧（需提早規劃）",
+   "confidence": "high",
+   "sources": [
+    "https://zh.wikipedia.org/wiki/平溪老街"
+   ]
+  },
+  {
+   "id": "shifen-old-street",
+   "name_zh": "十分老街",
+   "name_en": "Shifen Old Street",
+   "aliases": [
+    "十分寮"
+   ],
+   "county": "新北市",
+   "district": "平溪區",
+   "address_hint": "十分街（鐵道兩側）",
+   "lat": 25.0412,
+   "lng": 121.7755,
+   "status": "thriving",
+   "scores": {
+    "food": 2,
+    "history": 2,
+    "architecture": 1,
+    "shopping": 3,
+    "crowd": 3
+   },
+   "architecture_styles": [
+    "modernist",
+    "wooden-house"
+   ],
+   "themes": [
+    "mining",
+    "railway",
+    "sky-lanterns"
+   ],
+   "best_for": [
+    "photography",
+    "family",
+    "day-trip-from-taipei",
+    "shopping"
+   ],
+   "signature_foods": [
+    "雞翅包飯",
+    "烤香腸",
+    "花生捲冰淇淋"
+   ],
+   "specialties": [
+    "天燈"
+   ],
+   "landmarks": [
+    "十分車站",
+    "十分瀑布（鄰近）",
+    "靜安吊橋"
+   ],
+   "tagline_zh": "在鐵軌上放天燈的熱門老街",
+   "tagline_en": "The famous street where you release sky lanterns on the railway tracks",
+   "story_zh": "十分因煤礦與平溪線而興起，商店緊貼鐵道兩側，火車就從店門前幾公尺開過。遊客在鐵軌上寫願望、放天燈成為代表性體驗，也讓十分成為平溪線最熱鬧的一站。附近的十分瀑布有「台灣尼加拉瀑布」之稱。",
+   "story_en": "Shifen grew on coal mining and the Pingxi Line; shops sit right beside the tracks and trains pass a few metres from their doors. Writing wishes on lanterns and releasing them from the rails is the signature experience, making it the busiest stop on the line. Nearby Shifen Waterfall is nicknamed Taiwan's Niagara.",
+   "getting_there": "台鐵平溪線十分站下車即達",
+   "visit_duration": "1-2h",
+   "best_time": "平日或傍晚較不擁擠",
+   "confidence": "high",
+   "sources": [
+    "https://www.taiwan.net.tw/"
+   ]
+  },
+  {
+   "id": "ruifang-old-street",
+   "name_zh": "瑞芳老街",
+   "name_en": "Ruifang Old Street",
+   "aliases": [
+    "柑仔瀨"
+   ],
+   "county": "新北市",
+   "district": "瑞芳區",
+   "address_hint": "瑞芳街、明燈路",
+   "lat": 25.1085,
+   "lng": 121.8065,
+   "status": "quiet",
+   "scores": {
+    "food": 2,
+    "history": 1,
+    "architecture": 1,
+    "shopping": 1,
+    "crowd": 1
+   },
+   "architecture_styles": [
+    "modernist",
+    "arcade"
+   ],
+   "themes": [
+    "mining",
+    "railway"
+   ],
+   "best_for": [
+    "foodie",
+    "slow-travel"
+   ],
+   "signature_foods": [
+    "瑞芳美食廣場小吃",
+    "胡椒餅"
+   ],
+   "specialties": [],
+   "landmarks": [
+    "瑞芳車站"
+   ],
+   "tagline_zh": "九份金瓜石遊客的轉運小鎮",
+   "tagline_en": "The transit town for Jiufen and Jinguashi",
+   "story_zh": "瑞芳舊稱「柑仔瀨」，清代因基隆河舟運與往九份、金瓜石的礦區交通而形成市街。今日瑞芳車站是前往九份、金瓜石、平溪線的轉乘樞紐，站前老街以在地小吃與美食廣場為主，老建築已不多。",
+   "story_en": "Ruifang, once 'Kamalai', grew as a market town on the Keelung River and the route to the Jiufen and Jinguashi gold mines. Today its station is the transfer hub for Jiufen, Jinguashi and the Pingxi Line, and the old streets around it are mainly about local snacks rather than heritage.",
+   "getting_there": "台鐵瑞芳站步行約3分鐘",
+   "visit_duration": "<1h",
+   "best_time": "轉車空檔可順路覓食",
+   "confidence": "low",
+   "sources": [
+    "https://zh.wikipedia.org/wiki/瑞芳區"
+   ]
+  },
+  {
+   "id": "houtong-old-street",
+   "name_zh": "猴硐老街",
+   "name_en": "Houtong Old Street (Cat Village)",
+   "aliases": [
+    "猴硐貓村",
+    "侯硐"
+   ],
+   "county": "新北市",
+   "district": "瑞芳區",
+   "address_hint": "柴寮路、猴硐車站周邊",
+   "lat": 25.087,
+   "lng": 121.8275,
+   "status": "active",
+   "scores": {
+    "food": 1,
+    "history": 2,
+    "architecture": 1,
+    "shopping": 1,
+    "crowd": 2
+   },
+   "architecture_styles": [
+    "japanese-era",
+    "modernist"
+   ],
+   "themes": [
+    "mining",
+    "railway",
+    "cats"
+   ],
+   "best_for": [
+    "photography",
+    "family",
+    "day-trip-from-taipei"
+   ],
+   "signature_foods": [],
+   "specialties": [
+    "貓咪周邊商品"
+   ],
+   "landmarks": [
+    "猴硐車站",
+    "瑞三礦業整煤廠",
+    "猴硐坑"
+   ],
+   "tagline_zh": "從煤礦小鎮到全球知名的貓村",
+   "tagline_en": "From coal town to world-famous cat village",
+   "story_zh": "猴硐曾是台灣產煤量最大的礦區之一，瑞三煤礦的整煤廠至今仍矗立在車站旁。1990年礦坑關閉後人口外流，2008年起愛貓人士在網路上分享街貓照片，猴硐因此成為國際知名的「貓村」，還曾被CNN列為世界賞貓景點。",
+   "story_en": "Houtong was once one of Taiwan's top coal producers; the Ruisan coal-processing plant still stands by the station. After the mines closed around 1990 the village emptied, until volunteers began posting photos of its street cats in 2008, turning it into an internationally known 'cat village' featured by CNN.",
+   "getting_there": "台鐵猴硐站下車即達",
+   "visit_duration": "1-2h",
+   "best_time": "平日較清靜，貓咪較多",
+   "confidence": "high",
+   "sources": [
+    "https://www.taiwan.net.tw/"
+   ]
+  },
+  {
+   "id": "jiufen-old-street",
+   "name_zh": "九份老街",
+   "name_en": "Jiufen Old Street",
+   "aliases": [
+    "基山街",
+    "豎崎路"
+   ],
+   "county": "新北市",
+   "district": "瑞芳區",
+   "address_hint": "基山街、豎崎路、輕便路",
+   "lat": 25.1095,
+   "lng": 121.8445,
+   "status": "thriving",
+   "scores": {
+    "food": 3,
+    "history": 3,
+    "architecture": 2,
+    "shopping": 3,
+    "crowd": 3
+   },
+   "architecture_styles": [
+    "japanese-era",
+    "wooden-house",
+    "stone-house"
+   ],
+   "themes": [
+    "mining",
+    "japanese-era",
+    "film-location",
+    "tea"
+   ],
+   "best_for": [
+    "foodie",
+    "photography",
+    "day-trip-from-taipei",
+    "shopping"
+   ],
+   "signature_foods": [
+    "芋圓",
+    "草仔粿",
+    "魚丸",
+    "花生捲冰淇淋"
+   ],
+   "specialties": [
+    "茶藝",
+    "陶笛"
+   ],
+   "landmarks": [
+    "豎崎路石階",
+    "阿妹茶樓",
+    "昇平戲院"
+   ],
+   "tagline_zh": "紅燈籠山城，淘金熱與電影的記憶",
+   "tagline_en": "A lantern-lit hill town of gold rush and film memories",
+   "story_zh": "相傳早年山中只有九戶人家，採買都要「九份」而得名。1890年代發現金礦後掀起淘金熱，日治時期九份成為繁華的礦業山城，有「小上海」之稱。1971年礦業結束後一度沒落，1989年侯孝賢電影《悲情城市》在此取景而重新走紅，豎崎路的紅燈籠茶樓更常被聯想到《神隱少女》。",
+   "story_en": "Legend says the village once had just nine families, who ordered 'nine portions' of everything. Gold was found in the 1890s, and in the Japanese era Jiufen became a boomtown nicknamed 'Little Shanghai'. Mining ended in 1971 and the town faded until Hou Hsiao-hsien's 1989 film A City of Sadness revived it; its lantern-hung teahouses on Shuqi Road are often linked to Spirited Away.",
+   "getting_there": "台鐵瑞芳站轉788/965/1062公車至九份老街站",
+   "visit_duration": "half-day",
+   "best_time": "傍晚點燈時最美；平日較不擁擠",
+   "confidence": "high",
+   "sources": [
+    "https://zh.wikipedia.org/wiki/九份老街"
+   ]
+  },
+  {
+   "id": "jinguashi-qitang-old-street",
+   "name_zh": "金瓜石老街",
+   "name_en": "Jinguashi (Qitang) Old Street",
+   "aliases": [
+    "祈堂老街"
+   ],
+   "county": "新北市",
+   "district": "瑞芳區",
+   "address_hint": "祈堂路",
+   "lat": 25.107,
+   "lng": 121.8558,
+   "status": "quiet",
+   "scores": {
+    "food": 1,
+    "history": 3,
+    "architecture": 2,
+    "shopping": 1,
+    "crowd": 1
+   },
+   "architecture_styles": [
+    "japanese-era",
+    "wooden-house",
+    "stone-house"
+   ],
+   "themes": [
+    "mining",
+    "japanese-era",
+    "temple"
+   ],
+   "best_for": [
+    "history-buff",
+    "photography",
+    "slow-travel"
+   ],
+   "signature_foods": [],
+   "specialties": [],
+   "landmarks": [
+    "黃金博物館（鄰近）",
+    "勸濟堂",
+    "太子賓館（鄰近）"
+   ],
+   "tagline_zh": "九份旁更寧靜的礦山街道",
+   "tagline_en": "The quieter mining street next to Jiufen",
+   "story_zh": "金瓜石在日治時期是亞洲重要的金銅礦區，祈堂老街曾是礦工與家眷日常採買的商街，有戲院、雜貨與食堂。礦業結束後人口大量外移，老街保留石階、石頭屋與木造房舍，氣氛比九份冷清許多。附近的黃金博物館與勸濟堂巨型關公像是主要看點。",
+   "story_en": "Jinguashi was one of Asia's major gold and copper mines in the Japanese era, and Qitang Old Street served miners' families with a theatre, grocers and eateries. After the mines closed most residents left; the stone steps, stone houses and wooden homes remain, far quieter than Jiufen. The Gold Museum and the giant Guan Gong statue at Quanji Temple are the main sights nearby.",
+   "getting_there": "台鐵瑞芳站轉788/891/1062公車至金瓜石站",
+   "visit_duration": "1-2h",
+   "best_time": "可與黃金博物館同遊",
+   "confidence": "medium",
+   "sources": [
+    "https://www.gep.ntpc.gov.tw/"
+   ]
+  },
+  {
+   "id": "xinzhuang-temple-street",
+   "name_zh": "新莊廟街",
+   "name_en": "Xinzhuang Temple Street",
+   "aliases": [
+    "新莊老街",
+    "新莊夜市"
+   ],
+   "county": "新北市",
+   "district": "新莊區",
+   "address_hint": "新莊路、碧江街",
+   "lat": 25.0365,
+   "lng": 121.451,
+   "status": "active",
+   "scores": {
+    "food": 3,
+    "history": 3,
+    "architecture": 1,
+    "shopping": 2,
+    "crowd": 2
+   },
+   "architecture_styles": [
+    "minnan",
+    "baroque-facade",
+    "modernist"
+   ],
+   "themes": [
+    "qing-era",
+    "river-port",
+    "temple",
+    "night-market",
+    "crafts"
+   ],
+   "best_for": [
+    "foodie",
+    "history-buff",
+    "nightlife"
+   ],
+   "signature_foods": [
+    "新莊老店小吃",
+    "炸粿",
+    "豆花"
+   ],
+   "specialties": [
+    "布袋戲偶",
+    "傳統糕餅"
+   ],
+   "landmarks": [
+    "新莊慈祐宮",
+    "新莊武聖廟",
+    "新莊廣福宮（三山國王廟）",
+    "新莊地藏庵（大眾廟）"
+   ],
+   "tagline_zh": "一條街八座古廟的清代河港",
+   "tagline_en": "A Qing river port with eight old temples on one street",
+   "story_zh": "清雍正乾隆年間，新莊是淡水河流域重要的進出口港埠，大陸與日本商船可直達，因而在新莊路上留下慈祐宮、廣福宮、武聖廟、地藏庵等多座清代廟宇。街坊老地名如鹽館、米市巷、戲館巷，記錄著當年的繁華。地藏庵的文武大眾爺祭典是地方大事，小西園布袋戲也源於此。",
+   "story_en": "Under the Qing Yongzheng and Qianlong emperors, Xinzhuang was a key port on the Tamsui River, reached by ships from the mainland and Japan, which left Xinzhuang Road lined with Qing temples like Ciyou, Guangfu, Wusheng and Dizang. Old lane names such as Salt House and Rice Market Lane echo its heyday. The Dizang Temple festival is a major local event, and the Xiaoxiyuan glove-puppet troupe originated here.",
+   "getting_there": "捷運新莊站或頭前庄站步行約10分鐘",
+   "visit_duration": "1-2h",
+   "best_time": "傍晚後攤販開張；農曆五月大眾爺祭典",
+   "confidence": "high",
+   "sources": [
+    "https://zh.wikipedia.org/wiki/新莊廟街"
+   ]
+  },
+  {
+   "id": "sanxia-old-street",
+   "name_zh": "三峽老街",
+   "name_en": "Sanxia Old Street",
+   "aliases": [
+    "民權街"
+   ],
+   "county": "新北市",
+   "district": "三峽區",
+   "address_hint": "民權街",
+   "lat": 24.9345,
+   "lng": 121.369,
+   "status": "thriving",
+   "scores": {
+    "food": 3,
+    "history": 3,
+    "architecture": 3,
+    "shopping": 3,
+    "crowd": 3
+   },
+   "architecture_styles": [
+    "baroque-facade",
+    "arcade",
+    "minnan"
+   ],
+   "themes": [
+    "qing-era",
+    "japanese-era",
+    "river-port",
+    "temple",
+    "crafts",
+    "dried-goods"
+   ],
+   "best_for": [
+    "architecture",
+    "photography",
+    "shopping",
+    "foodie",
+    "day-trip-from-taipei",
+    "history-buff"
+   ],
+   "signature_foods": [
+    "金牛角麵包",
+    "古早味豆花"
+   ],
+   "specialties": [
+    "藍染",
+    "樟腦製品"
+   ],
+   "landmarks": [
+    "三峽祖師廟",
+    "三峽拱橋",
+    "三峽染工坊"
+   ],
+   "tagline_zh": "紅磚拱廊一整排，配祖師廟與藍染",
+   "tagline_en": "A long row of red-brick arcades, plus a famous temple and indigo dye",
+   "story_zh": "三峽老街始於18世紀中葉，憑藉三峽河的水運，成為樟腦、茶葉與染布的集散地。1895年遭日軍焚毀後由居民重建，1916年起改造為仿歐式立面，紅磚拱廊延伸約200公尺。2007年老街整修工程獲FIABCI全球卓越建築獎。附近由李梅樹主持重建的三峽祖師廟以精緻雕刻聞名。",
+   "story_en": "Sanxia's old street began in the mid-18th century as a river-port hub for camphor, tea and indigo-dyed cloth. Burned by Japanese troops in 1895 and rebuilt by residents, it gained Western-style facades from 1916, and its red-brick arcade runs about 200 m. The restoration won a FIABCI Prix d'Excellence in 2007, and nearby Zushi Temple, rebuilt under painter Li Mei-shu, is famed for its carvings.",
+   "getting_there": "捷運永寧站或鶯歌站轉公車至三峽老街",
+   "visit_duration": "half-day",
+   "best_time": "平日上午拍街景最佳",
+   "confidence": "high",
+   "sources": [
+    "https://zh.wikipedia.org/wiki/三峽老街"
+   ]
+  },
+  {
+   "id": "yingge-ceramics-old-street",
+   "name_zh": "鶯歌老街",
+   "name_en": "Yingge Ceramics Old Street",
+   "aliases": [
+    "鶯歌陶瓷老街",
+    "尖山埔路"
+   ],
+   "county": "新北市",
+   "district": "鶯歌區",
+   "address_hint": "尖山埔路、重慶街、育英街",
+   "lat": 24.9535,
+   "lng": 121.351,
+   "status": "thriving",
+   "scores": {
+    "food": 2,
+    "history": 2,
+    "architecture": 1,
+    "shopping": 3,
+    "crowd": 3
+   },
+   "architecture_styles": [
+    "modernist",
+    "minnan"
+   ],
+   "themes": [
+    "ceramics",
+    "crafts",
+    "railway"
+   ],
+   "best_for": [
+    "shopping",
+    "family",
+    "day-trip-from-taipei"
+   ],
+   "signature_foods": [
+    "鶯歌燒",
+    "古早味小吃"
+   ],
+   "specialties": [
+    "陶瓷",
+    "茶具",
+    "手拉坏"
+   ],
+   "landmarks": [
+    "鶯歌陶瓷博物館（鄰近）",
+    "鶯歌石"
+   ],
+   "tagline_zh": "台灣陶瓷之都的購物老街",
+   "tagline_en": "The shopping street of Taiwan's ceramics capital",
+   "story_zh": "鶯歌因附近尖山的黏土與煤礦，自清代起發展製陶業，尖山埔路曾是窯廠林立、煙囪高聳的產業街。隨產業轉型，老街逐漸變為陶瓷商店與手拉坯體驗的觀光街，從日用碗盤到藝術陶瓷應有盡有。老窯廠煙囪與鶯歌陶瓷博物館訴說著產業的歷史。",
+   "story_en": "Yingge's clay and coal supplies fostered pottery from the Qing era, and Jianshanpu Road was once crowded with kilns and chimneys. As the industry modernised, the street became a tourist strip of ceramic shops and pottery-wheel workshops selling everything from rice bowls to art pieces. Old kiln chimneys and the Yingge Ceramics Museum tell the industry's story.",
+   "getting_there": "台鐵鶯歌站步行約10分鐘；或三鶯線陶瓷老街站",
+   "visit_duration": "half-day",
+   "best_time": "平日店家較從容",
+   "confidence": "high",
+   "sources": [
+    "https://zh.wikipedia.org/wiki/鶯歌陶瓷老街"
+   ]
+  },
+  {
+   "id": "xindian-old-street",
+   "name_zh": "新店老街",
+   "name_en": "Xindian Old Street",
+   "aliases": [
+    "光明街老街",
+    "碧潭老街"
+   ],
+   "county": "新北市",
+   "district": "新店區",
+   "address_hint": "光明街、新店路（碧潭東岸）",
+   "lat": 24.964,
+   "lng": 121.539,
+   "status": "active",
+   "scores": {
+    "food": 2,
+    "history": 2,
+    "architecture": 0,
+    "shopping": 1,
+    "crowd": 2
+   },
+   "architecture_styles": [
+    "modernist"
+   ],
+   "themes": [
+    "qing-era",
+    "river-port",
+    "nature"
+   ],
+   "best_for": [
+    "foodie",
+    "family",
+    "slow-travel"
+   ],
+   "signature_foods": [
+    "老楊煎包",
+    "光明街小吃"
+   ],
+   "specialties": [],
+   "landmarks": [
+    "碧潭吊橋",
+    "碧潭風景區"
+   ],
+   "tagline_zh": "碧潭吊橋旁的戲院口美食老街",
+   "tagline_en": "Old cinema-front eats beside the Bitan suspension bridge",
+   "story_zh": "新店地名一說是道光年間碧潭邊的店街被山洪沖毀重建，為區別新舊店街而稱「新店」。光明街一帶過去有新店戲院等多家戲院，戲院門口的小吃攤延續至今，例如老楊煎包。1937年完工的碧潭吊橋是新店人往來兩岸的生活記憶，2013年登錄為古蹟。老建築幾乎已改建。",
+   "story_en": "One theory says Xindian ('new shops') got its name when riverside shops at Bitan were washed away and rebuilt in the 1830s–40s. The Guangming Street area once had several cinemas, and snack stalls that served moviegoers still trade, such as a famous pan-fried bun stall. The 1937 Bitan Suspension Bridge, listed as a monument in 2013, is the town's emblem; most old buildings have been rebuilt.",
+   "getting_there": "捷運新店站步行約5分鐘",
+   "visit_duration": "1-2h",
+   "best_time": "傍晚看碧潭夕陽",
+   "confidence": "medium",
+   "sources": [
+    "https://www.thenewslens.com/article/247527",
+    "https://www.storm.mg/article/4751898"
+   ]
+  },
+  {
+   "id": "xizhi-old-street",
+   "name_zh": "汐止老街",
+   "name_en": "Xizhi Old Street",
+   "aliases": [
+    "水返腳老街"
+   ],
+   "county": "新北市",
+   "district": "汐止區",
+   "address_hint": "中正路",
+   "lat": 25.065,
+   "lng": 121.66,
+   "status": "quiet",
+   "scores": {
+    "food": 2,
+    "history": 2,
+    "architecture": 1,
+    "shopping": 1,
+    "crowd": 1
+   },
+   "architecture_styles": [
+    "minnan",
+    "modernist"
+   ],
+   "themes": [
+    "qing-era",
+    "river-port",
+    "temple"
+   ],
+   "best_for": [
+    "foodie",
+    "history-buff"
+   ],
+   "signature_foods": [
+    "魷魚羹",
+    "八寶冬粉"
+   ],
+   "specialties": [],
+   "landmarks": [
+    "汐止濟德宮",
+    "站前蘇厝",
+    "汐止夜市（鄰近）"
+   ],
+   "tagline_zh": "海潮倒灌的終點「水返腳」",
+   "tagline_en": "'Shuifanjiao', where the tide turned back on the Keelung River",
+   "story_zh": "汐止舊名「水返腳」，因基隆河漲潮時海水倒灌至此而止，日治時期改名汐止。中正路自清乾隆年間形成商業聚落，是基隆河舟運的重要停靠點。濟德宮（水返腳媽祖廟）創建於嘉慶年間，附近蘇厝、陳厝等古厝仍在，但多為私宅。",
+   "story_en": "Xizhi was once 'Shuifanjiao', 'where the water turns back', the point up the Keelung River reached by the rising tide; the Japanese renamed it Xizhi ('tide stops'). Zhongzheng Road grew into a market street in the Qianlong era as a river-boat stop. Jide Temple, the town's Mazu temple founded in the Jiaqing era, and old mansions like the Su residence remain, though the houses are private.",
+   "getting_there": "台鐵汐止站步行約5分鐘",
+   "visit_duration": "<1h",
+   "best_time": "上午市場時段較熱鬧",
+   "confidence": "medium",
+   "sources": [
+    "https://vocus.cc/article/641ecd37fd89780001323f11",
+    "https://newtaipei.travel/"
+   ]
+  },
+  {
+   "id": "shuangxi-old-street",
+   "name_zh": "雙溪老街",
+   "name_en": "Shuangxi Old Street",
+   "aliases": [
+    "長安街"
+   ],
+   "county": "新北市",
+   "district": "雙溪區",
+   "address_hint": "長安街、太平路",
+   "lat": 25.0365,
+   "lng": 121.864,
+   "status": "quiet",
+   "scores": {
+    "food": 1,
+    "history": 2,
+    "architecture": 2,
+    "shopping": 1,
+    "crowd": 1
+   },
+   "architecture_styles": [
+    "minnan",
+    "arcade",
+    "wooden-house"
+   ],
+   "themes": [
+    "qing-era",
+    "river-port",
+    "temple",
+    "herbal-medicine",
+    "crafts"
+   ],
+   "best_for": [
+    "slow-travel",
+    "history-buff",
+    "photography"
+   ],
+   "signature_foods": [],
+   "specialties": [
+    "打鐵器具",
+    "中藥"
+   ],
+   "landmarks": [
+    "三忠廟",
+    "林益和堂中藥店",
+    "雙溪打鐵舖",
+    "雙溪渡船頭遺址"
+   ],
+   "tagline_zh": "打鐵舖與百年中藥行仍在營業的山間小鎮",
+   "tagline_en": "A mountain town where the blacksmith and century-old herbalist still open",
+   "story_zh": "雙溪位於平林溪與牡丹溪匯流處，清代是淡蘭古道上的舟運與貨物轉運點。長安街從清朝開始發展，沿街有全台少見供奉文天祥的三忠廟、百年中藥行林益和堂與仍在打鐵的老舖。觀光化程度低，保有樸實的小鎮生活。",
+   "story_en": "Shuangxi sits where two streams meet and was a Qing-era transshipment point on the Tamsui–Yilan trail. Chang'an Street, dating from the Qing, has the rare Sanzhong Temple honouring Wen Tianxiang, the century-old Lin Yihe herbal shop and a working blacksmith. Barely touristy, it keeps a genuine small-town rhythm.",
+   "getting_there": "台鐵雙溪站步行約10分鐘",
+   "visit_duration": "1-2h",
+   "best_time": "店家多在白天營業",
+   "confidence": "medium",
+   "sources": [
+    "https://smiletaiwan.cw.com.tw/article/4729",
+    "https://travel.yam.com/article/137341"
+   ]
+  },
+  {
+   "id": "gouzaiqian-old-street",
+   "name_zh": "溝仔墘老街",
+   "name_en": "Gouzaiqian Old Street (Taishan)",
+   "aliases": [
+    "明志路一段256巷"
+   ],
+   "county": "新北市",
+   "district": "泰山區",
+   "address_hint": "明志路一段256巷",
+   "lat": 25.057,
+   "lng": 121.4315,
+   "status": "quiet",
+   "scores": {
+    "food": 0,
+    "history": 2,
+    "architecture": 1,
+    "shopping": 0,
+    "crowd": 1
+   },
+   "architecture_styles": [
+    "minnan"
+   ],
+   "themes": [
+    "qing-era",
+    "temple",
+    "agriculture"
+   ],
+   "best_for": [
+    "history-buff",
+    "slow-travel"
+   ],
+   "signature_foods": [],
+   "specialties": [],
+   "landmarks": [
+    "泰山巖",
+    "明志書院（鄰近）"
+   ],
+   "tagline_zh": "水圳邊的舊聚落，如今是安靜巷弄",
+   "tagline_en": "An old canal-side settlement, now a hushed lane",
+   "story_zh": "泰山早期稱「山腳」，庄內外溝渠縱橫，河溝邊（墘）的街道因此被叫作「溝仔墘」。這一帶與泰山巖、明志書院的興起及昔日茶路的興衰相關，是泰山最早的街肆之一。如今改稱明志路一段256巷，幾乎沒有商家，只剩少數老厝與鋪設的地磚。",
+   "story_en": "Taishan was once called 'Shanjiao', criss-crossed by irrigation ditches; the street along the ditch edge became 'Gouzaiqian'. It ties into the rise of Taishan Temple, Mingzhi Academy and the old tea route, and was one of the area's first market streets. Now renamed Lane 256, Mingzhi Road Sec. 1, it has almost no shops, just a few old houses and decorative paving.",
+   "getting_there": "捷運泰山貴和站步行約10分鐘",
+   "visit_duration": "<1h",
+   "best_time": "",
+   "confidence": "low",
+   "sources": [
+    "https://city.gvm.com.tw/article/107506",
+    "https://smiletaiwan.cw.com.tw/article/8907"
+   ]
+  },
+  {
+   "id": "sanzhi-old-street",
+   "name_zh": "三芝老街",
+   "name_en": "Sanzhi Old Street",
+   "aliases": [
+    "小基隆"
+   ],
+   "county": "新北市",
+   "district": "三芝區",
+   "address_hint": "中正路、公正街",
+   "lat": 25.2575,
+   "lng": 121.5,
+   "status": "quiet",
+   "scores": {
+    "food": 1,
+    "history": 1,
+    "architecture": 1,
+    "shopping": 1,
+    "crowd": 1
+   },
+   "architecture_styles": [
+    "minnan",
+    "modernist"
+   ],
+   "themes": [
+    "temple",
+    "agriculture",
+    "art-murals"
+   ],
+   "best_for": [
+    "slow-travel",
+    "family"
+   ],
+   "signature_foods": [
+    "筊白筍料理",
+    "山藥"
+   ],
+   "specialties": [
+    "筊白筍",
+    "農產品"
+   ],
+   "landmarks": [
+    "三芝小基隆福成宮（金面媽祖）"
+   ],
+   "tagline_zh": "金面媽祖庇佑的北海岸農鎮小街",
+   "tagline_en": "A small north-coast farming-town street watched over by a golden-faced Mazu",
+   "story_zh": "三芝舊稱「小基隆」，中正路與公正街一帶是當地傳統市街，以福成宮的「金面媽祖」為信仰中心。老街規模不大，觀光多集中在周邊的海岸咖啡館、觀光果園與藝術家工作室。每年十月筊白筍節與早春櫻花季是到訪好時機。",
+   "story_en": "Sanzhi, once 'Little Keelung', has its traditional market streets on Zhongzheng Road and Gongzheng Street, centred on Fucheng Temple's golden-faced Mazu. The street itself is small; most visitors come for coastal cafés, fruit farms and artists' studios nearby. The October water-bamboo festival and early-spring cherry blossoms are good times to visit.",
+   "getting_there": "捷運淡水站轉862、863公車至三芝站",
+   "visit_duration": "<1h",
+   "best_time": "十月筊白筍節、農曆年櫻花季",
+   "confidence": "medium",
+   "sources": [
+    "https://zh.wikipedia.org/wiki/三芝老街"
+   ]
+  }
+ ],
+ "additions": [
+  {
+   "id": "tamsui-chongjian-street",
+   "name_zh": "重建街",
+   "name_en": "Chongjian Street (Tamsui)",
+   "aliases": [
+    "崎仔頂",
+    "九崁街"
+   ],
+   "county": "新北市",
+   "district": "淡水區",
+   "address_hint": "重建街",
+   "lat": 25.1712,
+   "lng": 121.4418,
+   "status": "quiet",
+   "scores": {
+    "food": 1,
+    "history": 3,
+    "architecture": 2,
+    "shopping": 1,
+    "crowd": 1
+   },
+   "architecture_styles": [
+    "minnan",
+    "arcade",
+    "stone-house"
+   ],
+   "themes": [
+    "qing-era",
+    "port-trade",
+    "temple"
+   ],
+   "best_for": [
+    "history-buff",
+    "photography",
+    "slow-travel"
+   ],
+   "signature_foods": [],
+   "specialties": [],
+   "landmarks": [
+    "淡水福佑宮",
+    "淡水禮拜堂（鄰近）"
+   ],
+   "tagline_zh": "淡水第一街，沿山坡蜿蜒的石階老街",
+   "tagline_en": "Tamsui's 'first street', winding up the hillside on stone steps",
+   "story_zh": "重建街被稱為淡水最早的商業街之一，清代沿著山坡自福佑宮一帶向上發展，曾是仕紳與商號聚集的街區，地方傳有「九崁街」等舊稱。2010年代道路拓寬計畫引發保存爭議，部分街屋已拆除，但仍保留蜿蜒的石階與老屋，比中正路安靜許多。",
+   "story_en": "Chongjian Street is regarded as one of Tamsui's earliest commercial streets, climbing the hill from Fuyou Temple and once home to gentry and merchant houses. A 2010s road-widening plan sparked a preservation fight and some houses were lost, but its winding stone steps and old homes remain, a calm contrast to busy Zhongzheng Road.",
+   "getting_there": "捷運淡水站步行約12分鐘",
+   "visit_duration": "<1h",
+   "best_time": "可與淡水老街同遊",
+   "confidence": "medium",
+   "sources": [
+    "https://zh.wikipedia.org/wiki/重建街"
+   ]
+  },
+  {
+   "id": "guide-street-dadaocheng",
+   "name_zh": "貴德街",
+   "name_en": "Guide Street (Dadaocheng)",
+   "aliases": [
+    "六館街",
+    "港町"
+   ],
+   "county": "臺北市",
+   "district": "大同區",
+   "address_hint": "貴德街",
+   "lat": 25.0555,
+   "lng": 121.5085,
+   "status": "quiet",
+   "scores": {
+    "food": 1,
+    "history": 3,
+    "architecture": 2,
+    "shopping": 1,
+    "crowd": 1
+   },
+   "architecture_styles": [
+    "baroque-facade",
+    "minnan",
+    "japanese-era"
+   ],
+   "themes": [
+    "qing-era",
+    "japanese-era",
+    "tea",
+    "port-trade",
+    "river-port"
+   ],
+   "best_for": [
+    "history-buff",
+    "architecture",
+    "slow-travel"
+   ],
+   "signature_foods": [],
+   "specialties": [
+    "茶葉"
+   ],
+   "landmarks": [
+    "錦記茶行（陳天來故居）",
+    "新芳春茶行（鄰近）",
+    "大稻埕碼頭"
+   ],
+   "tagline_zh": "茶商洋樓林立的大稻埕河岸街",
+   "tagline_en": "Dadaocheng's riverside street of tea merchants' mansions",
+   "story_zh": "貴德街緊鄰大稻埕碼頭，清末大稻埕開港後是洋行與茶行聚集的地段，日治時期屬港町。茶商陳天來的錦記茶行洋樓是街上代表建築，展現當年茶葉外銷的財力。相比迪化街，這裡店家較少、更安靜，適合慢慢看建築。",
+   "story_en": "Guide Street runs next to the Dadaocheng wharf; after the port opened in the late Qing it was where foreign trading houses and tea merchants clustered, later part of Japanese-era Minatochō. Tea magnate Chen Tian-lai's Jinji Tea House mansion is its showpiece, a display of export-tea wealth. Quieter than Dihua Street, it suits an unhurried architecture walk.",
+   "getting_there": "捷運北門站或大橋頭站步行約10分鐘",
+   "visit_duration": "<1h",
+   "best_time": "可與迪化街、大稻埕碼頭夕陽同遊",
+   "confidence": "medium",
+   "sources": [
+    "https://zh.wikipedia.org/wiki/貴德街"
+   ]
+  }
+ ]
+}

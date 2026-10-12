@@ -1,0 +1,37 @@
+---
+import { copy, type Lang } from "../i18n/copy";
+interface Props {
+  lang: Lang;
+}
+const t = copy[Astro.props.lang];
+---
+
+<footer class="ftr">
+  <div class="wrap">
+    <p class="made">{t.footer.made}</p>
+    <p class="data">{t.footer.data}</p>
+  </div>
+</footer>
+
+<style>
+  .ftr {
+    position: relative;
+    z-index: 1;
+    margin-top: 120px;
+    padding: 40px 0 56px;
+    border-top: 1px solid var(--line);
+    color: var(--dim);
+    font-size: 13px;
+  }
+  .made {
+    font-family: "Space Grotesk Variable", monospace;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin: 0 0 10px;
+  }
+  .data {
+    max-width: 80ch;
+    margin: 0;
+  }
+</style>

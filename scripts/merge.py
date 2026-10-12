@@ -36,6 +36,13 @@ def km(a, b):
     h = math.sin((la2 - la1) / 2) ** 2 + math.cos(la1) * math.cos(la2) * math.sin((lo2 - lo1) / 2) ** 2
     return 6371 * 2 * math.asin(math.sqrt(h))
 
+COUNTY_SLUG = {"基隆市": "keelung", "臺北市": "taipei", "新北市": "newtaipei", "桃園市": "taoyuan",
+               "新竹市": "hsinchu", "新竹縣": "hsinchu-county", "苗栗縣": "miaoli", "臺中市": "taichung",
+               "彰化縣": "changhua", "南投縣": "nantou", "雲林縣": "yunlin", "嘉義市": "chiayi",
+               "嘉義縣": "chiayi-county", "臺南市": "tainan", "高雄市": "kaohsiung", "屏東縣": "pingtung",
+               "宜蘭縣": "yilan", "花蓮縣": "hualien", "臺東縣": "taitung", "澎湖縣": "penghu",
+               "金門縣": "kinmen", "連江縣": "matsu"}
+
 def norm(s):
     return s.replace("台", "臺")
 
@@ -72,7 +79,7 @@ for path in sorted(glob.glob(os.path.join(research_dir, "*.json"))):
 
             name = s["name_zh"]
             if s.get("id") in seen_ids or not re.fullmatch(r"[a-z0-9-]+", s.get("id") or ""):
-                s["id"] = f"{s.get('id') or 'street'}-{len(streets)}"
+                s["id"] = f"{s.get('id') or 'street'}-{COUNTY_SLUG.get(s['county'], len(streets))}"
                 problems.append(f"id: {name} reassigned to {s['id']}")
             seen_ids.add(s["id"])
             if s.get("status") not in STATUS:
@@ -96,7 +103,8 @@ for path in sorted(glob.glob(os.path.join(research_dir, "*.json"))):
                            | {k: v for k, v in s.items() if k not in FIELD_ORDER})
 
 missing = [f"{r['county']} {r['name_zh']}" for r in base
-           if not any(s["name_zh"] == r["name_zh"] and s["county"] == norm(r["county"]) for s in streets)]
+           if not any(s["county"] == norm(r["county"]) and (r["name_zh"] == s["name_zh"] or r["name_zh"] in s["aliases"])
+                      for s in streets)]
 for m in missing:
     problems.append(f"missing from research: {m}")
 

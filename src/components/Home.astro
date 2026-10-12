@@ -1,0 +1,110 @@
+---
+import Base from "../layouts/Base.astro";
+import Hero from "./Hero.astro";
+import Explorer from "./Explorer.astro";
+import TaiwanMap from "./TaiwanMap.astro";
+import Method from "./Method.astro";
+import { copy, type Lang } from "../i18n/copy";
+
+interface Props {
+  lang: Lang;
+}
+const { lang } = Astro.props;
+---
+
+<Base lang={lang} paths={{ zh: "/", en: "/en/" }}>
+  <div class="home wrap">
+    <div class="main-col">
+      <Hero lang={lang} />
+      <Explorer lang={lang} />
+    </div>
+    <aside class="map-col" aria-label={copy[lang].mapHint}>
+      <div class="sticky">
+        <p class="kicker">01 / MAP</p>
+        <TaiwanMap lang={lang} />
+        <p class="hint">{copy[lang].mapHint}</p>
+      </div>
+    </aside>
+  </div>
+  <Method lang={lang} />
+</Base>
+
+<script>
+  import { initMap } from "../scripts/map";
+  const el = document.querySelector<HTMLElement>("[data-map]");
+  if (el) initMap(el);
+</script>
+
+<style>
+  .home {
+    display: grid;
+    grid-template-columns: minmax(0, 1.45fr) minmax(0, 1fr);
+    gap: clamp(24px, 4vw, 64px);
+    align-items: start;
+  }
+  .map-col {
+    position: sticky;
+    top: 70px;
+    height: calc(100vh - 80px);
+    min-height: 560px;
+  }
+  .sticky {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .sticky :global(.tw-map) {
+    max-height: calc(100vh - 170px);
+    aspect-ratio: 3 / 4;
+    margin: 0 auto;
+    width: 100%;
+  }
+  .sticky :global(.tw-map svg) {
+    max-height: calc(100vh - 200px);
+  }
+  .hint {
+    text-align: center;
+    font-size: 12px;
+    color: var(--dim);
+    margin: 4px 0 0;
+  }
+  @media (max-width: 960px) {
+    .home {
+      grid-template-columns: 1fr;
+    }
+    .map-col {
+      position: relative;
+      top: 0;
+      height: auto;
+      min-height: 0;
+      grid-row: 1;
+      grid-column: 1;
+      order: 0;
+    }
+    .home {
+      display: flex;
+      flex-direction: column;
+      align-items: stretch;
+    }
+    .main-col {
+      display: contents;
+    }
+    .main-col > :global(*) {
+      min-width: 0;
+    }
+    .main-col > :global(.hero) {
+      order: -2;
+    }
+    .map-col {
+      order: -1;
+    }
+    .sticky :global(.tw-map) {
+      max-width: 520px;
+      max-height: none;
+    }
+    .sticky :global(.tw-map svg) {
+      max-height: 70vh;
+    }
+  }
+</style>

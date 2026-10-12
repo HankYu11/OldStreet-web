@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://oldstreet.handyla.co/sitemap.xml

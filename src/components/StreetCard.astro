@@ -1,0 +1,230 @@
+---
+import { countyName, L, streetPath, type Lang } from "../i18n/copy";
+import { commonsUrl, list, text, type Street } from "../lib/streets";
+
+interface Props {
+  s: Street;
+  lang: Lang;
+  hidden?: boolean;
+}
+const { s, lang, hidden = false } = Astro.props;
+const name = lang === "zh" ? s.name_zh : s.name_en;
+const sub = lang === "zh" ? s.name_en : s.name_zh;
+const foods = list(s, "signature_foods", lang).slice(0, 3);
+const keys = ["food", "history", "architecture", "shopping"] as const;
+// Deterministic hue per street for the generative cover when there's no photo.
+const hash = [...s.id].reduce((h, c) => (h * 31 + c.charCodeAt(0)) >>> 0, 7);
+---
+
+<li class="card-li" data-card={s.id} hidden={hidden}>
+  <a class="card" href={streetPath(lang, s.id)} data-status={s.status} data-spotlight data-tilt>
+    <div class="cover" style={`--h:${hash % 360}deg;--a:${hash % 90}deg`}>
+      {
+        s.image ? (
+          <img src={commonsUrl(s.image.commons_file, 480)} alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" />
+        ) : (
+          <span class="gen" aria-hidden="true">{s.name_zh.slice(0, 2)}</span>
+        )
+      }
+      <span class="badge"><i class="status-dot"></i>{L(lang, "status", s.status)}</span>
+      <span class="dist" data-dist hidden></span>
+    </div>
+    <div class="body">
+      <p class="place">{lang === "zh" ? `${s.county} · ${s.district}` : [text(s, "district", lang), countyName(lang, s.county)].filter(Boolean).join(", ")}</p>
+      <h3 class="name" data-name>{name}</h3>
+      <p class="sub">{sub}</p>
+      <p class="tag">{lang === "zh" ? s.tagline_zh : s.tagline_en}</p>
+      <dl class="scores">
+        {
+          keys.map((k) => (
+            <div>
+              <dt><abbr title={L(lang, "score", k)}>{L(lang, "scoreShort", k)}</abbr></dt>
+              <dd>
+                <span class="sr-only">{s.scores[k]}/3</span>
+                {[1, 2, 3].map((n) => <i aria-hidden="true" class={n <= s.scores[k] ? "on" : ""} />)}
+              </dd>
+            </div>
+          ))
+        }
+      </dl>
+      {foods.length > 0 && <p class="foods">{foods.map((f) => <span>{f}</span>)}</p>}
+    </div>
+  </a>
+</li>
+
+<style>
+  .card-li {
+    list-style: none;
+  }
+  .card {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    border-radius: var(--radius);
+    background: linear-gradient(165deg, #ffffff0c, #ffffff03 60%);
+    border: 1px solid var(--line);
+    overflow: hidden;
+    transition:
+      border-color 0.3s,
+      box-shadow 0.3s,
+      transform 0.35s var(--ease);
+  }
+  .card:hover,
+  .card:focus-visible {
+    border-color: color-mix(in srgb, var(--sc) 55%, transparent);
+    box-shadow:
+      0 24px 60px #0008,
+      0 0 0 1px color-mix(in srgb, var(--sc) 30%, transparent),
+      0 0 40px color-mix(in srgb, var(--sc) 18%, transparent);
+  }
+  .cover {
+    position: relative;
+    height: 132px;
+    overflow: hidden;
+    background:
+      repeating-linear-gradient(var(--a), #ffffff08 0 2px, transparent 2px 14px),
+      radial-gradient(120% 140% at 0% 0%, hsl(var(--h) 80% 55% / 0.35), transparent 60%),
+      radial-gradient(100% 120% at 100% 100%, hsl(calc(var(--h) + 140deg) 80% 55% / 0.28), transparent 60%),
+      #0d1020;
+  }
+  .cover img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    filter: saturate(0.85) contrast(1.05);
+    transition: transform 0.8s var(--ease-out), filter 0.5s;
+  }
+  .cover::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background:
+      linear-gradient(180deg, transparent 40%, #0b0d16 100%),
+      repeating-linear-gradient(0deg, #0000 0 3px, #0000001f 3px 4px);
+  }
+  .card:hover .cover img {
+    transform: scale(1.06);
+    filter: saturate(1.1) contrast(1.1);
+  }
+  .gen {
+    position: absolute;
+    right: -6px;
+    bottom: -26px;
+    font-family: var(--font-serif);
+    font-weight: 900;
+    font-size: 104px;
+    line-height: 1;
+    color: transparent;
+    -webkit-text-stroke: 1px #ffffff2e;
+    letter-spacing: -0.04em;
+  }
+  .badge,
+  .dist {
+    position: absolute;
+    z-index: 1;
+    top: 12px;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 3px 10px;
+    border-radius: 999px;
+    font-size: 12px;
+    background: #06070cb3;
+    backdrop-filter: blur(8px);
+    border: 1px solid var(--line-2);
+  }
+  .badge {
+    left: 12px;
+  }
+  .dist[hidden] {
+    display: none;
+  }
+  .dist {
+    right: 12px;
+    font-family: "Space Grotesk Variable", monospace;
+    color: var(--jade);
+  }
+  .body {
+    padding: 4px 18px 18px;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+  }
+  .place {
+    margin: 0;
+    font-size: 12px;
+    color: var(--dim);
+    letter-spacing: 0.06em;
+  }
+  .name {
+    margin: 2px 0 0;
+    font-family: var(--font-serif);
+    font-weight: 900;
+    font-size: 22px;
+    line-height: 1.25;
+  }
+  :global(html[lang="en"]) .name {
+    font-family: "Space Grotesk Variable", sans-serif;
+    font-weight: 700;
+    letter-spacing: -0.01em;
+  }
+  .sub {
+    margin: 0;
+    font-size: 12px;
+    color: var(--dim);
+  }
+  .tag {
+    margin: 8px 0 12px;
+    font-size: 14px;
+    color: var(--muted);
+    line-height: 1.55;
+    flex: 1;
+  }
+  .scores {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 8px;
+    margin: 0;
+  }
+  .scores div {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+  }
+  .scores dt {
+    font-size: 11px;
+    color: var(--dim);
+  }
+  .scores abbr {
+    text-decoration: none;
+  }
+  .scores dd {
+    margin: 0;
+    display: flex;
+    gap: 3px;
+  }
+  .scores i {
+    flex: 1;
+    height: 4px;
+    border-radius: 2px;
+    background: #ffffff14;
+  }
+  .scores i.on {
+    background: linear-gradient(90deg, var(--amber), var(--brick));
+    box-shadow: 0 0 8px #ff6a3d66;
+  }
+  .foods {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin: 14px 0 0;
+  }
+  .foods span {
+    font-size: 12px;
+    padding: 2px 9px;
+    border-radius: 999px;
+    background: #ffb54714;
+    color: #ffd39a;
+    border: 1px solid #ffb54733;
+  }
+</style>

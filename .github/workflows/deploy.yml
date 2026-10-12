@@ -1,6 +1,7 @@
 name: Deploy
 
-# Builds on every PR to main; deploys oldstreet.handyla.co when main changes.
+# Every PR to main: build, then deploy a temporary Firebase preview channel and comment its URL.
+# Pushes to main: deploy oldstreet.handyla.co (live channel).
 on:
   pull_request:
     branches: [main]
@@ -14,6 +15,10 @@ jobs:
     permissions:
       checks: write
       contents: read
+      pull-requests: write
+    env:
+      # Deploy steps are skipped (build still runs) until the secret is configured.
+      HAS_FIREBASE_SA: ${{ secrets.FIREBASE_SERVICE_ACCOUNT != '' }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -22,8 +27,20 @@ jobs:
           cache: npm
       - run: npm ci
       - run: npm run build
-      - uses: FirebaseExtended/action-hosting-deploy@v0
-        if: github.event_name != 'pull_request'
+      - name: Deploy PR preview
+        uses: FirebaseExtended/action-hosting-deploy@v0
+        if: github.event_name == 'pull_request' && env.HAS_FIREBASE_SA == 'true'
+        env:
+          SITE_URL: https://oldstreet.handyla.co
+        with:
+          repoToken: ${{ secrets.GITHUB_TOKEN }}
+          firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+          expires: 7d
+          projectId: freshtogo-e52a1
+          target: prod
+      - name: Deploy live
+        uses: FirebaseExtended/action-hosting-deploy@v0
+        if: github.event_name != 'pull_request' && env.HAS_FIREBASE_SA == 'true'
         with:
           repoToken: ${{ secrets.GITHUB_TOKEN }}
           firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}

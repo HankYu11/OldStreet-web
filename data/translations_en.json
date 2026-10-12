@@ -1,0 +1,3228 @@
+{
+  "keelung-yi-er-road": {
+    "getting_there_en": "About 15 min walk from Keelung Station",
+    "best_time_en": "Pair with Keelung Tower and Zhongzheng Park",
+    "address_hint_en": "Around the Yi'er Rd / Xin'er Rd intersection",
+    "district_en": "Zhongzheng District",
+    "signature_foods_en": [],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Former Kishida Kimono Shop (neo-Victorian building)",
+      "Keelung Tower"
+    ]
+  },
+  "kanziding-fish-market": {
+    "getting_there_en": "About 10 min walk from Keelung Station",
+    "best_time_en": "Fish market is busiest 2:00–5:00 am; almost no market during the day",
+    "address_hint_en": "Around Xiao 1st Rd and Ai 4th Rd (by the Xuchuan River)",
+    "district_en": "Ren'ai District",
+    "signature_foods_en": [
+      "Fresh-caught seafood",
+      "Sashimi"
+    ],
+    "specialties_en": [
+      "Wholesale seafood"
+    ],
+    "landmarks_en": [
+      "Xuchuan River"
+    ]
+  },
+  "nuannuan-old-street": {
+    "getting_there_en": "Right at TRA Nuannuan Station",
+    "best_time_en": "",
+    "address_hint_en": "Nuannuan Street and around Nuannuan Station",
+    "district_en": "Nuannuan District",
+    "signature_foods_en": [],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Nuannuan Station",
+      "Ande Temple"
+    ]
+  },
+  "dihua-street": {
+    "getting_there_en": "MRT Beimen or Daqiaotou Station, ~10 min walk",
+    "best_time_en": "Busiest during the Lunar New Year goods market; weekday mornings are best for browsing old shops",
+    "address_hint_en": "Dihua Street Section 1",
+    "district_en": "Datong District",
+    "signature_foods_en": [
+      "Snacks around Yongle Market",
+      "Braised pork rice (lu-rou-fan)",
+      "Sticky rice cake (mi-gao)",
+      "Chicken rolls (ji-juan)",
+      "Old-style black tea"
+    ],
+    "specialties_en": [
+      "Chinese herbal medicine",
+      "Dried goods",
+      "Fabrics",
+      "Tea",
+      "Mullet roe (karasumi)"
+    ],
+    "landmarks_en": [
+      "Taipei Xia-Hai City God Temple",
+      "Yongle Market",
+      "Watson's Pharmacy (historic building)",
+      "Dadaocheng Wharf"
+    ]
+  },
+  "taiheicho-yanping-north-road": {
+    "getting_there_en": "MRT Beimen or Daqiaotou Station, ~5–10 min walk",
+    "best_time_en": "Combine with Dihua Street and Dadaocheng",
+    "address_hint_en": "Yanping North Road Sections 1–2",
+    "district_en": "Datong District",
+    "signature_foods_en": [
+      "Snacks around the Rotary (Yuanhuan)"
+    ],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Former Tianma Tea House (where the 228 Incident began)",
+      "Former Daiichi Theater site"
+    ]
+  },
+  "niumoche-street": {
+    "getting_there_en": "MRT Daqiaotou Station, ~10 min walk",
+    "best_time_en": "",
+    "address_hint_en": "Dihua Street Section 2 (north of Minquan West Road)",
+    "district_en": "Datong District",
+    "signature_foods_en": [],
+    "specialties_en": [],
+    "landmarks_en": []
+  },
+  "dalongdong-44-shophouses": {
+    "getting_there_en": "MRT Yuanshan Station, ~10 min walk",
+    "best_time_en": "Combine with visits to Baoan Temple and the Confucius Temple",
+    "address_hint_en": "Around Hami Street",
+    "district_en": "Datong District",
+    "signature_foods_en": [],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Dalongdong Baoan Temple",
+      "Taipei Confucius Temple",
+      "Chen Yueji Ancestral House (Laoshi Fu)"
+    ]
+  },
+  "chifeng-street": {
+    "getting_there_en": "MRT Zhongshan or Shuanglian Station, ~3 min walk",
+    "best_time_en": "Shops are mostly open from afternoon into the evening",
+    "address_hint_en": "Chifeng Street and Lane 49, Chifeng Street",
+    "district_en": "Datong District",
+    "signature_foods_en": [
+      "Coffee",
+      "Desserts",
+      "Small bars"
+    ],
+    "specialties_en": [
+      "Car and scooter parts",
+      "Hardware",
+      "Curated select shops"
+    ],
+    "landmarks_en": [
+      "Zhongshan MRT Linear Park"
+    ]
+  },
+  "bangka-guiyang-street": {
+    "getting_there_en": "MRT Longshan Temple Station, ~8 min walk",
+    "best_time_en": "Liveliest during the Qingshan King Festival in the 10th lunar month",
+    "address_hint_en": "Guiyang Street Section 2",
+    "district_en": "Wanhua District",
+    "signature_foods_en": [
+      "Monga (Bangka) street snacks",
+      "Herbal tea (qing-cao-cha)"
+    ],
+    "specialties_en": [
+      "Deity statue carving",
+      "Buddhist ritual supplies"
+    ],
+    "landmarks_en": [
+      "Bangka Qingshan Temple",
+      "Bangka Qingshui Temple",
+      "Bopiliao Historic Block"
+    ]
+  },
+  "bopiliao-historic-block": {
+    "getting_there_en": "MRT Longshan Temple Station, ~3 min walk",
+    "best_time_en": "Closed Mondays; exhibitions mostly open during the day",
+    "address_hint_en": "Lane 173, Kangding Road",
+    "district_en": "Wanhua District",
+    "signature_foods_en": [],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Bopiliao Historic Block",
+      "Taipei Heritage Education Center",
+      "Laosong Elementary School"
+    ]
+  },
+  "sakaecho-hengyang-road": {
+    "getting_there_en": "MRT Ximen or NTU Hospital Station, ~5 min walk",
+    "best_time_en": "",
+    "address_hint_en": "Around the Hengyang Rd / Boai Rd intersection",
+    "district_en": "Zhongzheng District",
+    "signature_foods_en": [],
+    "specialties_en": [
+      "Fabric shops",
+      "Tailors (Western suits)"
+    ],
+    "landmarks_en": [
+      "Former Kikumoto Department Store site"
+    ]
+  },
+  "kyomachi-boai-road": {
+    "getting_there_en": "MRT NTU Hospital or Ximen Station, ~5 min walk",
+    "best_time_en": "",
+    "address_hint_en": "Around Boai Road and Wuchang Street Section 1",
+    "district_en": "Zhongzheng District",
+    "signature_foods_en": [],
+    "specialties_en": [
+      "Camera equipment",
+      "Seal (chop) carving"
+    ],
+    "landmarks_en": [
+      "Former Kikumoto Department Store site (Boai Rd / Hengyang Rd corner)"
+    ]
+  },
+  "xikou-old-street": {
+    "getting_there_en": "MRT Songshan Station or TRA Songshan Station, ~2 min walk",
+    "best_time_en": "Night market opens from dusk; Mazu procession in the 3rd lunar month",
+    "address_hint_en": "Bade Road Section 4, around Ciyou Temple",
+    "district_en": "Songshan District",
+    "signature_foods_en": [
+      "Pepper buns (hu-jiao-bing)",
+      "Herbal pork ribs soup (yao-dun-pai-gu)",
+      "Spicy stinky tofu"
+    ],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Songshan Ciyou Temple",
+      "Rainbow Bridge",
+      "Raohe Street Night Market"
+    ]
+  },
+  "jingmei-old-street": {
+    "getting_there_en": "MRT Jingmei Station, ~3 min walk",
+    "best_time_en": "Livelier from dusk when the night market opens",
+    "address_hint_en": "Jingmei Street",
+    "district_en": "Wenshan District",
+    "signature_foods_en": [
+      "Jingmei Night Market snacks"
+    ],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Jingmei Jiying Temple"
+    ]
+  },
+  "shilin-old-street": {
+    "getting_there_en": "MRT Jiantan Station, ~5 min walk",
+    "best_time_en": "Night market is busiest in the evening; by day see Cicheng Temple and herbal shops",
+    "address_hint_en": "Dadong Rd, Danan Rd, Daxi Rd and Dabei Rd",
+    "district_en": "Shilin District",
+    "signature_foods_en": [
+      "Big cake wrapped in small cake (da-bing-bao-xiao-bing)",
+      "Hot-Star large fried chicken cutlet",
+      "Shilin big sausage",
+      "Pan-fried buns (sheng-jian-bao)"
+    ],
+    "specialties_en": [
+      "Chinese herbal medicine"
+    ],
+    "landmarks_en": [
+      "Shilin Cicheng Temple",
+      "Shilin Market",
+      "Xu Jumao Chinese Herbal Pharmacy"
+    ]
+  },
+  "beitou-old-street": {
+    "getting_there_en": "MRT Beitou Station, ~5 min walk",
+    "best_time_en": "Market is busiest from morning to noon",
+    "address_hint_en": "Zhongzheng Street and around Beitou Market",
+    "district_en": "Beitou District",
+    "signature_foods_en": [
+      "Beitou Market snacks",
+      "Braised pork rice (lu-rou-fan)",
+      "Mi-tai-mu (short rice noodles)"
+    ],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Beitou Market",
+      "Beitou Cihou Temple"
+    ]
+  },
+  "guandu-old-street": {
+    "getting_there_en": "MRT Guandu Station, ~10 min walk",
+    "best_time_en": "More vendors in front of the temple on weekends",
+    "address_hint_en": "Lane 301, Dadu Road Section 3, around Guandu Temple",
+    "district_en": "Beitou District",
+    "signature_foods_en": [
+      "Snacks in front of Guandu Temple",
+      "Grilled corn"
+    ],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Guandu Temple",
+      "Guandu Nature Park"
+    ]
+  },
+  "nangang-old-street": {
+    "getting_there_en": "MRT/TRA Nangang Station, ~5 min walk",
+    "best_time_en": "",
+    "address_hint_en": "Zhongnan Street and Nangang Road Section 1",
+    "district_en": "Nangang District",
+    "signature_foods_en": [],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Nangang Presbyterian Church",
+      "Nangang Station"
+    ]
+  },
+  "tamsui-old-street": {
+    "getting_there_en": "MRT Tamsui Station, ~5 min walk",
+    "best_time_en": "Watch the sunset at dusk; crowded on weekends",
+    "address_hint_en": "Zhongzheng Road (Gongguan Lane to Chongjian Street)",
+    "district_en": "Tamsui District",
+    "signature_foods_en": [
+      "A-gei (stuffed fried tofu)",
+      "Fish ball soup",
+      "Iron eggs (tie-dan)",
+      "Fried fish crisps",
+      "Sour plum drink"
+    ],
+    "specialties_en": [
+      "Traditional toys",
+      "Souvenirs"
+    ],
+    "landmarks_en": [
+      "Tamsui Fuyou Temple",
+      "Tamsui Longshan Temple",
+      "Tamsui Church",
+      "Fort San Domingo"
+    ]
+  },
+  "bali-old-street": {
+    "getting_there_en": "~10 min ferry from Tamsui; or MRT Guandu Station then bus R13/R22",
+    "best_time_en": "Busiest on weekend afternoons into the evening",
+    "address_hint_en": "Around Bali Ferry Pier and Longmi Road Section 1",
+    "district_en": "Bali District",
+    "signature_foods_en": [
+      "Twin fried dough (shuang-bao-tai)",
+      "Green mussels (kong-que-ge)",
+      "Grilled squid cakes",
+      "Pickled mustard buns"
+    ],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Bali Ferry Pier",
+      "Bali Left Bank Bikeway",
+      "Shihsanhang Museum of Archaeology (nearby)"
+    ]
+  },
+  "jinbaoli-old-street": {
+    "getting_there_en": "From Tamsui or Keelung, take the Taiwan Tourist Shuttle Crown Northern Coast Line to Jinshan stop",
+    "best_time_en": "Avoid weekend lunchtime for shorter queues",
+    "address_hint_en": "Jinbaoli Street and Lane 190, Zhongshan Road",
+    "district_en": "Jinshan District",
+    "signature_foods_en": [
+      "Jinshan duck",
+      "Sweet potatoes",
+      "Taro balls (yu-yuan)"
+    ],
+    "specialties_en": [
+      "Sweet potato products"
+    ],
+    "landmarks_en": [
+      "Jinshan Cihu Temple",
+      "Jinshan Guang'an Temple"
+    ]
+  },
+  "shenkeng-old-street": {
+    "getting_there_en": "MRT Muzha Station, then bus 660, 819, etc. to Shenkeng stop",
+    "best_time_en": "Crowded on weekends, more relaxed on weekdays",
+    "address_hint_en": "Shenkeng Street (Beishen Rd Sec. 3 to Pingpu St)",
+    "district_en": "Shenkeng District",
+    "signature_foods_en": [
+      "Shenkeng tofu",
+      "Spicy stinky tofu",
+      "Charcoal-grilled tofu",
+      "Red-braised tofu"
+    ],
+    "specialties_en": [
+      "Tofu products"
+    ],
+    "landmarks_en": [
+      "Shenkeng Old Street banyan tree",
+      "Huang Family Yong'an Residence (nearby)"
+    ]
+  },
+  "shiding-old-street": {
+    "getting_there_en": "MRT Muzha or Jingmei Station, then bus 666 to Shiding stop",
+    "best_time_en": "Almost no tourists on weekdays; more shops open on weekends",
+    "address_hint_en": "Shiding East Street and Shiding West Street",
+    "district_en": "Shiding District",
+    "signature_foods_en": [
+      "Shiding tofu",
+      "Baozhong tea"
+    ],
+    "specialties_en": [
+      "Wenshan Baozhong tea",
+      "Oriental Beauty tea"
+    ],
+    "landmarks_en": [
+      "\"Bu-jian-tian\" covered street on Shiding East St",
+      "Stilt houses",
+      "Shiding Jishun Temple"
+    ]
+  },
+  "pinglin-old-street": {
+    "getting_there_en": "MRT Xindian Station, then bus 923 or Hsintien Bus to Pinglin stop",
+    "best_time_en": "Tea aroma is strongest in the spring tea season (Apr–May)",
+    "address_hint_en": "Pinglin Street and around Beiyi Road Section 8",
+    "district_en": "Pinglin District",
+    "signature_foods_en": [
+      "Tea eggs",
+      "Tea-oil wheat noodles (mian-xian)",
+      "Baozhong tea dishes",
+      "Tea jelly"
+    ],
+    "specialties_en": [
+      "Wenshan Baozhong tea"
+    ],
+    "landmarks_en": [
+      "Pinglin Tea Museum",
+      "Pinglin Arch Bridge"
+    ]
+  },
+  "wulai-old-street": {
+    "getting_there_en": "MRT Xindian Station, then bus 849 to Wulai terminal",
+    "best_time_en": "Hot springs in winter; fewer people on weekdays",
+    "address_hint_en": "Wulai Street",
+    "district_en": "Wulai District",
+    "signature_foods_en": [
+      "Bamboo tube rice",
+      "Wild boar sausage",
+      "Maqaw (mountain pepper) dishes",
+      "Millet wine",
+      "Hot spring eggs"
+    ],
+    "specialties_en": [
+      "Atayal weaving"
+    ],
+    "landmarks_en": [
+      "Wulai Atayal Museum",
+      "Wulai Waterfall (nearby)",
+      "Wulai Scenic Trolley"
+    ]
+  },
+  "jingtong-old-street": {
+    "getting_there_en": "Right at Jingtong Station on the TRA Pingxi Line",
+    "best_time_en": "Quiet on weekdays, busy on weekends",
+    "address_hint_en": "Around Jingtong Station",
+    "district_en": "Pingxi District",
+    "signature_foods_en": [
+      "Chicken rolls (ji-juan)",
+      "Miner's lunch box"
+    ],
+    "specialties_en": [
+      "Wishing bamboo tubes"
+    ],
+    "landmarks_en": [
+      "Jingtong Station",
+      "Shidi Coal Mine Washery",
+      "Taiyang Mining Pingxi Guesthouse"
+    ]
+  },
+  "pingxi-old-street": {
+    "getting_there_en": "Right at Pingxi Station on the TRA Pingxi Line",
+    "best_time_en": "Busiest during the Lantern Festival sky lantern event (plan ahead)",
+    "address_hint_en": "Pingxi Street and Jing'an Road",
+    "district_en": "Pingxi District",
+    "signature_foods_en": [
+      "Sausages",
+      "Taro balls (yu-yuan)"
+    ],
+    "specialties_en": [
+      "Sky lanterns"
+    ],
+    "landmarks_en": [
+      "Pingxi Station",
+      "Pingxi Post Office cast-iron mailbox",
+      "Pingxi railway bridge"
+    ]
+  },
+  "shifen-old-street": {
+    "getting_there_en": "Right at Shifen Station on the TRA Pingxi Line",
+    "best_time_en": "Less crowded on weekdays or toward evening",
+    "address_hint_en": "Shifen Street (along both sides of the tracks)",
+    "district_en": "Pingxi District",
+    "signature_foods_en": [
+      "Chicken wing stuffed with fried rice",
+      "Grilled sausage",
+      "Peanut ice cream roll"
+    ],
+    "specialties_en": [
+      "Sky lanterns"
+    ],
+    "landmarks_en": [
+      "Shifen Station",
+      "Shifen Waterfall (nearby)",
+      "Jing'an Suspension Bridge"
+    ]
+  },
+  "ruifang-old-street": {
+    "getting_there_en": "TRA Ruifang Station, ~3 min walk",
+    "best_time_en": "Grab a bite during a train transfer",
+    "address_hint_en": "Ruifang Street and Mingdeng Road",
+    "district_en": "Ruifang District",
+    "signature_foods_en": [
+      "Ruifang Food Plaza snacks",
+      "Pepper buns (hu-jiao-bing)"
+    ],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Ruifang Station"
+    ]
+  },
+  "houtong-old-street": {
+    "getting_there_en": "Right at TRA Houtong Station",
+    "best_time_en": "Quieter on weekdays, with more cats around",
+    "address_hint_en": "Chailiao Road and around Houtong Station",
+    "district_en": "Ruifang District",
+    "signature_foods_en": [],
+    "specialties_en": [
+      "Cat-themed merchandise"
+    ],
+    "landmarks_en": [
+      "Houtong Station",
+      "Ruisan Coal Preparation Plant",
+      "Houtong Mine Tunnel"
+    ]
+  },
+  "jiufen-old-street": {
+    "getting_there_en": "TRA Ruifang Station, then bus 788/965/1062 to Jiufen Old Street stop",
+    "best_time_en": "Most beautiful at dusk when the lanterns light up; less crowded on weekdays",
+    "address_hint_en": "Jishan Street, Shuqi Road and Qingbian Road",
+    "district_en": "Ruifang District",
+    "signature_foods_en": [
+      "Taro balls (yu-yuan)",
+      "Herbal rice cake (cao-zai-guo)",
+      "Fish balls",
+      "Peanut ice cream roll"
+    ],
+    "specialties_en": [
+      "Tea houses",
+      "Ocarinas"
+    ],
+    "landmarks_en": [
+      "Shuqi Road stone steps",
+      "A-Mei Tea House",
+      "Shengping Theater"
+    ]
+  },
+  "jinguashi-qitang-old-street": {
+    "getting_there_en": "TRA Ruifang Station, then bus 788/891/1062 to Jinguashi stop",
+    "best_time_en": "Combine with the Gold Museum",
+    "address_hint_en": "Qitang Road",
+    "district_en": "Ruifang District",
+    "signature_foods_en": [],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Gold Museum (nearby)",
+      "Quanji Temple",
+      "Crown Prince Chalet (nearby)"
+    ]
+  },
+  "xinzhuang-temple-street": {
+    "getting_there_en": "MRT Xinzhuang or Touqianzhuang Station, ~10 min walk",
+    "best_time_en": "Vendors open from dusk; Dazhongye Festival in the 5th lunar month",
+    "address_hint_en": "Xinzhuang Road and Bijiang Street",
+    "district_en": "Xinzhuang District",
+    "signature_foods_en": [
+      "Long-established Xinzhuang snacks",
+      "Fried savory cakes (zha-guo)",
+      "Tofu pudding (douhua)"
+    ],
+    "specialties_en": [
+      "Glove puppets (budaixi)",
+      "Traditional pastries"
+    ],
+    "landmarks_en": [
+      "Xinzhuang Ciyou Temple",
+      "Xinzhuang Wusheng Temple",
+      "Xinzhuang Guangfu Temple (Three Mountain Kings Temple)",
+      "Xinzhuang Dizang Temple (Dazhong Temple)"
+    ]
+  },
+  "sanxia-old-street": {
+    "getting_there_en": "MRT Yongning or Yingge Station, then bus to Sanxia Old Street",
+    "best_time_en": "Weekday mornings are best for street photos",
+    "address_hint_en": "Minquan Street",
+    "district_en": "Sanxia District",
+    "signature_foods_en": [
+      "Golden croissants (jin-niu-jiao)",
+      "Old-style tofu pudding (douhua)"
+    ],
+    "specialties_en": [
+      "Indigo dyeing",
+      "Camphor products"
+    ],
+    "landmarks_en": [
+      "Sanxia Zushi Temple",
+      "Sanxia Arch Bridge",
+      "Sanxia Indigo Dyeing Workshop"
+    ]
+  },
+  "yingge-ceramics-old-street": {
+    "getting_there_en": "TRA Yingge Station, ~10 min walk; or Sanying Line Ceramics Old Street Station",
+    "best_time_en": "Shops are more relaxed on weekdays",
+    "address_hint_en": "Jianshanpu Road, Chongqing Street and Yuying Street",
+    "district_en": "Yingge District",
+    "signature_foods_en": [
+      "Yingge-yaki (Yingge-style baked snack)",
+      "Old-style snacks"
+    ],
+    "specialties_en": [
+      "Ceramics",
+      "Tea sets",
+      "Wheel-thrown pottery"
+    ],
+    "landmarks_en": [
+      "Yingge Ceramics Museum (nearby)",
+      "Yingge Rock"
+    ]
+  },
+  "xindian-old-street": {
+    "getting_there_en": "MRT Xindian Station, ~5 min walk",
+    "best_time_en": "Watch the sunset over Bitan at dusk",
+    "address_hint_en": "Guangming Street and Xindian Road (east bank of Bitan)",
+    "district_en": "Xindian District",
+    "signature_foods_en": [
+      "Lao Yang pan-fried buns",
+      "Guangming Street snacks"
+    ],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Bitan Suspension Bridge",
+      "Bitan Scenic Area"
+    ]
+  },
+  "xizhi-old-street": {
+    "getting_there_en": "TRA Xizhi Station, ~5 min walk",
+    "best_time_en": "Busier during morning market hours",
+    "address_hint_en": "Zhongzheng Road",
+    "district_en": "Xizhi District",
+    "signature_foods_en": [
+      "Squid thick soup (you-yu-geng)",
+      "Eight-treasure glass noodles"
+    ],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Xizhi Jide Temple",
+      "Su Family Residence by the station",
+      "Xizhi Night Market (nearby)"
+    ]
+  },
+  "shuangxi-old-street": {
+    "getting_there_en": "TRA Shuangxi Station, ~10 min walk",
+    "best_time_en": "Most shops open during the day",
+    "address_hint_en": "Chang'an Street and Taiping Road",
+    "district_en": "Shuangxi District",
+    "signature_foods_en": [],
+    "specialties_en": [
+      "Blacksmith-forged tools",
+      "Chinese herbal medicine"
+    ],
+    "landmarks_en": [
+      "Sanzhong Temple",
+      "Lin Yi He Tang Chinese Medicine Shop",
+      "Shuangxi Blacksmith Shop",
+      "Former Shuangxi ferry landing site"
+    ]
+  },
+  "gouzaiqian-old-street": {
+    "getting_there_en": "MRT Taishan Guihe Station, ~10 min walk",
+    "best_time_en": "",
+    "address_hint_en": "Lane 256, Mingzhi Road Section 1",
+    "district_en": "Taishan District",
+    "signature_foods_en": [],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Taishan Yan Temple",
+      "Mingzhi Academy (nearby)"
+    ]
+  },
+  "sanzhi-old-street": {
+    "getting_there_en": "MRT Tamsui Station, then bus 862 or 863 to Sanzhi stop",
+    "best_time_en": "Water bamboo festival in October; cherry blossom season around Lunar New Year",
+    "address_hint_en": "Zhongzheng Road and Gongzheng Street",
+    "district_en": "Sanzhi District",
+    "signature_foods_en": [
+      "Water bamboo shoot dishes",
+      "Chinese yam"
+    ],
+    "specialties_en": [
+      "Water bamboo shoots",
+      "Farm produce"
+    ],
+    "landmarks_en": [
+      "Sanzhi Xiaojilong Fucheng Temple (Golden-Faced Mazu)"
+    ]
+  },
+  "tamsui-chongjian-street": {
+    "getting_there_en": "MRT Tamsui Station, ~12 min walk",
+    "best_time_en": "Combine with Tamsui Old Street",
+    "address_hint_en": "Chongjian Street",
+    "district_en": "Tamsui District",
+    "signature_foods_en": [],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Tamsui Fuyou Temple",
+      "Tamsui Church (nearby)"
+    ]
+  },
+  "guide-street-dadaocheng": {
+    "getting_there_en": "MRT Beimen or Daqiaotou Station, ~10 min walk",
+    "best_time_en": "Combine with Dihua Street and sunset at Dadaocheng Wharf",
+    "address_hint_en": "Guide Street",
+    "district_en": "Datong District",
+    "signature_foods_en": [],
+    "specialties_en": [
+      "Tea"
+    ],
+    "landmarks_en": [
+      "Jinji Tea House (Chen Tian-lai Residence)",
+      "Sin Hong Choon Tea House (nearby)",
+      "Dadaocheng Wharf"
+    ]
+  },
+  "daxi-old-street": {
+    "getting_there_en": "Taoyuan Bus, or TRA Taoyuan Station then bus to Daxi, short walk; on weekends take the bus to avoid traffic",
+    "best_time_en": "Less crowded on weekdays or weekend mornings; Daxi Puji Hall procession around Guan Sheng Di Jun's birthday (24th day of the 6th lunar month)",
+    "address_hint_en": "Heping Road, Zhongshan Road and Zhongyang Road",
+    "district_en": "Daxi District",
+    "signature_foods_en": [
+      "Daxi dried tofu",
+      "Peanut brittle",
+      "Tofu pudding (douhua)",
+      "Hakka flat rice noodles (ban-tiao)"
+    ],
+    "specialties_en": [
+      "Woodcraft",
+      "Altar tables and furniture"
+    ],
+    "landmarks_en": [
+      "Daxi Furen Temple",
+      "Li Teng-fang Mansion",
+      "Daxi Wood Art Ecomuseum",
+      "Zhongzheng Park"
+    ]
+  },
+  "xinnan-old-street": {
+    "getting_there_en": "Same as Daxi Old Street; a few minutes' walk",
+    "best_time_en": "Visit together with Daxi Old Street",
+    "address_hint_en": "Zhongshan Road",
+    "district_en": "Daxi District",
+    "signature_foods_en": [],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Daxi Zhongshan Road facade shophouses",
+      "Daxi Assembly Hall"
+    ]
+  },
+  "taoyuan-xinmin-old-street": {
+    "getting_there_en": "TRA Taoyuan Station, ~5 min walk",
+    "best_time_en": "Come in the morning for breakfast and a visit to Jingfu Temple",
+    "address_hint_en": "Xinmin Street (around Jingfu Temple)",
+    "district_en": "Taoyuan District",
+    "signature_foods_en": [
+      "Fried dough sticks (you-tiao)",
+      "Temple-front snacks"
+    ],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Taoyuan Jingfu Temple"
+    ]
+  },
+  "sankeng-old-street": {
+    "getting_there_en": "Driving recommended; or bus from Zhongli/Longtan to Sankeng",
+    "best_time_en": "Livelier on weekends; pair with the Dahan River bikeway",
+    "address_hint_en": "Around Sankengzi Yongfu Temple and Yongchang Road",
+    "district_en": "Longtan District",
+    "signature_foods_en": [
+      "Hakka flat rice noodles (ban-tiao)",
+      "Herbal rice cake (cao-zai-guo)",
+      "Hakka vegetable buns (cai-bao)",
+      "Hakka steamed rice dumplings (zhu-long-ban)",
+      "Hakka pounded tea (lei-cha)"
+    ],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Sankeng Yongfu Temple",
+      "Heibaixi washing pool",
+      "Qingqian Di (historic residence)"
+    ]
+  },
+  "longtan-old-street": {
+    "getting_there_en": "Driving recommended; or bus from Zhongli to Longtan",
+    "best_time_en": "Creative base opens weekend afternoons; antique-parade God of Wealth welcoming during Lunar New Year",
+    "address_hint_en": "Around Longyuan Temple, Donglong Road and Nanlong Road",
+    "district_en": "Longtan District",
+    "signature_foods_en": [
+      "Hakka cuisine",
+      "Hakka vegetable buns (cai-bao)",
+      "Hakka flat rice noodles (ban-tiao)"
+    ],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Longyuan Temple",
+      "Shengji Pavilion (paper-burning pavilion)",
+      "Longtan Lake",
+      "Lingtan Street Creative Base"
+    ]
+  },
+  "yangmei-old-street": {
+    "getting_there_en": "TRA Yangmei Station, ~15 min walk",
+    "best_time_en": "",
+    "address_hint_en": "Around Dahua Street, Guanghua Street and Meishan East Street",
+    "district_en": "Yangmei District",
+    "signature_foods_en": [],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Old piers of Hongmei Bridge",
+      "Xifu Temple"
+    ]
+  },
+  "fugang-old-street": {
+    "getting_there_en": "Right outside TRA Fugang Station",
+    "best_time_en": "Quiet on weekdays; art installations during the Taoyuan Land Art Festival",
+    "address_hint_en": "Zhongzheng Road (in front of Fugang Station), Xinyi Street and Zhonghua Street",
+    "district_en": "Yangmei District",
+    "signature_foods_en": [],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Lu Jia-sheng Western-style House",
+      "Fugang Station"
+    ]
+  },
+  "xiazhuangzi-old-street": {
+    "getting_there_en": "Driving recommended",
+    "best_time_en": "",
+    "address_hint_en": "Around Yong'an Village",
+    "district_en": "Xinwu District",
+    "signature_foods_en": [],
+    "specialties_en": [],
+    "landmarks_en": []
+  },
+  "guanyin-old-street": {
+    "getting_there_en": "Driving recommended; or bus from Zhongli to Guanyin",
+    "best_time_en": "",
+    "address_hint_en": "Around Ren'ai Road and Ganquan Temple",
+    "district_en": "Guanyin District",
+    "signature_foods_en": [],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Ganquan Temple"
+    ]
+  },
+  "hsinchu-beimen-street": {
+    "getting_there_en": "TRA Hsinchu Station, ~15 min walk",
+    "best_time_en": "Toward evening, combine with snacks at the City God Temple",
+    "address_hint_en": "Beimen Street (City God Temple to Changhe Temple and Zhongzheng Road)",
+    "district_en": "North District",
+    "signature_foods_en": [
+      "Rice vermicelli (mi-fen)",
+      "Pork balls (gong-wan)",
+      "Spring rolls (run-bing)",
+      "Ba-wan (meatball dumpling)",
+      "Duck noodles"
+    ],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Changhe Temple",
+      "Zheng Family Temple",
+      "Zhou Yi Ji (historic shophouse)",
+      "Hsinchu City God Temple"
+    ]
+  },
+  "neiwan-old-street": {
+    "getting_there_en": "Right outside Neiwan Station on the TRA Neiwan Line",
+    "best_time_en": "Crowded on weekends, more comfortable on weekdays; firefly season May–Jun",
+    "address_hint_en": "Around Zhongzheng Road and Guangfu Road",
+    "district_en": "Hengshan Township",
+    "signature_foods_en": [
+      "Ginger lily rice dumplings (zongzi)",
+      "Hakka flat rice noodles (ban-tiao)",
+      "Hakka pounded tea (lei-cha)",
+      "Stir-fried flat rice noodles",
+      "Hakka vegetable buns (cai-bao)"
+    ],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Neiwan Station",
+      "Neiwan Theater",
+      "Neiwan Suspension Bridge",
+      "Neiwan Police Station"
+    ]
+  },
+  "hukou-old-street": {
+    "getting_there_en": "Driving recommended; or TRA Hukou Station then bus",
+    "best_time_en": "More shops open on weekends",
+    "address_hint_en": "Old Hukou: Jietou, Heng Street and Xin Street",
+    "district_en": "Hukou Township",
+    "signature_foods_en": [
+      "Hakka flat rice noodles (ban-tiao)",
+      "Hakka stir-fry (ke-jia-xiao-chao)",
+      "Hakka rice cakes (ban)"
+    ],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Hukou Sanyuan Temple",
+      "Old Hukou Catholic Church"
+    ]
+  },
+  "xinpu-old-street": {
+    "getting_there_en": "Driving recommended; or coach from Hsinchu/Zhubei to Xinpu",
+    "best_time_en": "Persimmon cake season, Oct–Dec",
+    "address_hint_en": "Zhongzheng Road, Chenggong Street and Heping Street",
+    "district_en": "Xinpu Township",
+    "signature_foods_en": [
+      "Dried persimmons",
+      "Hakka flat rice noodles (ban-tiao)",
+      "Hakka cuisine"
+    ],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Fan Family Temple",
+      "Lin Family Temple",
+      "Chen Family Ancestral Hall",
+      "Liu Family Ancestral Hall",
+      "Zhu Family Temple",
+      "Xinpu Ancestral Hall Hakka Culture Center"
+    ]
+  },
+  "beipu-old-street": {
+    "getting_there_en": "TRA Zhudong Station, then Hsinchu Bus to Beipu",
+    "best_time_en": "Dried persimmon season in autumn and winter; crowded on weekends",
+    "address_hint_en": "Beipu Street, Miaoqian Street, Nanxing Street and Chengmen Street",
+    "district_en": "Beipu Township",
+    "signature_foods_en": [
+      "Hakka pounded tea (lei-cha)",
+      "Dried persimmons",
+      "Pong Hong tea (Oriental Beauty tea)",
+      "Taro and sweet potato mooncakes",
+      "Hakka flat rice noodles (ban-tiao)"
+    ],
+    "specialties_en": [
+      "Oriental Beauty tea"
+    ],
+    "landmarks_en": [
+      "Jinguangfu Hall",
+      "Tianshui Hall",
+      "Jiang A-xin Mansion",
+      "Beipu Citian Temple",
+      "Zhongshu Hall"
+    ]
+  },
+  "zhudong-old-street": {
+    "getting_there_en": "Zhudong Station on the TRA Neiwan Line, ~10 min walk",
+    "best_time_en": "Market is busiest in the morning",
+    "address_hint_en": "Around Changchun Road and Dongning Road (near Central Market)",
+    "district_en": "Zhudong Township",
+    "signature_foods_en": [
+      "Hakka flat rice noodles (ban-tiao)",
+      "Hakka vegetable buns (cai-bao)",
+      "Hakka stir-fry (ke-jia-xiao-chao)",
+      "Pork intestine soup"
+    ],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Zhudong Central Market"
+    ]
+  },
+  "shangping-old-street": {
+    "getting_there_en": "Driving recommended",
+    "best_time_en": "Combine with a trip to Qingquan in Wufeng",
+    "address_hint_en": "County Road 122 (Shangping Village)",
+    "district_en": "Zhudong Township",
+    "signature_foods_en": [],
+    "specialties_en": [],
+    "landmarks_en": []
+  },
+  "guanxi-old-street": {
+    "getting_there_en": "Driving recommended; or coach from Hsinchu/Zhudong to Guanxi",
+    "best_time_en": "Grass jelly (xian-cao) flower season, Nov–Dec",
+    "address_hint_en": "Around Zhongzheng Road and Zhongshan Road",
+    "district_en": "Guanxi Township",
+    "signature_foods_en": [
+      "Grass jelly (xian-cao)",
+      "Grass jelly chicken soup",
+      "Hakka flat rice noodles (ban-tiao)",
+      "Hakka stir-fry (ke-jia-xiao-chao)"
+    ],
+    "specialties_en": [
+      "Grass jelly herb (xian-cao)"
+    ],
+    "landmarks_en": [
+      "Taihe Temple",
+      "Guanxi Police Substation",
+      "Dong'an Old Bridge",
+      "Luo Family Academy"
+    ]
+  },
+  "fuxing-old-street-emei": {
+    "getting_there_en": "Driving recommended",
+    "best_time_en": "Oriental Beauty tea harvest season in summer",
+    "address_hint_en": "Fuxing Village (around Longsheng Temple)",
+    "district_en": "Emei Township",
+    "signature_foods_en": [
+      "Oriental Beauty tea"
+    ],
+    "specialties_en": [
+      "Oriental Beauty tea"
+    ],
+    "landmarks_en": [
+      "Zeng Family Old House",
+      "Fuxing Tea Culture Museum",
+      "Longsheng Temple"
+    ]
+  },
+  "nanzhuang-old-street": {
+    "getting_there_en": "TRA Zhunan or Toufen, then Miaoli Bus/Taiwan Tourist Shuttle to Nanzhuang",
+    "best_time_en": "Tung blossom season Apr–May; extremely crowded on weekends",
+    "address_hint_en": "Zhongzheng Road and Osmanthus Alley (Guihua Lane)",
+    "district_en": "Nanzhuang Township",
+    "signature_foods_en": [
+      "Osmanthus wine syrup",
+      "Chilled osmanthus rice balls (tang-yuan)",
+      "Hakka steamed rice dumplings (zhu-long-ban)",
+      "Shell ginger leaf rice dumplings",
+      "Hakka pounded tea (lei-cha)",
+      "Hakka rice snacks (ban)"
+    ],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Nanzhuang Old Post Office",
+      "Yongchang Temple",
+      "Laundry pool (xi-shan-keng)",
+      "Osmanthus Alley"
+    ]
+  },
+  "zhonggang-old-street": {
+    "getting_there_en": "TRA Zhunan Station, then bus or ~10 min by scooter/bike",
+    "best_time_en": "Harbor-cleansing ritual at the Dragon Boat Festival",
+    "address_hint_en": "Minsheng Road, Yingxun Road and Shoufa Street (around Ciyu Temple)",
+    "district_en": "Zhunan Township",
+    "signature_foods_en": [
+      "Temple-front snacks"
+    ],
+    "specialties_en": [
+      "Joss paper"
+    ],
+    "landmarks_en": [
+      "Zhonggang Ciyu Temple",
+      "Chen Family Old House (Fanshe 30)"
+    ]
+  },
+  "sanwan-old-street": {
+    "getting_there_en": "Driving recommended",
+    "best_time_en": "Pear season Jun–Aug",
+    "address_hint_en": "Around Zhongzheng Road, Sanwan Village",
+    "district_en": "Sanwan Township",
+    "signature_foods_en": [
+      "Sanwan pears"
+    ],
+    "specialties_en": [],
+    "landmarks_en": []
+  },
+  "shitan-old-street": {
+    "getting_there_en": "Driving recommended; or Hsinchu Bus 5657 from Miaoli Station",
+    "best_time_en": "In autumn, pair with the grass jelly flower fields",
+    "address_hint_en": "Xindian Village (beside Provincial Highway 3)",
+    "district_en": "Shitan Township",
+    "signature_foods_en": [
+      "Grass jelly (xian-cao)",
+      "Hakka rice snacks (ban)"
+    ],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Laundry pool (xi-shan-keng)",
+      "Century-old longan tree",
+      "Shitan Old Granary"
+    ]
+  },
+  "tongxing-old-street": {
+    "getting_there_en": "TRA Longgang Station, ~15 min walk, or drive",
+    "best_time_en": "",
+    "address_hint_en": "Longjin Village (near Longgang Fishing Harbor)",
+    "district_en": "Houlong Township",
+    "signature_foods_en": [],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Longgang Fishing Harbor (Gongsiliao Fishing Harbor)"
+    ]
+  },
+  "wenshui-old-street": {
+    "getting_there_en": "Driving recommended",
+    "best_time_en": "Combine with strawberry season in winter and spring",
+    "address_hint_en": "Zhumu Village, at the end of the old Provincial Highway 6",
+    "district_en": "Shitan Township",
+    "signature_foods_en": [
+      "Hakka rice snacks (ban)",
+      "Hakka cuisine"
+    ],
+    "specialties_en": [],
+    "landmarks_en": []
+  },
+  "xihu-old-street": {
+    "getting_there_en": "Driving recommended",
+    "best_time_en": "",
+    "address_hint_en": "Dianzai Street",
+    "district_en": "Xihu Township",
+    "signature_foods_en": [],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Wu Zhuoliu Art and Literature Museum",
+      "Liu En-kuan Old House",
+      "Yunti Academy"
+    ]
+  },
+  "yuanli-tianxia-road-old-street": {
+    "getting_there_en": "TRA Yuanli Station, ~10 min walk",
+    "best_time_en": "Pair with a rush-weaving DIY session",
+    "address_hint_en": "Tianxia Road",
+    "district_en": "Yuanli Township",
+    "signature_foods_en": [
+      "Yuanli ba-wan (meatball dumpling)",
+      "Taro balls (yu-yuan)"
+    ],
+    "specialties_en": [
+      "Rush-grass hats and mats",
+      "Rush-grass weaving"
+    ],
+    "landmarks_en": [
+      "Zhenfa Hat and Mat Shop",
+      "Yuanli Market"
+    ]
+  },
+  "fangli-old-town": {
+    "getting_there_en": "From TRA Yuanli Station, ~5 min by transfer or car",
+    "best_time_en": "",
+    "address_hint_en": "Fangli Village (around Shuntian Temple)",
+    "district_en": "Yuanli Township",
+    "signature_foods_en": [],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Fangli Shuntian Temple",
+      "Cai Quan Sheng Old House (county monument)",
+      "Fangli Old Town north and south gate memorials"
+    ]
+  },
+  "xishuikeng-tofu-street": {
+    "getting_there_en": "Driving recommended",
+    "best_time_en": "Visit after a soak at Tai'an Hot Springs; parking is harder on weekends",
+    "address_hint_en": "Xishuikeng, Qing'an Village (Miao 62 road)",
+    "district_en": "Tai'an Township",
+    "signature_foods_en": [
+      "Hakka tofu",
+      "Black-skinned stinky tofu",
+      "Tofu pudding (douhua)",
+      "Fermented bean curd",
+      "Hakka rice snacks (ban)"
+    ],
+    "specialties_en": [],
+    "landmarks_en": []
+  },
+  "sanyi-old-street": {
+    "getting_there_en": "From TRA Sanyi Station, ~5 min by transfer or car",
+    "best_time_en": "Tung blossom season Apr–May",
+    "address_hint_en": "Shuimei Street and Zhongzheng Road (Woodcarving Street)",
+    "district_en": "Sanyi Township",
+    "signature_foods_en": [
+      "Hakka flat rice noodles (ban-tiao)",
+      "Hakka pounded tea (lei-cha)"
+    ],
+    "specialties_en": [
+      "Woodcarving",
+      "Camphor wood products"
+    ],
+    "landmarks_en": [
+      "Sanyi Wood Sculpture Museum"
+    ]
+  },
+  "guangsheng-old-street": {
+    "getting_there_en": "TRA Sanyi Station, ~5 min walk",
+    "best_time_en": "",
+    "address_hint_en": "Guangsheng Village (near Sanyi Station)",
+    "district_en": "Sanyi Township",
+    "signature_foods_en": [],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Jianzhong Elementary School painted stairs"
+    ]
+  },
+  "baishatun-old-street": {
+    "getting_there_en": "TRA Baishatun Station, ~15 min walk",
+    "best_time_en": "Busiest during the Mazu pilgrimage season after Lunar New Year into spring, though traffic is congested",
+    "address_hint_en": "In front of Gongtian Temple",
+    "district_en": "Tongxiao Township",
+    "signature_foods_en": [
+      "Old-style meat pastries (rou-bing)",
+      "Beef noodles"
+    ],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Baishatun Gongtian Temple"
+    ]
+  },
+  "zhuolan-old-street": {
+    "getting_there_en": "Driving recommended",
+    "best_time_en": "Combine with fruit season (grapes, star fruit)",
+    "address_hint_en": "Around Zhongjie Village",
+    "district_en": "Zhuolan Township",
+    "signature_foods_en": [],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Former Zhuolan Daguangming Theater site"
+    ]
+  },
+  "tongluo-old-street": {
+    "getting_there_en": "TRA Tongluo Station, ~5 min walk",
+    "best_time_en": "Hangzhou chrysanthemum season, Nov–Dec",
+    "address_hint_en": "Around Zhongzheng Road, Fuxing Road and Pingyang Road (Fuxing Village)",
+    "district_en": "Tongluo Township",
+    "signature_foods_en": [
+      "Hakka steamed rice cakes (shui-ban)",
+      "Hakka fa-gao (prosperity cake)",
+      "Navel cakes (du-qi-bing)"
+    ],
+    "specialties_en": [
+      "Hangzhou chrysanthemums"
+    ],
+    "landmarks_en": [
+      "Tongluo Tianhou Temple"
+    ]
+  },
+  "shengxing-old-street": {
+    "getting_there_en": "Driving recommended; or from TRA Sanyi Station by taxi/Taiwan Tourist Shuttle",
+    "best_time_en": "Crowded on weekends; book rail bikes in advance",
+    "address_hint_en": "In front of Shengxing Station",
+    "district_en": "Sanyi Township",
+    "signature_foods_en": [
+      "Hakka pounded tea (lei-cha)",
+      "Hakka mochi",
+      "Stinky tofu",
+      "Braised dried tofu",
+      "Hakka cuisine"
+    ],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Shengxing Station",
+      "Longteng Bridge Ruins"
+    ]
+  },
+  "taichung-xinshengqiao-dori": {
+    "getting_there_en": "~3 min walk from Taichung Station",
+    "best_time_en": "Fewer people on weekday mornings; Second Market is busiest at brunch time",
+    "address_hint_en": "Zhongshan Road (Taichung Station to the Second Market)",
+    "district_en": "Central District",
+    "signature_foods_en": [
+      "Miyahara ice cream",
+      "Second Market turnip cake (cai-tou-guo)",
+      "Second Market braised pork rice (lu-rou-fan)",
+      "Suncakes (tai-yang-bing)"
+    ],
+    "specialties_en": [
+      "Pineapple cake gift boxes"
+    ],
+    "landmarks_en": [
+      "Miyahara",
+      "Xinsheng Bridge over the Lyuchuan",
+      "Taichung Second Market Hexagonal Building",
+      "Taichung Station"
+    ]
+  },
+  "hanxi-old-street": {
+    "getting_there_en": "From Taichung Station by bus to Lecheng Temple stop, or ~10 min by scooter/bike",
+    "best_time_en": "Busiest during the Hanxi Mazu procession in the 3rd lunar month",
+    "address_hint_en": "Around Hanxi Street and Lecheng Temple",
+    "district_en": "East District",
+    "signature_foods_en": [
+      "Stinky tofu"
+    ],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Lecheng Temple (Hanxi Mazu Temple)"
+    ]
+  },
+  "dajia-old-street": {
+    "getting_there_en": "TRA Dajia Station, ~8 min walk",
+    "best_time_en": "Busiest (and most crowded) around the start of the Dajia Mazu Pilgrimage in the 3rd lunar month",
+    "address_hint_en": "Around Shuntian Road and Jianggong Road (near Jenn Lann Temple)",
+    "district_en": "Dajia District",
+    "signature_foods_en": [
+      "Taro pastries (yu-tou-su)",
+      "Butter flaky cakes",
+      "Taro ice",
+      "Sausage-style pork intestine (fen-chang)",
+      "Dajia baked sesame flatbread (shao-bing)"
+    ],
+    "specialties_en": [
+      "Dajia rush mats",
+      "Rush-grass hats"
+    ],
+    "landmarks_en": [
+      "Dajia Jenn Lann Temple",
+      "Lin Family Chastity Arch",
+      "Dajia First Market"
+    ]
+  },
+  "qingshui-old-street": {
+    "getting_there_en": "TRA Qingshui Station, ~10 min walk",
+    "best_time_en": "Morning to noon, when the rice cake shops are open",
+    "address_hint_en": "Around Wenchang Street and Dajie Road (near Ziyun Temple)",
+    "district_en": "Qingshui District",
+    "signature_foods_en": [
+      "Qingshui sticky rice cake (mi-gao)",
+      "Tube-steamed sticky rice (tong-zai-mi-gao)",
+      "Fried savory cakes (zha-guo)"
+    ],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Ziyun Temple",
+      "Qingshui Elementary School",
+      "Qingshui Military Dependents' Village Cultural Park"
+    ]
+  },
+  "wuqi-old-street": {
+    "getting_there_en": "Bus from TRA Shalu Station or central Taichung to Wuqi; driving recommended",
+    "best_time_en": "",
+    "address_hint_en": "Around Wuqi Road and Xijian Road",
+    "district_en": "Wuqi District",
+    "signature_foods_en": [],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Wuqi Zhenwu Temple",
+      "Wuqi Cultural Branch Office (historic building)",
+      "Haotian Temple"
+    ]
+  },
+  "shalu-old-street": {
+    "getting_there_en": "TRA Shalu Station, ~8 min walk",
+    "best_time_en": "",
+    "address_hint_en": "Around Siping Street and Zhongshan Road (near Shalu Market)",
+    "district_en": "Shalu District",
+    "signature_foods_en": [],
+    "specialties_en": [],
+    "landmarks_en": []
+  },
+  "nantun-old-street": {
+    "getting_there_en": "Bus from central Taichung to Wanhe Temple stop, or ~15 min drive from HSR Taichung Station",
+    "best_time_en": "Most distinctive during the Dragon Boat Festival \"clog racing\" (wooden-clog pangolin) event",
+    "address_hint_en": "Wanhe Road / Nantun Road intersection (around Wanhe Temple)",
+    "district_en": "Nantun District",
+    "signature_foods_en": [
+      "Roasted rice flour (mi-fu)",
+      "Tofu",
+      "Mochi",
+      "Rice dumplings (zongzi)"
+    ],
+    "specialties_en": [
+      "Blacksmith-forged farm tools",
+      "Wooden clogs"
+    ],
+    "landmarks_en": [
+      "Wanhe Temple",
+      "Nantun Market"
+    ]
+  },
+  "xitun-old-street": {
+    "getting_there_en": "Bus from central Taichung to near Xitun Road stop, then walk",
+    "best_time_en": "",
+    "address_hint_en": "Guangming Road",
+    "district_en": "Xitun District",
+    "signature_foods_en": [],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Xidadun Fude Shrine (Earth God shrine)",
+      "Qing Longfu Temple"
+    ]
+  },
+  "dali-old-street": {
+    "getting_there_en": "Bus from central Taichung to Dali; driving or scooter recommended",
+    "best_time_en": "",
+    "address_hint_en": "Around Xinxing Road (near Fuxing Temple)",
+    "district_en": "Dali District",
+    "signature_foods_en": [],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Fuxing Temple",
+      "Dali Yi Cultural Center",
+      "Upside-down banyan tree"
+    ]
+  },
+  "shigang-old-street": {
+    "getting_there_en": "TRA Fengyuan Station, then bus to Shigang; or cycle along the Dongfeng Bikeway",
+    "best_time_en": "",
+    "address_hint_en": "Around Wanxing Street and Mingde Road",
+    "district_en": "Shigang District",
+    "signature_foods_en": [
+      "Hakka flat rice noodles (ban-tiao)"
+    ],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Former Shigang Station site (Dongfeng Bikeway)",
+      "Tuniu Hakka Cultural Museum"
+    ]
+  },
+  "dongshi-old-street": {
+    "getting_there_en": "TRA Fengyuan Station, then bus to Dongshi; or cycle along the Dongfeng Bikeway",
+    "best_time_en": "",
+    "address_hint_en": "Around Ben Street and First Street",
+    "district_en": "Dongshi District",
+    "signature_foods_en": [
+      "Hakka flat rice noodles (ban-tiao)",
+      "Hakka triangle dumplings (san-jiao-yuan)",
+      "Hakka stir-fry (ke-jia-xiao-chao)",
+      "Egg-filled pancake (guan-dan-bing)"
+    ],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Dongshi Hakka Cultural Park (former Dongshi Station)",
+      "Dongshi Qiaosheng Xianshi Temple"
+    ]
+  },
+  "xinshe-old-street": {
+    "getting_there_en": "Driving recommended",
+    "best_time_en": "Jiuzhuang Mazu procession, 3rd–7th days of the 1st lunar month",
+    "address_hint_en": "Around Zhonghe Street (near the district office)",
+    "district_en": "Xinshe District",
+    "signature_foods_en": [],
+    "specialties_en": [],
+    "landmarks_en": []
+  },
+  "shengang-old-street": {
+    "getting_there_en": "TRA Fengyuan Station, then bus; driving recommended",
+    "best_time_en": "",
+    "address_hint_en": "Zhongshan Road",
+    "district_en": "Shengang District",
+    "signature_foods_en": [],
+    "specialties_en": [],
+    "landmarks_en": []
+  },
+  "xinding-old-street": {
+    "getting_there_en": "TRA Changhua Station, ~15 min walk",
+    "best_time_en": "",
+    "address_hint_en": "Minzu Rd / Huashan Rd intersection, behind Kaizhang Ancestral Temple (along the Shinmachi canal)",
+    "district_en": "Changhua City",
+    "signature_foods_en": [],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Kaizhang Ancestral Temple",
+      "Shinmachi Canal (Xinding Ditch)"
+    ]
+  },
+  "lukang-old-street": {
+    "getting_there_en": "TRA/HSR Changhua Station, then Changhua Bus to Lukang (~40 min)",
+    "best_time_en": "Quieter on weekday mornings; liveliest for Mazu's birthday in the 3rd lunar month and the Dragon Boat Festival",
+    "address_hint_en": "Around Yaolin Street and Putou Street",
+    "district_en": "Lukang Township",
+    "signature_foods_en": [
+      "Oyster omelette (o-a-jian)",
+      "Crispy fried mantis shrimp (xia-hou-su)",
+      "Ox-tongue pastries (niu-she-bing)",
+      "Phoenix-eye cakes (feng-yan-gao)",
+      "Thick vermicelli porridge (mian-xian-hu)",
+      "Oyster fritters (o-a-te)",
+      "Steamed pork buns (rou-bao)"
+    ],
+    "specialties_en": [
+      "Pewterware",
+      "Lanterns",
+      "Woodcarving",
+      "Incense shops"
+    ],
+    "landmarks_en": [
+      "Lukang Tianhou Temple",
+      "Lukang Longshan Temple",
+      "Yi Lou (Missing House)",
+      "Lukang Assembly Hall",
+      "Xinzu Temple",
+      "Nine-Turn Lane",
+      "Mo-Ru Lane (Breast-Touching Lane)"
+    ]
+  },
+  "lukang-bujiantian-street": {
+    "getting_there_en": "TRA/HSR Changhua Station, then Changhua Bus to Lukang",
+    "best_time_en": "",
+    "address_hint_en": "Zhongshan Road (former Wufu Main Street)",
+    "district_en": "Lukang Township",
+    "signature_foods_en": [
+      "Roasted flour tea (mian-cha)",
+      "Steamed pork buns (rou-bao)",
+      "Ox-tongue pastries (niu-she-bing)"
+    ],
+    "specialties_en": [
+      "Traditional pastries",
+      "Incense shops"
+    ],
+    "landmarks_en": [
+      "Lukang Tianhou Temple",
+      "Lukang Folk Arts Museum",
+      "Lukang historic district"
+    ]
+  },
+  "xihu-old-street-changhua": {
+    "getting_there_en": "TRA Yuanlin Station, then bus to Xihu; driving recommended",
+    "best_time_en": "",
+    "address_hint_en": "Around Yuanlu Rd Sec. 3, Taiping St and Zhangshui Rd Sec. 3",
+    "district_en": "Xihu Township",
+    "signature_foods_en": [
+      "Mutton hot pot"
+    ],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Xihu Village Office (historic building)"
+    ]
+  },
+  "ershui-old-street": {
+    "getting_there_en": "Right outside TRA Ershui Station",
+    "best_time_en": "",
+    "address_hint_en": "Guangwen Road and Yuanji Road Sections 3–4 (in front of Ershui Station)",
+    "district_en": "Ershui Township",
+    "signature_foods_en": [],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Zhang Lao-ying House",
+      "Xie Mao House",
+      "Zheng Ding House (former Yingyuan Clinic)",
+      "Ershui Station"
+    ]
+  },
+  "zhutang-old-street": {
+    "getting_there_en": "Driving recommended",
+    "best_time_en": "Kapok blossom season in March",
+    "address_hint_en": "Around Zhongxing Street",
+    "district_en": "Zhutang Township",
+    "signature_foods_en": [],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Former Zhutang Station site (Wanguo Gas Shop)",
+      "Nine Dragons Great Banyan"
+    ]
+  },
+  "yuanlin-old-street": {
+    "getting_there_en": "TRA Yuanlin Station, ~3 min walk",
+    "best_time_en": "Guangming Street shopping area is busiest toward evening",
+    "address_hint_en": "Around Guangming Street, Zhongshan Road and Zhongzheng Road (in front of the station)",
+    "district_en": "Yuanlin City",
+    "signature_foods_en": [
+      "Ba-wan (meatball dumpling)",
+      "Fried savory cakes (zha-guo)",
+      "Danzai noodles (dan-zai-mian)"
+    ],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Yuanlin Station"
+    ]
+  },
+  "erlin-old-street": {
+    "getting_there_en": "TRA Yuanlin Station, then bus to Erlin; driving recommended",
+    "best_time_en": "",
+    "address_hint_en": "Around Zhongzheng Road and Rulin Road (near Renhe Temple)",
+    "district_en": "Erlin Township",
+    "signature_foods_en": [],
+    "specialties_en": [
+      "Wine"
+    ],
+    "landmarks_en": [
+      "Erlin Renhe Temple"
+    ]
+  },
+  "tianzhong-old-street": {
+    "getting_there_en": "TRA Tianzhong Station, ~3 min walk",
+    "best_time_en": "",
+    "address_hint_en": "Around Yuanji Road and Zhongzhou Road (in front of Tianzhong Station)",
+    "district_en": "Tianzhong Township",
+    "signature_foods_en": [],
+    "specialties_en": [
+      "Fabric shops"
+    ],
+    "landmarks_en": [
+      "Jingsong Clinic (historic building)",
+      "Tianzhong Station"
+    ]
+  },
+  "beidou-old-street": {
+    "getting_there_en": "TRA Tianzhong or Yuanlin Station, then bus to Beidou (~20 min)",
+    "best_time_en": "",
+    "address_hint_en": "Around Douyuan Road and Zhonghua Road (near Dian'an Temple)",
+    "district_en": "Beidou Township",
+    "signature_foods_en": [
+      "Beidou ba-wan (meatball dumpling)",
+      "Mochi",
+      "Ba-wan (meatball dumpling)"
+    ],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Beidou Dian'an Temple",
+      "Beidou Red Brick Market",
+      "Stele prohibiting extortion by raftsmen"
+    ]
+  },
+  "yongjing-old-street": {
+    "getting_there_en": "Transfer from TRA Yongjing or Yuanlin Station; driving recommended",
+    "best_time_en": "",
+    "address_hint_en": "Around Yong'an Street and Yongjing Street (near Yong'an Temple)",
+    "district_en": "Yongjing Township",
+    "signature_foods_en": [
+      "Tube-steamed sticky rice (tong-zai-mi-gao)"
+    ],
+    "specialties_en": [
+      "Flowers and nursery plants"
+    ],
+    "landmarks_en": [
+      "Yong'an Temple",
+      "Yongjing Story Wall"
+    ]
+  },
+  "hemei-old-street": {
+    "getting_there_en": "TRA Changhua Station, then bus to Hemei (~20 min)",
+    "best_time_en": "",
+    "address_hint_en": "Around Zhongzheng Road (near Daodong Academy and Hemei Market)",
+    "district_en": "Hemei Township",
+    "signature_foods_en": [],
+    "specialties_en": [
+      "Textiles",
+      "Umbrellas"
+    ],
+    "landmarks_en": [
+      "Daodong Academy",
+      "Hemei Town Chief's Residence"
+    ]
+  },
+  "caotun-xinjie": {
+    "getting_there_en": "Coach from Taichung to Caotun Bus Station, ~10 min walk",
+    "best_time_en": "",
+    "address_hint_en": "Heping Street (between Zhongzheng Road and Chenggong Road)",
+    "district_en": "Caotun Township",
+    "signature_foods_en": [],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Former Caotun light-rail (push-car) station site"
+    ]
+  },
+  "caotun-jiujie": {
+    "getting_there_en": "Coach from Taichung to Caotun Bus Station, then walk",
+    "best_time_en": "",
+    "address_hint_en": "Yufeng Street",
+    "district_en": "Caotun Township",
+    "signature_foods_en": [],
+    "specialties_en": [],
+    "landmarks_en": []
+  },
+  "lushan-old-street": {
+    "getting_there_en": "Not recommended to visit",
+    "best_time_en": "Never go during typhoon or heavy rain season",
+    "address_hint_en": "Lushan Hot Spring area (along the Taluowan River)",
+    "district_en": "Ren'ai Township",
+    "signature_foods_en": [],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Lushan Suspension Bridge",
+      "Taluowan River"
+    ]
+  },
+  "guoxing-old-street": {
+    "getting_there_en": "Coach from Taichung or Puli via Guoxing; driving recommended",
+    "best_time_en": "",
+    "address_hint_en": "Around Guoxing Road",
+    "district_en": "Guoxing Township",
+    "signature_foods_en": [
+      "Guoxing coffee",
+      "Hakka cuisine"
+    ],
+    "specialties_en": [
+      "Coffee beans"
+    ],
+    "landmarks_en": []
+  },
+  "puli-nanxing-old-street": {
+    "getting_there_en": "Coach from Taichung to Puli Bus Station, ~15 min walk",
+    "best_time_en": "Blacksmith shops are more likely to be open on weekday mornings",
+    "address_hint_en": "Nanxing Street",
+    "district_en": "Puli Township",
+    "signature_foods_en": [],
+    "specialties_en": [
+      "Hand-forged knives",
+      "Farm tools"
+    ],
+    "landmarks_en": []
+  },
+  "checheng-old-street": {
+    "getting_there_en": "Right outside Checheng Station on the TRA Jiji Line",
+    "best_time_en": "Quieter on weekdays; arriving by the Jiji Line train is most atmospheric",
+    "address_hint_en": "Around Checheng Station",
+    "district_en": "Shuili Township",
+    "signature_foods_en": [
+      "Wooden-bucket lunch box",
+      "Plum shaved ice"
+    ],
+    "specialties_en": [
+      "Wooden buckets",
+      "Wood products"
+    ],
+    "landmarks_en": [
+      "Checheng Station",
+      "Checheng Wood Industry Exhibition Hall",
+      "Mingtan Reservoir"
+    ]
+  },
+  "jiji-old-street": {
+    "getting_there_en": "Right outside Jiji Station on the TRA Jiji Line",
+    "best_time_en": "Crowded on weekends; rent a bike to ride the Green Tunnel",
+    "address_hint_en": "Around Minsheng Road and Bazhang Street (near Jiji Station)",
+    "district_en": "Jiji Township",
+    "signature_foods_en": [
+      "Banana ice",
+      "Mountain bananas",
+      "Potstickers (guo-tie)"
+    ],
+    "specialties_en": [
+      "Banana products"
+    ],
+    "landmarks_en": [
+      "Jiji Station",
+      "Wuchang Temple (preserved collapsed state)",
+      "Green Tunnel"
+    ]
+  },
+  "zhongliao-yongping-old-street": {
+    "getting_there_en": "Driving recommended",
+    "best_time_en": "",
+    "address_hint_en": "Around Yongping Street (near the township office)",
+    "district_en": "Zhongliao Township",
+    "signature_foods_en": [],
+    "specialties_en": [],
+    "landmarks_en": []
+  },
+  "zhushan-old-street": {
+    "getting_there_en": "HSR Yunlin Station or TRA Douliu Station, then coach to Zhushan",
+    "best_time_en": "",
+    "address_hint_en": "Around Xiaheng Street and Heng Street (near Lianxing Temple)",
+    "district_en": "Zhushan Township",
+    "signature_foods_en": [
+      "Ba-wan (meatball dumpling)",
+      "Sticky rice cake (mi-gao)",
+      "Millet egg pancake"
+    ],
+    "specialties_en": [
+      "Bamboo products"
+    ],
+    "landmarks_en": [
+      "Lianxing Temple",
+      "Zhushan Cultural Park"
+    ]
+  },
+  "douliu-taiping-old-street": {
+    "getting_there_en": "TRA Douliu Station, ~10 min walk",
+    "best_time_en": "Toward evening and at night when the lights are on",
+    "address_hint_en": "Taiping Road",
+    "district_en": "Douliu City",
+    "signature_foods_en": [
+      "Tapioca pearl shaved ice (fen-yuan-bing)",
+      "Ba-wan (meatball dumpling)",
+      "Tofu pudding (douhua)"
+    ],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Taiping Old Street Baroque facades",
+      "Yunzhong Street Life Settlement"
+    ]
+  },
+  "xiluo-yanping-old-street": {
+    "getting_there_en": "HSR Yunlin Station or TRA Douliu Station, then coach to Xiluo",
+    "best_time_en": "",
+    "address_hint_en": "Yanping Road",
+    "district_en": "Xiluo Township",
+    "signature_foods_en": [
+      "Xiluo soy sauce",
+      "Sticky rice cake (mi-gao)",
+      "Braised pork rice (lu-rou-fan)",
+      "Savory rice pudding (wa-gui)"
+    ],
+    "specialties_en": [
+      "Soy sauce"
+    ],
+    "landmarks_en": [
+      "Xiluo Bridge",
+      "Wuan Chuang Soy Sauce",
+      "Xiluo East Market"
+    ]
+  },
+  "beigang-old-street": {
+    "getting_there_en": "TRA Chiayi Station or HSR Chiayi Station, then coach to Beigang (~40 min)",
+    "best_time_en": "Busiest (and most crowded) during the Mazu procession in the 3rd lunar month",
+    "address_hint_en": "Zhongshan Road (in front of Chaotian Temple)",
+    "district_en": "Beigang Township",
+    "signature_foods_en": [
+      "Duck rice",
+      "Pan-fried rice cake (jian-pan-guo)",
+      "Large wedding cakes (da-bing)",
+      "Sesame oil",
+      "Peanut brittle",
+      "Glutinous oil rice (you-fan)"
+    ],
+    "specialties_en": [
+      "Sesame oil",
+      "Peanut products",
+      "Pastries"
+    ],
+    "landmarks_en": [
+      "Beigang Chaotian Temple",
+      "Beigang River Railway Bridge",
+      "Beigang Cultural Center"
+    ]
+  },
+  "tuku-old-street": {
+    "getting_there_en": "TRA Dounan Station, then coach to Tuku; driving recommended",
+    "best_time_en": "",
+    "address_hint_en": "Zhongzheng Road (around Shuntian Temple)",
+    "district_en": "Tuku Township",
+    "signature_foods_en": [
+      "Duck vermicelli (ya-rou-mian-xian)",
+      "Angelica herbal duck (dang-gui-ya)"
+    ],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Tuku Shuntian Temple"
+    ]
+  },
+  "huwei-old-street": {
+    "getting_there_en": "HSR Yunlin Station, then shuttle to Huwei (~15 min)",
+    "best_time_en": "During the sugar-milling season (roughly winter to spring) you can smell the sugar",
+    "address_hint_en": "Around Zhongshan Road and Linsen Road (near the sugar factory)",
+    "district_en": "Huwei Township",
+    "signature_foods_en": [
+      "Sugar factory ice treats",
+      "Duck thick soup (ya-rou-geng)"
+    ],
+    "specialties_en": [
+      "Glove puppets (budaixi)"
+    ],
+    "landmarks_en": [
+      "Huwei Sugar Factory",
+      "Huwei Iron Bridge",
+      "Yunlin Hand Puppet Museum (former Huwei County Office)",
+      "Huwei Station (Huwei-eki)",
+      "Huwei Joint Government Building"
+    ]
+  },
+  "dounan-old-street": {
+    "getting_there_en": "Walkable from TRA Dounan Station",
+    "best_time_en": "",
+    "address_hint_en": "Around Zhongzheng Road and Zhongshan Road",
+    "district_en": "Dounan Township",
+    "signature_foods_en": [],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Dounan Station",
+      "Talimu Cultural Park"
+    ]
+  },
+  "taixi-old-street": {
+    "getting_there_en": "Driving recommended",
+    "best_time_en": "",
+    "address_hint_en": "Zhongshan Road",
+    "district_en": "Taixi Township",
+    "signature_foods_en": [
+      "Oysters",
+      "Hard clams"
+    ],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Haikou Life Museum"
+    ]
+  },
+  "chiayi-ertong-old-street": {
+    "getting_there_en": "~15 min walk from Chiayi Station, or by YouBike",
+    "best_time_en": "East Market is liveliest in the morning",
+    "address_hint_en": "Zhongzheng Road (East Market to West Market)",
+    "district_en": "East District",
+    "signature_foods_en": [
+      "Chicken rice",
+      "Fish head casserole (sha-guo-yu-tou)",
+      "Turkey rice (huo-ji-rou-fan)"
+    ],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Chiayi East Market",
+      "Chiayi City God Temple"
+    ]
+  },
+  "dalin-old-street": {
+    "getting_there_en": "Right outside TRA Dalin Station",
+    "best_time_en": "Stroll slowly on weekdays and look out for local guided tours",
+    "address_hint_en": "Around Pinghe Street and Zhongshan Road (near Dalin Station)",
+    "district_en": "Dalin Township",
+    "signature_foods_en": [],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Wanguo Theater",
+      "Dalin Station"
+    ]
+  },
+  "taiping-old-street": {
+    "getting_there_en": "Bus from Chiayi Station to Meishan, then the Taiping line bus; driving recommended",
+    "best_time_en": "Combine with the Taiping Suspension Bridge; avoid Wednesdays (closed); mountain roads can cause motion sickness",
+    "address_hint_en": "Taiping Village (near the Taiping Suspension Bridge)",
+    "district_en": "Meishan Township",
+    "signature_foods_en": [
+      "Bamboo shoot dishes",
+      "Aiyu jelly",
+      "Plum products"
+    ],
+    "specialties_en": [
+      "High-mountain tea",
+      "Plums",
+      "Dried bamboo shoots"
+    ],
+    "landmarks_en": [
+      "Taiping Suspension Bridge (Taiping Cloud Ladder)",
+      "Taiping Elementary School"
+    ]
+  },
+  "fenqihu-old-street": {
+    "getting_there_en": "Alishan Forest Railway from Chiayi to Fenqihu Station, or Taiwan Tourist Shuttle/Chiayi County bus",
+    "best_time_en": "Fewer people on weekday mornings; often crowded on weekends",
+    "address_hint_en": "Next to Fenqihu Station, Zhonghe Village",
+    "district_en": "Zhuqi Township",
+    "signature_foods_en": [
+      "Fenqihu lunch box",
+      "Railway lunch box",
+      "Aiyu jelly",
+      "Train-shaped cakes"
+    ],
+    "specialties_en": [
+      "High-mountain tea",
+      "Wasabi"
+    ],
+    "landmarks_en": [
+      "Fenqihu Station",
+      "Fenqihu Locomotive Garage",
+      "Wooden old street"
+    ]
+  },
+  "dapu-old-street": {
+    "getting_there_en": "Driving recommended (Provincial Highway 3)",
+    "best_time_en": "Combine with a boat tour on Zengwen Reservoir",
+    "address_hint_en": "Around Jiadongjiao, Dapu Village",
+    "district_en": "Dapu Township",
+    "signature_foods_en": [
+      "Fish head casserole (sha-guo-yu-tou)",
+      "Dried bamboo shoot dishes"
+    ],
+    "specialties_en": [
+      "Dried bamboo shoots",
+      "Cordia seeds (po-bu-zi)"
+    ],
+    "landmarks_en": [
+      "Bamboo-pipe houses",
+      "Zengwen Reservoir"
+    ]
+  },
+  "xikou-old-street-chiayi-county": {
+    "getting_there_en": "TRA Dalin Station, then bus or ~15 min by scooter/bike; driving recommended",
+    "best_time_en": "Morning market at the Zhongxiao St junction is liveliest in the morning",
+    "address_hint_en": "Zhongzheng Road (between Heping St and Zhongxiao St)",
+    "district_en": "Xikou Township",
+    "signature_foods_en": [
+      "Taro rice cakes (yu-guo-qiao)",
+      "Oyster fritters (o-a-te)",
+      "Bird-shaped cookies (niao-zai-bing)"
+    ],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Zhang Jisheng Chinese Pharmacy"
+    ]
+  },
+  "puzi-old-street": {
+    "getting_there_en": "Chiayi County bus from HSR Chiayi or Chiayi Station to Puzi",
+    "best_time_en": "Lantern displays at Peitian Temple during the Lantern Festival",
+    "address_hint_en": "Around Kaiyuan Road, Zhongzheng Road and Shidong Road (near Peitian Temple)",
+    "district_en": "Puzi City",
+    "signature_foods_en": [
+      "Ba-wan (meatball dumpling)",
+      "Duck thick soup (ya-rou-geng)"
+    ],
+    "specialties_en": [
+      "Fabrics"
+    ],
+    "landmarks_en": [
+      "Puzi Peitian Temple",
+      "Rixin Clinic",
+      "Qingmu House",
+      "Rongchang Theater"
+    ]
+  },
+  "budai-old-street": {
+    "getting_there_en": "Bus from Chiayi Station to Budai; driving recommended",
+    "best_time_en": "Combine with Budai Fishing Harbor and the High-Heel Wedding Church",
+    "address_hint_en": "Around Yongle Street",
+    "district_en": "Budai Township",
+    "signature_foods_en": [
+      "Oyster omelette (o-a-jian)",
+      "Fresh oysters"
+    ],
+    "specialties_en": [],
+    "landmarks_en": []
+  },
+  "anping-old-street": {
+    "getting_there_en": "From Tainan Station take bus 2, 19 or Taiwan Tourist Shuttle 99 to Anping Old Fort",
+    "best_time_en": "Weekday afternoons; at dusk watch the sunset at Anping Harbor",
+    "address_hint_en": "Around Yanping Street and Xiaozhong Street",
+    "district_en": "Anping District",
+    "signature_foods_en": [
+      "Shrimp crackers",
+      "Candied fruit (mi-jian)",
+      "Coffin bread (guan-cai-ban)",
+      "Oyster omelette (o-a-jian)",
+      "Sword Lion-shaped pastries"
+    ],
+    "specialties_en": [
+      "Sword Lion (Jian Shi) crafts",
+      "Candied fruit (mi-jian)"
+    ],
+    "landmarks_en": [
+      "Anping Old Fort (Fort Zeelandia)",
+      "Anping Kaitai Tianhou Temple",
+      "Anping Tree House"
+    ]
+  },
+  "shennong-street": {
+    "getting_there_en": "From Tainan Station by bus to Ximen Roundabout/Hai'an Road, or by YouBike",
+    "best_time_en": "Dusk into night, when the lanterns light up",
+    "address_hint_en": "Shennong Street (Hai'an Road to Kangle Street)",
+    "district_en": "West Central District",
+    "signature_foods_en": [
+      "Hai'an Road snacks",
+      "Bubble tea and hand-shaken drinks"
+    ],
+    "specialties_en": [
+      "Creative design goods"
+    ],
+    "landmarks_en": [
+      "Yaowang Temple (Medicine King Temple)",
+      "Jinhua Temple"
+    ]
+  },
+  "xinyi-street-laogushi": {
+    "getting_there_en": "~15 min by YouBike from Tainan Station; near Shennong Street",
+    "best_time_en": "Explore together with Shennong Street",
+    "address_hint_en": "Xinyi Street (around Duiyue Gate)",
+    "district_en": "West Central District",
+    "signature_foods_en": [
+      "Savory rice pudding (wa-gui)"
+    ],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Duiyue Gate",
+      "Jinhua Temple"
+    ]
+  },
+  "mi-street-xinmei": {
+    "getting_there_en": "~10 min by YouBike from Tainan Station",
+    "best_time_en": "During daytime shop hours",
+    "address_hint_en": "Xinmei Street (Chenggong Road to Minquan Road)",
+    "district_en": "West Central District",
+    "signature_foods_en": [
+      "A-Long sausage and assorted cooked meats",
+      "Sticky rice cake (mi-gao)",
+      "Fruit shaved ice"
+    ],
+    "specialties_en": [
+      "Traditional woodblock prints",
+      "Paper goods"
+    ],
+    "landmarks_en": [
+      "Kaiji Wu Temple",
+      "Grand Matsu Temple"
+    ]
+  },
+  "nanhe-street": {
+    "getting_there_en": "~12 min by YouBike from Tainan Station",
+    "best_time_en": "Link up with Dajingtou and Shennong Street on a walk",
+    "address_hint_en": "Heping Street",
+    "district_en": "West Central District",
+    "signature_foods_en": [],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Dajingtou (Great Well)"
+    ]
+  },
+  "beixiang-ancient-street": {
+    "getting_there_en": "~12 min by YouBike from Tainan Station",
+    "best_time_en": "",
+    "address_hint_en": "Lane 132, Minsheng Road Section 1",
+    "district_en": "West Central District",
+    "signature_foods_en": [],
+    "specialties_en": [],
+    "landmarks_en": []
+  },
+  "qingshui-temple-street": {
+    "getting_there_en": "~12 min by YouBike from Tainan Station",
+    "best_time_en": "",
+    "address_hint_en": "Lane 3, Kaishan Road",
+    "district_en": "West Central District",
+    "signature_foods_en": [],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Liuhejing Qingshui Temple",
+      "Qingshui Temple Street row houses"
+    ]
+  },
+  "tainan-suehirocho": {
+    "getting_there_en": "From Tainan Station by bus to Hayashi Department Store, or ~20 min walk",
+    "best_time_en": "During Hayashi Department Store opening hours; facades are lit up at night",
+    "address_hint_en": "Zhongzheng Road (Zhongyi Road to Ximen Road)",
+    "district_en": "West Central District",
+    "signature_foods_en": [
+      "Beef soup",
+      "Danzai noodles (dan-zai-mian)"
+    ],
+    "specialties_en": [
+      "Creative design goods"
+    ],
+    "landmarks_en": [
+      "Hayashi Department Store",
+      "Suehirocho shophouses"
+    ]
+  },
+  "dachong-street": {
+    "getting_there_en": "Tainan Station, ~15 min walk",
+    "best_time_en": "Link up with Zongye Street and Kaiji Tianhou Temple",
+    "address_hint_en": "Ziqiang Street (near the Little North Gate)",
+    "district_en": "North District",
+    "signature_foods_en": [
+      "Pastries"
+    ],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Kaiji Tianhou Temple",
+      "Wugui Well"
+    ]
+  },
+  "zongye-street": {
+    "getting_there_en": "Tainan Station, ~15 min walk",
+    "best_time_en": "",
+    "address_hint_en": "Chong'an Street (from Lane 113 to No. 63)",
+    "district_en": "North District",
+    "signature_foods_en": [],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Zhenyuanjing Earth God Shrine",
+      "Zonggan Temple"
+    ]
+  },
+  "xishu-old-street": {
+    "getting_there_en": "From Tainan Station by bus to Xishu; scooter or car recommended",
+    "best_time_en": "Combine with the Golden Coast at dusk",
+    "address_hint_en": "Around Xishu Road",
+    "district_en": "South District",
+    "signature_foods_en": [
+      "Bakery pastries"
+    ],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Wanhuang Temple"
+    ]
+  },
+  "xinying-old-street": {
+    "getting_there_en": "TRA Xinying Station, ~10 min walk",
+    "best_time_en": "",
+    "address_hint_en": "Around Zhongshan Road and Yanping Road",
+    "district_en": "Xinying District",
+    "signature_foods_en": [],
+    "specialties_en": [],
+    "landmarks_en": []
+  },
+  "tiexianqiao-old-street": {
+    "getting_there_en": "Driving or scooter recommended (about 4 km south of central Xinying)",
+    "best_time_en": "",
+    "address_hint_en": "Tiexian Village (around Tongji Temple)",
+    "district_en": "Xinying District",
+    "signature_foods_en": [],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Tiexianqiao Tongji Temple"
+    ]
+  },
+  "jingliao-old-street": {
+    "getting_there_en": "TRA Houbi Station, then bus or ~10 min by scooter/bike",
+    "best_time_en": "Around June and November when the rice is golden",
+    "address_hint_en": "Jingliao Village (around Jingliao Holy Cross Church)",
+    "district_en": "Houbi District",
+    "signature_foods_en": [
+      "Rice dishes",
+      "Savory rice pudding (wa-gui)",
+      "Old-style ice treats"
+    ],
+    "specialties_en": [
+      "Rice",
+      "Farm tools",
+      "Bamboo weaving"
+    ],
+    "landmarks_en": [
+      "Jingliao Holy Cross Church",
+      "Jin De Xing Chinese Pharmacy",
+      "Huang Family Old House"
+    ]
+  },
+  "ciaonan-old-street": {
+    "getting_there_en": "TRA Xinying Station, then bus to Yanshui",
+    "best_time_en": "During the Yanshui Beehive Fireworks at the Lantern Festival",
+    "address_hint_en": "Qiaonan Village (south side of Xinglong Bridge)",
+    "district_en": "Yanshui District",
+    "signature_foods_en": [],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Xinglong Bridge",
+      "Hubi Temple"
+    ]
+  },
+  "yanshui-old-street": {
+    "getting_there_en": "TRA Xinying Station, then bus to Yanshui",
+    "best_time_en": "Beehive Fireworks at the Lantern Festival (protective gear required)",
+    "address_hint_en": "Around Zhongzheng Road, Zhongshan Road and Sanfu Road (Zhongjing Village)",
+    "district_en": "Yanshui District",
+    "signature_foods_en": [
+      "Yanshui yi-mian noodles",
+      "Bean noodle thick soup (dou-qian-geng)",
+      "Ba-wan (meatball dumpling)",
+      "Savory rice pudding (wa-gui)"
+    ],
+    "specialties_en": [
+      "Beehive fireworks"
+    ],
+    "landmarks_en": [
+      "Octagonal Tower (Bajiao Lou)",
+      "Yanshui Wu Temple",
+      "Yongcheng Theater"
+    ]
+  },
+  "madou-old-street": {
+    "getting_there_en": "From Tainan Station or Longtian Station by bus to Madou",
+    "best_time_en": "Pomelo (wendan) season before Mid-Autumn Festival",
+    "address_hint_en": "Xingzhong Road (Upper Street), Zhongshan Road and Zhongzheng Road (Lower Street)",
+    "district_en": "Madou District",
+    "signature_foods_en": [
+      "Madou savory rice pudding (wa-gui)",
+      "Wendan pomelo",
+      "Milkfish congee"
+    ],
+    "specialties_en": [
+      "Madou wendan pomelo"
+    ],
+    "landmarks_en": [
+      "Dianji Theater",
+      "Zongye Arts Center"
+    ]
+  },
+  "jiali-old-street": {
+    "getting_there_en": "From Tainan Station by bus to Jiali",
+    "best_time_en": "Zhongshan Market in the morning; Xiaolong Incense Festival years",
+    "address_hint_en": "Zhongshan Road (around Jintang Temple)",
+    "district_en": "Jiali District",
+    "signature_foods_en": [
+      "Pomelo cakes",
+      "Melon seeds",
+      "Milkfish"
+    ],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Jiali Jintang Temple",
+      "Zhongshan Market",
+      "Soulangh Cultural Park"
+    ]
+  },
+  "xigang-old-street": {
+    "getting_there_en": "From Tainan Station by bus to Xigang",
+    "best_time_en": "Xigang Incense Festival years (4th lunar month)",
+    "address_hint_en": "Zhongshan Road (around Qing'an Temple)",
+    "district_en": "Xigang District",
+    "signature_foods_en": [],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Xigang Qing'an Temple"
+    ]
+  },
+  "shanhua-old-street": {
+    "getting_there_en": "TRA Shanhua Station, ~10 min walk",
+    "best_time_en": "",
+    "address_hint_en": "Zhongshan Road (Bao'an Road to Zhonghua Road)",
+    "district_en": "Shanhua District",
+    "signature_foods_en": [],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Shanhua Qing'an Temple"
+    ]
+  },
+  "xinhua-old-street": {
+    "getting_there_en": "From Tainan Station by bus to Xinhua",
+    "best_time_en": "Weekend mornings, with the Xinhua Old Street market",
+    "address_hint_en": "Zhongzheng Road (Zhongshan Road to Xinyi Road)",
+    "district_en": "Xinhua District",
+    "signature_foods_en": [
+      "Sweet potatoes",
+      "Rice dumplings (ba-zang)",
+      "Savory rice pudding (wa-gui)"
+    ],
+    "specialties_en": [
+      "Sweet potato products"
+    ],
+    "landmarks_en": [
+      "Xinhua Town Office (historic building)",
+      "Tavocan Cultural Park",
+      "Xinhua Martial Arts Hall (Butokuden)"
+    ]
+  },
+  "baihe-dianzaikou-street": {
+    "getting_there_en": "TRA Xinying Station, then bus to Baihe",
+    "best_time_en": "Lotus season, Jun–Aug",
+    "address_hint_en": "Around the Zhongzheng Rd / Zhongshan Rd junction",
+    "district_en": "Baihe District",
+    "signature_foods_en": [
+      "Ba-wan (meatball dumpling)",
+      "Lotus seed dishes",
+      "Lotus root tea"
+    ],
+    "specialties_en": [
+      "Lotus seeds",
+      "Lotus root starch"
+    ],
+    "landmarks_en": [
+      "Baihe Daxian Temple"
+    ]
+  },
+  "guanziling-old-street": {
+    "getting_there_en": "TRA Xinying Station, then bus Yellow 10 to Guanziling",
+    "best_time_en": "Hot spring soaking in winter",
+    "address_hint_en": "Guanling Village (Guanziling Hot Spring area)",
+    "district_en": "Baihe District",
+    "signature_foods_en": [
+      "Clay-jar roasted chicken (weng-gang-ji)",
+      "Barrel-roasted chicken (tong-zai-ji)",
+      "Hot spring eggs"
+    ],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Guanziling Hot Springs",
+      "Water and Fire Cave (Shui Huo Tong Yuan)",
+      "Haohan Slope (Good Fellow Slope)"
+    ]
+  },
+  "dongyuan-old-street": {
+    "getting_there_en": "Driving recommended (~1 hr from central Tainan)",
+    "best_time_en": "Buddha Mother (Fozu Ma) procession in the 2nd lunar month",
+    "address_hint_en": "Dongyuan Village (near Dongyuan Elementary School)",
+    "district_en": "Dongshan District",
+    "signature_foods_en": [
+      "Bean sprout noodles (dou-cai-mian)",
+      "Dongyuan ice treats"
+    ],
+    "specialties_en": [
+      "Dried longan",
+      "Coffee"
+    ],
+    "landmarks_en": [
+      "Dongyuan Fuxing Temple",
+      "Old banyan tree"
+    ]
+  },
+  "yujing-old-street": {
+    "getting_there_en": "From Tainan Station take the Green Main Line bus to Yujing",
+    "best_time_en": "Mango season, Jun–Aug",
+    "address_hint_en": "Zhongzheng Road (around Beiji Temple)",
+    "district_en": "Yujing District",
+    "signature_foods_en": [
+      "Mango shaved ice",
+      "Irwin mangoes",
+      "Dried mango"
+    ],
+    "specialties_en": [
+      "Dried mango"
+    ],
+    "landmarks_en": [
+      "Yujing Beiji Temple",
+      "Yujing Fruit Market",
+      "Tapani Incident Memorial Hall"
+    ]
+  },
+  "beiliao-old-street": {
+    "getting_there_en": "Driving or scooter recommended",
+    "best_time_en": "Photograph in daytime when the light is good",
+    "address_hint_en": "Xinguang Street, Xinguang Village",
+    "district_en": "Guanmiao District",
+    "signature_foods_en": [],
+    "specialties_en": [
+      "Bamboo weaving"
+    ],
+    "landmarks_en": []
+  },
+  "xingang-fengtian-old-street": {
+    "getting_there_en": "From Chiayi Station or HSR Chiayi Station by bus to Xingang",
+    "best_time_en": "During the Dajia Mazu Pilgrimage in the 3rd lunar month",
+    "address_hint_en": "Zhongshan Road and Xinzhong Road (around Fengtian Temple)",
+    "district_en": "Xingang Township",
+    "signature_foods_en": [
+      "Xingang malt candy (Xingang yi)",
+      "Duck thick soup (ya-rou-geng)",
+      "Peanut brittle"
+    ],
+    "specialties_en": [
+      "Xingang malt candy (Xingang yi)",
+      "Koji pottery",
+      "Ceramic tile mosaic (ban-tao)"
+    ],
+    "landmarks_en": [
+      "Xingang Fengtian Temple",
+      "Pei Gui Tang (historic residence)"
+    ]
+  },
+  "fuzhong-street": {
+    "getting_there_en": "Tainan Station, ~20 min walk, or bus to the Confucius Temple",
+    "best_time_en": "Quieter on weekday mornings",
+    "address_hint_en": "Fuzhong Street (opposite the Confucius Temple)",
+    "district_en": "West Central District",
+    "signature_foods_en": [
+      "Ice desserts",
+      "Winter melon tea",
+      "Handmade pastries"
+    ],
+    "specialties_en": [
+      "Creative design goods",
+      "Handmade sundries"
+    ],
+    "landmarks_en": [
+      "Tainan Confucius Temple",
+      "Pan Gong Stone Archway"
+    ]
+  },
+  "cijin-old-street": {
+    "getting_there_en": "MRT Sizihwan or Yanchengpu Station, walk to Gushan Ferry Pier, then ferry to Cijin (street is right by the pier)",
+    "best_time_en": "Weekday evenings, with a Sizihwan sunset; crowded on weekends",
+    "address_hint_en": "Around Miaoqian Road and Tongshan Road",
+    "district_en": "Cijin District",
+    "signature_foods_en": [
+      "Stir-fried seafood",
+      "Grilled baby squid",
+      "Oden (hei-lun fish cake)",
+      "Seafood congee",
+      "Fried snacks"
+    ],
+    "specialties_en": [
+      "Dried seafood"
+    ],
+    "landmarks_en": [
+      "Cijin Tianhou Temple",
+      "Cihou Fort",
+      "Cihou Lighthouse"
+    ]
+  },
+  "yancheng-ginza-street": {
+    "getting_there_en": "MRT Yanchengpu Station, ~5 min walk",
+    "best_time_en": "Combine with the Yancheng old district and The Pier-2 Art Center",
+    "address_hint_en": "Qixian 3rd Road",
+    "district_en": "Yancheng District",
+    "signature_foods_en": [],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Kaohsiung Ginza"
+    ]
+  },
+  "yancheng-old-district": {
+    "getting_there_en": "Right at MRT Yanchengpu Station",
+    "best_time_en": "Noon to dusk; most snack shops close early in the evening",
+    "address_hint_en": "Around Xinle Street, Daren Road, Wufu 4th Road and Dagouding",
+    "district_en": "Yancheng District",
+    "signature_foods_en": [
+      "Duck rice",
+      "Beef noodles",
+      "Old-style ice treats",
+      "Sticky rice cake (mi-gao)",
+      "Minced pork rice (rou-zao-fan)"
+    ],
+    "specialties_en": [
+      "Imported goods",
+      "Gold jewelry",
+      "Fabrics",
+      "Tailors (Western suits)"
+    ],
+    "landmarks_en": [
+      "Jiangjiang Mall (Horie Market)",
+      "Dagouding",
+      "Kaohsiung Museum of History",
+      "The Pier-2 Art Center"
+    ]
+  },
+  "hamasen-old-street": {
+    "getting_there_en": "Walkable from MRT Sizihwan Station or Light Rail Hamasen Station",
+    "best_time_en": "Sunset at Sizihwan at dusk; snacks in front of Daitian Temple at night",
+    "address_hint_en": "Around Jiexing 2nd Street, Gubo Street and Linhai 3rd Road",
+    "district_en": "Gushan District",
+    "signature_foods_en": [
+      "Swordfish oden (hei-lun)",
+      "Old-style ice treats",
+      "Seafood",
+      "Daitian Temple snacks"
+    ],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Takao Railway Museum",
+      "Kaohsiung Butokuden (Martial Arts Hall)",
+      "Daitian Temple",
+      "Shinhama Wharf",
+      "British Consulate at Takow"
+    ]
+  },
+  "neiwei-old-street": {
+    "getting_there_en": "Light Rail Museum of Fine Arts or Neiwei Arts Center Station, ~10 min walk",
+    "best_time_en": "Morning market hours feel the most lived-in",
+    "address_hint_en": "Old Neiwei settlement (near Neiwei Elementary School and the Li Family Shrine)",
+    "district_en": "Gushan District",
+    "signature_foods_en": [],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Neiwei Arts Center",
+      "Li Family Ancestral Shrine"
+    ]
+  },
+  "sanfeng-central-street": {
+    "getting_there_en": "TRA Sankuaicuo Station or MRT Houyi Station, ~5 min walk",
+    "best_time_en": "Busiest in the month before Lunar New Year",
+    "address_hint_en": "Sanfong Central Street (north of Jianguo 3rd Rd, south of the railway)",
+    "district_en": "Sanmin District",
+    "signature_foods_en": [
+      "Dried-goods snacks",
+      "Candied fruit (mi-jian)",
+      "Jerky (rou-gan)",
+      "Mullet roe (karasumi)"
+    ],
+    "specialties_en": [
+      "Dried goods",
+      "Dried foods",
+      "Lunar New Year goods"
+    ],
+    "landmarks_en": [
+      "Sanfeng Temple"
+    ]
+  },
+  "fengshan-first-street": {
+    "getting_there_en": "MRT Fongshan Station, ~10 min walk",
+    "best_time_en": "Morning market hours",
+    "address_hint_en": "Around Sanmin Road (near Fengshan First Public Market)",
+    "district_en": "Fengshan District",
+    "signature_foods_en": [
+      "Market snacks"
+    ],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Fengshan First Public Market",
+      "Shuangci Temple",
+      "Fengshan Longshan Temple",
+      "Caogong Canal"
+    ]
+  },
+  "fengshan-blacksmith-street": {
+    "getting_there_en": "MRT Fongshan Station, ~10 min walk",
+    "best_time_en": "Daytime, when the forges are working",
+    "address_hint_en": "Lane 44, Sanmin Road",
+    "district_en": "Fengshan District",
+    "signature_foods_en": [],
+    "specialties_en": [
+      "Hand-forged ironwork",
+      "Farm tools",
+      "Knives"
+    ],
+    "landmarks_en": [
+      "Blacksmith shops"
+    ]
+  },
+  "pizitou-street": {
+    "getting_there_en": "TRA Zuoying (Jiucheng) Station, ~10 min walk",
+    "best_time_en": "Pair with Lotus Pond and the Jiancheng Hall",
+    "address_hint_en": "Around Pizitou Street and Dianzaiding Road",
+    "district_en": "Zuoying District",
+    "signature_foods_en": [],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Zuoying Old City",
+      "Old City God Temple"
+    ]
+  },
+  "zuoying-xia-road": {
+    "getting_there_en": "TRA Zuoying (Jiucheng) Station, ~15 min walk",
+    "best_time_en": "",
+    "address_hint_en": "Zuoying Xia Road (old look preserved between Yuandi Rd and Kongying Rd)",
+    "district_en": "Zuoying District",
+    "signature_foods_en": [],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Zuoying Yuandi Temple",
+      "Lotus Pond"
+    ]
+  },
+  "xiling-street": {
+    "getting_there_en": "TRA Zuoying (Jiucheng) Station, ~15 min walk",
+    "best_time_en": "During daytime shop hours",
+    "address_hint_en": "Around the Xiling Street / Junxiao Road junction",
+    "district_en": "Zuoying District",
+    "signature_foods_en": [],
+    "specialties_en": [
+      "Military surplus goods",
+      "Tailor-made suits",
+      "Uniforms",
+      "Insignia and badges"
+    ],
+    "landmarks_en": [
+      "Zuoying Naval Base"
+    ]
+  },
+  "nanzi-old-street": {
+    "getting_there_en": "TRA Nanzi Station, ~10 min walk",
+    "best_time_en": "",
+    "address_hint_en": "Old streets around Nanzi Tianhou Temple",
+    "district_en": "Nanzi District",
+    "signature_foods_en": [],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Nanzi Tianhou Temple"
+    ]
+  },
+  "qiaotou-old-street": {
+    "getting_there_en": "TRA Qiaotou Station or MRT Ciaotou Station, ~5 min walk",
+    "best_time_en": "Combine with the Qiaotou Sugar Factory",
+    "address_hint_en": "Around Qiaotou Station and Zhongzheng Road",
+    "district_en": "Qiaotou District",
+    "signature_foods_en": [
+      "Curry tuna thick soup (geng)",
+      "Sugar factory ice treats"
+    ],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Qiaozaitou Sugar Factory",
+      "Sanyu Bookstore"
+    ]
+  },
+  "sannaitan-old-street": {
+    "getting_there_en": "Driving recommended",
+    "best_time_en": "",
+    "address_hint_en": "Around Sanmin Road and Cuiping Road",
+    "district_en": "Dashe District",
+    "signature_foods_en": [],
+    "specialties_en": [
+      "Shadow puppetry"
+    ],
+    "landmarks_en": [
+      "Sannaitan Biyun Temple"
+    ]
+  },
+  "linyuan-old-street": {
+    "getting_there_en": "Driving recommended, or Kaohsiung Bus to Linyuan stop",
+    "best_time_en": "Morning market hours; most stalls pack up in the afternoon",
+    "address_hint_en": "Around Fuxing Street",
+    "district_en": "Linyuan District",
+    "signature_foods_en": [
+      "Duck rice",
+      "Morning market snacks"
+    ],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Former Dinglinzaibian Police Substation",
+      "Linyuan Central Market"
+    ]
+  },
+  "linyuan-new-street": {
+    "getting_there_en": "Driving recommended",
+    "best_time_en": "Anle Lou is privately owned; photograph from outside only",
+    "address_hint_en": "Linyuan North Road",
+    "district_en": "Linyuan District",
+    "signature_foods_en": [],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Anle Lou (historic mansion)"
+    ]
+  },
+  "gangshan-old-street": {
+    "getting_there_en": "MRT Gangshan Station or TRA Gangshan Station, then transfer or ~15 min walk",
+    "best_time_en": "Morning market hours",
+    "address_hint_en": "Around Weiren Road, Kaiyuan Street and Pinghe Road",
+    "district_en": "Gangshan District",
+    "signature_foods_en": [
+      "Mutton hot pot",
+      "Mutton soup",
+      "Chili bean paste (dou-ban-jiang)",
+      "Honey",
+      "Minced pork rice (rou-zao-fan)"
+    ],
+    "specialties_en": [
+      "Baskets",
+      "Chili bean paste (dou-ban-jiang)",
+      "Honey"
+    ],
+    "landmarks_en": [
+      "Shoutian Temple"
+    ]
+  },
+  "qishan-old-street": {
+    "getting_there_en": "Kaohsiung Bus from HSR Zuoying Station or Kaohsiung Station to Qishan stop, then a short walk",
+    "best_time_en": "Livelier on weekends; combine with a Meinong day trip",
+    "address_hint_en": "Around Zhongshan Road and Fuxin Street",
+    "district_en": "Qishan District",
+    "signature_foods_en": [
+      "Banana cake",
+      "Banana ice",
+      "Popsicles (zhi-zai-bing)",
+      "Savory rice pudding (wa-gui)",
+      "Rice dumplings (ba-zang)"
+    ],
+    "specialties_en": [
+      "Banana products"
+    ],
+    "landmarks_en": [
+      "Qishan Station",
+      "Stone arcade (ting-zai-jiao)",
+      "Qishan Tianhou Temple",
+      "Qishan Butokuden (Martial Arts Hall)"
+    ]
+  },
+  "meinong-yongan-old-street": {
+    "getting_there_en": "Kaohsiung Bus from Qishan to Meinong stop, ~10 min walk; cycling recommended",
+    "best_time_en": "Paper-honoring festival on the 8th–9th days of the 1st lunar month; flower fields in autumn and winter",
+    "address_hint_en": "Yong'an Road (Jingzi Pavilion to East Gate)",
+    "district_en": "Meinong District",
+    "signature_foods_en": [
+      "Flat rice noodles (ban-tiao)",
+      "Hakka stir-fry (ke-jia-xiao-chao)",
+      "Braised pork knuckle",
+      "Hakka pounded tea (lei-cha)",
+      "Water snowflake (ye-lian)"
+    ],
+    "specialties_en": [
+      "Oil-paper umbrellas",
+      "Hakka blue shirts (lan-shan)"
+    ],
+    "landmarks_en": [
+      "Meinong East Gate",
+      "Minong Village Jingzi Pavilion (paper-burning pavilion)",
+      "Meinong Water Bridge",
+      "Meinong Village Head Earth God Shrine (Bogong)",
+      "Meinong Creative Center"
+    ]
+  },
+  "liugui-old-street": {
+    "getting_there_en": "Driving recommended; or Kaohsiung Bus via transfer at Qishan",
+    "best_time_en": "Wax apple peak season in January",
+    "address_hint_en": "Around Huanan Street",
+    "district_en": "Liugui District",
+    "signature_foods_en": [
+      "Pineapple turtle cakes (feng-li-gui)",
+      "Red bean paste pastries",
+      "Black Pearl wax apples"
+    ],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Ikeda-ya (historic shop)",
+      "Hong Kunyuan Shop"
+    ]
+  },
+  "ligang-old-street": {
+    "getting_there_en": "Driving recommended; Pingtung Bus to Ligang stop",
+    "best_time_en": "Lunchtime",
+    "address_hint_en": "Around Zhongshan Road (in front of Shuangci Temple)",
+    "district_en": "Ligang Township",
+    "signature_foods_en": [
+      "Bian-shi (wontons)",
+      "Braised pork knuckle",
+      "Wonton soup (bian-shi-tang)"
+    ],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Shuangci Temple"
+    ]
+  },
+  "fengtian-old-street": {
+    "getting_there_en": "Driving recommended",
+    "best_time_en": "",
+    "address_hint_en": "Old settlement of Fengtian Village",
+    "district_en": "Neipu Township",
+    "signature_foods_en": [],
+    "specialties_en": [],
+    "landmarks_en": []
+  },
+  "neipu-yangjiyuan-old-street": {
+    "getting_there_en": "Driving recommended; or transfer from TRA Zhutian Station",
+    "best_time_en": "Pair with Changli Shrine and Tianhou Temple",
+    "address_hint_en": "Around Yangji Road and Dongcheng Road (opposite Neipu Tianhou Temple)",
+    "district_en": "Neipu Township",
+    "signature_foods_en": [
+      "Garlic dry noodles",
+      "Hakka rice cakes (ban)",
+      "Hakka snacks"
+    ],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Neipu Tianhou Temple",
+      "Changli Shrine"
+    ]
+  },
+  "erlun-old-street": {
+    "getting_there_en": "~15 min by bike from TRA Zhutian Station; driving recommended",
+    "best_time_en": "",
+    "address_hint_en": "Erlun Village",
+    "district_en": "Zhutian Township",
+    "signature_foods_en": [],
+    "specialties_en": [],
+    "landmarks_en": []
+  },
+  "meilun-old-street": {
+    "getting_there_en": "~10 min by bike from TRA Zhutian Station",
+    "best_time_en": "",
+    "address_hint_en": "Meilun Village",
+    "district_en": "Zhutian Township",
+    "signature_foods_en": [
+      "Old-style popsicles"
+    ],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Old Master Q mural wall"
+    ]
+  },
+  "toulun-old-street": {
+    "getting_there_en": "Driving recommended",
+    "best_time_en": "",
+    "address_hint_en": "Toulun Village",
+    "district_en": "Zhutian Township",
+    "signature_foods_en": [],
+    "specialties_en": [],
+    "landmarks_en": []
+  },
+  "xisheng-old-street": {
+    "getting_there_en": "Driving recommended; or transfer from TRA Chaozhou Station",
+    "best_time_en": "",
+    "address_hint_en": "Around Xisheng Road, Wugou Village",
+    "district_en": "Wanluan Township",
+    "signature_foods_en": [],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Liu Family Ancestral Hall",
+      "Wugoushui spring",
+      "Guanhai Shanfang (historic residence)"
+    ]
+  },
+  "wandan-old-street": {
+    "getting_there_en": "Driving recommended; Pingtung Bus to Wandan stop",
+    "best_time_en": "Red bean harvest season in winter",
+    "address_hint_en": "Wandan Road Section 1 (around Wanhui Temple)",
+    "district_en": "Wandan Township",
+    "signature_foods_en": [
+      "Red bean wheel cakes",
+      "Red bean ice",
+      "Red bean soup",
+      "Old-style shaved ice"
+    ],
+    "specialties_en": [
+      "Red beans"
+    ],
+    "landmarks_en": [
+      "Wanhui Temple",
+      "Fangmei Shop (historic building)"
+    ]
+  },
+  "chaozhou-old-street": {
+    "getting_there_en": "TRA Chaozhou Station, ~10 min walk",
+    "best_time_en": "During events such as the Spring Tide Market",
+    "address_hint_en": "Jianji Road",
+    "district_en": "Chaozhou Township",
+    "signature_foods_en": [
+      "Hot-and-cold shaved ice (leng-re-bing)"
+    ],
+    "specialties_en": [
+      "Furniture"
+    ],
+    "landmarks_en": [
+      "Chaozhou Mo-Ru Lane (narrow alley)"
+    ]
+  },
+  "donggang-yanping-old-street": {
+    "getting_there_en": "TRA Pingtung or Linbian Station, then coach to Donggang stop, ~10 min walk",
+    "best_time_en": "During the King Boat Festival (every three years, in autumn); bluefin tuna season Apr–Jun",
+    "address_hint_en": "Around Yanping Road",
+    "district_en": "Donggang Township",
+    "signature_foods_en": [
+      "Bluefin tuna sashimi",
+      "Swordfish oden (hei-lun)",
+      "Savory meat rice cake (rou-guo)",
+      "Shuang-gao-run (layered sticky rice cake)",
+      "Cuttlefish balls",
+      "Tuna floss"
+    ],
+    "specialties_en": [
+      "Dried seafood",
+      "Sakura shrimp"
+    ],
+    "landmarks_en": [
+      "Donglong Temple",
+      "Chaolong Temple",
+      "Huaqiao Seafood Market"
+    ]
+  },
+  "liuqiu-old-street": {
+    "getting_there_en": "Ferry from Donggang to Baisha Harbor, then a short walk",
+    "best_time_en": "Many visitors in summer; some shops open in the evening",
+    "address_hint_en": "Around Sanmin Road and Zhongshan Road (near Baisha Tourist Harbor)",
+    "district_en": "Liuqiu Township",
+    "signature_foods_en": [
+      "Fried dough twists (ma-hua-juan)",
+      "Onion rings",
+      "Seafood",
+      "Shaved ice"
+    ],
+    "specialties_en": [
+      "Fried dough twist souvenirs"
+    ],
+    "landmarks_en": [
+      "Biyun Temple",
+      "Baisha Tourist Harbor"
+    ]
+  },
+  "jiadong-old-street": {
+    "getting_there_en": "TRA Jiadong Station, ~10 min walk",
+    "best_time_en": "Check Xiao Family Old House opening hours in advance",
+    "address_hint_en": "Around Gouzhu Road and Jiaxing Road, Jiadong Village",
+    "district_en": "Jiadong Township",
+    "signature_foods_en": [],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Xiao Family Old House",
+      "Buyue Lou (Moon-Walking Tower)",
+      "Yang Family Ancestral Hall",
+      "Zhang Family Merchant House",
+      "West Gate (Xi Aimen)"
+    ]
+  },
+  "checheng-old-street-pingtung": {
+    "getting_there_en": "Kuo-Kuang bus or Kenting Express from Kaohsiung to Checheng stop",
+    "best_time_en": "Stop by on the way to Kenting",
+    "address_hint_en": "Around Zhongzheng Road and Fu'an Road",
+    "district_en": "Checheng Township",
+    "signature_foods_en": [
+      "Mung bean garlic soup (lu-dou-suan)",
+      "Onions",
+      "Temple-front breakfast"
+    ],
+    "specialties_en": [
+      "Onions"
+    ],
+    "landmarks_en": [
+      "Fu'an Temple",
+      "Former Checheng Village Office"
+    ]
+  },
+  "sichongxi-hot-spring-street": {
+    "getting_there_en": "Kuo-Kuang bus to Checheng stop, then Pingtung Bus to Sichongxi; driving recommended",
+    "best_time_en": "Winter is best for hot spring soaking",
+    "address_hint_en": "Around Wenhua Road and Hot Spring Park, Wenquan Village",
+    "district_en": "Checheng Township",
+    "signature_foods_en": [],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Sichongxi Hot Spring Park",
+      "Qingquan Japanese Hot Spring Inn"
+    ]
+  },
+  "hengchun-old-street": {
+    "getting_there_en": "Kuo-Kuang bus or Kenting Express from Kaohsiung to Hengchun Bus Station, ~5 min walk",
+    "best_time_en": "Livelier from dusk into the night; Ghost Grappling (qiang-gu) at the Lantern Festival",
+    "address_hint_en": "Around Zhongshan Road and Guangming Road (inside Hengchun Old Town)",
+    "district_en": "Hengchun Township",
+    "signature_foods_en": [
+      "Mung bean dessert (lu-dou-zhuan)",
+      "Onions",
+      "Grilled squid",
+      "Gangkou tea"
+    ],
+    "specialties_en": [
+      "Onion products"
+    ],
+    "landmarks_en": [
+      "Hengchun Old Town",
+      "Hengchun South Gate",
+      "Aga's House (Cape No. 7 film site)",
+      "Hengchun Old Town North Gate"
+    ]
+  },
+  "jiaxian-old-street": {
+    "getting_there_en": "Driving recommended; or Kaohsiung Bus via transfer at Qishan to Jiaxian",
+    "best_time_en": "Taro ice in summer; crowded on weekends",
+    "address_hint_en": "Around Wenhua Road and Zhongzheng Road",
+    "district_en": "Jiaxian District",
+    "signature_foods_en": [
+      "Taro ice",
+      "Taro cake (yu-guo)",
+      "Taro paste pastries",
+      "Taro flaky pastries (yu-tou-su)"
+    ],
+    "specialties_en": [
+      "Taro products"
+    ],
+    "landmarks_en": [
+      "Jiaxian Bridge",
+      "Jiaxian Park"
+    ]
+  },
+  "toucheng-old-street": {
+    "getting_there_en": "TRA Toucheng Station, ~5 min walk",
+    "best_time_en": "Busiest during Toucheng Ghost Grappling (qiang-gu) at the end of the 7th lunar month; quiet and good for strolling on weekdays",
+    "address_hint_en": "Heping Street (South Gate Fude Shrine to North Gate Fude Shrine)",
+    "district_en": "Toucheng Township",
+    "signature_foods_en": [
+      "Taro ice"
+    ],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Lu Zuan-xiang Residence",
+      "Toucheng Qingyuan Temple",
+      "Xin Changxing Shuji (historic shop)",
+      "South Gate Fude Shrine (Earth God shrine)",
+      "North Gate Fude Shrine (Earth God shrine)"
+    ]
+  },
+  "dali-old-street-yilan": {
+    "getting_there_en": "Right at TRA Dali Station",
+    "best_time_en": "Combine with a hike on the Caoling Historic Trail (silver grass season in autumn)",
+    "address_hint_en": "Beside the coastal highway (Provincial Highway 2) around Qingyun Temple, Dali Village",
+    "district_en": "Toucheng Township",
+    "signature_foods_en": [
+      "Rice noodle thick soup (mi-fen-geng)",
+      "Fried cuttlefish balls"
+    ],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Dali Tiangong Temple (Qingyun Temple)",
+      "Dali Station",
+      "Caoling Historic Trail trailhead"
+    ]
+  },
+  "lizejian-old-street": {
+    "getting_there_en": "Driving recommended, or bus from Luodong",
+    "best_time_en": "\"Zou Wang\" deity-running event at the Lantern Festival",
+    "address_hint_en": "Lize Road, Lize Village (Lisheng Hospital to Yong'an Temple)",
+    "district_en": "Wujie Township",
+    "signature_foods_en": [],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Lisheng Hospital (county monument)",
+      "Lize Yong'an Temple"
+    ]
+  },
+  "dongshan-old-street": {
+    "getting_there_en": "Walkable from TRA Dongshan Station",
+    "best_time_en": "",
+    "address_hint_en": "Around Dongshan Station and Zhongzheng Road",
+    "district_en": "Dongshan Township",
+    "signature_foods_en": [],
+    "specialties_en": [],
+    "landmarks_en": []
+  },
+  "xincheng-old-street": {
+    "getting_there_en": "TRA Xincheng (Taroko) Station, ~10 min walk",
+    "best_time_en": "Combine with a trip to Taroko",
+    "address_hint_en": "Bo'ai Road",
+    "district_en": "Xincheng Township",
+    "signature_foods_en": [
+      "Lemon juice",
+      "Ice desserts"
+    ],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Xincheng Photo Studio",
+      "Xincheng Catholic Church (torii from the former Shinto shrine)"
+    ]
+  },
+  "tongmen-machete-street": {
+    "getting_there_en": "Driving recommended, ~30 min from Hualien City",
+    "best_time_en": "Combine with a Mukumugi trip (permit required)",
+    "address_hint_en": "Main road of Tongmen Village",
+    "district_en": "Xiulin Township",
+    "signature_foods_en": [],
+    "specialties_en": [
+      "Tongmen knives (hand-forged machetes)"
+    ],
+    "landmarks_en": []
+  },
+  "lilong-old-street": {
+    "getting_there_en": "Walkable from TRA Guanshan Station",
+    "best_time_en": "Pair with the Guanshan town bike path",
+    "address_hint_en": "Old town streets around Zhongzheng Road and Zhongshan Road",
+    "district_en": "Guanshan Township",
+    "signature_foods_en": [
+      "Guanshan lunch box",
+      "Guanshan rice"
+    ],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Old Guanshan Station",
+      "Jiabin Hotel"
+    ]
+  },
+  "zhiben-hot-spring-street": {
+    "getting_there_en": "TRA Zhiben Station, then ~20 min by bus",
+    "best_time_en": "Hot spring season in winter; stroll the street in the evening",
+    "address_hint_en": "Longquan Road, Wenquan Village",
+    "district_en": "Beinan Township",
+    "signature_foods_en": [],
+    "specialties_en": [],
+    "landmarks_en": []
+  },
+  "dawu-old-street": {
+    "getting_there_en": "Walkable from TRA Dawu Station",
+    "best_time_en": "",
+    "address_hint_en": "Old town streets north of the bridge, Dawu Village",
+    "district_en": "Dawu Township",
+    "signature_foods_en": [],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Dawu Fishing Harbor"
+    ]
+  },
+  "zhongyang-old-street-magong": {
+    "getting_there_en": "Walkable from central Magong (~5 min from Magong Harbor)",
+    "best_time_en": "Cool at dusk; crowded during the summer Fireworks Festival",
+    "address_hint_en": "Zhongyang Street (behind Tianhou Temple)",
+    "district_en": "Magong City",
+    "signature_foods_en": [
+      "Brown sugar cake",
+      "Cactus ice",
+      "Salty pastries (xian-bing)"
+    ],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Penghu Tianhou Temple",
+      "Four-Eyed Well",
+      "Shi Gong Shrine",
+      "Wanjun Well"
+    ]
+  },
+  "xiaochijiao-zhuzai-street": {
+    "getting_there_en": "Scooter or car recommended, ~40 min from central Magong",
+    "best_time_en": "",
+    "address_hint_en": "Within the Chixi Village settlement (formerly Xiaochijiao)",
+    "district_en": "Xiyu Township",
+    "signature_foods_en": [],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Xiaochijiao Double-Curved Bridge"
+    ]
+  },
+  "erkan-settlement": {
+    "getting_there_en": "Scooter or car recommended, ~30 min from central Magong",
+    "best_time_en": "Morning or dusk to avoid the strong sun",
+    "address_hint_en": "Erkan Village",
+    "district_en": "Xiyu Township",
+    "signature_foods_en": [
+      "Almond tea"
+    ],
+    "specialties_en": [
+      "Herbal products"
+    ],
+    "landmarks_en": [
+      "Erkan Chen Family Old Houses"
+    ]
+  },
+  "shamei-old-street": {
+    "getting_there_en": "Kinmen bus to Shamei stop, or by scooter/car",
+    "best_time_en": "",
+    "address_hint_en": "Shamei town center (around Wan'an Temple)",
+    "district_en": "Jinsha Township",
+    "signature_foods_en": [],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Wan'an Temple",
+      "Shamei Wan'an Temple origin memorial park"
+    ]
+  },
+  "yangzhai-old-street": {
+    "getting_there_en": "Scooter or car recommended; Kinmen bus also available",
+    "best_time_en": "",
+    "address_hint_en": "Yangzhai Main Street (beside Jindong Theater)",
+    "district_en": "Jinsha Township",
+    "signature_foods_en": [],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Jindong Theater"
+    ]
+  },
+  "jincheng-old-street": {
+    "getting_there_en": "Jincheng Bus Station, ~3 min walk",
+    "best_time_en": "Cantonese congee in the morning; busiest at the City God procession on the 12th day of the 4th lunar month",
+    "address_hint_en": "Around Juguang Road and Minquan Road (Houpu)",
+    "district_en": "Jincheng Township",
+    "signature_foods_en": [
+      "Cantonese congee",
+      "Oyster vermicelli (o-a-mi-sua)",
+      "Kinmen sesame flatbread (shao-bing)",
+      "Peanut candy (gong-tang)",
+      "Kinmen rock oysters"
+    ],
+    "specialties_en": [
+      "Kitchen knives (made from artillery shell steel)",
+      "Kaoliang liquor"
+    ],
+    "landmarks_en": [
+      "Kinmen Military Headquarters of Qing Dynasty",
+      "Chastity Arch for Qiu Liang-gong's Mother",
+      "Houpu City God Temple"
+    ]
+  },
+  "mingyi-old-street": {
+    "getting_there_en": "Scooter or car recommended, ~10 min from central Jincheng",
+    "best_time_en": "",
+    "address_hint_en": "Outside the north gate of Kinmen City, Gucheng Village",
+    "district_en": "Jincheng Township",
+    "signature_foods_en": [],
+    "specialties_en": [],
+    "landmarks_en": [
+      "Kinmen City North Gate ruins",
+      "Mingyi Ancient Street Story House"
+    ]
+  },
+  "mofan-street": {
+    "getting_there_en": "Jincheng Bus Station, ~5 min walk",
+    "best_time_en": "Best for photos at dusk when the red-brick arcades are lit",
+    "address_hint_en": "Mofan Street (off Juguang Road, Jincheng)",
+    "district_en": "Jincheng Township",
+    "signature_foods_en": [
+      "Kinmen sesame flatbread (shao-bing)",
+      "Peanut candy (gong-tang)",
+      "Cantonese congee"
+    ],
+    "specialties_en": [
+      "Kaoliang liquor",
+      "Kitchen knives (made from artillery shell steel)"
+    ],
+    "landmarks_en": [
+      "Mofan Street red-brick arcade shophouses"
+    ]
+  },
+  "niujiao-settlement": {
+    "getting_there_en": "Nangan bus to Niujiao stop, or by scooter",
+    "best_time_en": "During the Lantern Festival Bai Mei celebrations",
+    "address_hint_en": "Da'ao, Niujiao settlement, Fuxing Village",
+    "district_en": "Nangan Township",
+    "signature_foods_en": [
+      "Jiguang cake (ji-guang-bing)",
+      "Fish noodles",
+      "Old wine vermicelli (lao-jiu-mian-xian)"
+    ],
+    "specialties_en": [
+      "Matsu old wine (lao-jiu)"
+    ],
+    "landmarks_en": []
+  }
+}

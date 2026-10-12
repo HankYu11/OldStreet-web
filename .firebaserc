@@ -1,0 +1,12 @@
+{
+  "projects": {
+    "default": "freshtogo-e52a1"
+  },
+  "targets": {
+    "freshtogo-e52a1": {
+      "hosting": {
+        "prod": ["oldstreet-web"]
+      }
+    }
+  }
+}

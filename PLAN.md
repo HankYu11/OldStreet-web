@@ -70,25 +70,27 @@ check this on their phone on the way.
 
 | Concern | Choice | Why |
 |---|---|---|
-| Framework | **Astro** (static) + **React** islands for the explorer | One static page per street → great SEO & fast; interactive only where needed |
-| Styling | Tailwind CSS | Fast iteration, consistent design tokens |
-| Map | Leaflet + OpenStreetMap tiles (or MapLibre) + marker clustering | Free, no API key |
-| Search | Fuse.js client-side fuzzy search (zh + en + aliases) | ~200 items, no backend needed |
+| Framework | **Astro** (static) + vanilla TypeScript (same stack as QiSi-web) | One static page per street → great SEO & fast; interactive only where needed |
+| Styling | Scoped component CSS + design tokens in `global.css` | No build-time CSS framework needed |
+| Map | Custom SVG constellation map (taiwan-atlas) on home; Leaflet + OSM tiles on street pages | Free, no API key |
+| Search | Client-side substring search over zh/en names, aliases, towns, foods, themes | ~200 items, no backend needed |
 | Data | `data/old_streets.json` validated in CI with a JSON schema | Single source of truth, easy to edit via PR |
 | Images | Wikimedia Commons (with attribution) | Free licences |
-| Hosting | GitHub Pages or Vercel | Free, auto-deploy from `main` |
+| Hosting | Firebase Hosting (`oldstreet.handyla.co`) | Same project & workflow as QiSi-web |
 | i18n | Astro i18n routing (`/` zh-TW, `/en/`) | |
 
 No backend for the MVP; everything is static.
 
 ## 6. Milestones
 
-1. ✅ **Data gathering** — list, enrichment, schema (this PR/commit).
-2. **Data review** — spot-check scores/coords for the top ~40 streets; fix low-confidence entries; pick hero images.
-3. **Scaffold** — Astro + Tailwind + data loading + street detail pages.
-4. **Explorer** — map, filters, mood buttons, search.
-5. **Polish** — design pass, bilingual copy, accessibility, Lighthouse ≥ 90, deploy.
-6. **Routes & extras**.
+1. ✅ **Data gathering** — list, enrichment, schema.
+2. ✅ **Site v1** — Astro static site, futuristic "time machine" design: constellation map of Taiwan,
+   mood pads, live filtering with View Transitions, street pages with HUD gauges, scroll-lit story,
+   Leaflet mini-map, nearby streets; zh-TW + English; axe-clean; Firebase deploy workflow.
+3. **Data review** — spot-check scores/coords for the top ~40 streets; fix the 61 low-confidence
+   entries; find photos for the 128 streets without one.
+4. **Launch** — Firebase site + `oldstreet.handyla.co` domain + `FIREBASE_SERVICE_ACCOUNT` secret; OG images.
+5. **Routes & extras** — curated routes, festival calendar, compare view.
 
 ## 7. Open questions
 

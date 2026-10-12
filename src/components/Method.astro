@@ -1,0 +1,163 @@
+---
+import { copy, L, type Lang } from "../i18n/copy";
+import { streets } from "../lib/streets";
+
+interface Props {
+  lang: Lang;
+}
+const { lang } = Astro.props;
+const t = copy[lang];
+const scoreKeys = ["food", "history", "architecture", "shopping", "crowd"] as const;
+const statuses = ["thriving", "active", "quiet", "faded"] as const;
+const countBy = (k: string) => streets.filter((s) => s.status === k).length;
+const scoreText = {
+  zh: {
+    food: "0 沒什麼吃的 → 3 本身就是美食目的地",
+    history: "0 鮮為人知 → 3 具全國性歷史意義",
+    architecture: "0 老屋幾乎不存 → 3 整排保存完整",
+    shopping: "0 沒有店家 → 3 本身就是購物街",
+    crowd: "1 清幽 → 3 假日人擠人",
+  },
+  en: {
+    food: "0 nothing notable → 3 a food destination",
+    history: "0 little known → 3 nationally significant",
+    architecture: "0 none left → 3 outstanding, largely intact",
+    shopping: "0 no shops → 3 a shopping street in itself",
+    crowd: "1 quiet → 3 packed on weekends",
+  },
+}[lang];
+---
+
+<section id="method" class="method wrap">
+  <p class="kicker">03 / METHOD</p>
+  <h2 class="h-display h2" data-reveal>{t.method.title}</h2>
+  <p class="lede" data-reveal style="--d:1">{t.method.lede}</p>
+
+  <div class="cols">
+    <ol class="scores">
+      {
+        scoreKeys.map((k, i) => (
+          <li class="glass" data-reveal data-spotlight style={`--d:${i}`}>
+            <span class="n">0{i + 1}</span>
+            <b>{L(lang, "score", k)}</b>
+            <span class="d">{scoreText[k]}</span>
+          </li>
+        ))
+      }
+    </ol>
+    <div class="status glass" data-reveal style="--d:2">
+      <h3>{t.method.statusTitle}</h3>
+      <ul>
+        {
+          statuses.map((k) => (
+            <li data-status={k}>
+              <i class="status-dot" />
+              <div>
+                <b>{L(lang, "status", k)}</b>
+                <span class="c">{countBy(k)}</span>
+                <p>{L(lang, "statusHint", k)}</p>
+              </div>
+            </li>
+          ))
+        }
+      </ul>
+    </div>
+  </div>
+  <p class="note">{t.method.sourceNote}</p>
+</section>
+
+<style>
+  .method {
+    padding-top: 120px;
+  }
+  .cols {
+    display: grid;
+    grid-template-columns: 1.3fr 1fr;
+    gap: 18px;
+    margin-top: 36px;
+  }
+  .scores {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    gap: 10px;
+  }
+  .scores li {
+    display: grid;
+    grid-template-columns: 48px 120px 1fr;
+    align-items: center;
+    gap: 12px;
+    padding: 18px 20px;
+  }
+  .n {
+    font-family: "Space Grotesk Variable", monospace;
+    color: var(--jade);
+    font-size: 13px;
+  }
+  .scores b {
+    font-size: 18px;
+  }
+  .d {
+    color: var(--muted);
+    font-size: 14px;
+  }
+  .status {
+    padding: 24px;
+  }
+  .status h3 {
+    margin: 0 0 14px;
+    font-size: 14px;
+    letter-spacing: 0.14em;
+    color: var(--dim);
+    font-weight: 500;
+  }
+  .status ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    gap: 18px;
+  }
+  .status li {
+    display: flex;
+    gap: 14px;
+    align-items: flex-start;
+  }
+  .status .status-dot {
+    margin-top: 9px;
+    width: 10px;
+    height: 10px;
+  }
+  .status b {
+    font-size: 17px;
+  }
+  .c {
+    margin-left: 8px;
+    font-family: "Space Grotesk Variable", monospace;
+    color: var(--sc);
+    font-size: 14px;
+  }
+  .status p {
+    margin: 2px 0 0;
+    color: var(--muted);
+    font-size: 14px;
+  }
+  .note {
+    margin-top: 28px;
+    color: var(--dim);
+    font-size: 13px;
+    max-width: 80ch;
+  }
+  @media (max-width: 860px) {
+    .cols {
+      grid-template-columns: 1fr;
+    }
+    .scores li {
+      grid-template-columns: 36px 1fr;
+    }
+    .d {
+      grid-column: 2;
+    }
+  }
+</style>

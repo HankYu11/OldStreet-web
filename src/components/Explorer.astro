@@ -1,0 +1,308 @@
+---
+import StreetCard from "./StreetCard.astro";
+import { copy, L, labelKeys, moods, type Lang } from "../i18n/copy";
+import { list, recommendScore, streets } from "../lib/streets";
+
+interface Props {
+  lang: Lang;
+}
+const { lang } = Astro.props;
+const t = copy[lang].explore;
+const PAGE = 24;
+
+// Everything the client needs to filter and sort, once — cards themselves stay plain HTML.
+const items = streets.map((s) => ({
+  id: s.id,
+  region: s.region,
+  county: s.county,
+  status: s.status,
+  ...s.scores,
+  bestFor: s.best_for,
+  rec: +recommendScore(s).toFixed(2),
+  lat: s.lat,
+  lng: s.lng,
+  text: [
+    s.name_zh,
+    s.name_en,
+    ...s.aliases,
+    s.county,
+    s.county.replace("臺", "台"),
+    s.district,
+    ...s.signature_foods,
+    ...list(s, "signature_foods", "en"),
+    ...s.specialties,
+    ...s.themes.map((k) => L("zh", "theme", k) + " " + L("en", "theme", k)),
+  ]
+    .join(" ")
+    .toLowerCase(),
+}));
+---
+
+<section id="explore" class="explore" data-explorer data-page={PAGE}>
+  <div class="head">
+    <p class="kicker">02 / EXPLORE</p>
+    <h2 class="h-display h2" data-reveal>{t.title}</h2>
+  </div>
+
+  <div class="bar glass" role="search">
+    <div class="moods" role="radiogroup" aria-label={copy[lang].moodPrompt}>
+      {
+        moods.map((m) => (
+          <button type="button" role="radio" class="mood" data-mood={m.id} aria-checked="false">
+            <span aria-hidden="true">{m.icon}</span>
+            {m[lang]}
+          </button>
+        ))
+      }
+    </div>
+    <div class="row">
+      <label class="search">
+        <span class="sr-only">{t.search}</span>
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"></circle><path d="m20 20-3.5-3.5"></path></svg>
+        <input type="search" data-q placeholder={t.search} autocomplete="off" />
+      </label>
+      <label class="select">
+        <span class="sr-only">{t.region}</span>
+        <select data-region>
+          <option value="all">{t.region} · {t.all}</option>
+          {labelKeys("region").map((k) => <option value={k}>{L(lang, "region", k)}</option>)}
+        </select>
+      </label>
+      <label class="select">
+        <span class="sr-only">{t.sort}</span>
+        <select data-sort>
+          {Object.entries(t.sorts).map(([k, v]) => <option value={k}>{t.sort} · {v}</option>)}
+        </select>
+      </label>
+    </div>
+    <div class="row toggles">
+      <label class="tog"><input type="checkbox" data-toggle="vendors" /><span>{t.vendors}</span></label>
+      <label class="tog"><input type="checkbox" data-toggle="heritage" /><span>{t.heritage}</span></label>
+      <label class="tog"><input type="checkbox" data-toggle="hideFaded" /><span>{t.hideFaded}</span></label>
+      <span class="count" aria-live="polite" data-count-label data-tpl={t.results(0).replace("0", "{n}")}>{t.results(streets.length)}</span>
+      <button type="button" class="reset" data-reset>{t.reset}</button>
+    </div>
+  </div>
+
+  <ul class="grid" data-grid>
+    {streets.map((s, i) => <StreetCard s={s} lang={lang} hidden={i >= PAGE} />)}
+  </ul>
+  <p class="empty" data-empty hidden>{t.empty}</p>
+  <div class="more-wrap">
+    <button type="button" class="btn" data-more data-magnetic>{t.more}</button>
+  </div>
+
+  <script type="application/json" id="street-items" set:html={JSON.stringify(items)} />
+</section>
+
+<script>
+  import { initExplorer } from "../scripts/explorer";
+  const el = document.querySelector<HTMLElement>("[data-explorer]");
+  if (el) initExplorer(el);
+</script>
+
+<style>
+  .explore {
+    padding-top: 56px;
+    scroll-margin-top: 70px;
+  }
+  .head {
+    margin-bottom: 22px;
+  }
+  .bar {
+    position: sticky;
+    top: 74px;
+    z-index: 20;
+    padding: 14px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    background: #0b0d16d9;
+    box-shadow: 0 20px 40px #0007;
+  }
+  .moods {
+    display: flex;
+    gap: 6px;
+    overflow-x: auto;
+    scrollbar-width: none;
+    margin: -2px;
+    padding: 2px;
+  }
+  .mood {
+    flex: none;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    min-height: 40px;
+    padding: 6px 14px;
+    border-radius: 999px;
+    border: 1px solid var(--line-2);
+    background: #ffffff06;
+    cursor: pointer;
+    color: var(--muted);
+    font-size: 14px;
+    transition: all 0.25s var(--ease);
+  }
+  .mood:hover {
+    color: var(--text);
+    border-color: #ffffff55;
+  }
+  .mood[aria-checked="true"] {
+    color: #160a04;
+    background: linear-gradient(120deg, var(--amber), var(--brick));
+    border-color: transparent;
+    box-shadow: 0 0 24px #ff6a3d55;
+  }
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    align-items: center;
+  }
+  .search {
+    flex: 1 1 220px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 0 14px;
+    min-height: 44px;
+    border-radius: 12px;
+    background: #ffffff08;
+    border: 1px solid var(--line);
+    transition: border-color 0.2s, box-shadow 0.2s;
+  }
+  .search:focus-within {
+    border-color: var(--jade);
+    box-shadow: 0 0 0 4px #2fe6c81a;
+  }
+  .search svg {
+    width: 18px;
+    height: 18px;
+    fill: none;
+    stroke: var(--dim);
+    stroke-width: 2;
+    stroke-linecap: round;
+  }
+  .search input {
+    flex: 1;
+    min-width: 0;
+    background: none;
+    border: 0;
+    outline: none;
+    font-size: 15px;
+  }
+  .select select {
+    appearance: none;
+    min-height: 44px;
+    padding: 0 34px 0 14px;
+    border-radius: 12px;
+    border: 1px solid var(--line);
+    background:
+      url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' fill='none' stroke='%23a3a9c2' stroke-width='1.6'/%3E%3C/svg%3E") no-repeat right 12px center / 11px,
+      #ffffff08;
+    font-size: 14px;
+    cursor: pointer;
+  }
+  .select option {
+    background: #10131f;
+  }
+  .toggles {
+    font-size: 14px;
+  }
+  .tog {
+    position: relative;
+    cursor: pointer;
+  }
+  .tog input {
+    position: absolute;
+    opacity: 0;
+    inset: 0;
+    cursor: pointer;
+  }
+  .tog span {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    min-height: 36px;
+    padding: 4px 12px 4px 8px;
+    border-radius: 999px;
+    border: 1px solid var(--line);
+    color: var(--muted);
+    transition: all 0.2s;
+  }
+  .tog span::before {
+    content: "";
+    width: 28px;
+    height: 16px;
+    border-radius: 999px;
+    background: #ffffff1a radial-gradient(circle 6px at 8px 50%, var(--muted) 98%, transparent) no-repeat;
+    transition: background 0.25s var(--ease);
+  }
+  .tog input:checked + span {
+    color: var(--text);
+    border-color: #2fe6c866;
+  }
+  .tog input:checked + span::before {
+    background: #2fe6c84d radial-gradient(circle 6px at 20px 50%, var(--jade) 98%, transparent) no-repeat;
+    box-shadow: 0 0 12px #2fe6c855;
+  }
+  .tog input:focus-visible + span {
+    outline: 2px solid var(--jade);
+    outline-offset: 2px;
+  }
+  .count {
+    margin-left: auto;
+    font-family: "Space Grotesk Variable", monospace;
+    color: var(--jade);
+    font-size: 13px;
+    letter-spacing: 0.06em;
+  }
+  .reset {
+    background: none;
+    border: 0;
+    color: var(--dim);
+    cursor: pointer;
+    font-size: 13px;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    min-height: 36px;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: 18px;
+    padding: 0;
+    margin: 22px 0 0;
+  }
+  .empty {
+    text-align: center;
+    color: var(--muted);
+    padding: 60px 0;
+  }
+  .more-wrap {
+    display: flex;
+    justify-content: center;
+    margin-top: 28px;
+  }
+  .more-wrap [hidden] {
+    display: none;
+  }
+  @media (max-width: 640px) {
+    .bar {
+      top: 64px;
+      padding: 10px;
+      gap: 8px;
+    }
+    .toggles {
+      flex-wrap: nowrap;
+      overflow-x: auto;
+      scrollbar-width: none;
+    }
+    .toggles .tog {
+      flex: none;
+    }
+    .count {
+      flex: none;
+    }
+  }
+</style>

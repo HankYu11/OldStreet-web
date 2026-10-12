@@ -1,0 +1,671 @@
+---
+import "leaflet/dist/leaflet.css";
+import Base from "../layouts/Base.astro";
+import { base, copy, countyName, L, streetPath, type Lang } from "../i18n/copy";
+import { commonsPage, commonsUrl, list, nearby, text, type Street } from "../lib/streets";
+
+interface Props {
+  s: Street;
+  lang: Lang;
+}
+const { s, lang } = Astro.props;
+const t = copy[lang].street;
+const zh = lang === "zh";
+const name = zh ? s.name_zh : s.name_en;
+const sub = zh ? s.name_en : s.name_zh;
+const tagline = zh ? s.tagline_zh : s.tagline_en;
+const story = zh ? s.story_zh : s.story_en;
+const sentences = (story.match(zh ? /[^。！？]+[。！？]?/g : /[^.!?]+[.!?]+["”’)]*\s*|[^.!?]+$/g) ?? [story]).filter((x) => x.trim());
+const foods = list(s, "signature_foods", lang);
+const goods = list(s, "specialties", lang);
+const sights = list(s, "landmarks", lang);
+const near = nearby(s);
+const scoreKeys = ["food", "history", "architecture", "shopping", "crowd"] as const;
+const hash = [...s.id].reduce((h, c) => (h * 31 + c.charCodeAt(0)) >>> 0, 7);
+const gmaps = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(`${s.name_zh} ${s.county}${s.district}`)}`;
+const where = zh
+  ? [s.county, s.district, s.address_hint].filter(Boolean).join(" ")
+  : [text(s, "address_hint", lang), text(s, "district", lang), countyName(lang, s.county)].filter(Boolean).join(", ");
+const paths = { zh: streetPath("zh", s.id), en: streetPath("en", s.id) };
+const title = zh ? `${s.name_zh}｜${tagline} — 老街時光機` : `${s.name_en} — ${tagline} | Old Street Time Machine`;
+const image = s.image ? commonsUrl(s.image.commons_file, 1200) : undefined;
+---
+
+<Base lang={lang} paths={paths} title={title} description={story.slice(0, 160)} image={image}>
+  <article class="street" data-status={s.status}>
+    <div class="wrap">
+      <a class="back" href={`${base(lang)}#explore`}>{t.back}</a>
+
+      <header class="top">
+        <div class="intro">
+          <p class="place"><i class="status-dot"></i>{L(lang, "status", s.status)} · {zh ? `${s.county} ${s.district}` : [text(s, "district", lang), countyName(lang, s.county)].filter(Boolean).join(", ")}</p>
+          <h1 class="h-display name">{name}</h1>
+          <p class="sub">{sub}{s.aliases.length > 0 && <span> · {s.aliases.join("、")}</span>}</p>
+          <p class="tagline">{tagline}</p>
+          <div class="chips">
+            <span class="chip">⏱ {L(lang, "duration", s.visit_duration)}</span>
+            {s.best_for.slice(0, 4).map((b) => <span class="chip">{L(lang, "bestFor", b)}</span>)}
+          </div>
+          {s.confidence === "low" && <p class="warn">⚠ {L(lang, "confidence", "low")}</p>}
+        </div>
+        <figure class="cover" style={`--h:${hash % 360}deg`}>
+          {
+            s.image ? (
+              <img
+                src={commonsUrl(s.image.commons_file, 1200)}
+                srcset={`${commonsUrl(s.image.commons_file, 640)} 640w, ${commonsUrl(s.image.commons_file, 1200)} 1200w`}
+                sizes="(max-width: 860px) 100vw, 50vw"
+                alt={name}
+                referrerpolicy="no-referrer"
+                fetchpriority="high"
+              />
+            ) : (
+              <span class="gen" aria-hidden="true">{s.name_zh.slice(0, 2)}</span>
+            )
+          }
+          <span class="corner tl"></span><span class="corner tr"></span><span class="corner bl"></span><span class="corner br"></span>
+          <span class="coords" aria-hidden="true">{s.lat.toFixed(4)}°N {s.lng.toFixed(4)}°E</span>
+          {
+            s.image && (
+              <figcaption>
+                <a href={commonsPage(s.image.commons_file)} rel="noopener" target="_blank">{t.photo}: Wikimedia Commons</a>
+              </figcaption>
+            )
+          }
+        </figure>
+      </header>
+
+      <section class="hud" aria-label={t.scores}>
+        {
+          scoreKeys.map((k, i) => (
+            <div class="gauge glass" data-reveal style={`--d:${i};--v:${s.scores[k]}`} data-spotlight>
+              <div class="ring" aria-hidden="true">
+                <span>{s.scores[k]}</span>
+              </div>
+              <p>
+                {L(lang, "score", k)}
+                <span class="sr-only"> {s.scores[k]}/3</span>
+              </p>
+            </div>
+          ))
+        }
+      </section>
+
+      <div class="cols">
+        <section class="story">
+          <p class="kicker">{t.story}</p>
+          <p class="story-text">{sentences.map((x) => <span>{x}</span>)}</p>
+          {
+            (s.architecture_styles.length > 0 || s.themes.length > 0) && (
+              <dl class="tags">
+                {s.architecture_styles.length > 0 && (
+                  <div>
+                    <dt>{t.styles}</dt>
+                    <dd>{s.architecture_styles.map((k) => <span class="chip">{L(lang, "arch", k)}</span>)}</dd>
+                  </div>
+                )}
+                {s.themes.length > 0 && (
+                  <div>
+                    <dt>{t.themes}</dt>
+                    <dd>{s.themes.map((k) => <span class="chip">{L(lang, "theme", k)}</span>)}</dd>
+                  </div>
+                )}
+              </dl>
+            )
+          }
+        </section>
+
+        <aside class="side">
+          {
+            foods.length > 0 && (
+              <section class="box glass eat" data-reveal data-spotlight>
+                <h2>🍜 {t.eat}</h2>
+                <ul>{foods.map((f) => <li>{f}</li>)}</ul>
+              </section>
+            )
+          }
+          {
+            sights.length > 0 && (
+              <section class="box glass" data-reveal data-spotlight style="--d:1">
+                <h2>🏛 {t.see}</h2>
+                <ul>{sights.map((f) => <li>{f}</li>)}</ul>
+              </section>
+            )
+          }
+          {
+            goods.length > 0 && (
+              <section class="box glass" data-reveal data-spotlight style="--d:2">
+                <h2>🛍 {t.buy}</h2>
+                <ul>{goods.map((f) => <li>{f}</li>)}</ul>
+              </section>
+            )
+          }
+        </aside>
+      </div>
+
+      <section class="visit glass" data-reveal>
+        <div class="facts">
+          <p class="kicker">{t.visit}</p>
+          <dl>
+            <div><dt>{t.address}</dt><dd>{where}</dd></div>
+            {text(s, "getting_there", lang) && <div><dt>{t.visit}</dt><dd>{text(s, "getting_there", lang)}</dd></div>}
+            <div><dt>{t.duration}</dt><dd>{L(lang, "duration", s.visit_duration)}</dd></div>
+            {text(s, "best_time", lang) && <div><dt>{t.bestTime}</dt><dd>{text(s, "best_time", lang)}</dd></div>}
+          </dl>
+          <a class="btn" href={gmaps} target="_blank" rel="noopener" data-magnetic>Google Maps ↗</a>
+        </div>
+        <div class="minimap" data-minimap data-lat={s.lat} data-lng={s.lng} data-name={name} role="img" aria-label={`${t.mapLabel}: ${name}`}></div>
+      </section>
+
+      {
+        near.length > 0 && (
+          <section class="near">
+            <p class="kicker">{t.nearby}</p>
+            <ul>
+              {near.map(({ street: o, km }, i) => (
+                <li data-reveal style={`--d:${i}`}>
+                  <a href={streetPath(lang, o.id)} class="glass" data-status={o.status} data-spotlight data-tilt>
+                    <span class="km">{km < 1 ? km.toFixed(1) : Math.round(km)} {t.km}</span>
+                    <b>{zh ? o.name_zh : o.name_en}</b>
+                    <span class="nt">{zh ? o.tagline_zh : o.tagline_en}</span>
+                    <span class="st"><i class="status-dot" />{L(lang, "status", o.status)}</span>
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </section>
+        )
+      }
+
+      <footer class="src">
+        <p class="kicker">{t.sources}</p>
+        <ul>
+          {s.wikipedia && <li><a href={s.wikipedia} target="_blank" rel="noopener">{t.wiki} ↗</a></li>}
+          {
+            s.sources.map((u) => (
+              <li>
+                <a href={u} target="_blank" rel="noopener">{(() => { try { return new URL(u).hostname.replace(/^www\./, ""); } catch { return u; } })()} ↗</a>
+              </li>
+            ))
+          }
+        </ul>
+        <p class="conf">{L(lang, "confidence", s.confidence)}</p>
+      </footer>
+    </div>
+  </article>
+</Base>
+
+<script>
+  // Load Leaflet only when the map scrolls near the viewport.
+  const el = document.querySelector<HTMLElement>("[data-minimap]");
+  if (el) {
+    const io = new IntersectionObserver(
+      async ([e]) => {
+        if (!e.isIntersecting) return;
+        io.disconnect();
+        const L = (await import("leaflet")).default;
+        const at: [number, number] = [Number(el.dataset.lat), Number(el.dataset.lng)];
+        const map = L.map(el, { zoomControl: true, scrollWheelZoom: false, attributionControl: true }).setView(at, 16);
+        // Standard OSM tiles, darkened in CSS (.minimap .leaflet-tile-pane) to match the site.
+        L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
+          maxZoom: 19,
+          attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+        }).addTo(map);
+        L.marker(at, {
+          icon: L.divIcon({ className: "pin", html: "<i></i><i></i><b></b>", iconSize: [24, 24] }),
+          title: el.dataset.name,
+        }).addTo(map);
+      },
+      { rootMargin: "300px" },
+    );
+    io.observe(el);
+  }
+</script>
+
+<style>
+  .street {
+    padding-top: 12px;
+  }
+  .back {
+    display: inline-flex;
+    min-height: 44px;
+    align-items: center;
+    color: var(--muted);
+    font-size: 14px;
+  }
+  .back:hover {
+    color: var(--amber);
+  }
+  .top {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1.05fr);
+    gap: clamp(24px, 4vw, 56px);
+    align-items: center;
+    padding: 20px 0 40px;
+  }
+  .place {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin: 0;
+    color: var(--muted);
+    font-size: 14px;
+  }
+  .name {
+    margin: 10px 0 6px;
+    font-size: clamp(44px, 6.5vw, 88px);
+    view-transition-name: street-title;
+    text-shadow: 0 0 40px color-mix(in srgb, var(--sc) 35%, transparent);
+  }
+  .sub {
+    margin: 0;
+    color: var(--dim);
+    font-size: 15px;
+  }
+  .tagline {
+    margin: 18px 0 20px;
+    font-size: clamp(18px, 1.8vw, 22px);
+    color: var(--text);
+    max-width: 30em;
+    line-height: 1.55;
+  }
+  .chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+  .warn {
+    margin: 16px 0 0;
+    padding: 10px 14px;
+    border-radius: 12px;
+    background: #ffb5470f;
+    border: 1px solid #ffb54744;
+    color: #ffd39a;
+    font-size: 14px;
+  }
+  .cover {
+    position: relative;
+    margin: 0;
+    aspect-ratio: 4 / 3;
+    border-radius: 22px;
+    overflow: hidden;
+    view-transition-name: street-cover;
+    background:
+      repeating-linear-gradient(115deg, #ffffff08 0 2px, transparent 2px 16px),
+      radial-gradient(120% 140% at 0% 0%, hsl(var(--h) 80% 55% / 0.4), transparent 60%),
+      radial-gradient(100% 120% at 100% 100%, hsl(calc(var(--h) + 140deg) 80% 55% / 0.32), transparent 60%),
+      #0d1020;
+    box-shadow:
+      0 40px 80px #000a,
+      0 0 0 1px var(--line-2),
+      0 0 60px color-mix(in srgb, var(--sc) 20%, transparent);
+  }
+  .cover img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .cover::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    background:
+      linear-gradient(180deg, transparent 55%, #06070ccc),
+      repeating-linear-gradient(0deg, #0000 0 3px, #00000026 3px 4px);
+  }
+  .gen {
+    position: absolute;
+    inset: 0;
+    display: grid;
+    place-items: center;
+    font-family: var(--font-serif);
+    font-weight: 900;
+    font-size: clamp(120px, 18vw, 240px);
+    color: transparent;
+    -webkit-text-stroke: 1.5px #ffffff40;
+  }
+  .corner {
+    position: absolute;
+    z-index: 2;
+    width: 22px;
+    height: 22px;
+    border: 2px solid var(--jade);
+    filter: drop-shadow(0 0 6px var(--jade));
+  }
+  .tl { top: 14px; left: 14px; border-right: 0; border-bottom: 0; }
+  .tr { top: 14px; right: 14px; border-left: 0; border-bottom: 0; }
+  .bl { bottom: 14px; left: 14px; border-right: 0; border-top: 0; }
+  .br { bottom: 14px; right: 14px; border-left: 0; border-top: 0; }
+  .coords {
+    position: absolute;
+    z-index: 2;
+    left: 44px;
+    bottom: 16px;
+    font-family: "Space Grotesk Variable", monospace;
+    font-size: 12px;
+    letter-spacing: 0.12em;
+    color: var(--jade);
+  }
+  figcaption {
+    position: absolute;
+    z-index: 2;
+    right: 44px;
+    bottom: 14px;
+    font-size: 11px;
+  }
+  figcaption a {
+    color: var(--muted);
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+
+  /* ---- HUD gauges ---- */
+  @property --p {
+    syntax: "<number>";
+    inherits: false;
+    initial-value: 0;
+  }
+  .hud {
+    display: grid;
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+    gap: 12px;
+  }
+  .gauge {
+    padding: 18px 10px 14px;
+    text-align: center;
+  }
+  .ring {
+    --p: 0;
+    position: relative;
+    width: min(96px, 100%);
+    aspect-ratio: 1;
+    margin: 0 auto;
+    border-radius: 50%;
+    display: grid;
+    place-items: center;
+    background:
+      radial-gradient(closest-side, #0b0d16 79%, transparent 80%),
+      conic-gradient(var(--amber), var(--brick) calc(var(--p) * 1%), #ffffff12 0);
+    transition: --p 1.4s var(--ease-out);
+    transition-delay: calc(var(--d) * 90ms + 200ms);
+    filter: drop-shadow(0 0 12px #ff6a3d40);
+  }
+  .gauge:global(.in) .ring,
+  :global(html:not(.js)) .ring {
+    --p: calc(var(--v) / 3 * 100);
+  }
+  .ring span {
+    font-family: "Space Grotesk Variable", monospace;
+    font-size: 30px;
+    font-weight: 600;
+  }
+  .ring span::after {
+    content: "/3";
+    font-size: 13px;
+    color: var(--dim);
+    margin-left: 2px;
+  }
+  .gauge p {
+    margin: 10px 0 0;
+    font-size: 14px;
+    color: var(--muted);
+  }
+
+  /* ---- story + side ---- */
+  .cols {
+    display: grid;
+    grid-template-columns: minmax(0, 1.5fr) minmax(0, 1fr);
+    gap: clamp(24px, 4vw, 56px);
+    margin-top: 72px;
+  }
+  .story-text {
+    margin: 14px 0 0;
+    font-size: clamp(20px, 2vw, 26px);
+    line-height: 1.75;
+    font-family: var(--font-serif);
+    font-weight: 900;
+  }
+  :global(html[lang="en"]) .story-text {
+    font-family: "Space Grotesk Variable", sans-serif;
+    font-weight: 500;
+    line-height: 1.6;
+  }
+  .story-text span {
+    color: var(--text);
+  }
+  @supports (animation-timeline: view()) {
+    @media (prefers-reduced-motion: no-preference) {
+      .story-text span {
+        animation: lightup linear both;
+        animation-timeline: view();
+        animation-range: entry 10% cover 45%;
+      }
+      @keyframes lightup {
+        from {
+          color: #ffffff2a;
+          text-shadow: none;
+        }
+        to {
+          color: var(--text);
+          text-shadow: 0 0 24px #ffb54733;
+        }
+      }
+    }
+  }
+  .tags {
+    margin: 32px 0 0;
+    display: grid;
+    gap: 14px;
+  }
+  .tags dt {
+    font-size: 12px;
+    color: var(--dim);
+    letter-spacing: 0.1em;
+    margin-bottom: 6px;
+  }
+  .tags dd {
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+  .side {
+    display: grid;
+    gap: 14px;
+    align-content: start;
+  }
+  .box {
+    padding: 20px 22px;
+  }
+  .box h2 {
+    margin: 0 0 10px;
+    font-size: 16px;
+    letter-spacing: 0.06em;
+  }
+  .box ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+  .box li {
+    padding: 5px 12px;
+    border-radius: 999px;
+    border: 1px solid var(--line-2);
+    font-size: 14px;
+    color: var(--muted);
+  }
+  .eat {
+    border-color: #ffb54744;
+    background: linear-gradient(160deg, #ffb54714, #ff6a3d08);
+  }
+  .eat li {
+    color: #ffe0b8;
+    border-color: #ffb54744;
+    background: #ffb5470d;
+  }
+
+  /* ---- visit ---- */
+  .visit {
+    margin-top: 72px;
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1.2fr);
+    overflow: hidden;
+  }
+  .facts {
+    padding: 28px;
+  }
+  .facts dl {
+    margin: 16px 0 22px;
+    display: grid;
+    gap: 14px;
+  }
+  .facts dt {
+    font-size: 12px;
+    color: var(--dim);
+    letter-spacing: 0.1em;
+  }
+  .facts dd {
+    margin: 2px 0 0;
+  }
+  .minimap {
+    min-height: 340px;
+    background: #0d1020;
+  }
+  .minimap :global(.leaflet-container) {
+    background: #0d1020;
+  }
+  .minimap :global(.leaflet-tile-pane) {
+    filter: invert(1) hue-rotate(195deg) brightness(0.85) contrast(0.9) saturate(0.6);
+  }
+  :global(.pin) {
+    position: relative;
+  }
+  :global(.pin b) {
+    position: absolute;
+    inset: 6px;
+    border-radius: 50%;
+    background: var(--amber);
+    box-shadow: 0 0 16px var(--amber);
+  }
+  :global(.pin i) {
+    position: absolute;
+    inset: 0;
+    border-radius: 50%;
+    border: 2px solid var(--amber);
+    animation: pin 1.8s var(--ease-out) infinite;
+  }
+  :global(.pin i + i) {
+    animation-delay: 0.6s;
+  }
+  @keyframes pin {
+    from { transform: scale(0.4); opacity: 1; }
+    to { transform: scale(2.6); opacity: 0; }
+  }
+  .minimap :global(.leaflet-control-attribution) {
+    background: #06070cb3;
+    color: var(--dim);
+  }
+  .minimap :global(.leaflet-control-attribution a) {
+    color: var(--muted);
+  }
+
+  /* ---- nearby ---- */
+  .near {
+    margin-top: 72px;
+  }
+  .near ul {
+    list-style: none;
+    padding: 0;
+    margin: 16px 0 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 14px;
+  }
+  .near a {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    height: 100%;
+    padding: 18px;
+    transition: border-color 0.3s, box-shadow 0.3s, transform 0.35s var(--ease);
+  }
+  .near a:hover {
+    border-color: color-mix(in srgb, var(--sc) 55%, transparent);
+    box-shadow: 0 0 36px color-mix(in srgb, var(--sc) 20%, transparent);
+  }
+  .km {
+    font-family: "Space Grotesk Variable", monospace;
+    color: var(--jade);
+    font-size: 13px;
+  }
+  .near b {
+    font-size: 19px;
+  }
+  .nt {
+    color: var(--muted);
+    font-size: 14px;
+    flex: 1;
+  }
+  .st {
+    display: inline-flex;
+    gap: 6px;
+    align-items: center;
+    font-size: 12px;
+    color: var(--dim);
+    margin-top: 8px;
+  }
+  .src {
+    margin-top: 72px;
+    font-size: 14px;
+  }
+  .src ul {
+    list-style: none;
+    padding: 0;
+    margin: 10px 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px 18px;
+  }
+  .src a {
+    color: var(--muted);
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    word-break: break-all;
+  }
+  .conf {
+    color: var(--dim);
+    font-size: 13px;
+  }
+
+  @media (max-width: 860px) {
+    .top,
+    .cols,
+    .visit {
+      grid-template-columns: 1fr;
+    }
+    .cover {
+      order: -1;
+    }
+    .hud {
+      grid-template-columns: repeat(5, minmax(56px, 1fr));
+      overflow-x: auto;
+      gap: 8px;
+    }
+    .gauge {
+      padding: 12px 4px 10px;
+    }
+    .ring span {
+      font-size: 20px;
+    }
+    .ring span::after {
+      font-size: 10px;
+    }
+    .gauge p {
+      font-size: 12px;
+    }
+  }
+</style>

@@ -1,0 +1,39 @@
+---
+import Base from "../layouts/Base.astro";
+import { copy } from "../i18n/copy";
+const zh = copy.zh.notFound;
+const en = copy.en.notFound;
+---
+
+<Base lang="zh" paths={{ zh: "/", en: "/en/" }} title={`404 — ${zh.title}`} noindex>
+  <section class="nf wrap">
+    <p class="code" data-scramble>404</p>
+    <h1 class="h-display">{zh.title}</h1>
+    <p class="lede">{zh.lede}<br /><span lang="en">{en.lede}</span></p>
+    <a class="btn btn-primary" href="/" data-magnetic>{zh.cta} · <span lang="en">{en.cta}</span></a>
+  </section>
+</Base>
+
+<style>
+  .nf {
+    min-height: 70vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 16px;
+  }
+  .code {
+    margin: 0;
+    font-family: "Space Grotesk Variable", monospace;
+    font-size: clamp(90px, 18vw, 200px);
+    font-weight: 700;
+    line-height: 1;
+    color: transparent;
+    -webkit-text-stroke: 2px var(--brick);
+    filter: drop-shadow(0 0 24px #ff6a3d88);
+  }
+  h1 {
+    font-size: clamp(32px, 5vw, 56px);
+  }
+</style>

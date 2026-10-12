@@ -1,0 +1,289 @@
+---
+// Constellation map of Taiwan: every old street is a light. Decorative for assistive tech
+// (the list below is the accessible path); src/scripts/map.ts adds hover, filtering and
+// parallax.
+import taiwan from "../data/taiwan.json";
+import { VIEW, INSETS } from "../lib/project.mjs";
+import { streets, text, xy } from "../lib/streets";
+import { countyName, L, streetPath, type Lang } from "../i18n/copy";
+
+interface Props {
+  lang: Lang;
+}
+const { lang } = Astro.props;
+const R = { thriving: 7.5, active: 5.5, quiet: 4, faded: 3 } as const;
+// Draw small lights first so the big ones sit on top.
+const dots = [...streets].reverse().map((s) => {
+  const [x, y] = xy(s);
+  return { s, x, y, r: R[s.status] };
+});
+---
+
+<div class="tw-map" data-map data-lang={lang}>
+  <div class="tw-stage" data-stage>
+    <svg viewBox={`0 0 ${VIEW.w} ${VIEW.h}`} aria-hidden="true" focusable="false">
+      <defs>
+        <radialGradient id="halo">
+          <stop offset="0" stop-color="#ffb547" stop-opacity=".55"></stop>
+          <stop offset="1" stop-color="#ffb547" stop-opacity="0"></stop>
+        </radialGradient>
+        <linearGradient id="scan" x1="0" x2="0" y1="0" y2="1">
+          <stop offset="0" stop-color="#2fe6c8" stop-opacity="0"></stop>
+          <stop offset=".85" stop-color="#2fe6c8" stop-opacity=".18"></stop>
+          <stop offset="1" stop-color="#2fe6c8" stop-opacity=".7"></stop>
+        </linearGradient>
+        <clipPath id="land">
+          {taiwan.map((c) => <path d={c.d} />)}
+        </clipPath>
+      </defs>
+      <g class="land">
+        {taiwan.map((c) => <path d={c.d} data-county={c.name.replace("台", "臺")} />)}
+      </g>
+      <g class="insets">
+        {
+          INSETS.map((i) => (
+            <g>
+              <rect x={i.x} y={i.y} width={i.w} height={i.h} rx="8" />
+              <text x={i.x + 8} y={i.y + 18}>{i.label[lang]}</text>
+            </g>
+          ))
+        }
+      </g>
+      <g clip-path="url(#land)">
+        <rect class="scanline" x="0" y="-160" width={VIEW.w} height="160" fill="url(#scan)"></rect>
+      </g>
+      <g class="links" data-links></g>
+      <g class="dots" data-dots>
+        {
+          dots.map(({ s, x, y, r }) => (
+            <g
+              class="dot"
+              data-id={s.id}
+              data-status={s.status}
+              data-href={streetPath(lang, s.id)}
+              transform={`translate(${x} ${y})`}
+            >
+              <circle class="hit" r="14" />
+              <circle class="glow" r={r * 3.2} />
+              <circle class="core" r={r} />
+            </g>
+          ))
+        }
+      </g>
+      <g class="ping" data-ping opacity="0">
+        <circle r="18"></circle>
+        <circle r="30"></circle>
+      </g>
+    </svg>
+    <div class="tw-tip" data-tip hidden></div>
+    <template data-tip-data>
+      {
+        JSON.stringify(
+          Object.fromEntries(
+            streets.map((s) => [
+              s.id,
+              [
+                lang === "zh" ? s.name_zh : s.name_en,
+                lang === "zh" ? s.tagline_zh : s.tagline_en,
+                L(lang, "status", s.status),
+                lang === "zh" ? s.county + s.district : [text(s, "district", lang), countyName(lang, s.county)].filter(Boolean).join(", "),
+                s.scores.food,
+                s.scores.history,
+                s.scores.architecture,
+                s.scores.shopping,
+              ],
+            ]),
+          ),
+        )
+      }
+    </template>
+  </div>
+  <div class="legend" aria-hidden="true">
+    {
+      (["thriving", "active", "quiet", "faded"] as const).map((k) => (
+        <span data-status={k}>
+          <i class="status-dot" />
+          {L(lang, "status", k)}
+        </span>
+      ))
+    }
+  </div>
+</div>
+
+<style>
+  .tw-map {
+    position: relative;
+    perspective: 1400px;
+  }
+  .tw-stage {
+    position: relative;
+    transform-style: preserve-3d;
+    transition: transform 0.6s var(--ease);
+    transform: rotateX(var(--rx, 0deg)) rotateY(var(--ry, 0deg));
+  }
+  svg {
+    width: 100%;
+    height: auto;
+    display: block;
+    overflow: visible;
+  }
+  .land path {
+    fill: #9b8cff0a;
+    stroke: #9b8cff59;
+    stroke-width: 1;
+    vector-effect: non-scaling-stroke;
+    transition: fill 0.4s, stroke 0.4s;
+  }
+  .land path.hot {
+    fill: #2fe6c814;
+    stroke: #2fe6c8aa;
+  }
+  .insets rect {
+    fill: none;
+    stroke: var(--line-2);
+    stroke-dasharray: 4 5;
+  }
+  .insets text {
+    fill: var(--dim);
+    font-size: 15px;
+    font-family: var(--font-sans);
+  }
+  .scanline {
+    animation: scan 7s linear infinite;
+  }
+  @keyframes scan {
+    from { transform: translateY(0); }
+    to { transform: translateY(1360px); }
+  }
+  .dot {
+    cursor: pointer;
+    transition: opacity 0.5s var(--ease);
+  }
+  .dot .hit {
+    fill: transparent;
+  }
+  .dot .core {
+    fill: var(--sc);
+    transition: r 0.3s var(--ease);
+  }
+  .dot .glow {
+    fill: var(--sc);
+    opacity: 0.16;
+    transition: opacity 0.4s;
+  }
+  .dot[data-status="thriving"] .glow {
+    animation: breathe 3.2s ease-in-out infinite;
+    animation-delay: calc(var(--i, 0) * -0.37s);
+  }
+  @keyframes breathe {
+    50% { opacity: 0.38; }
+  }
+  .dots.filtering .dot.off {
+    opacity: 0.12;
+  }
+  .dots.filtering .dot.on .glow {
+    opacity: 0.45;
+  }
+  .dot.hover .core {
+    r: 10px;
+  }
+  .dot.hover .glow {
+    opacity: 0.6;
+  }
+  .links line {
+    stroke: var(--jade);
+    stroke-width: 1;
+    vector-effect: non-scaling-stroke;
+    stroke-dasharray: 3 4;
+    opacity: 0.7;
+    animation: dash 1s linear infinite;
+  }
+  @keyframes dash {
+    to { stroke-dashoffset: -14; }
+  }
+  .ping circle {
+    fill: none;
+    stroke: var(--amber);
+    stroke-width: 1.5;
+    vector-effect: non-scaling-stroke;
+    transform-box: fill-box;
+    transform-origin: center;
+    animation: ping 1.6s var(--ease-out) infinite;
+  }
+  .ping circle + circle {
+    animation-delay: 0.4s;
+  }
+  @keyframes ping {
+    from { transform: scale(0.3); opacity: 1; }
+    to { transform: scale(1.6); opacity: 0; }
+  }
+  .tw-tip {
+    position: absolute;
+    z-index: 5;
+    left: 0;
+    top: 0;
+    width: min(280px, 70vw);
+    padding: 14px 16px;
+    pointer-events: none;
+    border-radius: 14px;
+    background: #0d1020e6;
+    border: 1px solid var(--line-2);
+    box-shadow: 0 20px 50px #0009, 0 0 0 1px #2fe6c822, 0 0 30px #2fe6c81a;
+    backdrop-filter: blur(12px);
+    font-size: 13px;
+    line-height: 1.5;
+    transform: translate(var(--tx), var(--ty)) translateZ(60px);
+    animation: tip 0.25s var(--ease-out);
+  }
+  @keyframes tip {
+    from { opacity: 0; scale: 0.94; }
+  }
+  .tw-tip :global(b) {
+    display: block;
+    font-size: 17px;
+    font-family: var(--font-serif);
+    color: var(--text);
+  }
+  [data-lang="en"] .tw-tip :global(b) {
+    font-family: "Space Grotesk Variable", sans-serif;
+  }
+  .tw-tip :global(.meta) {
+    color: var(--dim);
+    font-size: 12px;
+    letter-spacing: 0.04em;
+  }
+  .tw-tip :global(p) {
+    margin: 6px 0 10px;
+    color: var(--muted);
+  }
+  .tw-tip :global(.bars) {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 6px;
+  }
+  .tw-tip :global(.bars span) {
+    font-size: 11px;
+    color: var(--dim);
+  }
+  .tw-tip :global(.bars i) {
+    display: block;
+    height: 3px;
+    margin-top: 3px;
+    border-radius: 2px;
+    background: linear-gradient(90deg, var(--amber) calc(var(--v) * 33.3%), #ffffff1a 0);
+  }
+  .legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px 16px;
+    justify-content: center;
+    margin-top: 10px;
+    font-size: 12px;
+    color: var(--muted);
+  }
+  .legend span {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+  }
+</style>

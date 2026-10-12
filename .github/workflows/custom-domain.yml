@@ -1,0 +1,72 @@
+name: Custom domain
+
+# Connects oldstreet.handyla.co to the Firebase Hosting site and prints the DNS records to add at the
+# registrar, plus the current host/ownership/certificate state. Safe to re-run: it only creates the
+# domain if it isn't there yet. Run it again after updating DNS to check progress.
+on:
+  workflow_dispatch:
+  push:
+    paths: [.github/workflows/custom-domain.yml]
+
+env:
+  PROJECT: freshtogo-e52a1
+  SITE: oldstreet-web
+  DOMAIN: oldstreet.handyla.co
+
+jobs:
+  domain:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    env:
+      FIREBASE_SA: ${{ secrets.FIREBASE_SERVICE_ACCOUNT || secrets.FIREBASE_SERVICE_ACCOUNT_FRESHTOGO_E52A1 }}
+    steps:
+      - name: Connect domain and show required DNS records
+        run: |
+          set -euo pipefail
+          printf '%s' "$FIREBASE_SA" > "$RUNNER_TEMP/sa.json"
+          pip install -q google-auth requests
+          python3 - <<'PY'
+          import json, os, time
+          import google.auth.transport.requests as tr
+          from google.oauth2 import service_account
+
+          creds = service_account.Credentials.from_service_account_file(
+              os.path.join(os.environ["RUNNER_TEMP"], "sa.json"),
+              scopes=["https://www.googleapis.com/auth/cloud-platform"])
+          s = tr.AuthorizedSession(creds)
+          base = (f"https://firebasehosting.googleapis.com/v1beta1/projects/{os.environ['PROJECT']}"
+                  f"/sites/{os.environ['SITE']}/customDomains")
+          url = f"{base}/{os.environ['DOMAIN']}"
+
+          r = s.get(url)
+          if r.status_code == 404:
+              print(f"Creating custom domain {os.environ['DOMAIN']} …")
+              c = s.post(base, params={"customDomainId": os.environ["DOMAIN"]}, json={})
+              print(c.status_code, c.text[:500])
+              c.raise_for_status()
+              for _ in range(12):
+                  time.sleep(5)
+                  r = s.get(url)
+                  if r.ok and r.json().get("requiredDnsUpdates"):
+                      break
+          r.raise_for_status()
+          d = r.json()
+          print("\n== State ==")
+          print("hostState:", d.get("hostState"))
+          print("ownershipState:", d.get("ownershipState"))
+          print("certState:", (d.get("cert") or {}).get("state"))
+          print("\n== DNS records to ADD at the registrar ==")
+          for group in d.get("requiredDnsUpdates", {}).get("desired", []):
+              for rec in group.get("records", []):
+                  if rec.get("requiredAction") in (None, "ADD", "NONE"):
+                      print(f"{rec.get('requiredAction','ADD'):5} {rec['type']:6} {rec['domainName']:40} {rec['rdata']}")
+          print("\n== Records to REMOVE (if any) ==")
+          for group in d.get("requiredDnsUpdates", {}).get("desired", []):
+              for rec in group.get("records", []):
+                  if rec.get("requiredAction") == "REMOVE":
+                      print(f"REMOVE {rec['type']:6} {rec['domainName']:40} {rec['rdata']}")
+          print("\n== Raw ==")
+          print(json.dumps(d.get("requiredDnsUpdates", {}), indent=2))
+          PY
+          rm -f "$RUNNER_TEMP/sa.json"

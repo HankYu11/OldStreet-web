@@ -28,6 +28,15 @@ jobs:
           cache: npm
       - run: npm ci
       - run: npm run build
+      # First deploy creates the Hosting site, so no local Firebase CLI setup is needed.
+      - name: Ensure Hosting site exists
+        if: env.FIREBASE_SA != ''
+        run: |
+          printf '%s' "$FIREBASE_SA" > "$RUNNER_TEMP/sa.json"
+          export GOOGLE_APPLICATION_CREDENTIALS="$RUNNER_TEMP/sa.json"
+          npx -y firebase-tools@15 hosting:sites:get oldstreet-web --project freshtogo-e52a1 >/dev/null 2>&1 \
+            || npx -y firebase-tools@15 hosting:sites:create oldstreet-web --project freshtogo-e52a1
+          rm -f "$RUNNER_TEMP/sa.json"
       - name: Deploy PR preview
         uses: FirebaseExtended/action-hosting-deploy@v0
         if: github.event_name == 'pull_request' && env.FIREBASE_SA != ''

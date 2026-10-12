@@ -1,0 +1,2004 @@
+{
+ "streets": [
+  {
+   "id": "cijin-old-street",
+   "name_zh": "旗津老街",
+   "name_en": "Cijin Old Street",
+   "aliases": [
+    "通山老街",
+    "廟前路"
+   ],
+   "county": "高雄市",
+   "district": "旗津區",
+   "address_hint": "廟前路、通山路一帶",
+   "lat": 22.6153,
+   "lng": 120.2683,
+   "status": "thriving",
+   "scores": {
+    "food": 3,
+    "history": 2,
+    "architecture": 1,
+    "shopping": 2,
+    "crowd": 3
+   },
+   "architecture_styles": [
+    "minnan",
+    "modernist"
+   ],
+   "themes": [
+    "qing-era",
+    "port-trade",
+    "fishing",
+    "temple"
+   ],
+   "best_for": [
+    "foodie",
+    "family",
+    "history-buff"
+   ],
+   "signature_foods": [
+    "海產熱炒",
+    "烤小卷",
+    "黑輪",
+    "海鮮粥",
+    "炸物"
+   ],
+   "specialties": [
+    "海產乾貨"
+   ],
+   "landmarks": [
+    "旗津天后宮",
+    "旗後砲台",
+    "旗後燈塔"
+   ],
+   "tagline_zh": "渡輪下船即到，媽祖廟前吃海產",
+   "tagline_en": "Step off the ferry onto Kaohsiung's oldest street, lined with seafood stalls",
+   "story_zh": "旗津是打狗最早有漢人定居的地方，相傳清康熙年間漁民在此集資建媽祖宮，廟前街道因此被稱為「打狗第一街」。1860年代打狗開港後，旗後一帶成為洋行與貿易重鎮。1990年道路拓寬後老屋所剩不多，如今廟前路以海產店、小吃與觀光人潮為主。",
+   "story_en": "Cijin is where Han settlers first put down roots in Takao; fishermen pooled money to build a Mazu temple here in the Kangxi era, and the street before it became known as 'Takao's first street'. After Takao opened as a treaty port in the 1860s, the area hosted trading houses. Road widening in 1990 removed most old buildings, and today Miaoqian Road is all seafood restaurants, snacks and weekend crowds.",
+   "getting_there": "捷運西子灣站或鹽埕埔站轉步行至鼓山渡輪站，搭渡輪至旗津站下船即達",
+   "visit_duration": "half-day",
+   "best_time": "平日傍晚可順看西子灣夕陽；假日人潮多",
+   "confidence": "high",
+   "sources": [
+    "https://www.thenewslens.com/article/47303",
+    "https://supertaste.tvbs.com.tw/travel/353526"
+   ]
+  },
+  {
+   "id": "yancheng-ginza-street",
+   "name_zh": "鹽埕町通",
+   "name_en": "Yancheng Ginza Street (Qixian 3rd Rd)",
+   "aliases": [
+    "銀座通",
+    "酒吧街",
+    "七賢三路"
+   ],
+   "county": "高雄市",
+   "district": "鹽埕區",
+   "address_hint": "七賢三路",
+   "lat": 22.6268,
+   "lng": 120.2838,
+   "status": "faded",
+   "scores": {
+    "food": 1,
+    "history": 2,
+    "architecture": 1,
+    "shopping": 1,
+    "crowd": 1
+   },
+   "architecture_styles": [
+    "modernist"
+   ],
+   "themes": [
+    "japanese-era",
+    "port-trade"
+   ],
+   "best_for": [
+    "history-buff",
+    "nightlife"
+   ],
+   "signature_foods": [],
+   "specialties": [],
+   "landmarks": [
+    "高雄銀座"
+   ],
+   "tagline_zh": "昔日高雄銀座，越戰美軍的酒吧街",
+   "tagline_en": "Once Kaohsiung's Ginza, later the bar street of Vietnam-era US sailors",
+   "story_zh": "鹽埕一帶在日治時期由鹽田填海造陸而成，1915年設鹽埕町，此街成為最繁華的商業街，人稱「高雄銀座」。戰後1960至70年代越戰期間，美軍艦隊停靠高雄港，七賢三路酒吧林立，成為著名的「酒吧街」。1992年道路拓寬後舊建築所剩無幾，如今只剩少數招牌與記憶。",
+   "story_en": "Yancheng was reclaimed from salt pans in the Japanese era; after Shioe-chō was created in 1915 this became the city's busiest shopping street, the 'Ginza of Kaohsiung'. During the Vietnam War US navy ships docked in Kaohsiung and Qixian 3rd Road filled with bars, earning the nickname 'Bar Street'. Road widening in 1992 removed most old buildings; today only scattered signs and memories remain.",
+   "getting_there": "捷運鹽埕埔站步行約5分鐘",
+   "visit_duration": "<1h",
+   "best_time": "可結合鹽埕老街區、駁二藝術特區一起逛",
+   "confidence": "medium",
+   "sources": [
+    "https://zh.wikipedia.org/wiki/鹽埕町"
+   ]
+  },
+  {
+   "id": "yancheng-old-district",
+   "name_zh": "鹽埕老街",
+   "name_en": "Yancheng Old Streets",
+   "aliases": [
+    "大溝頂",
+    "堀江商場",
+    "新樂街",
+    "新興街"
+   ],
+   "county": "高雄市",
+   "district": "鹽埕區",
+   "address_hint": "新樂街、大仁路、五福四路、大溝頂一帶",
+   "lat": 22.6245,
+   "lng": 120.2855,
+   "status": "active",
+   "scores": {
+    "food": 3,
+    "history": 2,
+    "architecture": 2,
+    "shopping": 2,
+    "crowd": 2
+   },
+   "architecture_styles": [
+    "modernist",
+    "japanese-era",
+    "arcade"
+   ],
+   "themes": [
+    "japanese-era",
+    "port-trade",
+    "art-murals"
+   ],
+   "best_for": [
+    "foodie",
+    "history-buff",
+    "photography",
+    "shopping"
+   ],
+   "signature_foods": [
+    "鴨肉飯",
+    "牛肉麵",
+    "古早味冰品",
+    "米糕",
+    "肉燥飯"
+   ],
+   "specialties": [
+    "舶來品",
+    "金飾",
+    "布料",
+    "西服"
+   ],
+   "landmarks": [
+    "堀江商場",
+    "大溝頂",
+    "高雄市立歷史博物館",
+    "駁二藝術特區"
+   ],
+   "tagline_zh": "高雄最早的鬧區，舶來品與老牌小吃",
+   "tagline_en": "Kaohsiung's original downtown of smuggled goods and decades-old food stalls",
+   "story_zh": "鹽埕是高雄最早的市中心，日治時期市役所、商社都在附近。戰後因港口之便，堀江商場以販售船員帶回的舶來品聞名，大溝頂則是加蓋在排水溝上的商場，新樂街則以金飾、布料店林立。隨市中心東移而沒落，近年因駁二藝術特區與老店美食重新吸引年輕人。",
+   "story_en": "Yancheng was Kaohsiung's first downtown, home to the Japanese-era city hall and trading companies. After the war, Horie Market became famous for foreign goods brought ashore by sailors, Dagouding was a market built over a covered drainage canal, and Xinle Street filled with gold and fabric shops. It declined as the city centre moved east, but the Pier-2 art district and old-school eateries have brought young visitors back.",
+   "getting_there": "捷運鹽埕埔站即達",
+   "visit_duration": "half-day",
+   "best_time": "中午至傍晚，多數小吃店晚上較早打烊",
+   "confidence": "high",
+   "sources": [
+    "https://zh.wikipedia.org/wiki/鹽埕區"
+   ]
+  },
+  {
+   "id": "hamasen-old-street",
+   "name_zh": "哈瑪星老街",
+   "name_en": "Hamasen Old Streets",
+   "aliases": [
+    "新濱老街",
+    "新濱町",
+    "湊町"
+   ],
+   "county": "高雄市",
+   "district": "鼓山區",
+   "address_hint": "捷興二街、鼓波街、臨海三路一帶",
+   "lat": 22.6224,
+   "lng": 120.2713,
+   "status": "active",
+   "scores": {
+    "food": 2,
+    "history": 3,
+    "architecture": 2,
+    "shopping": 1,
+    "crowd": 2
+   },
+   "architecture_styles": [
+    "japanese-era",
+    "modernist",
+    "arcade"
+   ],
+   "themes": [
+    "japanese-era",
+    "railway",
+    "port-trade",
+    "fishing",
+    "temple"
+   ],
+   "best_for": [
+    "history-buff",
+    "architecture",
+    "photography",
+    "foodie"
+   ],
+   "signature_foods": [
+    "旗魚黑輪",
+    "古早味冰品",
+    "海產",
+    "代天宮小吃"
+   ],
+   "specialties": [],
+   "landmarks": [
+    "打狗驛古蹟故事館",
+    "高雄武德殿",
+    "代天宮",
+    "新濱碼頭",
+    "打狗英國領事館"
+   ],
+   "tagline_zh": "日治高雄的發源地，走讀港口與鐵道",
+   "tagline_en": "Birthplace of modern Kaohsiung, where the port railway began",
+   "story_zh": "哈瑪星是日治初期浚港填出的新生地，名稱來自日語「濱線」——通往碼頭與魚市的鐵道線。這裡曾是高雄的政經中心，郡役所、街役場、高雄第一代火車站都設在此。戰後政經重心東移，但留下許多日式街屋，近年因居民發起保存運動而重新受到重視。",
+   "story_en": "Hamasen is land reclaimed when the port was dredged in the early Japanese era; its name comes from the Japanese 'hama-sen', the beach railway lines to the docks and fish market. It was once Kaohsiung's political and economic centre, home to the district office and the first Takao Station. When the centre moved east many Japanese-era shophouses survived, and a resident-led preservation movement has revived interest.",
+   "getting_there": "捷運西子灣站或輕軌哈瑪星站步行即達",
+   "visit_duration": "half-day",
+   "best_time": "傍晚到西子灣看夕陽，晚上代天宮廟口有小吃",
+   "confidence": "high",
+   "sources": [
+    "https://zh.wikipedia.org/wiki/哈瑪星"
+   ]
+  },
+  {
+   "id": "neiwei-old-street",
+   "name_zh": "內惟老街",
+   "name_en": "Neiwei Old Street",
+   "aliases": [],
+   "county": "高雄市",
+   "district": "鼓山區",
+   "address_hint": "內惟地區舊聚落（近內惟國小、李氏宗祠一帶）",
+   "lat": 22.66,
+   "lng": 120.287,
+   "status": "quiet",
+   "scores": {
+    "food": 1,
+    "history": 2,
+    "architecture": 1,
+    "shopping": 1,
+    "crowd": 1
+   },
+   "architecture_styles": [
+    "minnan",
+    "modernist"
+   ],
+   "themes": [
+    "qing-era",
+    "temple"
+   ],
+   "best_for": [
+    "slow-travel",
+    "history-buff"
+   ],
+   "signature_foods": [],
+   "specialties": [],
+   "landmarks": [
+    "內惟藝術中心",
+    "李氏宗祠"
+   ],
+   "tagline_zh": "柴山腳下的老聚落，市場與廟宇",
+   "tagline_en": "An old settlement at the foot of Mt. Chai, with markets and temples",
+   "story_zh": "內惟是柴山腳下的古老聚落，清代已有漢人與平埔族在此開墾，李姓宗族是重要的開庄家族。日治時期鄰近設立台灣第一座水泥廠，帶動工業與人口。如今老街以傳統市場與住家為主，少有觀光設施，2022年啟用的內惟藝術中心為社區帶來新的訪客。",
+   "story_en": "Neiwei is an old settlement below Mt. Chai, cleared by Han settlers and Pingpu people in the Qing era, with the Li clan among its founders. Taiwan's first cement plant was built nearby in the Japanese era, bringing industry and residents. Today the old street is mostly a traditional market and homes; the Neiwei Arts Center, opened in 2022, draws some new visitors.",
+   "getting_there": "輕軌美術館站或內惟藝術中心站步行約10分鐘",
+   "visit_duration": "<1h",
+   "best_time": "上午市場時段較有生活感",
+   "confidence": "low",
+   "sources": [
+    "https://news.pts.org.tw/article/493600"
+   ]
+  },
+  {
+   "id": "sanfeng-central-street",
+   "name_zh": "三鳳中街",
+   "name_en": "Sanfong Central Street",
+   "aliases": [
+    "中街"
+   ],
+   "county": "高雄市",
+   "district": "三民區",
+   "address_hint": "三鳳中街（建國三路以北、鐵路以南）",
+   "lat": 22.6374546,
+   "lng": 120.293935,
+   "status": "active",
+   "scores": {
+    "food": 2,
+    "history": 2,
+    "architecture": 1,
+    "shopping": 3,
+    "crowd": 2
+   },
+   "architecture_styles": [
+    "modernist",
+    "arcade"
+   ],
+   "themes": [
+    "dried-goods",
+    "temple"
+   ],
+   "best_for": [
+    "shopping",
+    "foodie",
+    "family"
+   ],
+   "signature_foods": [
+    "南北貨零嘴",
+    "蜜餞",
+    "肉乾",
+    "烏魚子"
+   ],
+   "specialties": [
+    "南北貨",
+    "乾貨",
+    "年貨"
+   ],
+   "landmarks": [
+    "三鳳宮"
+   ],
+   "tagline_zh": "北迪化、南中街，年節採買南北貨",
+   "tagline_en": "The south's answer to Dihua Street — dried goods and New Year shopping",
+   "story_zh": "三鳳中街橫穿三塊厝聚落中央，是南北雜貨批發商聚集的街道，有「北迪化、南中街」之稱。每年農曆年前一個月至除夕變身年貨大街，人潮洶湧、媒體爭相報導。1990年代起受大賣場衝擊，商家成立商圈促進會翻修街道，並在入口立起七彩浴火鳳凰地標。",
+   "story_en": "Sanfong Central Street runs through the old Sankuaicuo settlement and is lined with dried-goods wholesalers, earning the saying 'Dihua in the north, Zhongjie in the south'. In the month before Lunar New Year it becomes a packed festive market. Hit by hypermarkets from the 1990s, merchants formed an association, renovated the street and put up a rainbow phoenix gateway.",
+   "getting_there": "台鐵三塊厝站或捷運後驛站步行約5分鐘",
+   "visit_duration": "1-2h",
+   "best_time": "農曆年前一個月最熱鬧",
+   "confidence": "high",
+   "sources": [
+    "https://zh.wikipedia.org/wiki/三鳳中街"
+   ]
+  },
+  {
+   "id": "fengshan-first-street",
+   "name_zh": "鳳山第一街",
+   "name_en": "Fengshan First Street",
+   "aliases": [
+    "草店仔"
+   ],
+   "county": "高雄市",
+   "district": "鳳山區",
+   "address_hint": "三民路一帶（近鳳山第一公有市場）",
+   "lat": 22.6265,
+   "lng": 120.3592,
+   "status": "quiet",
+   "scores": {
+    "food": 2,
+    "history": 2,
+    "architecture": 1,
+    "shopping": 1,
+    "crowd": 1
+   },
+   "architecture_styles": [
+    "minnan",
+    "modernist"
+   ],
+   "themes": [
+    "qing-era",
+    "military",
+    "temple"
+   ],
+   "best_for": [
+    "history-buff",
+    "slow-travel",
+    "foodie"
+   ],
+   "signature_foods": [
+    "市場小吃"
+   ],
+   "specialties": [],
+   "landmarks": [
+    "鳳山第一公有市場",
+    "雙慈殿",
+    "鳳山龍山寺",
+    "曹公圳"
+   ],
+   "tagline_zh": "鳳山縣城最早的商街，兵仔市旁巷弄",
+   "tagline_en": "The oldest commercial lane of Fengshan county town",
+   "story_zh": "鳳山在清代嘉慶、道光年間成為鳳山縣治（舊稱埤頭街），三民路一帶舊稱「草店仔」，是縣城早期的商業街。附近的第一公有市場因軍人眷屬採買而有「兵仔市」之稱。如今舊建築多已改建，主要為市場與住家，可結合雙慈殿、龍山寺等古蹟走讀。",
+   "story_en": "Fengshan became the county seat (then called Pitou Street) in the early 19th century, and the Sanmin Road area, once known as Caodianzai, was among its earliest trading lanes. The nearby First Public Market, popular with military families, is nicknamed the 'soldiers' market'. Most old buildings have been rebuilt; it is best combined with nearby temples on a walking tour.",
+   "getting_there": "捷運鳳山站步行約10分鐘",
+   "visit_duration": "<1h",
+   "best_time": "上午市場時段",
+   "confidence": "low",
+   "sources": [
+    "https://smiletaiwan.cw.com.tw/article/5653"
+   ]
+  },
+  {
+   "id": "fengshan-blacksmith-street",
+   "name_zh": "鳳山打鐵街",
+   "name_en": "Fengshan Blacksmith Street",
+   "aliases": [
+    "三民路44巷"
+   ],
+   "county": "高雄市",
+   "district": "鳳山區",
+   "address_hint": "三民路44巷",
+   "lat": 22.6278,
+   "lng": 120.3578,
+   "status": "quiet",
+   "scores": {
+    "food": 0,
+    "history": 2,
+    "architecture": 1,
+    "shopping": 1,
+    "crowd": 1
+   },
+   "architecture_styles": [
+    "modernist"
+   ],
+   "themes": [
+    "crafts",
+    "agriculture"
+   ],
+   "best_for": [
+    "history-buff",
+    "photography",
+    "slow-travel"
+   ],
+   "signature_foods": [],
+   "specialties": [
+    "手工打鐵",
+    "農具",
+    "刀具"
+   ],
+   "landmarks": [
+    "打鐵店"
+   ],
+   "tagline_zh": "短巷裡叮噹作響的傳統打鐵舖",
+   "tagline_en": "A short lane where traditional blacksmiths still hammer away",
+   "story_zh": "鳳山過去是農業與軍事重鎮，對農具與刀具需求大，打鐵業者聚集在三民路旁的小巷，短短幾十公尺曾開設十四家打鐵店。隨著機械化與進口刀具興起，如今只剩三、四家仍在營業，成為難得還能看到傳統打鐵的地方。",
+   "story_en": "Fengshan's farms and garrisons needed tools and blades, so blacksmiths clustered in a lane off Sanmin Road — at its peak fourteen forges operated within a few dozen metres. Mechanisation and imported tools have left only three or four still working, making it one of the few places to watch traditional smithing.",
+   "getting_there": "捷運鳳山站步行約10分鐘",
+   "visit_duration": "<1h",
+   "best_time": "白天店家開工時",
+   "confidence": "medium",
+   "sources": [
+    "https://smiletaiwan.cw.com.tw/article/5653",
+    "https://smiletaiwan.cw.com.tw/article/5366"
+   ]
+  },
+  {
+   "id": "pizitou-street",
+   "name_zh": "埤仔頭街",
+   "name_en": "Pizitou Street",
+   "aliases": [
+    "埤子頭"
+   ],
+   "county": "高雄市",
+   "district": "左營區",
+   "address_hint": "埤仔頭街、店仔頂路一帶",
+   "lat": 22.677,
+   "lng": 120.296,
+   "status": "faded",
+   "scores": {
+    "food": 1,
+    "history": 2,
+    "architecture": 1,
+    "shopping": 0,
+    "crowd": 1
+   },
+   "architecture_styles": [
+    "modernist"
+   ],
+   "themes": [
+    "qing-era",
+    "temple",
+    "military"
+   ],
+   "best_for": [
+    "history-buff"
+   ],
+   "signature_foods": [],
+   "specialties": [],
+   "landmarks": [
+    "左營舊城",
+    "舊城城隍廟"
+   ],
+   "tagline_zh": "鳳山舊城旁的清代聚落街",
+   "tagline_en": "A Qing-era settlement street beside the old Fengshan county wall",
+   "story_zh": "埤仔頭是左營舊城外的清代聚落，鳳山縣舊城是台灣第一座土城（1722年），後改建為石城。縣治遷往鳳山後，此地被稱為「舊城」，聚落街道也逐漸沒落。如今舊建築多已改建，主要可看的是舊城城牆與城隍廟。",
+   "story_en": "Pizitou is a Qing settlement outside the old Fengshan county wall in Zuoying — Taiwan's first earthen city wall (1722), later rebuilt in stone. After the county seat moved to Fengshan, the area became known as the 'old city' and its streets declined. Most old buildings are rebuilt; the city wall and City God temple are the main sights.",
+   "getting_there": "台鐵左營（舊城）站步行約10分鐘",
+   "visit_duration": "<1h",
+   "best_time": "可搭配蓮池潭、見城館一起走",
+   "confidence": "low",
+   "sources": [
+    "https://zh.wikipedia.org/wiki/埤子頭_(高雄市)",
+    "https://oldcity.kcg.gov.tw/eng/home01b.aspx?ID=26"
+   ]
+  },
+  {
+   "id": "zuoying-xia-road",
+   "name_zh": "左營下路",
+   "name_en": "Zuoying Xia Road",
+   "aliases": [],
+   "county": "高雄市",
+   "district": "左營區",
+   "address_hint": "左營下路（元帝路至孔營路間保留舊貌）",
+   "lat": 22.688,
+   "lng": 120.2935,
+   "status": "quiet",
+   "scores": {
+    "food": 1,
+    "history": 2,
+    "architecture": 1,
+    "shopping": 0,
+    "crowd": 1
+   },
+   "architecture_styles": [
+    "minnan",
+    "modernist"
+   ],
+   "themes": [
+    "qing-era",
+    "temple"
+   ],
+   "best_for": [
+    "history-buff",
+    "slow-travel"
+   ],
+   "signature_foods": [],
+   "specialties": [],
+   "landmarks": [
+    "左營元帝廟",
+    "蓮池潭"
+   ],
+   "tagline_zh": "左營舊聚落的老幹道，保留一段舊貌",
+   "tagline_en": "The old main road of Zuoying village, with one section untouched",
+   "story_zh": "左營下路早年是左營舊聚落的主要幹道，後因左營大路開通而失去地位。近年道路拓寬時，元帝路至孔營路之間保留了原本狹窄的舊貌，另在旁邊新闢左營新路。這段路以住家和小廟為主，適合順遊蓮池潭時散步。",
+   "story_en": "Zuoying Xia Road was the main road of old Zuoying village until Zuoying Avenue took over. When it was widened, the stretch between Yuandi Road and Kongying Road was kept at its old narrow width and a new road was built alongside. It is mainly homes and small temples, a pleasant stroll from Lotus Pond.",
+   "getting_there": "台鐵左營（舊城）站步行約15分鐘",
+   "visit_duration": "<1h",
+   "best_time": "",
+   "confidence": "low",
+   "sources": [
+    "https://zh.wikipedia.org/wiki/左營下路"
+   ]
+  },
+  {
+   "id": "xiling-street",
+   "name_zh": "西陵街",
+   "name_en": "Xiling Street",
+   "aliases": [
+    "上海街",
+    "西服街",
+    "軍品街",
+    "左營後街"
+   ],
+   "county": "高雄市",
+   "district": "左營區",
+   "address_hint": "西陵街、軍校路口一帶",
+   "lat": 22.6905,
+   "lng": 120.288,
+   "status": "quiet",
+   "scores": {
+    "food": 1,
+    "history": 2,
+    "architecture": 0,
+    "shopping": 2,
+    "crowd": 1
+   },
+   "architecture_styles": [
+    "modernist"
+   ],
+   "themes": [
+    "military"
+   ],
+   "best_for": [
+    "shopping",
+    "history-buff"
+   ],
+   "signature_foods": [],
+   "specialties": [
+    "軍品",
+    "訂製西服",
+    "制服",
+    "徽章"
+   ],
+   "landmarks": [
+    "左營海軍軍區"
+   ],
+   "tagline_zh": "海軍眷村旁的軍品與西服街",
+   "tagline_en": "Navy-town street of military gear and tailors",
+   "story_zh": "西陵街緊鄰左營海軍軍區，戰後隨海軍與眷村發展出特殊的商業生態，有上海街、西服街、軍品街等暱稱。這裡曾聚集許多來自上海的裁縫師傅為軍官訂製西服與制服，至今仍可找到軍品店與老裁縫店。",
+   "story_en": "Xiling Street sits next to the Zuoying naval base, and after the war it developed a trade serving sailors and military families, earning nicknames like Shanghai Street, Suit Street and Military-Goods Street. Tailors who came from Shanghai made uniforms and suits for officers, and some military-supply shops and tailors remain.",
+   "getting_there": "台鐵左營（舊城）站步行約15分鐘",
+   "visit_duration": "<1h",
+   "best_time": "白天店家營業時",
+   "confidence": "low",
+   "sources": [
+    "https://zh.wikipedia.org/wiki/西陵街"
+   ]
+  },
+  {
+   "id": "nanzi-old-street",
+   "name_zh": "楠梓舊街",
+   "name_en": "Nanzi Old Street",
+   "aliases": [
+    "楠仔坑"
+   ],
+   "county": "高雄市",
+   "district": "楠梓區",
+   "address_hint": "楠梓天后宮周邊舊街區",
+   "lat": 22.728,
+   "lng": 120.326,
+   "status": "quiet",
+   "scores": {
+    "food": 1,
+    "history": 2,
+    "architecture": 1,
+    "shopping": 1,
+    "crowd": 1
+   },
+   "architecture_styles": [
+    "minnan",
+    "modernist"
+   ],
+   "themes": [
+    "qing-era",
+    "temple"
+   ],
+   "best_for": [
+    "history-buff",
+    "slow-travel"
+   ],
+   "signature_foods": [],
+   "specialties": [],
+   "landmarks": [
+    "楠梓天后宮"
+   ],
+   "tagline_zh": "古官道上的楠仔坑街，天后宮後巷",
+   "tagline_en": "A stop on the old Qing highway, around the Mazu temple",
+   "story_zh": "楠梓舊稱楠仔坑，位於鳳山、旗山、岡山之間，清代從縣城往府城的官道必經此地。市定古蹟楠梓天后宮已有二百多年歷史，廟後仍留有舊街屋，可看出清代廟宇與街巷的發展關係。如今為一般生活街區，觀光設施不多。",
+   "story_en": "Nanzi, formerly Nanzaikeng, lay where the Qing highway from the county seat to Tainan passed between Fengshan, Qishan and Gangshan. The Nanzi Mazu Temple, a municipal monument over 200 years old, still has old shophouses behind it showing how lanes grew around the temple. Today it is an ordinary residential and market area.",
+   "getting_there": "台鐵楠梓站步行約10分鐘",
+   "visit_duration": "<1h",
+   "best_time": "",
+   "confidence": "low",
+   "sources": [
+    "https://ndltd.ncl.edu.tw/handle/21174017564533241314"
+   ]
+  },
+  {
+   "id": "qiaotou-old-street",
+   "name_zh": "橋頭老街",
+   "name_en": "Qiaotou Old Street",
+   "aliases": [
+    "橋仔頭街",
+    "小店仔街"
+   ],
+   "county": "高雄市",
+   "district": "橋頭區",
+   "address_hint": "橋頭火車站周邊、中正路一帶",
+   "lat": 22.76,
+   "lng": 120.311,
+   "status": "quiet",
+   "scores": {
+    "food": 2,
+    "history": 2,
+    "architecture": 1,
+    "shopping": 1,
+    "crowd": 1
+   },
+   "architecture_styles": [
+    "baroque-facade",
+    "modernist"
+   ],
+   "themes": [
+    "japanese-era",
+    "agriculture",
+    "railway"
+   ],
+   "best_for": [
+    "history-buff",
+    "foodie",
+    "slow-travel"
+   ],
+   "signature_foods": [
+    "咖哩鮪魚羹",
+    "糖廠冰品"
+   ],
+   "specialties": [],
+   "landmarks": [
+    "橋仔頭糖廠",
+    "三餘書店"
+   ],
+   "tagline_zh": "糖廠小鎮的老街，台灣民主第一街",
+   "tagline_en": "A sugar-mill town street, once called Taiwan's first democracy street",
+   "story_zh": "橋仔頭街因1901年台灣第一座新式製糖工場橋仔頭糖廠設立而興盛，日治時期經市區改正，出現仿巴洛克立面街屋。1979年黨外人士在此發起戰後第一次政治遊行，被稱為「台灣民主第一街」。2009年道路拓寬後舊建築所剩不多，如今為黃昏市場與生活街區。",
+   "story_en": "Qiaotou flourished after Taiwan's first modern sugar mill opened here in 1901, and Japanese-era street reforms added faux-Baroque shophouse facades. In 1979 opposition activists held the first post-war political march here, so it is called 'Taiwan's first democracy street'. Road widening in 2009 removed most old buildings; it is now an evening market and local shopping street.",
+   "getting_there": "台鐵橋頭站或捷運橋頭火車站步行約5分鐘",
+   "visit_duration": "1-2h",
+   "best_time": "可順遊橋頭糖廠",
+   "confidence": "medium",
+   "sources": [
+    "https://www.thenewslens.com/article/88668",
+    "https://smiletaiwan.cw.com.tw/article/7235"
+   ]
+  },
+  {
+   "id": "sannaitan-old-street",
+   "name_zh": "三奶壇老街",
+   "name_en": "Sannaitan Old Street",
+   "aliases": [
+    "三角湧"
+   ],
+   "county": "高雄市",
+   "district": "大社區",
+   "address_hint": "三民路、翠屏路一帶",
+   "lat": 22.73,
+   "lng": 120.348,
+   "status": "quiet",
+   "scores": {
+    "food": 1,
+    "history": 1,
+    "architecture": 1,
+    "shopping": 0,
+    "crowd": 1
+   },
+   "architecture_styles": [
+    "minnan",
+    "modernist"
+   ],
+   "themes": [
+    "qing-era",
+    "temple"
+   ],
+   "best_for": [
+    "slow-travel"
+   ],
+   "signature_foods": [],
+   "specialties": [
+    "皮影戲"
+   ],
+   "landmarks": [
+    "三奶壇碧雲宮"
+   ],
+   "tagline_zh": "大社三奶壇廟前的小老街",
+   "tagline_en": "A small old street by Dashe's Sannaitan temple",
+   "story_zh": "大社的三奶壇得名於供奉臨水夫人的三奶壇碧雲宮，據記載清初便已存在。周邊的三民路、翠屏路形成聚落街道，清代鳳山八景之一的「翠屏夕照」即在附近。現今多為一般住家，舊建築零星，資料相當有限。",
+   "story_en": "Sannaitan in Dashe takes its name from the Biyun Temple dedicated to Lady Linshui, recorded as early as the early Qing. The settlement grew along Sanmin and Cuiping roads, near the 'Cuiping sunset', one of the Qing-era eight views of Fengshan. Today it is mostly ordinary housing with only scattered old buildings, and little has been written about it.",
+   "getting_there": "建議開車",
+   "visit_duration": "<1h",
+   "best_time": "",
+   "confidence": "low",
+   "sources": [
+    "https://kwbs.org.tw/magazine/data/378/P26-41.pdf"
+   ]
+  },
+  {
+   "id": "linyuan-old-street",
+   "name_zh": "林園老街",
+   "name_en": "Linyuan Old Street",
+   "aliases": [
+    "福興街",
+    "林仔邊"
+   ],
+   "county": "高雄市",
+   "district": "林園區",
+   "address_hint": "福興街一帶",
+   "lat": 22.5045,
+   "lng": 120.3925,
+   "status": "quiet",
+   "scores": {
+    "food": 2,
+    "history": 2,
+    "architecture": 1,
+    "shopping": 1,
+    "crowd": 1
+   },
+   "architecture_styles": [
+    "japanese-era",
+    "modernist"
+   ],
+   "themes": [
+    "japanese-era",
+    "temple"
+   ],
+   "best_for": [
+    "history-buff",
+    "foodie",
+    "slow-travel"
+   ],
+   "signature_foods": [
+    "鴨肉飯",
+    "早市小吃"
+   ],
+   "specialties": [],
+   "landmarks": [
+    "原頂林仔邊警察官吏派出所",
+    "林園中央市場"
+   ],
+   "tagline_zh": "早市與百年派出所的小鎮老街",
+   "tagline_en": "A small-town morning market street with a 1898 police station",
+   "story_zh": "林園舊稱林仔邊，1920年市街改正時北岸聚落改名為林園。福興街上的「原頂林仔邊警察官吏派出所」設立於1898年，是林園最早的派出所，現為市定古蹟並作為歷史教室開放。街上早上有熱鬧早市，對面巷內曾有林園最早的戲院「林園座」。",
+   "story_en": "Linyuan was once called Linzaibian, renamed during the 1920 street reforms. On Fuxing Street the Dinglinzaibian police station of 1898, the area's first, is now a municipal monument open as a history classroom. The street hosts a busy morning market, and the lane opposite once held Linyuan's first cinema, the Linyuan-za.",
+   "getting_there": "建議開車，或高雄客運至林園站",
+   "visit_duration": "1-2h",
+   "best_time": "上午早市時段，午後店家多收攤",
+   "confidence": "medium",
+   "sources": [
+    "https://takao.kcg.gov.tw/article/3141",
+    "https://travel.yam.com/article/102401"
+   ]
+  },
+  {
+   "id": "linyuan-new-street",
+   "name_zh": "林園新街",
+   "name_en": "Linyuan New Street",
+   "aliases": [],
+   "county": "高雄市",
+   "district": "林園區",
+   "address_hint": "林園北路",
+   "lat": 22.5065,
+   "lng": 120.3945,
+   "status": "quiet",
+   "scores": {
+    "food": 1,
+    "history": 1,
+    "architecture": 1,
+    "shopping": 0,
+    "crowd": 1
+   },
+   "architecture_styles": [
+    "baroque-facade",
+    "japanese-era"
+   ],
+   "themes": [
+    "japanese-era",
+    "film-location"
+   ],
+   "best_for": [
+    "photography"
+   ],
+   "signature_foods": [],
+   "specialties": [],
+   "landmarks": [
+    "安樂樓"
+   ],
+   "tagline_zh": "廢墟網美點安樂樓所在的街",
+   "tagline_en": "Home of the photogenic ruined Anle Building",
+   "story_zh": "林園北路是日治市街改正後形成的「新街」，相對於福興街舊街。街上最知名的是洋樓廢墟「安樂樓」，因電視劇《一把青》取景而成為熱門拍照點。其餘多為一般店家與住宅。",
+   "story_en": "Linyuan North Road is the 'new street' laid out after Japanese-era street reforms, in contrast to old Fuxing Street. Its best-known sight is the ruined Western-style Anle Building, which became a photo spot after appearing in the TV drama 'A Touch of Green'. The rest is ordinary shops and homes.",
+   "getting_there": "建議開車",
+   "visit_duration": "<1h",
+   "best_time": "安樂樓為私人產權，請在外圍拍攝",
+   "confidence": "low",
+   "sources": [
+    "https://travel.yam.com/article/102401"
+   ]
+  },
+  {
+   "id": "gangshan-old-street",
+   "name_zh": "岡山老街",
+   "name_en": "Gangshan Old Street",
+   "aliases": [
+    "岡山中街",
+    "阿公店"
+   ],
+   "county": "高雄市",
+   "district": "岡山區",
+   "address_hint": "維仁路、開元街、平和路一帶",
+   "lat": 22.7925,
+   "lng": 120.2975,
+   "status": "active",
+   "scores": {
+    "food": 3,
+    "history": 2,
+    "architecture": 1,
+    "shopping": 2,
+    "crowd": 2
+   },
+   "architecture_styles": [
+    "modernist",
+    "arcade"
+   ],
+   "themes": [
+    "qing-era",
+    "temple",
+    "agriculture"
+   ],
+   "best_for": [
+    "foodie",
+    "shopping",
+    "slow-travel"
+   ],
+   "signature_foods": [
+    "羊肉爐",
+    "羊肉湯",
+    "豆瓣醬",
+    "蜂蜜",
+    "肉燥飯"
+   ],
+   "specialties": [
+    "籃仔",
+    "豆瓣醬",
+    "蜂蜜"
+   ],
+   "landmarks": [
+    "壽天宮"
+   ],
+   "tagline_zh": "岡山三寶的老市街，早市熱鬧",
+   "tagline_en": "Morning-market streets of Gangshan's 'three treasures'",
+   "story_zh": "岡山舊稱阿公店，清代即為南北往來的市集，傳統「籃仔會」交易市集延續百年。老街以維仁路、開元街一帶為主，以生活用品與早市為主，周邊有知名的羊肉店。岡山以羊肉、豆瓣醬、蜂蜜「三寶」聞名。",
+   "story_en": "Gangshan, once called A-kong-tiam, has been a market town on the north-south route since the Qing, and its traditional basket fair has run for over a century. The old streets around Weiren Road and Kaiyuan Street sell daily goods and host a morning market, with famous mutton restaurants nearby. Gangshan is known for its 'three treasures': mutton, bean paste and honey.",
+   "getting_there": "捷運岡山站或台鐵岡山站，轉乘或步行約15分鐘",
+   "visit_duration": "1-2h",
+   "best_time": "上午早市時段",
+   "confidence": "medium",
+   "sources": [
+    "https://zh.wikipedia.org/wiki/岡山老街",
+    "https://smiletaiwan.cw.com.tw/index.php/article/2858"
+   ]
+  },
+  {
+   "id": "qishan-old-street",
+   "name_zh": "旗山老街",
+   "name_en": "Qishan Old Street",
+   "aliases": [
+    "旗山中山路",
+    "蕃薯寮"
+   ],
+   "county": "高雄市",
+   "district": "旗山區",
+   "address_hint": "中山路、復新街一帶",
+   "lat": 22.8854479,
+   "lng": 120.4819467,
+   "status": "thriving",
+   "scores": {
+    "food": 3,
+    "history": 3,
+    "architecture": 3,
+    "shopping": 2,
+    "crowd": 3
+   },
+   "architecture_styles": [
+    "baroque-facade",
+    "arcade",
+    "japanese-era"
+   ],
+   "themes": [
+    "japanese-era",
+    "railway",
+    "agriculture"
+   ],
+   "best_for": [
+    "foodie",
+    "history-buff",
+    "architecture",
+    "photography",
+    "family"
+   ],
+   "signature_foods": [
+    "香蕉蛋糕",
+    "香蕉冰",
+    "枝仔冰",
+    "碗粿",
+    "肉粽"
+   ],
+   "specialties": [
+    "香蕉製品"
+   ],
+   "landmarks": [
+    "旗山車站",
+    "石拱圈亭仔腳",
+    "旗山天后宮",
+    "旗山武德殿"
+   ],
+   "tagline_zh": "香蕉王國的巴洛克老街與石拱亭仔腳",
+   "tagline_en": "Banana-kingdom town of Baroque facades and stone arcades",
+   "story_zh": "旗山舊稱蕃薯寮，日治時期因香蕉外銷日本而繁榮，有「香蕉王國」之稱。中山路為日治開闢的「本通」，留有巴洛克立面街屋與罕見的石拱圈亭仔腳，皆為歷史建築。旗山車站是糖業鐵道的車站，香蕉產業沒落後，老街以香蕉蛋糕、枝仔冰等小吃轉型觀光。",
+   "story_en": "Qishan, formerly Fanshuliao, boomed in the Japanese era exporting bananas to Japan, earning the title 'Banana Kingdom'. Zhongshan Road, laid out as the main street then, keeps Baroque shophouse facades and a rare stone-arch arcade, both listed historic buildings. The quaint station served the sugar railway; when the banana trade faded the street reinvented itself with banana cakes and ice pops.",
+   "getting_there": "高雄客運由高鐵左營站或高雄車站至旗山站，步行即達",
+   "visit_duration": "half-day",
+   "best_time": "假日較熱鬧，可結合美濃一日遊",
+   "confidence": "high",
+   "sources": [
+    "https://zh.wikipedia.org/wiki/旗山老街"
+   ]
+  },
+  {
+   "id": "meinong-yongan-old-street",
+   "name_zh": "永安老街",
+   "name_en": "Yong'an Old Street (Meinong)",
+   "aliases": [
+    "美濃老街",
+    "永安路"
+   ],
+   "county": "高雄市",
+   "district": "美濃區",
+   "address_hint": "永安路（敬字亭至東門樓）",
+   "lat": 22.8965,
+   "lng": 120.543,
+   "status": "active",
+   "scores": {
+    "food": 3,
+    "history": 3,
+    "architecture": 2,
+    "shopping": 2,
+    "crowd": 2
+   },
+   "architecture_styles": [
+    "hakka",
+    "minnan",
+    "japanese-era"
+   ],
+   "themes": [
+    "qing-era",
+    "hakka",
+    "crafts",
+    "agriculture"
+   ],
+   "best_for": [
+    "foodie",
+    "history-buff",
+    "architecture",
+    "slow-travel",
+    "photography"
+   ],
+   "signature_foods": [
+    "粄條",
+    "客家小炒",
+    "豬腳",
+    "擂茶",
+    "野蓮"
+   ],
+   "specialties": [
+    "油紙傘",
+    "藍衫"
+   ],
+   "landmarks": [
+    "美濃東門樓",
+    "瀰濃庄敬字亭",
+    "美濃水橋",
+    "美濃庄頭伯公",
+    "美濃文創中心"
+   ],
+   "tagline_zh": "客家伙房、東門樓與粄條，美濃最老的街",
+   "tagline_en": "Meinong's oldest street of Hakka courtyards, gate tower and rice noodles",
+   "story_zh": "1736年客家先民渡過美濃溪開庄，永安路便是美濃最早的街道，西起敬字亭、東至東門樓，全長約2公里。沿途有百年伙房、伯公壇與敬字亭，展現客家人敬惜字紙、重視文教的傳統。東門樓曾在乙未戰爭中毀於日軍砲火，1937年重建。",
+   "story_en": "Hakka pioneers crossed the Meinong River and founded the settlement in 1736, and Yong'an Road was its first street, running about 2 km from the paper-burning pagoda to the East Gate. Along it are century-old Hakka courtyard homes, earth-god shrines and the pagoda where written paper was respectfully burned. The East Gate was shelled by Japanese troops in 1895 and rebuilt in 1937.",
+   "getting_there": "高雄客運由旗山轉乘至美濃站，步行約10分鐘；建議騎單車",
+   "visit_duration": "half-day",
+   "best_time": "正月初八、初九字紙祭期間；秋冬有花海",
+   "confidence": "high",
+   "sources": [
+    "https://uptogo.com.tw/歷史/永安老街歷史？/",
+    "https://travel.yam.com/article/121009"
+   ]
+  },
+  {
+   "id": "liugui-old-street",
+   "name_zh": "六龜老街",
+   "name_en": "Liugui Old Street",
+   "aliases": [
+    "華南街"
+   ],
+   "county": "高雄市",
+   "district": "六龜區",
+   "address_hint": "華南街一帶",
+   "lat": 22.997,
+   "lng": 120.634,
+   "status": "quiet",
+   "scores": {
+    "food": 1,
+    "history": 2,
+    "architecture": 2,
+    "shopping": 1,
+    "crowd": 1
+   },
+   "architecture_styles": [
+    "japanese-era",
+    "wooden-house"
+   ],
+   "themes": [
+    "japanese-era",
+    "nature",
+    "agriculture"
+   ],
+   "best_for": [
+    "slow-travel",
+    "history-buff",
+    "architecture"
+   ],
+   "signature_foods": [
+    "鳳梨龜",
+    "豆沙餅",
+    "黑鑽石蓮霧"
+   ],
+   "specialties": [],
+   "landmarks": [
+    "池田屋",
+    "洪稇源商號"
+   ],
+   "tagline_zh": "山城老街，保存完整的日式旅社",
+   "tagline_en": "A mountain-town street with a rare intact Japanese inn",
+   "story_zh": "六龜地名一說來自山形如龜，另一說是平埔族語「Lakuri」的音譯，日治時期因林業與山區開發成為交通樞紐。華南街上的「池田屋」是日式旅社，榻榻米、壁櫥等內部設施保存完整，在台灣相當少見；洪稇源商號也是當年風光的老商號。如今街上僅剩少數老店，以蓮霧等水果聞名。",
+   "story_en": "Liugui's name is said to come from turtle-shaped hills or from the Pingpu word 'Lakuri'. In the Japanese era forestry and mountain development made it a transport hub. On Huanan Street the Ikedaya inn keeps its tatami rooms and closets remarkably intact, and the Hong Kunyuan store recalls prosperous days. Only a few old shops remain; the area is known for wax apples.",
+   "getting_there": "建議開車；或高雄客運由旗山轉乘",
+   "visit_duration": "<1h",
+   "best_time": "1月蓮霧盛產期",
+   "confidence": "low",
+   "sources": [
+    "https://n.yam.com/Article/20230605512464"
+   ]
+  },
+  {
+   "id": "ligang-old-street",
+   "name_zh": "里港老街",
+   "name_en": "Ligang Old Street",
+   "aliases": [
+    "中山路"
+   ],
+   "county": "屏東縣",
+   "district": "里港鄉",
+   "address_hint": "中山路（雙慈宮前）一帶",
+   "lat": 22.779,
+   "lng": 120.494,
+   "status": "active",
+   "scores": {
+    "food": 3,
+    "history": 2,
+    "architecture": 1,
+    "shopping": 1,
+    "crowd": 2
+   },
+   "architecture_styles": [
+    "minnan",
+    "modernist"
+   ],
+   "themes": [
+    "qing-era",
+    "river-port",
+    "temple"
+   ],
+   "best_for": [
+    "foodie",
+    "history-buff"
+   ],
+   "signature_foods": [
+    "扁食（餛飩）",
+    "豬腳",
+    "扁食湯"
+   ],
+   "specialties": [],
+   "landmarks": [
+    "雙慈宮"
+   ],
+   "tagline_zh": "雙慈宮廟口的扁食一條街",
+   "tagline_en": "The wonton street by Shuangci Temple",
+   "story_zh": "里港舊稱阿里港，清代因位於下淡水溪畔，是屏東平原北部的河港與市集。媽祖信仰中心雙慈宮內保存多塊清代石碑，記錄建廟與當年政令。廟口與老街底林立扁食小吃店，許多店家彼此有親戚關係，使里港扁食聞名全台。",
+   "story_en": "Ligang, once A-li-kang, was a Qing-era river port and market on the Lower Danshui River in northern Pingtung. Shuangci Temple, the local Mazu centre, holds several Qing stone steles recording its history and old decrees. The temple front and street end are packed with wonton shops, many run by related families, making Ligang wontons famous nationwide.",
+   "getting_there": "建議開車；屏東客運至里港站",
+   "visit_duration": "1-2h",
+   "best_time": "中午用餐時段",
+   "confidence": "medium",
+   "sources": [
+    "https://smiletaiwan.cw.com.tw/article/3014"
+   ]
+  },
+  {
+   "id": "fengtian-old-street",
+   "name_zh": "豐田老街",
+   "name_en": "Fengtian Old Street",
+   "aliases": [],
+   "county": "屏東縣",
+   "district": "內埔鄉",
+   "address_hint": "豐田村舊聚落",
+   "lat": 22.638,
+   "lng": 120.55,
+   "status": "quiet",
+   "scores": {
+    "food": 0,
+    "history": 1,
+    "architecture": 1,
+    "shopping": 0,
+    "crowd": 1
+   },
+   "architecture_styles": [
+    "hakka"
+   ],
+   "themes": [
+    "hakka",
+    "agriculture"
+   ],
+   "best_for": [
+    "slow-travel"
+   ],
+   "signature_foods": [],
+   "specialties": [],
+   "landmarks": [],
+   "tagline_zh": "內埔鄉間的客家聚落小街",
+   "tagline_en": "A small Hakka village street in rural Neipu",
+   "story_zh": "豐田位於六堆之一後堆的內埔鄉，是客家聚落的舊街。目前可查資料極少，僅知保有部分客家伙房建築，以住家為主，並非觀光街道。",
+   "story_en": "Fengtian is an old Hakka village street in Neipu, part of the 'Rear Camp' of the Liudui Hakka settlements. Very little has been documented; it retains a few Hakka courtyard houses and is mainly residential rather than a tourist street.",
+   "getting_there": "建議開車",
+   "visit_duration": "<1h",
+   "best_time": "",
+   "confidence": "low",
+   "sources": []
+  },
+  {
+   "id": "neipu-yangjiyuan-old-street",
+   "name_zh": "內埔陽濟院老街",
+   "name_en": "Neipu Yangjiyuan Old Street",
+   "aliases": [
+    "內埔老街",
+    "陽濟院"
+   ],
+   "county": "屏東縣",
+   "district": "內埔鄉",
+   "address_hint": "陽濟路、東城路一帶（內埔天后宮對面）",
+   "lat": 22.6125,
+   "lng": 120.566,
+   "status": "quiet",
+   "scores": {
+    "food": 2,
+    "history": 2,
+    "architecture": 2,
+    "shopping": 1,
+    "crowd": 1
+   },
+   "architecture_styles": [
+    "hakka",
+    "baroque-facade"
+   ],
+   "themes": [
+    "hakka",
+    "qing-era",
+    "temple",
+    "art-murals"
+   ],
+   "best_for": [
+    "history-buff",
+    "photography",
+    "slow-travel",
+    "foodie"
+   ],
+   "signature_foods": [
+    "蒜頭乾麵",
+    "客家粄",
+    "客家小吃"
+   ],
+   "specialties": [],
+   "landmarks": [
+    "內埔天后宮",
+    "昌黎祠"
+   ],
+   "tagline_zh": "燈籠與彩繪妝點的百年客家巷弄",
+   "tagline_en": "Century-old Hakka lanes with lanterns and painted walls",
+   "story_zh": "陽濟院老街是內埔百年聚落，名稱相傳來自先民在此圈地養羊。巷弄保存客家伙房、洗石子洋風立面，近年加上燈籠與客家彩繪。附近的昌黎祠是全台唯一主祀韓愈的廟宇，可與天后宮一併參訪。",
+   "story_en": "Yangjiyuan is a century-old quarter of Neipu, its name said to come from settlers who kept goats here. The lanes keep Hakka courtyard homes and Western-style terrazzo facades, recently decorated with lanterns and Hakka murals. The nearby Changli Temple is Taiwan's only temple dedicated mainly to Han Yu.",
+   "getting_there": "建議開車；或台鐵竹田站轉乘",
+   "visit_duration": "1-2h",
+   "best_time": "可搭配昌黎祠、天后宮",
+   "confidence": "medium",
+   "sources": [
+    "https://travel.yam.com/article/124948"
+   ]
+  },
+  {
+   "id": "erlun-old-street",
+   "name_zh": "二崙老街",
+   "name_en": "Erlun Old Street",
+   "aliases": [],
+   "county": "屏東縣",
+   "district": "竹田鄉",
+   "address_hint": "二崙村",
+   "lat": 22.593,
+   "lng": 120.516,
+   "status": "quiet",
+   "scores": {
+    "food": 0,
+    "history": 1,
+    "architecture": 1,
+    "shopping": 0,
+    "crowd": 1
+   },
+   "architecture_styles": [
+    "hakka"
+   ],
+   "themes": [
+    "hakka",
+    "art-murals"
+   ],
+   "best_for": [
+    "photography",
+    "slow-travel"
+   ],
+   "signature_foods": [],
+   "specialties": [],
+   "landmarks": [],
+   "tagline_zh": "竹田客家村落的彩繪小街",
+   "tagline_en": "A painted lane in a Hakka village of Zhutian",
+   "story_zh": "二崙是竹田鄉的客家聚落，近年社區以彩繪牆面妝點街道，與鄰近美崙村一樣成為彩繪村。可查資料有限，規模小，以住家為主。",
+   "story_en": "Erlun is a Hakka village in Zhutian whose community has painted murals along its lanes, like neighbouring Meilun. Little is documented; it is small and mainly residential.",
+   "getting_there": "台鐵竹田站騎單車約15分鐘；建議開車",
+   "visit_duration": "<1h",
+   "best_time": "",
+   "confidence": "low",
+   "sources": []
+  },
+  {
+   "id": "meilun-old-street",
+   "name_zh": "美崙老街",
+   "name_en": "Meilun Old Street",
+   "aliases": [
+    "老夫子彩繪村"
+   ],
+   "county": "屏東縣",
+   "district": "竹田鄉",
+   "address_hint": "美崙村",
+   "lat": 22.578,
+   "lng": 120.53,
+   "status": "quiet",
+   "scores": {
+    "food": 1,
+    "history": 1,
+    "architecture": 1,
+    "shopping": 0,
+    "crowd": 1
+   },
+   "architecture_styles": [
+    "hakka"
+   ],
+   "themes": [
+    "hakka",
+    "art-murals"
+   ],
+   "best_for": [
+    "photography",
+    "family",
+    "slow-travel"
+   ],
+   "signature_foods": [
+    "古早味冰棒"
+   ],
+   "specialties": [],
+   "landmarks": [
+    "老夫子彩繪牆"
+   ],
+   "tagline_zh": "老夫子漫畫畫滿牆的客家村",
+   "tagline_en": "A Hakka village painted with Old Master Q comics",
+   "story_zh": "美崙村牆面繪滿老夫子漫畫人物，由電影看板畫師廖長生父子執筆，並獲第二代作者王澤授權——王澤是屏東女婿，岳母就住在美崙村。村內安靜樸實，可搭配竹田驛園、客家文物館騎單車遊覽。",
+   "story_en": "Meilun's walls are covered with Old Master Q comic characters, painted by film-poster artist Liao Chang-sheng and his son with permission from the comic's second-generation author Wang Tse, whose mother-in-law lives in the village. It is quiet and rustic, best combined with Zhutian Station and the Hakka museum by bike.",
+   "getting_there": "台鐵竹田站騎單車約10分鐘",
+   "visit_duration": "<1h",
+   "best_time": "",
+   "confidence": "medium",
+   "sources": [
+    "https://smiletaiwan.cw.com.tw/article/2725"
+   ]
+  },
+  {
+   "id": "toulun-old-street",
+   "name_zh": "頭崙老街",
+   "name_en": "Toulun Old Street",
+   "aliases": [],
+   "county": "屏東縣",
+   "district": "竹田鄉",
+   "address_hint": "頭崙村",
+   "lat": 22.603,
+   "lng": 120.523,
+   "status": "quiet",
+   "scores": {
+    "food": 0,
+    "history": 1,
+    "architecture": 1,
+    "shopping": 0,
+    "crowd": 1
+   },
+   "architecture_styles": [
+    "hakka"
+   ],
+   "themes": [
+    "hakka"
+   ],
+   "best_for": [
+    "slow-travel"
+   ],
+   "signature_foods": [],
+   "specialties": [],
+   "landmarks": [],
+   "tagline_zh": "竹田北邊的客家聚落小街",
+   "tagline_en": "A quiet Hakka village street in northern Zhutian",
+   "story_zh": "頭崙是竹田鄉的客家聚落之一，保有零星伙房與舊街屋。公開資料極少，屬生活型街道，不適合專程前往。",
+   "story_en": "Toulun is one of Zhutian's Hakka villages with a few courtyard homes and old shophouses. Very little is documented; it is an everyday village street not worth a special trip.",
+   "getting_there": "建議開車",
+   "visit_duration": "<1h",
+   "best_time": "",
+   "confidence": "low",
+   "sources": []
+  },
+  {
+   "id": "xisheng-old-street",
+   "name_zh": "西盛老街",
+   "name_en": "Xisheng Old Street",
+   "aliases": [
+    "五溝水老街"
+   ],
+   "county": "屏東縣",
+   "district": "萬巒鄉",
+   "address_hint": "五溝村西盛路一帶",
+   "lat": 22.551,
+   "lng": 120.588,
+   "status": "quiet",
+   "scores": {
+    "food": 1,
+    "history": 3,
+    "architecture": 3,
+    "shopping": 0,
+    "crowd": 1
+   },
+   "architecture_styles": [
+    "hakka",
+    "baroque-facade"
+   ],
+   "themes": [
+    "hakka",
+    "qing-era",
+    "nature"
+   ],
+   "best_for": [
+    "history-buff",
+    "architecture",
+    "slow-travel",
+    "photography"
+   ],
+   "signature_foods": [],
+   "specialties": [],
+   "landmarks": [
+    "劉氏宗祠",
+    "五溝水湧泉",
+    "觀海山房"
+   ],
+   "tagline_zh": "台灣第一個指定保存的客家聚落",
+   "tagline_en": "Taiwan's first protected Hakka settlement, built around springs",
+   "story_zh": "五溝水是台灣第一個依《文化資產保存法》登錄保存的客家聚落，因地下伏流豐富、湧泉水圳環繞而得名。聚落內有雕飾華麗的劉氏宗祠與眾多伙房，西盛路一帶為聚落的老街。這裡沒有熱鬧商店，適合慢步欣賞客家建築與水景。",
+   "story_en": "Wugoushui was the first Hakka settlement in Taiwan designated for protection under the Cultural Heritage Act, named for the springs and channels fed by underground water. Its ornate Liu Ancestral Hall and many courtyard homes surround Xisheng Road, the village's old street. There are few shops; it is for slow walks among Hakka architecture and water.",
+   "getting_there": "建議開車；或台鐵潮州站轉乘",
+   "visit_duration": "1-2h",
+   "best_time": "",
+   "confidence": "medium",
+   "sources": [
+    "https://www.cna.com.tw/news/aloc/202410280163.aspx",
+    "https://smiletaiwan.cw.com.tw/article/4165"
+   ]
+  },
+  {
+   "id": "wandan-old-street",
+   "name_zh": "萬丹老街",
+   "name_en": "Wandan Old Street",
+   "aliases": [],
+   "county": "屏東縣",
+   "district": "萬丹鄉",
+   "address_hint": "萬丹路一段（萬惠宮周邊）",
+   "lat": 22.59,
+   "lng": 120.484,
+   "status": "active",
+   "scores": {
+    "food": 3,
+    "history": 2,
+    "architecture": 2,
+    "shopping": 1,
+    "crowd": 2
+   },
+   "architecture_styles": [
+    "minnan",
+    "baroque-facade"
+   ],
+   "themes": [
+    "qing-era",
+    "temple",
+    "agriculture"
+   ],
+   "best_for": [
+    "foodie",
+    "history-buff"
+   ],
+   "signature_foods": [
+    "紅豆餅",
+    "紅豆冰",
+    "紅豆湯",
+    "古早味剉冰"
+   ],
+   "specialties": [
+    "紅豆"
+   ],
+   "landmarks": [
+    "萬惠宮",
+    "芳美商號"
+   ],
+   "tagline_zh": "紅豆故鄉，媽祖廟前吃紅豆餅",
+   "tagline_en": "Red bean capital — red bean cakes by the Mazu temple",
+   "story_zh": "萬丹是台灣紅豆的主要產地，有「紅豆故鄉」之稱。老街圍繞清乾隆年間建的媽祖廟萬惠宮，地方仕紳曾以媽祖祭祀組織凝聚閩庄意識。街上的芳美商號是李家古厝，交趾陶與木雕精美，曾因產權紛爭險遭拆除，被縣府公告暫定古蹟。",
+   "story_en": "Wandan grows much of Taiwan's red beans and calls itself their hometown. The old street wraps around Wanhui Temple, a Mazu temple from the Qianlong era whose worship organisation helped bind the Hokkien community. The Fangmei store, the Li family's old mansion with fine koji pottery and woodcarving, was nearly demolished in an ownership dispute before being declared a provisional monument.",
+   "getting_there": "建議開車；屏東客運至萬丹站",
+   "visit_duration": "1-2h",
+   "best_time": "冬季紅豆收成期",
+   "confidence": "medium",
+   "sources": [
+    "https://smiletaiwan.cw.com.tw/article/682",
+    "https://news.ltn.com.tw/news/life/breakingnews/2781756"
+   ]
+  },
+  {
+   "id": "chaozhou-old-street",
+   "name_zh": "潮州老街",
+   "name_en": "Chaozhou Old Street (Jianji Rd)",
+   "aliases": [
+    "虎仔街",
+    "建基老街",
+    "傢俱老街"
+   ],
+   "county": "屏東縣",
+   "district": "潮州鎮",
+   "address_hint": "建基路",
+   "lat": 22.551,
+   "lng": 120.542,
+   "status": "quiet",
+   "scores": {
+    "food": 1,
+    "history": 2,
+    "architecture": 2,
+    "shopping": 1,
+    "crowd": 1
+   },
+   "architecture_styles": [
+    "minnan",
+    "japanese-era"
+   ],
+   "themes": [
+    "japanese-era",
+    "crafts",
+    "art-murals"
+   ],
+   "best_for": [
+    "history-buff",
+    "photography",
+    "slow-travel"
+   ],
+   "signature_foods": [
+    "冷熱冰"
+   ],
+   "specialties": [
+    "傢俱"
+   ],
+   "landmarks": [
+    "潮州摸乳巷"
+   ],
+   "tagline_zh": "潮州最老商街，百年紅磚摸乳巷",
+   "tagline_en": "Chaozhou's oldest trading street and its narrow red-brick alley",
+   "story_zh": "建基路是潮州最老的商街，日治時期是重要商業聚落，萬巒等地居民進城都會經過，後來以傢俱店聞名。街屋保留前店後倉、屋身狹長的格局，街上還有兩側百年紅磚牆夾成的窄巷，2010年被命名為「摸乳巷」。近年居民與團隊辦「春潮集」等活動嘗試讓老街再生。",
+   "story_en": "Jianji Road is Chaozhou's oldest commercial street, a key Japanese-era trading hub that villagers from Wanluan and beyond passed through, later known for furniture makers. Shophouses keep the long shop-in-front, warehouse-behind layout, and a century-old red-brick alley so narrow it was named 'Breast-Touching Alley' in 2010. Residents now run events like the Spring Tide market to revive it.",
+   "getting_there": "台鐵潮州站步行約10分鐘",
+   "visit_duration": "<1h",
+   "best_time": "春潮集等活動期間",
+   "confidence": "medium",
+   "sources": [
+    "https://smiletaiwan.cw.com.tw/article/7164",
+    "https://www.taiwannews.com.tw/zh/news/4038549"
+   ]
+  },
+  {
+   "id": "donggang-yanping-old-street",
+   "name_zh": "東港延平老街",
+   "name_en": "Donggang Yanping Old Street",
+   "aliases": [
+    "延平路"
+   ],
+   "county": "屏東縣",
+   "district": "東港鎮",
+   "address_hint": "延平路一帶",
+   "lat": 22.466,
+   "lng": 120.45,
+   "status": "active",
+   "scores": {
+    "food": 3,
+    "history": 3,
+    "architecture": 2,
+    "shopping": 2,
+    "crowd": 2
+   },
+   "architecture_styles": [
+    "baroque-facade",
+    "minnan",
+    "japanese-era"
+   ],
+   "themes": [
+    "qing-era",
+    "port-trade",
+    "fishing",
+    "temple"
+   ],
+   "best_for": [
+    "foodie",
+    "history-buff",
+    "family"
+   ],
+   "signature_foods": [
+    "黑鮪魚生魚片",
+    "旗魚黑輪",
+    "肉粿",
+    "雙糕潤",
+    "花枝丸",
+    "鮪魚鬆"
+   ],
+   "specialties": [
+    "海產乾貨",
+    "櫻花蝦"
+   ],
+   "landmarks": [
+    "東隆宮",
+    "朝隆宮",
+    "華僑市場"
+   ],
+   "tagline_zh": "清代大港老街，吃完肉粿去拜王爺",
+   "tagline_en": "Qing-era port street of fish-cake snacks and the Wangye temple",
+   "story_zh": "東港古稱東津，清代設下淡水巡檢司，光緒年間成為屏東平原的出入港口，延平老街一帶是貨物集散地。日治時期東港為特別輸出入港，街上留有巴洛克式與日式建築，但因天災頻繁，百年建築不多。東隆宮溫王爺的迎王平安祭典每三年一次，是全台知名的王船祭。",
+   "story_en": "Donggang was a Qing port with a sub-prefectural post, and by the late 19th century the gateway for the Pingtung plain, with Yanping Street as its goods hub. In the Japanese era it was a designated trading port; some Baroque and Japanese-style buildings remain, though storms have taken many. The triennial Welcoming the Royal Lord festival at Donglong Temple, ending in a boat burning, is famous across Taiwan.",
+   "getting_there": "台鐵屏東站或林邊站轉乘客運至東港站，步行約10分鐘",
+   "visit_duration": "half-day",
+   "best_time": "迎王平安祭典期間（每三年一次，秋季）；4–6月黑鮪魚季",
+   "confidence": "medium",
+   "sources": [
+    "https://smiletaiwan.cw.com.tw/article/2798",
+    "https://smiletaiwan.cw.com.tw/article/8163"
+   ]
+  },
+  {
+   "id": "liuqiu-old-street",
+   "name_zh": "小琉球老街",
+   "name_en": "Xiaoliuqiu Old Street",
+   "aliases": [
+    "三民老街",
+    "三民路"
+   ],
+   "county": "屏東縣",
+   "district": "琉球鄉",
+   "address_hint": "三民路、中山路一帶（白沙觀光港附近）",
+   "lat": 22.35,
+   "lng": 120.377,
+   "status": "active",
+   "scores": {
+    "food": 2,
+    "history": 1,
+    "architecture": 0,
+    "shopping": 2,
+    "crowd": 2
+   },
+   "architecture_styles": [
+    "modernist"
+   ],
+   "themes": [
+    "fishing",
+    "nature"
+   ],
+   "best_for": [
+    "foodie",
+    "family"
+   ],
+   "signature_foods": [
+    "麻花捲",
+    "洋蔥圈",
+    "海產",
+    "剉冰"
+   ],
+   "specialties": [
+    "麻花捲伴手禮"
+   ],
+   "landmarks": [
+    "碧雲寺",
+    "白沙觀光港"
+   ],
+   "tagline_zh": "上島第一站，麻花捲與海島小吃",
+   "tagline_en": "First stop on the island: twisted dough snacks and seafood",
+   "story_zh": "小琉球老街位於白沙觀光港附近的三民路、中山路一帶，是島上最熱鬧的商街。島民早年以捕魚為生，漁民當點心的「繩仔股」麻花捲因耐放好吃，後來發展成島上最知名的伴手禮。街道多為戰後建築，以伴手禮與小吃為主。",
+   "story_en": "Xiaoliuqiu's old street lies along Sanmin and Zhongshan roads near Baisha harbour, the island's busiest shopping strip. Islanders lived by fishing, and the twisted dough snack fishermen took to sea keeps well, so it became the island's signature souvenir. Buildings are mostly post-war; it is all about snacks and gifts.",
+   "getting_there": "東港搭渡輪至白沙港，步行即達",
+   "visit_duration": "1-2h",
+   "best_time": "夏季遊客多，晚上部分店家營業",
+   "confidence": "medium",
+   "sources": [
+    "https://supertaste.tvbs.com.tw/hot/357021"
+   ]
+  },
+  {
+   "id": "jiadong-old-street",
+   "name_zh": "佳冬老街",
+   "name_en": "Jiadong Old Street",
+   "aliases": [
+    "六根庄"
+   ],
+   "county": "屏東縣",
+   "district": "佳冬鄉",
+   "address_hint": "佳冬村溝渚路、佳興路一帶",
+   "lat": 22.415,
+   "lng": 120.547,
+   "status": "quiet",
+   "scores": {
+    "food": 1,
+    "history": 3,
+    "architecture": 3,
+    "shopping": 0,
+    "crowd": 1
+   },
+   "architecture_styles": [
+    "hakka",
+    "minnan"
+   ],
+   "themes": [
+    "hakka",
+    "qing-era",
+    "japanese-era"
+   ],
+   "best_for": [
+    "history-buff",
+    "architecture",
+    "photography",
+    "slow-travel"
+   ],
+   "signature_foods": [],
+   "specialties": [],
+   "landmarks": [
+    "蕭家古厝",
+    "步月樓",
+    "楊氏宗祠",
+    "張家商樓",
+    "西隘門"
+   ],
+   "tagline_zh": "客家五堂大屋與抗日步月樓",
+   "tagline_en": "Five-hall Hakka mansion and an anti-Japanese gate tower",
+   "story_zh": "佳冬是六堆的左堆，保存台灣少見完整的客家建築群。蕭家古厝是罕見的五堂大屋，蕭家書房兼出城門樓「步月樓」在1895年乙未戰爭時是蕭光明率鄉勇抗日的戰場。張家商樓是佳冬唯一的雙層紅磚商樓，楊氏宗祠則以前庭太極池聞名。",
+   "story_en": "Jiadong, the Left Camp of the Liudui Hakka, keeps an unusually complete set of Hakka buildings. The Xiao family mansion has a rare five-hall layout, and its gate tower Buyue Lou was where Xiao Guangming led militia against Japanese troops in 1895. The Zhang family shop is the town's only two-storey red-brick shophouse, and the Yang ancestral hall is known for its yin-yang pond.",
+   "getting_there": "台鐵佳冬站步行約10分鐘",
+   "visit_duration": "1-2h",
+   "best_time": "蕭家古厝開放時段需事先確認",
+   "confidence": "medium",
+   "sources": [
+    "https://smiletaiwan.cw.com.tw/article/131",
+    "https://news.pts.org.tw/article/266664"
+   ]
+  },
+  {
+   "id": "checheng-old-street",
+   "name_zh": "車城老街",
+   "name_en": "Checheng Old Street",
+   "aliases": [
+    "柴城"
+   ],
+   "county": "屏東縣",
+   "district": "車城鄉",
+   "address_hint": "中正路、福安路一帶",
+   "lat": 22.073,
+   "lng": 120.711,
+   "status": "quiet",
+   "scores": {
+    "food": 2,
+    "history": 2,
+    "architecture": 1,
+    "shopping": 1,
+    "crowd": 2
+   },
+   "architecture_styles": [
+    "modernist"
+   ],
+   "themes": [
+    "qing-era",
+    "temple",
+    "agriculture"
+   ],
+   "best_for": [
+    "foodie",
+    "history-buff"
+   ],
+   "signature_foods": [
+    "綠豆蒜",
+    "洋蔥",
+    "廟口早餐"
+   ],
+   "specialties": [
+    "洋蔥"
+   ],
+   "landmarks": [
+    "福安宮",
+    "舊車城庄役場"
+   ],
+   "tagline_zh": "全台最大土地公廟前喝綠豆蒜",
+   "tagline_en": "Mung-bean soup by Taiwan's biggest Earth God temple",
+   "story_zh": "車城舊稱柴城，是恆春半島最早的漢人聚落之一，1867年羅妹號事件後，台灣總兵劉明燈率兵進駐，福安宮碑記記錄了與美國領事李仙得締結南岬之盟的事蹟。福安宮號稱全台最大土地公廟，廟口周邊以綠豆蒜聞名。道路拓寬後舊建築已不多。",
+   "story_en": "Checheng, once Chaicheng, was one of the earliest Han settlements on the Hengchun Peninsula. After the 1867 Rover incident, Qing general Liu Mingdeng garrisoned troops here, and a stele at Fu'an Temple records the treaty with US consul Le Gendre. Fu'an claims to be Taiwan's largest Earth God temple and the streets around it are known for mung bean soup. Road widening has left few old buildings.",
+   "getting_there": "高雄搭國光客運或墾丁快線至車城站",
+   "visit_duration": "<1h",
+   "best_time": "往墾丁途中順道停留",
+   "confidence": "medium",
+   "sources": [
+    "https://smiletaiwan.cw.com.tw/article/4801"
+   ]
+  },
+  {
+   "id": "sichongxi-hot-spring-street",
+   "name_zh": "四重溪溫泉老街",
+   "name_en": "Sichongxi Hot Spring Street",
+   "aliases": [
+    "出湯"
+   ],
+   "county": "屏東縣",
+   "district": "車城鄉",
+   "address_hint": "溫泉村文化路、溫泉公園一帶",
+   "lat": 22.093,
+   "lng": 120.744,
+   "status": "quiet",
+   "scores": {
+    "food": 1,
+    "history": 2,
+    "architecture": 1,
+    "shopping": 1,
+    "crowd": 1
+   },
+   "architecture_styles": [
+    "japanese-era",
+    "modernist"
+   ],
+   "themes": [
+    "hot-spring",
+    "japanese-era"
+   ],
+   "best_for": [
+    "slow-travel",
+    "family",
+    "history-buff"
+   ],
+   "signature_foods": [],
+   "specialties": [],
+   "landmarks": [
+    "四重溪溫泉公園",
+    "清泉日式溫泉館"
+   ],
+   "tagline_zh": "日治四大名湯之一的溫泉小街",
+   "tagline_en": "Small spa street of one of the Japanese era's four great hot springs",
+   "story_zh": "四重溪溫泉於日治初期開發，1930年前後已有公共浴場與多間溫泉旅社，與北投、陽明山、關子嶺並稱四大溫泉。現存清泉日式溫泉館前身為山口旅館，相傳1930年代日本皇族曾來此度蜜月。如今溫泉街規模不大，溫泉公園設有免費泡腳池。",
+   "story_en": "Sichongxi's springs were developed early in the Japanese era, and by around 1930 there were public baths and several inns; it was counted among Taiwan's four great hot springs. The Qingquan Japanese-style spa was once the Yamaguchi inn, where a Japanese prince reputedly honeymooned in the 1930s. The spa street is small today, and the hot spring park has a free foot bath.",
+   "getting_there": "國光客運至車城站轉乘屏東客運往四重溪；建議開車",
+   "visit_duration": "1-2h",
+   "best_time": "冬季泡湯最適合",
+   "confidence": "medium",
+   "sources": [
+    "https://city.gvm.com.tw/article/69808",
+    "https://www.mirrormedia.mg/story/20250307tour003"
+   ]
+  },
+  {
+   "id": "hengchun-old-street",
+   "name_zh": "恆春老街",
+   "name_en": "Hengchun Old Street",
+   "aliases": [
+    "中山路",
+    "瑯嶠"
+   ],
+   "county": "屏東縣",
+   "district": "恆春鎮",
+   "address_hint": "中山路、光明路一帶（恆春古城內）",
+   "lat": 22.001,
+   "lng": 120.746,
+   "status": "active",
+   "scores": {
+    "food": 2,
+    "history": 3,
+    "architecture": 2,
+    "shopping": 2,
+    "crowd": 2
+   },
+   "architecture_styles": [
+    "minnan",
+    "modernist"
+   ],
+   "themes": [
+    "qing-era",
+    "film-location",
+    "military"
+   ],
+   "best_for": [
+    "history-buff",
+    "foodie",
+    "family",
+    "photography"
+   ],
+   "signature_foods": [
+    "綠豆饌",
+    "洋蔥",
+    "烤魷魚",
+    "港口茶"
+   ],
+   "specialties": [
+    "洋蔥製品"
+   ],
+   "landmarks": [
+    "恆春古城",
+    "恆春南門",
+    "阿嘉的家",
+    "恆春古城北門"
+   ],
+   "tagline_zh": "海角七號拍攝地，城門內的老街",
+   "tagline_en": "Old town inside Hengchun's walls, star of 'Cape No. 7'",
+   "story_zh": "恆春舊稱瑯嶠，1874年牡丹社事件後，沈葆楨奏請設恆春縣並築城，恆春古城是台灣保存最完整的清代城池之一。城內中山路一帶為老街，2008年電影《海角七號》在此取景，「阿嘉的家」吸引大量影迷。老街以小吃、恆春洋蔥及往來墾丁的遊客為主。",
+   "story_en": "Hengchun, once Langqiao, got its county and walls after the 1874 Mudan incident at the request of Shen Baozhen; its walls are among Taiwan's best-preserved Qing fortifications. The old street lies around Zhongshan Road inside the walls, and the 2008 film 'Cape No. 7' was shot here, with 'Aga's house' drawing fans. Today it serves snacks, local onions and visitors heading to Kenting.",
+   "getting_there": "高雄搭國光客運或墾丁快線至恆春轉運站，步行約5分鐘",
+   "visit_duration": "1-2h",
+   "best_time": "傍晚至夜間較熱鬧；元宵節搶孤",
+   "confidence": "high",
+   "sources": [
+    "https://zh.wikipedia.org/wiki/恆春古城"
+   ]
+  }
+ ],
+ "additions": [
+  {
+   "id": "jiaxian-old-street",
+   "name_zh": "甲仙老街",
+   "name_en": "Jiaxian Old Street",
+   "aliases": [
+    "甲仙芋冰街",
+    "文化路"
+   ],
+   "county": "高雄市",
+   "district": "甲仙區",
+   "address_hint": "文化路、中正路一帶",
+   "lat": 23.084,
+   "lng": 120.588,
+   "status": "active",
+   "scores": {
+    "food": 3,
+    "history": 1,
+    "architecture": 0,
+    "shopping": 2,
+    "crowd": 2
+   },
+   "architecture_styles": [
+    "modernist"
+   ],
+   "themes": [
+    "agriculture",
+    "nature"
+   ],
+   "best_for": [
+    "foodie",
+    "family"
+   ],
+   "signature_foods": [
+    "芋頭冰",
+    "芋粿",
+    "芋泥餅",
+    "芋頭酥"
+   ],
+   "specialties": [
+    "芋頭製品"
+   ],
+   "landmarks": [
+    "甲仙大橋",
+    "甲仙公園"
+   ],
+   "tagline_zh": "南橫入口的芋頭冰一條街",
+   "tagline_en": "Taro ice street at the gateway to the Southern Cross-Island Highway",
+   "story_zh": "甲仙位於楠梓仙溪畔，是南橫公路西段入口，日治時期因樟腦業興起。當地盛產檳榔心芋，文化路上芋冰城林立，芋頭冰與芋餅成為最有名的特產。老建築不多，以美食與伴手禮為主，適合往返南橫或寶來時順道停留。",
+   "story_en": "Jiaxian sits on the Nanzixian River at the western entrance to the Southern Cross-Island Highway and grew with the camphor industry in the Japanese era. It is famous for taro, and Wenhua Road is lined with taro-ice shops selling ice and taro pastries. There are few old buildings; it is a food and souvenir stop on the way to the mountains.",
+   "getting_there": "建議開車；或高雄客運由旗山轉乘至甲仙",
+   "visit_duration": "1-2h",
+   "best_time": "夏季吃芋頭冰；假日人多",
+   "confidence": "medium",
+   "sources": [
+    "https://smiletaiwan.cw.com.tw/article/5095"
+   ]
+  }
+ ]
+}

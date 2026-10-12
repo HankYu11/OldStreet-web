@@ -21,6 +21,9 @@ python3 scripts/geocode.py $W/detailed.json $W/geocoded.json
 python3 scripts/merge.py $W/geocoded.json data/research data/old_streets.json
 ```
 
+`data/raw/wikipedia.json` is a committed snapshot of step 2; pass it to `merge.py`
+in place of `geocoded.json` to rebuild without hitting Wikipedia/OSM.
+
 `data/research/*.json` holds the per-region enrichment (scores, foods, stories, sources),
 researched from tourism bureau sites, Wikipedia and travel writing. Entries marked
 `"confidence": "low"` had little information available and should be verified.

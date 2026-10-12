@@ -1,0 +1,4311 @@
+[
+ {
+  "name_zh": "義二路老街",
+  "aliases": [
+   "義重町"
+  ],
+  "wiki_title": "義二路老街",
+  "region": "north",
+  "county": "基隆市",
+  "location_wiki": "中正區義二路",
+  "type_wiki": "",
+  "features_wiki": "基隆銀座",
+  "notes_wiki": "",
+  "wiki_image": "Keelung Yi2 Road Old House 基隆義二路老屋 - panoramio.jpg",
+  "wiki": {
+   "exists": false,
+   "resolved_title": "義二路老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "崁仔頂老街",
+  "aliases": [],
+  "wiki_title": "崁仔頂老街",
+  "region": "north",
+  "county": "基隆市",
+  "location_wiki": "仁愛區",
+  "type_wiki": "",
+  "features_wiki": "漁市",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "崁仔頂老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "暖暖老街",
+  "aliases": [],
+  "wiki_title": "暖暖老街",
+  "region": "north",
+  "county": "基隆市",
+  "location_wiki": "暖暖區",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "1977年道路拓寬後，舊建築已不多。",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "暖暖老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "迪化街",
+  "aliases": [
+   "永樂町通"
+  ],
+  "wiki_title": "迪化街",
+  "region": "north",
+  "county": "臺北市",
+  "location_wiki": "大同區迪化街一段",
+  "type_wiki": "",
+  "features_wiki": "中藥材、乾貨、年貨大街",
+  "notes_wiki": "",
+  "wiki_image": "聯華食品等三連棟.JPG",
+  "wiki": {
+   "exists": true,
+   "resolved_title": "迪化街",
+   "extract": "迪化街（臺羅：Ti̍k-huà Kue）位於臺灣臺北市大同區，初建於清咸豐年間（1850年代），19世紀末以來一直是臺北重要的南北貨、茶葉、中藥材及布匹的集散中心。為大稻埕地區最重要的市街。19世紀至20世紀中期，臺北的商業發展約等於大稻埕商圈的發展，而大稻埕的發展約略就等於迪化街的發展。\n經過1980年代的廢存爭議之後，1996年開始，保存原狀的迪化街除了成為臺北市保留最完整的老街外，也於每年農曆春節前夕擴展成規模盛大的「台北年貨大街」。不僅如此，迪化街也同樣維持相同的批發商業功能。據統計，2005年的迪化街附近共有100多家的紡織公司、300多家布行、200多家中藥材鋪，年產值則超過30億美金。",
+   "lat": 25.054418,
+   "lng": 121.510162,
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Buildings_along_Dihua_Street_07.23_%2810%29.jpg/960px-Buildings_along_Dihua_Street_07.23_%2810%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "en_title": "Dihua Street"
+  }
+ },
+ {
+  "name_zh": "太平町通",
+  "aliases": [],
+  "wiki_title": "太平町",
+  "region": "north",
+  "county": "臺北市",
+  "location_wiki": "大同區延平北路",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": "Café Werther 20220703.jpg",
+  "wiki": {
+   "exists": true,
+   "resolved_title": "太平町",
+   "extract": "太平町為臺灣日治時期臺北市之行政區，共分一～九丁目，因為町內有太平街而得名。位於大稻埕永樂町之東，兩町公學校校際棒球賽等體育活動抗衡為盛事。戰後劃入延平區，約為今臺北市大同區延平北路一段至三段附近，延平北路在當時名為「太平町通」。太平町在戰前是台灣人社會運動的大本營，在戰後則是引發影響台灣社會甚鉅的二二八事件的起始點。",
+   "lat": null,
+   "lng": null,
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Before_a_restaurant_in_Taihei-ch%C5%8D_Taihoku_1940.jpg/960px-Before_a_restaurant_in_Taihei-ch%C5%8D_Taihoku_1940.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "牛磨車街",
+  "aliases": [
+   "枋隙街"
+  ],
+  "wiki_title": "牛磨車街",
+  "region": "north",
+  "county": "臺北市",
+  "location_wiki": "大同區迪化街二段",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "牛磨車街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "大龍峒四十四坎街",
+  "aliases": [],
+  "wiki_title": "大龍峒#四十四崁街",
+  "region": "north",
+  "county": "臺北市",
+  "location_wiki": "大同區哈密街",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "舊建築多已改建。",
+  "wiki_image": null,
+  "wiki": {
+   "exists": true,
+   "resolved_title": "大龍峒",
+   "extract": "大龍峒，或稱大浪泵、大隆同位於臺北盆地淡水河與基隆河交口附近，今臺北市大同區哈密街一帶，是晚於艋舺而早於大稻埕的臺北市舊聚落。",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": "Dalongdong"
+  }
+ },
+ {
+  "name_zh": "赤峰街",
+  "aliases": [],
+  "wiki_title": "赤峰街",
+  "region": "north",
+  "county": "臺北市",
+  "location_wiki": "大同區赤峰街49巷一帶",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "赤峰街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "艋舺老街",
+  "aliases": [],
+  "wiki_title": "艋舺老街",
+  "region": "north",
+  "county": "臺北市",
+  "location_wiki": "萬華區貴陽街二段",
+  "type_wiki": "",
+  "features_wiki": "一府二鹿三艋舺",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "艋舺老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "剝皮寮老街",
+  "aliases": [],
+  "wiki_title": "剝皮寮",
+  "region": "north",
+  "county": "臺北市",
+  "location_wiki": "萬華區康定路173巷",
+  "type_wiki": "文化保留區",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": true,
+   "resolved_title": "剝皮寮",
+   "extract": "剝皮寮（臺語：Pak-phê-liâu）位於臺灣臺北市萬華區康定路173巷，北臨老松國小，東至昆明街，南面廣州街，西接康定路，為臺北市今日碩果僅存的清代街道之一，臺北市政府於2010年3月29日公告登錄為歷史建築。",
+   "lat": 25.03638889,
+   "lng": 121.50138889,
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/%E5%89%9D%E7%9A%AE%E5%AF%AE%E6%AD%B7%E5%8F%B2%E8%A1%97%E5%8D%8020220617.jpg/960px-%E5%89%9D%E7%9A%AE%E5%AF%AE%E6%AD%B7%E5%8F%B2%E8%A1%97%E5%8D%8020220617.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "en_title": "Bopiliao Historic Block"
+  }
+ },
+ {
+  "name_zh": "台北榮町通",
+  "aliases": [],
+  "wiki_title": "榮町 (臺北市)",
+  "region": "north",
+  "county": "臺北市",
+  "location_wiki": "中正區衡陽路一帶",
+  "type_wiki": "",
+  "features_wiki": "台北銀座",
+  "notes_wiki": "舊建築多已改建。",
+  "wiki_image": null,
+  "wiki": {
+   "exists": true,
+   "resolved_title": "榮町 (臺北市)",
+   "extract": "榮町為臺灣日治時期臺北市之行政區，位於臺北城內新公園之西，今臺北市中正區的衡陽路、寶慶路、秀山街之全部及博愛路、延平南路之一部均在町內，衡陽路在當時名為「榮町通」。榮町是當時台北最繁華的區域，因而有「台北銀座」之稱。台灣第一家百貨公司「菊元百貨店」於1932年（昭和7年）在榮町落成。1935年（昭和10年）設立台北市、同時也是台灣第一座紅綠燈。",
+   "lat": null,
+   "lng": null,
+   "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/8/82/%E8%87%BA%E5%8C%97%E6%A6%AE%E7%94%BA%E9%80%9A.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "台北京町通",
+  "aliases": [],
+  "wiki_title": "京町",
+  "region": "north",
+  "county": "臺北市",
+  "location_wiki": "中正區博愛路一帶",
+  "type_wiki": "",
+  "features_wiki": "菊元百貨",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": true,
+   "resolved_title": "京町",
+   "extract": "京町為臺灣日治時期臺北市之行政區，共分一～四丁目，位於臺北城內、本町之西。戰後劃入城中區，今屬臺北市中正區。今博愛路、開封街一段、武昌街一段、永綏街、沅陵街各一部均在町內，博愛路在當時名為「京町通」。此外，開封街一段名為「寶通」、漢口街一段名為「中通」、武昌街一段名為「春日通」、永綏街名為「公會堂通」、沅陵街名為「都通」。",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "錫口老街",
+  "aliases": [],
+  "wiki_title": "錫口老街",
+  "region": "north",
+  "county": "臺北市",
+  "location_wiki": "松山區",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "錫口老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "景美老街",
+  "aliases": [],
+  "wiki_title": "景美老街",
+  "region": "north",
+  "county": "臺北市",
+  "location_wiki": "文山區景美街",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "舊建築多已改建。",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "景美老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "士林老街",
+  "aliases": [],
+  "wiki_title": "士林老街",
+  "region": "north",
+  "county": "臺北市",
+  "location_wiki": "士林區大東路",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "士林老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "北投老街",
+  "aliases": [],
+  "wiki_title": "北投老街",
+  "region": "north",
+  "county": "臺北市",
+  "location_wiki": "北投區中正街",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "北投老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "關渡老街",
+  "aliases": [],
+  "wiki_title": "關渡老街",
+  "region": "north",
+  "county": "臺北市",
+  "location_wiki": "北投區大度路三段301巷",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "關渡老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "南港老街",
+  "aliases": [],
+  "wiki_title": "南港老街",
+  "region": "north",
+  "county": "臺北市",
+  "location_wiki": "南港區",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "南港老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "淡水老街",
+  "aliases": [],
+  "wiki_title": "淡水老街",
+  "region": "north",
+  "county": "新北市",
+  "location_wiki": "淡水區",
+  "type_wiki": "觀光",
+  "features_wiki": "鐵蛋、阿給",
+  "notes_wiki": "",
+  "wiki_image": "Tamsui 淡水老街 - panoramio (8).jpg",
+  "wiki": {
+   "exists": true,
+   "resolved_title": "淡水老街",
+   "extract": "淡水老街，為台灣新北市淡水區最熱鬧的一段區域，以中正路為主要道路，西起公館巷，東至重建街。",
+   "lat": null,
+   "lng": null,
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Tamsui_%E6%B7%A1%E6%B0%B4%E8%80%81%E8%A1%97_-_panoramio_%2845%29.jpg/960px-Tamsui_%E6%B7%A1%E6%B0%B4%E8%80%81%E8%A1%97_-_panoramio_%2845%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "en_title": "Tamsui Old Street"
+  }
+ },
+ {
+  "name_zh": "八里老街",
+  "aliases": [],
+  "wiki_title": "八里老街",
+  "region": "north",
+  "county": "新北市",
+  "location_wiki": "八里區",
+  "type_wiki": "觀光",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "八里老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "金包里老街",
+  "aliases": [
+   "金山老街"
+  ],
+  "wiki_title": "金包里老街",
+  "region": "north",
+  "county": "新北市",
+  "location_wiki": "金山區",
+  "type_wiki": "觀光",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": "金山金包里街.JPG",
+  "wiki": {
+   "exists": true,
+   "resolved_title": "金山老街",
+   "extract": "金山老街位於台灣新北市金山區，又稱金包里老街，周邊商圈包含福德街、中山路190巷、中山路路段。\n老街上其中以「金包里」鴨肉最為出名，也有代表性建築──金山廣安宮（開漳聖王廟）、金山慈護宮（媽祖廟）。假日有鄉土協會志工做文史導覽，讓遊客更進一步了解金山；而每年八月公所舉辦「金山番薯節」。",
+   "lat": null,
+   "lng": null,
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/%E9%87%91%E5%B1%B1%E9%87%91%E5%8C%85%E9%87%8C%E8%80%81%E8%A1%97.JPG/960px-%E9%87%91%E5%B1%B1%E9%87%91%E5%8C%85%E9%87%8C%E8%80%81%E8%A1%97.JPG?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "深坑老街",
+  "aliases": [],
+  "wiki_title": "深坑老街",
+  "region": "north",
+  "county": "新北市",
+  "location_wiki": "深坑區",
+  "type_wiki": "觀光",
+  "features_wiki": "豆腐",
+  "notes_wiki": "",
+  "wiki_image": "Shenkeng Historical Street 深坑老街 - panoramio.jpg",
+  "wiki": {
+   "exists": true,
+   "resolved_title": "深坑老街",
+   "extract": "深坑街（英語：Shenkeng Street），位在中華民國新北市深坑區。其中北深路三段（106市道）至平埔街段保留較多古建築、觀光商圈發達，俗稱深坑老街，特產為深坑豆腐。",
+   "lat": null,
+   "lng": null,
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/%E6%B7%B1%E5%9D%91%E8%80%81%E8%A1%9701.jpg/960px-%E6%B7%B1%E5%9D%91%E8%80%81%E8%A1%9701.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "en_title": "Shenkeng Old Street"
+  }
+ },
+ {
+  "name_zh": "石碇老街",
+  "aliases": [],
+  "wiki_title": "石碇老街",
+  "region": "north",
+  "county": "新北市",
+  "location_wiki": "石碇區",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": true,
+   "resolved_title": "石碇商圈",
+   "extract": "石碇商圈位於新北市石碇區，以石碇東街（市道106乙線）、西街為主要範圍，古時為通往宜蘭要道，後因茶葉和煤礦得以發展。\n商圈以自然生態和文山包種茶聞名，環境因聚落分散，商圈能量難以匯集，而保留許多自然原始生態，適合戶外教學和其他休閒活動，未來可望推動自然生態觀光。\n因地點分散，區內並擁有百座廟宇，堪稱為是全省廟宇最多行政區。老街有部分舊建築空間活化，如土桷厝、百年老屋、吊腳樓等建築物，皆具有觀光價值。石碇東街仍然保留了一段不見天。\n協會每年和公所舉辦「石碇美人茶節」吸引人潮，為了配合政府推動觀光客倍增計畫『一鄉鎮一特色』政策，石碇鄉以其特產美人茶馨香揚」茗」海外，除了舉辦美人茶節活動之外，石碇鄉更是具備了好山、好水、好文化的一大特色，讓更多人認識石碇區，延續其傳統精神並加入新的創意，而擦出更多火花。",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "坪林老街",
+  "aliases": [],
+  "wiki_title": "坪林老街",
+  "region": "north",
+  "county": "新北市",
+  "location_wiki": "坪林區",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": "Pinglin Old Street 坪林老街 - panoramio (4).jpg",
+  "wiki": {
+   "exists": false,
+   "resolved_title": "坪林老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "烏來老街",
+  "aliases": [],
+  "wiki_title": "烏來老街",
+  "region": "north",
+  "county": "新北市",
+  "location_wiki": "烏來區",
+  "type_wiki": "觀光",
+  "features_wiki": "烏來瀑布",
+  "notes_wiki": "",
+  "wiki_image": "Urai01.jpg",
+  "wiki": {
+   "exists": false,
+   "resolved_title": "烏來老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "菁桐老街",
+  "aliases": [],
+  "wiki_title": "菁桐老街",
+  "region": "north",
+  "county": "新北市",
+  "location_wiki": "平溪區",
+  "type_wiki": "觀光",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": true,
+   "resolved_title": "菁桐老街",
+   "extract": "菁桐老街是位於台灣新北市平溪區，平溪線鐵路終點站菁桐車站的聚落群。該老街興建於台灣日治時期的1937年，因礦業發跡街市，極盛時期有「菁桐坑銀座」之稱。然而在1975年石底煤礦收坑後，菁桐老街便迅速沒落。\n菁桐老街今轉型以觀光攬客，即使如此，除了假日之外仍相當靜謐，也因幾十年來未經翻修的屋舍呈現懷舊街景。另外，菁桐老街附近的知名景點尚有菁桐車站、石底煤礦洗煤廠以及臺陽礦業公司平溪招待所，還有菁桐礦業生活館及販賣雞捲的楊家雞捲小攤等。",
+   "lat": null,
+   "lng": null,
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Jingtong_Old_Street_20070429.jpg/960px-Jingtong_Old_Street_20070429.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "平溪老街",
+  "aliases": [
+   "石底老街"
+  ],
+  "wiki_title": "平溪老街",
+  "region": "north",
+  "county": "新北市",
+  "location_wiki": "平溪區",
+  "type_wiki": "觀光",
+  "features_wiki": "天燈",
+  "notes_wiki": "",
+  "wiki_image": "【新北景點】平溪。菁桐。十分一日遊 (31901241974).jpg",
+  "wiki": {
+   "exists": true,
+   "resolved_title": "平溪老街",
+   "extract": "平溪老街，舊稱石底老街，是位於台灣 新北市 平溪區的一條歷史老街，鄰近平溪車站。該老街以其保存良好的傳統長條型街屋而聞名，並匯集了眾多特色小吃店及飲食店，成為遊客參訪的熱門地點。平溪車站，作為平溪支線鐵路的重要車站，具有深厚的歷史背景，其周邊區域保留著濃厚的懷舊氛圍。\n平溪郵局則擁有一座台灣最古老的郵筒，該郵筒為圓型鑄鐵製，自日據時代便開始使用。此外，平溪老街還以其每年舉辦的平溪天燈節聞名，該節慶起源於當地居民用天燈來防範盜賊的傳統，後演變成為元宵節期間的重要慶典，象徵著人們對願望的期許，並已成為一個知名的年度活動。。",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "十分老街",
+  "aliases": [],
+  "wiki_title": "十分老街",
+  "region": "north",
+  "county": "新北市",
+  "location_wiki": "平溪區",
+  "type_wiki": "觀光",
+  "features_wiki": "天燈",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "十分老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "瑞芳老街",
+  "aliases": [],
+  "wiki_title": "瑞芳老街",
+  "region": "north",
+  "county": "新北市",
+  "location_wiki": "瑞芳區瑞芳街",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "瑞芳老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "猴硐老街",
+  "aliases": [],
+  "wiki_title": "猴硐老街",
+  "region": "north",
+  "county": "新北市",
+  "location_wiki": "瑞芳區",
+  "type_wiki": "",
+  "features_wiki": "貓",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "猴硐老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "九份老街",
+  "aliases": [],
+  "wiki_title": "九份老街",
+  "region": "north",
+  "county": "新北市",
+  "location_wiki": "瑞芳區",
+  "type_wiki": "觀光",
+  "features_wiki": "礦業山城",
+  "notes_wiki": "",
+  "wiki_image": "224, Taiwan, 新北市瑞芳區崇文里 - panoramio (11).jpg",
+  "wiki": {
+   "exists": true,
+   "resolved_title": "九份老街",
+   "extract": "九份老街是台灣東北角依山面海的懷舊山城，是位於臺灣新北市瑞芳區的一條老街，主要範圍以聚集在基山街、豎崎路及輕便路等街道為主，因《悲情城市》與《千與千尋》取景而開始走紅，而其景色又與動漫神隱少女場景神似，使其成為拍照打卡景點。",
+   "lat": null,
+   "lng": null,
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/224%2C_Taiwan%2C_%E6%96%B0%E5%8C%97%E5%B8%82%E7%91%9E%E8%8A%B3%E5%8D%80%E5%B4%87%E6%96%87%E9%87%8C_-_panoramio_%2811%29.jpg/960px-224%2C_Taiwan%2C_%E6%96%B0%E5%8C%97%E5%B8%82%E7%91%9E%E8%8A%B3%E5%8D%80%E5%B4%87%E6%96%87%E9%87%8C_-_panoramio_%2811%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "en_title": "Jiufen Old Street"
+  }
+ },
+ {
+  "name_zh": "金瓜石老街",
+  "aliases": [
+   "祈堂老街"
+  ],
+  "wiki_title": "金瓜石老街",
+  "region": "north",
+  "county": "新北市",
+  "location_wiki": "瑞芳區",
+  "type_wiki": "",
+  "features_wiki": "山城",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "金瓜石老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "新莊廟街",
+  "aliases": [],
+  "wiki_title": "新莊廟街",
+  "region": "north",
+  "county": "新北市",
+  "location_wiki": "新莊區",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": "新莊老街隘門遺址 01.jpg",
+  "wiki": {
+   "exists": true,
+   "resolved_title": "新莊廟街商圈",
+   "extract": "新莊廟街商圈為位於台灣新北市新莊區的商圈，範圍以新泰路、新莊路、碧江街、景德路為主。型態業種為服裝、鞋類、餐飲等。該商圈因夜間亦有營業，俗謂新莊夜市。\n此地區是新莊早期開發的地區。清代雍正乾隆年間，新莊是淡水河流域重要的進出口港埠，來自中國大陸、日本的商船可以航行到新莊，因此屬於台灣早期發展聚點之一，清代建立的廟宇多（三山國王廟、慈祐宮、關帝廟、文昌祠、大眾廟、保元宮、福德祠、潮江寺）。新莊老街留存的老地名包括：鹽館、土車間、細姨街、戲館巷、挑水巷、米市巷、豬哥巷、鹹菜巷等。街坊上至今仍保留少許巴洛克建築。\n地方重大廟宇節慶除了新莊大眾廟舉辦的文武大眾爺祭典（俗稱新莊大拜拜）之外，還包括慈祐宮媽祖生祭典、關帝廟關帝誕辰。與李天祿「亦宛然」齊名的「小西園」布袋戲戲團也源於此。",
+   "lat": null,
+   "lng": null,
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/%E5%8D%81%E5%BE%B7%E5%A0%82_Shidetang_-_panoramio.jpg/960px-%E5%8D%81%E5%BE%B7%E5%A0%82_Shidetang_-_panoramio.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "三峽老街",
+  "aliases": [],
+  "wiki_title": "三峽老街",
+  "region": "north",
+  "county": "新北市",
+  "location_wiki": "三峽區",
+  "type_wiki": "觀光",
+  "features_wiki": "三峽祖師廟、金牛角麵包、藍染布料",
+  "notes_wiki": "",
+  "wiki_image": "Sanxia Old Street 三峽民權老街 - panoramio.jpg",
+  "wiki": {
+   "exists": true,
+   "resolved_title": "三峽老街",
+   "extract": "三峽老街位於台灣新北市三峽區，主要在民權街一帶。老街始創於18世紀中葉，曾於西元1895年遭日軍焚毀，隨後由住民自行復建。大正5年（西元1916年）開始，在日本政府的主導下，由住民自費將傳統街屋形貌改造為仿歐風立面，以古希臘柱式、古羅馬拱門以及巴洛克裝飾，建構當時廣為流行的歐風街道風貌，融合了洋樓風格元素、日式家紋及漢人文化圖像。目前老街風貌大致上保留日治時期原貌。2007年在西班牙巴塞隆納舉辦的全球建築金獎（FIABCI Prix d`Excellence Award 2007），「三峽老街改造」獲得公共部門暨特殊建築類全球傑出建築金獎亞軍,成績斐然。三峽老街被列為三級古蹟，卻因缺乏維修，於民國82年解除古蹟指定，因此老街的保存岌岌可危。",
+   "lat": null,
+   "lng": null,
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/%E4%B8%89%E5%B3%BD%E8%80%81%E8%A1%97%E6%88%90%E5%92%8C%E6%9F%93%E5%9D%8A%E3%80%81%E6%9E%97%E6%A6%AE%E7%A5%A5%E6%9F%93%E5%9D%8A%E8%88%87%E8%80%81%E5%85%83%E5%90%89%E9%99%84%E8%BF%91_20190730.jpg/960px-%E4%B8%89%E5%B3%BD%E8%80%81%E8%A1%97%E6%88%90%E5%92%8C%E6%9F%93%E5%9D%8A%E3%80%81%E6%9E%97%E6%A6%AE%E7%A5%A5%E6%9F%93%E5%9D%8A%E8%88%87%E8%80%81%E5%85%83%E5%90%89%E9%99%84%E8%BF%91_20190730.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "en_title": "Sanxia Old Street"
+  }
+ },
+ {
+  "name_zh": "鶯歌老街",
+  "aliases": [],
+  "wiki_title": "鶯歌陶瓷老街",
+  "region": "north",
+  "county": "新北市",
+  "location_wiki": "鶯歌區",
+  "type_wiki": "觀光",
+  "features_wiki": "陶瓷",
+  "notes_wiki": "",
+  "wiki_image": "Yingge 4 070513.jpg",
+  "wiki": {
+   "exists": true,
+   "resolved_title": "鶯歌陶瓷老街",
+   "extract": "鶯歌陶瓷老街是臺灣新北市鶯歌區市區以陶瓷器業為主要商業活動的區域。最早聚集於文化路以及尖山埔路，現今則包含了尖山埔路、重慶街、育英街等，由於鶯歌陶瓷產業已經相當發達，也具全國、甚至國際性知名度，已演化為具陶瓷業商業活動及觀光景點兼具的區域。特色商品有：日用陶瓷、生活陶瓷、藝術陶瓷精品、茶具、爐鍋具、餐具、花瓶、飾品。\n鶯歌陶瓷老街亦可經三鶯線陶瓷老街站前往。",
+   "lat": null,
+   "lng": null,
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/IMG_14%E9%B6%AF%E6%AD%8C%E9%99%B6%E7%93%B7%E8%80%81%E8%A1%97.jpg/960px-IMG_14%E9%B6%AF%E6%AD%8C%E9%99%B6%E7%93%B7%E8%80%81%E8%A1%97.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "新店老街",
+  "aliases": [
+   "光明街老街"
+  ],
+  "wiki_title": "新店老街",
+  "region": "north",
+  "county": "新北市",
+  "location_wiki": "新店區",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "新店老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "汐止老街",
+  "aliases": [
+   "水返腳老街"
+  ],
+  "wiki_title": "汐止老街",
+  "region": "north",
+  "county": "新北市",
+  "location_wiki": "汐止區",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "汐止老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "雙溪老街",
+  "aliases": [],
+  "wiki_title": "雙溪老街",
+  "region": "north",
+  "county": "新北市",
+  "location_wiki": "雙溪區",
+  "type_wiki": "住宅",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "雙溪老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "溝仔墘老街",
+  "aliases": [],
+  "wiki_title": "溝仔墘老街",
+  "region": "north",
+  "county": "新北市",
+  "location_wiki": "泰山區明志路一段256巷",
+  "type_wiki": "住宅",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "溝仔墘老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "三芝老街",
+  "aliases": [],
+  "wiki_title": "三芝老街",
+  "region": "north",
+  "county": "新北市",
+  "location_wiki": "三芝區中正路、公正街",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": true,
+   "resolved_title": "三芝老街",
+   "extract": "三芝老街位於新北市三芝區，範圍以中正路、公正街為主。以週邊北海岸的三芝以優美的海岸線、觀光果園以及農產特色聞名，除了筊白筍和西瓜、山藥遠近馳名之外，近十年來因為多位藝術家進駐，開始有「藝術聚落」的態勢。位於淡金公路上一排設計別緻的濱海咖啡廳，也吸引人潮駐足。\n公所希望能以傳統信仰「金面媽祖」為賣點，在媽祖廟兩側打造舖面，做出行人徒步區，讓得以延續，不再受季節限制，把人潮引來市區，讓觀光帶動地方消費。\n每年固定活動包括十月筊白筍節和農曆過年櫻花祭。",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "大溪老街",
+  "aliases": [
+   "和平老街"
+  ],
+  "wiki_title": "大溪老街",
+  "region": "north",
+  "county": "桃園市",
+  "location_wiki": "大溪區",
+  "type_wiki": "觀光",
+  "features_wiki": "巴洛克式牌樓街屋",
+  "notes_wiki": "",
+  "wiki_image": "Daxi Old Street 20120316.jpg",
+  "wiki": {
+   "exists": true,
+   "resolved_title": "大溪老街",
+   "extract": "大溪老街是位於台灣桃園市大溪區上的歷史聚落群，主要是指位於大溪區上的和平路、中山路以及中央路所留存之歷史建築群。該區域因保存大量於日治時期所興建之街屋群，因而大溪鎮上最具代表性之景點。目前老街上多數已被桃園市文化局登錄為歷史建築。並在當地產業發展下進行改建或再利用計畫。",
+   "lat": 24.884899,
+   "lng": 121.288,
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/%E5%A4%A7%E6%BA%AA_%E5%92%8C%E5%B9%B3%E8%B7%AF%E8%80%81%E8%A1%97_Daxi_Old_Street_-_panoramio.jpg/960px-%E5%A4%A7%E6%BA%AA_%E5%92%8C%E5%B9%B3%E8%B7%AF%E8%80%81%E8%A1%97_Daxi_Old_Street_-_panoramio.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "en_title": "Daxi Old Street"
+  }
+ },
+ {
+  "name_zh": "新南老街",
+  "aliases": [],
+  "wiki_title": "新南老街",
+  "region": "north",
+  "county": "桃園市",
+  "location_wiki": "大溪區",
+  "type_wiki": "住宅",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "新南老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "新民老街",
+  "aliases": [],
+  "wiki_title": "新民老街",
+  "region": "north",
+  "county": "桃園市",
+  "location_wiki": "桃園區",
+  "type_wiki": "",
+  "features_wiki": "桃園第一街",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "新民老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "三坑老街",
+  "aliases": [
+   "三坑子老街"
+  ],
+  "wiki_title": "三坑老街",
+  "region": "north",
+  "county": "桃園市",
+  "location_wiki": "龍潭區",
+  "type_wiki": "觀光",
+  "features_wiki": "步廊式街屋、牛汶水、青錢第、黑白洗",
+  "notes_wiki": "",
+  "wiki_image": "Sankeng Old Street 2.jpg",
+  "wiki": {
+   "exists": true,
+   "resolved_title": "三坑子老街",
+   "extract": "三坑子老街，又稱三坑老街，位於臺灣桃園市龍潭區，範圍大致上是以永福宮為聚落的核心，向外至黑白洗，老街呈現外窄內寬的型態；三坑子為一傳統客家聚落，為龍潭區開發較早的地區，有『龍潭第一街』之稱。",
+   "lat": null,
+   "lng": null,
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Sankeng_Old_Street_2.jpg/960px-Sankeng_Old_Street_2.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "龍潭老街",
+  "aliases": [],
+  "wiki_title": "龍潭老街",
+  "region": "north",
+  "county": "桃園市",
+  "location_wiki": "龍潭區龍元路",
+  "type_wiki": "",
+  "features_wiki": "龍元宮、龍潭市場、菱潭街興創基地、迎古董接財神",
+  "notes_wiki": "1981年道路拓寬後，舊建築已不多。",
+  "wiki_image": "龍潭龍元路.jpg",
+  "wiki": {
+   "exists": false,
+   "resolved_title": "龍潭老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "楊梅老街",
+  "aliases": [],
+  "wiki_title": "楊梅老街",
+  "region": "north",
+  "county": "桃園市",
+  "location_wiki": "楊梅區",
+  "type_wiki": "住宅",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "楊梅老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "富岡老街",
+  "aliases": [],
+  "wiki_title": "富岡老街",
+  "region": "north",
+  "county": "桃園市",
+  "location_wiki": "楊梅區",
+  "type_wiki": "住宅",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": "Fugang Old Street.jpg",
+  "wiki": {
+   "exists": true,
+   "resolved_title": "富岡老街",
+   "extract": "富岡老街位於台灣桃園市楊梅區，範圍大致位於現今富岡車站前的中正路、信義街、富源路、新明街、中華街與成功路。",
+   "lat": null,
+   "lng": null,
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Fugang_Old_Street.jpg/960px-Fugang_Old_Street.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "下庄子老街",
+  "aliases": [],
+  "wiki_title": "下庄子老街",
+  "region": "north",
+  "county": "桃園市",
+  "location_wiki": "新屋區",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": true,
+   "resolved_title": "崁頭厝 (桃園市)",
+   "extract": "崁頭厝，客家語稱為崁頭屋，是臺灣桃園市新屋區的一個傳統地域名稱，位於該區西部偏北。相較於今日行政區，其範圍大致與永安里相近。",
+   "lat": null,
+   "lng": null,
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/%E8%87%BA%E7%81%A3%E5%A0%A1%E5%9C%96%EF%BC%8D%E6%A1%83%E5%9C%92%E5%B8%82%E6%96%B0%E5%B1%8B%E5%8D%80%E5%B4%81%E9%A0%AD%E5%B1%8B%E5%91%A8%E5%9C%8D%E6%88%AA%E5%9C%96.png/960px-%E8%87%BA%E7%81%A3%E5%A0%A1%E5%9C%96%EF%BC%8D%E6%A1%83%E5%9C%92%E5%B8%82%E6%96%B0%E5%B1%8B%E5%8D%80%E5%B4%81%E9%A0%AD%E5%B1%8B%E5%91%A8%E5%9C%8D%E6%88%AA%E5%9C%96.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "觀音老街",
+  "aliases": [],
+  "wiki_title": "觀音老街",
+  "region": "north",
+  "county": "桃園市",
+  "location_wiki": "觀音區仁愛路",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "2015年道路拓寬後，舊建築已不多。",
+  "wiki_image": "觀音老街 Quanyin Old Street - panoramio.jpg",
+  "wiki": {
+   "exists": false,
+   "resolved_title": "觀音老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "北門大街",
+  "aliases": [],
+  "wiki_title": "北門街 (新竹市)",
+  "region": "north",
+  "county": "新竹市",
+  "location_wiki": "北區",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": "Taiwan HsinchuCity BeiMen Street 2.JPG",
+  "wiki": {
+   "exists": true,
+   "resolved_title": "北門街 (新竹市)",
+   "extract": "北門街是一條位於新竹市北區的街道，為新竹市最早的商業街。北門街有兩種不同範圍的指稱：其一為目前的北門街，從城隍廟口向北延伸經長和宮到中正路，接水田街，長約0.76公里。",
+   "lat": null,
+   "lng": null,
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Taiwan_HsinchuCity_BeiMen_Street_3.JPG/960px-Taiwan_HsinchuCity_BeiMen_Street_3.JPG?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "內灣老街",
+  "aliases": [],
+  "wiki_title": "內灣老街",
+  "region": "north",
+  "county": "新竹縣",
+  "location_wiki": "橫山鄉",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": "Neiwan Old Theatre.jpg",
+  "wiki": {
+   "exists": true,
+   "resolved_title": "內灣老街",
+   "extract": "內灣老街位於台灣新竹縣橫山鄉內灣村，當地居民以客家族群為主，近年來以懷舊的老街情懷包含了內灣車站、內灣戲院以及內灣吊橋等等成為新竹的觀光旅遊景點。\n昔日內灣老街是進出盛產林木及礦產的尖石山區的最主要道路，也因如此於50年代曾為內灣帶來許多的人潮，以中正路的街道為主向外發展至光復路、大同路、和平街、中山街及廣濟路等都曾是絡繹不絕的人潮，然而隨著林業及礦業的產業沒落，內灣的盛況也由嘈雜歸於平靜。\n內灣老街上的傳統街屋是當地獨特的景觀，房屋多以紅磚砌柱及地基後，再加以木板材料作為屋身、門窗及屋頂，再以合板瓦或日式文化瓦覆蓋於屋頂。",
+   "lat": null,
+   "lng": null,
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Neiwan_Old_Theatre.jpg/960px-Neiwan_Old_Theatre.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "湖口老街",
+  "aliases": [],
+  "wiki_title": "湖口老街",
+  "region": "north",
+  "county": "新竹縣",
+  "location_wiki": "湖口鄉",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": "湖口老街豐瑞（左一）與興泉（左二）.jpg",
+  "wiki": {
+   "exists": true,
+   "resolved_title": "湖口老街",
+   "extract": "湖口老街是位在臺灣新竹縣湖口鄉的一條街道，其中包括街頭、橫街、新街三條街。其興衰與鐵路密切相關，這一帶因為劉銘傳所鋪設的鐵路延伸至此，設有「大湖口火車碼頭」而繁榮，並在日據時期整建成今日風貌，但後來因為鐵路路線調整，「湖口驛」移到下北勢而使街道商業衰退。街道上有新竹縣縣定古蹟湖口三元宮與歷史建築老湖口天主堂，而湖口天主堂即是在舊車站原址上建造而成。近年來經由居民與政府社區總體營造之下，翻修老街牌樓、店亭、石板路與綠化工程，湖口老街有了新風貌。",
+   "lat": null,
+   "lng": null,
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/%E6%B9%96%E5%8F%A3%E8%80%81%E8%A1%97%E9%A8%8E%E6%A8%93.jpg/960px-%E6%B9%96%E5%8F%A3%E8%80%81%E8%A1%97%E9%A8%8E%E6%A8%93.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "新埔老街",
+  "aliases": [],
+  "wiki_title": "新埔老街",
+  "region": "north",
+  "county": "新竹縣",
+  "location_wiki": "新埔鎮成功街、中正路",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "中正路拓寬後，舊建築已不多。",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "新埔老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "北埔老街",
+  "aliases": [],
+  "wiki_title": "北埔老街",
+  "region": "north",
+  "county": "新竹縣",
+  "location_wiki": "北埔鄉",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "1992年曾拓寬道路。",
+  "wiki_image": "Funeral procession at downtown Beipu 1935.jpg",
+  "wiki": {
+   "exists": true,
+   "resolved_title": "北埔老街",
+   "extract": "北埔老街位在臺灣新竹縣北埔鄉，其街區即在「北埔老聚落」之範圍內，包括北埔街、廟前街、南興街、城門街，街區內有金廣福公館、天水堂、姜阿新洋樓、北埔慈天宮、北埔忠恕堂等古蹟，為新竹縣的著名旅遊景點。其特產有靠秋季九降風製成的柿餅、柿乾以及芋仔番薯月餅，而另稱「膨風茶」的東方美人茶與客家擂茶亦頗有名氣。",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "竹東老街",
+  "aliases": [],
+  "wiki_title": "竹東老街",
+  "region": "north",
+  "county": "新竹縣",
+  "location_wiki": "竹東鎮長春路、東寧路一帶",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "竹東老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "上坪老街",
+  "aliases": [],
+  "wiki_title": "上坪老街",
+  "region": "north",
+  "county": "新竹縣",
+  "location_wiki": "竹東鎮",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": "上坪老街.jpg",
+  "wiki": {
+   "exists": true,
+   "resolved_title": "上坪老街",
+   "extract": "上坪老街，位於臺灣新竹縣竹東鎮上坪里，為通往新竹縣五峰鄉之南清公路（縣道122號）上。街道兩旁之建築樣式為二層樓磚構木造建築，建於日治時期大正年間，為竹東鎮當地之一條老街。",
+   "lat": 24.6409654,
+   "lng": 121.1257721,
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/%E4%B8%8A%E5%9D%AA%E8%80%81%E8%A1%97.jpg/960px-%E4%B8%8A%E5%9D%AA%E8%80%81%E8%A1%97.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "關西老街",
+  "aliases": [],
+  "wiki_title": "關西老街",
+  "region": "north",
+  "county": "新竹縣",
+  "location_wiki": "關西鎮",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": "KuanhsiOldStreet.jpg",
+  "wiki": {
+   "exists": false,
+   "resolved_title": "關西老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "富興老街",
+  "aliases": [],
+  "wiki_title": "富興老街",
+  "region": "north",
+  "county": "新竹縣",
+  "location_wiki": "峨眉鄉",
+  "type_wiki": "",
+  "features_wiki": "曾家老宅、富興茶業文化館",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "富興老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "南庄老街",
+  "aliases": [],
+  "wiki_title": "南庄老街",
+  "region": "central",
+  "county": "苗栗縣",
+  "location_wiki": "南庄鄉",
+  "type_wiki": "",
+  "features_wiki": "油桐花",
+  "notes_wiki": "",
+  "wiki_image": "Sweet Osmanthus Lane, Nanzhuang 20131023.jpg",
+  "wiki": {
+   "exists": true,
+   "resolved_title": "南庄老街",
+   "extract": "南庄老街位於台灣苗栗縣南庄鄉鄉治所在地南庄聚落，當地居民以客家族群為主。具有濃濃的客家懷舊風味，每到假日，總是吸引眾多遊客造訪。主要的景點有永昌宮、老郵局、乃木崎、桂花巷及洗衫坑等。\n傳統的老街範圍以中正路為主，兩旁商家林立。由於南庄曾經在1935年的關刀山大地震中受創嚴重，其後委由日本人規畫重建工程，造就了今日中正路兩旁多屬兩層樓日式木造建築的景觀。\n桂花巷原本只是中正路一條小巷口麵店的名號，透過地方政府及當地業者的刻意營造，該巷及鄰近地區已成為遠近馳名的「桂花巷社區」，逐漸取代中正路而成為旅客所熟悉的南庄老街。\n老街的主要小吃有客家粄食、客家菜、桂花釀、豬籠粄、狗薑粽、桂花冰鎮湯圓、桂花梅、擂茶、滷豆乾等。",
+   "lat": null,
+   "lng": null,
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Sweet_Osmanthus_Lane%2C_Nanzhuang_20071118.jpg/960px-Sweet_Osmanthus_Lane%2C_Nanzhuang_20071118.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "en_title": "Nanzhuang Old Street"
+  }
+ },
+ {
+  "name_zh": "中港老街",
+  "aliases": [],
+  "wiki_title": "中港老街",
+  "region": "central",
+  "county": "苗栗縣",
+  "location_wiki": "竹南鎮",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "中港老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "三灣老街",
+  "aliases": [],
+  "wiki_title": "三灣老街",
+  "region": "central",
+  "county": "苗栗縣",
+  "location_wiki": "三灣鄉",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "三灣老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "獅潭老街",
+  "aliases": [
+   "新店老街"
+  ],
+  "wiki_title": "獅潭老街",
+  "region": "central",
+  "county": "苗栗縣",
+  "location_wiki": "獅潭鄉",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "獅潭老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "同興老街",
+  "aliases": [],
+  "wiki_title": "公司寮",
+  "region": "central",
+  "county": "苗栗縣",
+  "location_wiki": "後龍鎮",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": "同興老街 Tongxing Old Street - panoramio (3).jpg",
+  "wiki": {
+   "exists": true,
+   "resolved_title": "公司寮",
+   "extract": "公司寮，原寫為公司藔，是台灣苗栗縣後龍鎮的一個傳統地域名稱，位於該鎮中部偏西南。相較於今日行政區，其範圍大致包括龍津里的全部，以及福寧里的東北角及北部中段一小部分及北部北段一小部分。",
+   "lat": null,
+   "lng": null,
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/HoulungKungssuliaoDoorplate.jpg/960px-HoulungKungssuliaoDoorplate.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "汶水老街",
+  "aliases": [],
+  "wiki_title": "汶水老街",
+  "region": "central",
+  "county": "苗栗縣",
+  "location_wiki": "獅潭鄉",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": "汶水老街 Wenshui Old Street - panoramio.jpg",
+  "wiki": {
+   "exists": true,
+   "resolved_title": "汶水老街",
+   "extract": "汶水老街位於台灣苗栗縣獅潭鄉竹木村，當地居民以客家族群為主，是早年獅潭鄉、泰安鄉、大湖鄉的貨物集散地。此老街為台6線末端舊線，鄰近台3線及台72線，具有客家、人文、藝術的風味，是前往大湖鄉旅遊採草莓的門戶。台6線改道、台72線東西向快速道路通車後，汶水老街的車潮不再，成為適合遊客徒步行走的老街。老街的主要小吃有客家粄食、客家菜等。",
+   "lat": null,
+   "lng": null,
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/%E6%B1%B6%E6%B0%B4%E8%80%81%E8%A1%97_Wenshui_Old_Street_-_panoramio.jpg/960px-%E6%B1%B6%E6%B0%B4%E8%80%81%E8%A1%97_Wenshui_Old_Street_-_panoramio.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "西湖老街",
+  "aliases": [
+   "店仔街"
+  ],
+  "wiki_title": "西湖老街",
+  "region": "central",
+  "county": "苗栗縣",
+  "location_wiki": "西湖鄉",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": "Xihu Old Street 西湖店仔街 - panoramio (1).jpg",
+  "wiki": {
+   "exists": false,
+   "resolved_title": "西湖老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "苑裡老街",
+  "aliases": [
+   "天下路老街"
+  ],
+  "wiki_title": "苑裡老街",
+  "region": "central",
+  "county": "苗栗縣",
+  "location_wiki": "苑裡鎮",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": "苑裡天下路 Yuanli Tianxia Road - panoramio.jpg",
+  "wiki": {
+   "exists": false,
+   "resolved_title": "苑裡老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "房裡古城",
+  "aliases": [],
+  "wiki_title": "房裡城",
+  "region": "central",
+  "county": "苗栗縣",
+  "location_wiki": "苑裡鎮",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": "Fangli old street 房裡老街 - panoramio.jpg",
+  "wiki": {
+   "exists": true,
+   "resolved_title": "房裡城",
+   "extract": "房裡城是位於今臺灣苗栗縣苑裡鎮房裡的民築城池，為苗栗縣一曾築過土石的城池，該地原為道卡斯族蓬山八社之一房裡社所有。該城已不存，但苑裡鎮公所於過去的南門、北門處有立碑紀念。",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "洗水坑豆腐街",
+  "aliases": [],
+  "wiki_title": "洗水坑豆腐街",
+  "region": "central",
+  "county": "苗栗縣",
+  "location_wiki": "泰安鄉",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "洗水坑豆腐街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "三義老街",
+  "aliases": [],
+  "wiki_title": "三義老街",
+  "region": "central",
+  "county": "苗栗縣",
+  "location_wiki": "三義鄉",
+  "type_wiki": "",
+  "features_wiki": "木雕",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "三義老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "廣盛老街",
+  "aliases": [],
+  "wiki_title": "廣盛老街",
+  "region": "central",
+  "county": "苗栗縣",
+  "location_wiki": "三義鄉",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "廣盛老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "白沙屯老街",
+  "aliases": [],
+  "wiki_title": "白沙屯老街",
+  "region": "central",
+  "county": "苗栗縣",
+  "location_wiki": "通霄鎮",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "白沙屯老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "卓蘭老街",
+  "aliases": [],
+  "wiki_title": "卓蘭老街",
+  "region": "central",
+  "county": "苗栗縣",
+  "location_wiki": "卓蘭鄉",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "卓蘭老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "銅鑼老街",
+  "aliases": [],
+  "wiki_title": "銅鑼老街",
+  "region": "central",
+  "county": "苗栗縣",
+  "location_wiki": "銅鑼鄉中正路、復興路、平陽路一帶",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "銅鑼老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "台中新盛橋通",
+  "aliases": [
+   "鈴蘭通"
+  ],
+  "wiki_title": "中山路 (台中市區)",
+  "region": "central",
+  "county": "臺中市",
+  "location_wiki": "中區中山路",
+  "type_wiki": "",
+  "features_wiki": "臺中第二市場六角樓、宮原眼科、綠川、新盛橋",
+  "notes_wiki": "",
+  "wiki_image": "臺中 新盛橋通 1930s.jpg",
+  "wiki": {
+   "exists": true,
+   "resolved_title": "中山路 (台中市區)",
+   "extract": "中山路 (台中市區)為臺灣臺中市舊市區的單行道道路，大致呈東西向，北抵均安街，南至台中車站。",
+   "lat": null,
+   "lng": null,
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/%E6%96%B0%E7%9B%9B%E6%A9%8B%EF%BC%88%E4%B8%AD%E5%B1%B1%E7%B6%A0%E6%A9%8B%29_-connielove999-24.jpg/960px-%E6%96%B0%E7%9B%9B%E6%A9%8B%EF%BC%88%E4%B8%AD%E5%B1%B1%E7%B6%A0%E6%A9%8B%29_-connielove999-24.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "旱溪老街",
+  "aliases": [],
+  "wiki_title": "旱溪老街",
+  "region": "central",
+  "county": "臺中市",
+  "location_wiki": "東區",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "舊建築多已改建",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "旱溪老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "大甲老街",
+  "aliases": [],
+  "wiki_title": "大甲老街",
+  "region": "central",
+  "county": "臺中市",
+  "location_wiki": "大甲區",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "大甲老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "清水老街",
+  "aliases": [],
+  "wiki_title": "清水老街",
+  "region": "central",
+  "county": "臺中市",
+  "location_wiki": "清水區文昌街",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "清水老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "梧棲老街",
+  "aliases": [],
+  "wiki_title": "梧棲老街",
+  "region": "central",
+  "county": "臺中市",
+  "location_wiki": "梧棲區梧棲路",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": "梧棲老街.jpg",
+  "wiki": {
+   "exists": false,
+   "resolved_title": "梧棲老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "沙鹿老街",
+  "aliases": [],
+  "wiki_title": "沙鹿老街",
+  "region": "central",
+  "county": "臺中市",
+  "location_wiki": "沙鹿區四平街",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "沙鹿老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "南屯老街",
+  "aliases": [
+   "犁頭店街"
+  ],
+  "wiki_title": "南屯老街",
+  "region": "central",
+  "county": "臺中市",
+  "location_wiki": "南屯區",
+  "type_wiki": "",
+  "features_wiki": "製造、買賣農具",
+  "notes_wiki": "",
+  "wiki_image": "南屯三角街.jpg",
+  "wiki": {
+   "exists": true,
+   "resolved_title": "南屯老街",
+   "extract": "南屯老街，位於臺灣臺中市南屯區，主要在萬和路與南屯路口一帶，包括南屯路與萬和路交叉處的三角街，以及南屯市場與萬和宮。南屯老街長約200公尺，昔稱「犁頭店街」，老街兩側保留許多古建築，也保存有豆腐店、打鐵店、種子店、米麩店、百貨店、中藥舖等老店鋪。",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "西屯老街",
+  "aliases": [],
+  "wiki_title": "西屯老街",
+  "region": "central",
+  "county": "臺中市",
+  "location_wiki": "西屯區光明路",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "西屯老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "大里老街",
+  "aliases": [
+   "大里杙老街"
+  ],
+  "wiki_title": "大里老街",
+  "region": "central",
+  "county": "臺中市",
+  "location_wiki": "大里區",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": "大里杙老街.jpg",
+  "wiki": {
+   "exists": false,
+   "resolved_title": "大里老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "石岡老街",
+  "aliases": [],
+  "wiki_title": "石岡老街",
+  "region": "central",
+  "county": "臺中市",
+  "location_wiki": "石岡區",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "石岡老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "東勢老街",
+  "aliases": [],
+  "wiki_title": "東勢老街",
+  "region": "central",
+  "county": "臺中市",
+  "location_wiki": "東勢區",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "東勢老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "新社老街",
+  "aliases": [],
+  "wiki_title": "新社老街",
+  "region": "central",
+  "county": "臺中市",
+  "location_wiki": "新社區",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "新社老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "神岡老街",
+  "aliases": [],
+  "wiki_title": "神岡老街",
+  "region": "central",
+  "county": "臺中市",
+  "location_wiki": "神岡區中山路",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "神岡老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "新町老街",
+  "aliases": [],
+  "wiki_title": "新町老街",
+  "region": "central",
+  "county": "彰化縣",
+  "location_wiki": "彰化市",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": true,
+   "resolved_title": "新町老街",
+   "extract": "新町老街，位在台灣彰化縣彰化市，民族路與華山路口之開彰祖廟後側，南郭排水支線旁，該渠道稱為「新町溝」，據考證「新町溝」為彰化古城的護城河。沿著「新町溝」，仍保有部分日治時代的日式老屋和老樹，充滿著濃濃日式風味。彰化市公所整治「新町溝」，將老街規劃為散步道，同時增添鳥居、石燈籠、涼亭等設施。",
+   "lat": 24.07438,
+   "lng": 120.538908,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "鹿港老街",
+  "aliases": [
+   "古市街"
+  ],
+  "wiki_title": "鹿港老街",
+  "region": "central",
+  "county": "彰化縣",
+  "location_wiki": "鹿港鎮瑤林街、埔頭街一帶",
+  "type_wiki": "觀光",
+  "features_wiki": "一府二鹿三艋舺、閩南式建築",
+  "notes_wiki": "",
+  "wiki_image": "鹿港老街小巷06.jpg",
+  "wiki": {
+   "exists": true,
+   "resolved_title": "鹿港老街",
+   "extract": "鹿港老街位於臺灣彰化縣鹿港鎮，廣義的『鹿港老街』一詞，範圍包含整個鹿港鎮的歷史古蹟街區，狹義的定義則主要由瑤林街與埔頭街連結而成，鹿港是荷蘭及清治時期中臺灣最重要對外經商港口，過往曾因商業的發展而繁榮。發展歷史甚早，1934年（昭和9年）臺灣日治時期，鹿港實施市區改正，鹿港不見天老街（五福大街、現鹿港中山路）被拓寬為大路，兩側的房屋陸續改建為混凝土現代建築，而與中山路平行的瑤林、埔頭老街， 則仍保存著鹿港老街的格局。直到1986年（民國75年）政府指定為鹿港古街保存區，而成為台灣第一個以古市街保存的案例。\n現老街範圍包括意和行、新祖宮、桂花巷（鹿港城隍廟前）、鹿港公會堂全長五百餘公尺，鹿港老街保存早期商店門牌建築，長條型閩式店屋建築，結合一進房店面、二進房住家、三進房後院三大功能，房屋總長度從四十米至七十米不等，此為清代至日治初期建築特色。且古蹟數量僅次於臺南。\n\n",
+   "lat": null,
+   "lng": null,
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/%E9%B9%BF%E6%B8%AF%E8%80%81%E8%A1%97%E5%B0%8F%E5%B7%B707.jpg/960px-%E9%B9%BF%E6%B8%AF%E8%80%81%E8%A1%97%E5%B0%8F%E5%B7%B707.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "鹿港不見天街",
+  "aliases": [
+   "五福大街"
+  ],
+  "wiki_title": "不見天街",
+  "region": "central",
+  "county": "彰化縣",
+  "location_wiki": "鹿港鎮中山路、五福街",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": "鹿港中山路老街20190425-1.jpg",
+  "wiki": {
+   "exists": true,
+   "resolved_title": "不見天街",
+   "extract": "不見天街是台灣一種道路特色。雨棚蓋住道路看不到天空而得名。台灣某些地區夏季多雨多日照、冬季風沙極大才有這種道路特色，算是亭仔腳（騎樓）的一種延伸。",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "溪湖老街",
+  "aliases": [],
+  "wiki_title": "溪湖老街",
+  "region": "central",
+  "county": "彰化縣",
+  "location_wiki": "溪湖鎮",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": "HsihuOldStreet4.jpg",
+  "wiki": {
+   "exists": true,
+   "resolved_title": "溪湖老街",
+   "extract": "溪湖老街又稱溪湖中街，位在台灣彰化縣溪湖鎮，以員鹿路三段（南北向）為主，此路段上也是另一古蹟溪湖庄役場的所在地，以本路段為中心，太平街、彰水路三段、員鹿路三段（東西向）、二溪路一段等路段都是老街屋的分佈區，較著名的有已被拆除的東芳樓（酒樓）、溪湖新醫院等。",
+   "lat": null,
+   "lng": null,
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/HsihuOldStreet5.jpg/960px-HsihuOldStreet5.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "二水老街",
+  "aliases": [],
+  "wiki_title": "二水老街",
+  "region": "central",
+  "county": "彰化縣",
+  "location_wiki": "二水鄉",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": "DowntownErshuei.JPG",
+  "wiki": {
+   "exists": true,
+   "resolved_title": "二水老街",
+   "extract": "二水老街位在臺灣彰化縣二水鄉，主要是指位在二水車站前方的光文路，以及相連的員集路三段、四段一帶。而光文路與與員集路交會處一帶稱為「三角仔」，此處有三棟具有特色的紅磚街屋，分別是張老嚶宅、謝毛宅與鄭鼎宅（舊英源醫院）。二水車站到「三角仔」之間的光文路，是二水鄉最繁榮的地區。",
+   "lat": null,
+   "lng": null,
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/%E4%BA%8C%E6%B0%B4%E5%BC%B5%E8%80%81%E5%9A%B6%E5%AE%85.jpg/960px-%E4%BA%8C%E6%B0%B4%E5%BC%B5%E8%80%81%E5%9A%B6%E5%AE%85.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "竹塘老街",
+  "aliases": [],
+  "wiki_title": "竹塘老街",
+  "region": "central",
+  "county": "彰化縣",
+  "location_wiki": "竹塘鄉",
+  "type_wiki": "住宅",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "竹塘老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "員林老街",
+  "aliases": [],
+  "wiki_title": "員林老街",
+  "region": "central",
+  "county": "彰化縣",
+  "location_wiki": "員林市",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "員林老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "二林老街",
+  "aliases": [],
+  "wiki_title": "二林老街",
+  "region": "central",
+  "county": "彰化縣",
+  "location_wiki": "二林鎮中正路、儒林路",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "二林老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "田中老街",
+  "aliases": [],
+  "wiki_title": "田中老街",
+  "region": "central",
+  "county": "彰化縣",
+  "location_wiki": "田中鎮",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": "TienchungOldStreet.JPG",
+  "wiki": {
+   "exists": true,
+   "resolved_title": "田中老街",
+   "extract": "田中老街位於彰化縣田中鎮，是一處位於市區的傳統老街屋群，充滿許多豐富藝術。",
+   "lat": null,
+   "lng": null,
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/TienchungOldStreetBuilding.JPG/960px-TienchungOldStreetBuilding.JPG?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "北斗老街",
+  "aliases": [],
+  "wiki_title": "北斗老街",
+  "region": "central",
+  "county": "彰化縣",
+  "location_wiki": "北斗鎮",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "北斗老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "永靖老街",
+  "aliases": [],
+  "wiki_title": "永靖老街",
+  "region": "central",
+  "county": "彰化縣",
+  "location_wiki": "永靖鄉永靖街",
+  "type_wiki": "",
+  "features_wiki": "枝仔冰",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "永靖老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "和美老街",
+  "aliases": [],
+  "wiki_title": "和美老街",
+  "region": "central",
+  "county": "彰化縣",
+  "location_wiki": "和美鎮中正路",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "和美老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "草屯新街",
+  "aliases": [
+   "和平老街"
+  ],
+  "wiki_title": "草屯新街",
+  "region": "central",
+  "county": "南投縣",
+  "location_wiki": "草屯鎮和平街",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": "TsaotunOldStreet1.JPG",
+  "wiki": {
+   "exists": false,
+   "resolved_title": "草屯新街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "草屯舊街",
+  "aliases": [],
+  "wiki_title": "草屯舊街",
+  "region": "central",
+  "county": "南投縣",
+  "location_wiki": "草屯鎮玉峰街",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "舊建築多已改建",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "草屯舊街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "廬山老街",
+  "aliases": [],
+  "wiki_title": "廬山老街",
+  "region": "central",
+  "county": "南投縣",
+  "location_wiki": "仁愛鄉",
+  "type_wiki": "觀光",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "廬山老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "國姓老街",
+  "aliases": [],
+  "wiki_title": "國姓老街",
+  "region": "central",
+  "county": "南投縣",
+  "location_wiki": "國姓鄉",
+  "type_wiki": "",
+  "features_wiki": "咖啡",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "國姓老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "南興老街",
+  "aliases": [
+   "打鐵街"
+  ],
+  "wiki_title": "南興老街",
+  "region": "central",
+  "county": "南投縣",
+  "location_wiki": "埔里鎮",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "南興老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "車埕老街",
+  "aliases": [],
+  "wiki_title": "車埕老街",
+  "region": "central",
+  "county": "南投縣",
+  "location_wiki": "水里鄉",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "車埕老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "集集老街",
+  "aliases": [],
+  "wiki_title": "集集老街",
+  "region": "central",
+  "county": "南投縣",
+  "location_wiki": "集集鎮",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "集集老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "永平老街",
+  "aliases": [],
+  "wiki_title": "永平老街",
+  "region": "central",
+  "county": "南投縣",
+  "location_wiki": "中寮鄉",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "永平老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "林圯埔老街",
+  "aliases": [
+   "竹山老街"
+  ],
+  "wiki_title": "林圯埔老街",
+  "region": "central",
+  "county": "南投縣",
+  "location_wiki": "竹山鎮",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "林圯埔老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "太平老街",
+  "aliases": [],
+  "wiki_title": "太平老街",
+  "region": "central",
+  "county": "雲林縣",
+  "location_wiki": "斗六市",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": "斗六太平老街 Douliu Taiping Old Street - panoramio.jpg",
+  "wiki": {
+   "exists": false,
+   "resolved_title": "太平老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "延平老街",
+  "aliases": [],
+  "wiki_title": "延平老街",
+  "region": "central",
+  "county": "雲林縣",
+  "location_wiki": "西螺鎮",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": "台灣省雲林縣西螺鎮延平老街.JPG",
+  "wiki": {
+   "exists": false,
+   "resolved_title": "延平老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "北港老街",
+  "aliases": [],
+  "wiki_title": "北港老街",
+  "region": "central",
+  "county": "雲林縣",
+  "location_wiki": "北港鎮",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": "雲林縣北港老街.JPG",
+  "wiki": {
+   "exists": false,
+   "resolved_title": "北港老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "土庫老街",
+  "aliases": [],
+  "wiki_title": "土庫老街",
+  "region": "central",
+  "county": "雲林縣",
+  "location_wiki": "土庫鎮",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "土庫老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "虎尾老街",
+  "aliases": [],
+  "wiki_title": "中山路 (虎尾鎮)",
+  "region": "central",
+  "county": "雲林縣",
+  "location_wiki": "虎尾鎮",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "中山路 (虎尾鎮)",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "斗南老街",
+  "aliases": [],
+  "wiki_title": "斗南老街",
+  "region": "central",
+  "county": "雲林縣",
+  "location_wiki": "斗南鎮中正路、中山路一帶",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "斗南老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "台西老街",
+  "aliases": [],
+  "wiki_title": "台西老街",
+  "region": "central",
+  "county": "雲林縣",
+  "location_wiki": "台西鄉中山路",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "台西老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "中正路老街",
+  "aliases": [
+   "二通"
+  ],
+  "wiki_title": "中正路老街",
+  "region": "south",
+  "county": "嘉義市",
+  "location_wiki": "東區",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "中正路老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "大林老街",
+  "aliases": [],
+  "wiki_title": "大林老街",
+  "region": "south",
+  "county": "嘉義縣",
+  "location_wiki": "大林鎮",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "大林老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "太平老街",
+  "aliases": [],
+  "wiki_title": "太平老街",
+  "region": "south",
+  "county": "嘉義縣",
+  "location_wiki": "梅山鄉",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "太平老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "奮起湖老街",
+  "aliases": [],
+  "wiki_title": "奮起湖",
+  "region": "south",
+  "county": "嘉義縣",
+  "location_wiki": "竹崎鄉",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": "奮起湖老老街 Fenqihu old old street - panoramio.jpg",
+  "wiki": {
+   "exists": true,
+   "resolved_title": "奮起湖",
+   "extract": "奮起湖，舊稱糞箕湖、畚箕湖（白話字：Pùn-ki ô͘），隸屬台灣嘉義縣竹崎鄉中和村、海拔約1,400公尺之山城，以阿里山森林鐵路中途站、鐵路便當、老街與自然景色聞名，有中台灣九份之稱。\n臺灣話稱山坳地為「湖」，奮起湖中的「湖」即為此意，當地實際上沒有此湖。",
+   "lat": 23.50508333,
+   "lng": 120.69483333,
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/View_of_the_village_of_Fenqihu_02_20251211.jpg/960px-View_of_the_village_of_Fenqihu_02_20251211.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "en_title": "Fenqihu"
+  }
+ },
+ {
+  "name_zh": "大埔老街",
+  "aliases": [],
+  "wiki_title": "大埔老街",
+  "region": "south",
+  "county": "嘉義縣",
+  "location_wiki": "大埔鄉",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "大埔老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "溪口老街",
+  "aliases": [],
+  "wiki_title": "溪口老街",
+  "region": "south",
+  "county": "嘉義縣",
+  "location_wiki": "溪口鄉",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "溪口老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "朴子老街",
+  "aliases": [],
+  "wiki_title": "朴子老街",
+  "region": "south",
+  "county": "嘉義縣",
+  "location_wiki": "朴子市開元路、中正路、市東路一帶",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "朴子老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "布袋老街",
+  "aliases": [],
+  "wiki_title": "布袋老街",
+  "region": "south",
+  "county": "嘉義縣",
+  "location_wiki": "布袋鎮永樂街一帶",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "道路拓寬後，舊建築已不多。",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "布袋老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "安平老街",
+  "aliases": [
+   "延平老街",
+   "台灣第一街"
+  ],
+  "wiki_title": "安平老街",
+  "region": "south",
+  "county": "臺南市",
+  "location_wiki": "安平區",
+  "type_wiki": "觀光",
+  "features_wiki": "棺材板",
+  "notes_wiki": "",
+  "wiki_image": "Anping Old Street.jpg",
+  "wiki": {
+   "exists": false,
+   "resolved_title": "安平老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "神農老街",
+  "aliases": [
+   "北勢老街"
+  ],
+  "wiki_title": "北勢街",
+  "region": "south",
+  "county": "臺南市",
+  "location_wiki": "中西區",
+  "type_wiki": "觀光",
+  "features_wiki": "藥師王廟",
+  "notes_wiki": "",
+  "wiki_image": "臺南北勢街.JPG",
+  "wiki": {
+   "exists": true,
+   "resolved_title": "北勢街",
+   "extract": "北勢街（臺羅：Pak-sì-ke）是臺灣府城的街道，因五條港中的南勢港（或稱北勢港）之北側而得名。\n北勢街為今日臺南市中西區的神農街東半部，即信義街以東的部分。今日在神農街上仍有許多兩層樓木屋。一樓為店面、二樓為貨物倉庫，是臺南舊市區保存較好的老街。北勢街上的臺南金華府，是昔日碼頭工人的信仰中心。",
+   "lat": null,
+   "lng": null,
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/%E8%87%BA%E5%8D%97%E5%8C%97%E5%8B%A2%E8%A1%97.JPG/960px-%E8%87%BA%E5%8D%97%E5%8C%97%E5%8B%A2%E8%A1%97.JPG?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "老古石街",
+  "aliases": [
+   "信義街"
+  ],
+  "wiki_title": "老古石街",
+  "region": "south",
+  "county": "臺南市",
+  "location_wiki": "中西區",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "老古石街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "米街",
+  "aliases": [],
+  "wiki_title": "米街",
+  "region": "south",
+  "county": "臺南市",
+  "location_wiki": "中西區新美街",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": true,
+   "resolved_title": "米街",
+   "extract": "米街是臺灣府城西定坊的街道，因當時有許多與相關的行業而得名。範圍位於現今臺南市中西區新美街從成功路到民族路之間的部分，而民族路到民權路之間的部分，過去叫做抽籤巷，後來也曾稱作三義街，現在亦為新美街的一部分。\n在清嘉慶十二年（1807年）時，米街已出現在《續修臺灣縣志》的城池圖中。除了米店之外，清朝時在米街附近亦有開設許多紙莊、紙行，印置民俗版畫等物。另外清朝臺灣唯一一對「父子進士」施瓊芳與施士潔亦出身米街。",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "南河街",
+  "aliases": [],
+  "wiki_title": "南河街",
+  "region": "south",
+  "county": "臺南市",
+  "location_wiki": "中西區和平街",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": true,
+   "resolved_title": "南河街",
+   "extract": "南河街，位於臺南市中西區 ，在清初舊志多記為南濠街，是五條港中河道與街道並行的港道，也是最早開發的河港。自鎮渡頭起向東沿行今之和平街，可直抵城內大井頭一帶（今民權路二段），為出入大西門的要道之一。",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "北巷古街",
+  "aliases": [],
+  "wiki_title": "北巷古街",
+  "region": "south",
+  "county": "臺南市",
+  "location_wiki": "中西區民生路一段132巷",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "北巷古街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "清水寺街",
+  "aliases": [
+   "水流觀音街"
+  ],
+  "wiki_title": "臺南原清水寺街連棟街屋",
+  "region": "south",
+  "county": "臺南市",
+  "location_wiki": "中西區開山路3巷",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": "臺南原清水寺街連棟街屋.jpg",
+  "wiki": {
+   "exists": true,
+   "resolved_title": "臺南原清水寺街連棟街屋",
+   "extract": "臺南原清水寺街連棟街屋位在台南市中西區開山路3巷，西側即為六合境清水寺，而此巷道原為枋溪的河道，故昔稱「清水寺街」，又俗稱「水流觀音街」。此建築因未受到道路開拓的影響，至今仍維持原貌。\n該歷史建築前的路面於2013年進行景觀改造工程，將部分舊水道打開，並改造人行舖面以重現枋溪之意象。",
+   "lat": null,
+   "lng": null,
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/%E8%87%BA%E5%8D%97%E5%8E%9F%E6%B8%85%E6%B0%B4%E5%AF%BA%E8%A1%97%E9%80%A3%E6%A3%9F%E8%A1%97%E5%B1%8B.jpg/960px-%E8%87%BA%E5%8D%97%E5%8E%9F%E6%B8%85%E6%B0%B4%E5%AF%BA%E8%A1%97%E9%80%A3%E6%A3%9F%E8%A1%97%E5%B1%8B.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "台南末廣町通",
+  "aliases": [],
+  "wiki_title": "末廣町 (臺南市)",
+  "region": "south",
+  "county": "臺南市",
+  "location_wiki": "中西區中正路",
+  "type_wiki": "",
+  "features_wiki": "台南銀座、林百貨",
+  "notes_wiki": "",
+  "wiki_image": "Hayasi Department Store at the intersection of Jhongjheng Road and Jhongyi Road.jpg",
+  "wiki": {
+   "exists": true,
+   "resolved_title": "末廣町 (臺南市)",
+   "extract": "末廣町為臺灣日治時期臺南市之町名，為當時臺南市中心所在。包括清代舊街名牛屎埕、安海中巷、五帝廟、關帝廟、王埕塘、總趕宮、草仔藔。今日為中正商圈一帶，仍有商業機構以此為名。\n末廣町是當時臺南最繁華的區域，因而有「臺南銀座」之稱。「末廣町通」也稱為「銀座通」，即現在的中正路。",
+   "lat": null,
+   "lng": null,
+   "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/a/a6/%E8%87%BA%E5%8D%97%E9%8A%80%E5%BA%A7%E6%9C%AB%E5%BB%A3%E7%94%BA%E9%80%9A.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "大銃街",
+  "aliases": [],
+  "wiki_title": "大銃街",
+  "region": "south",
+  "county": "臺南市",
+  "location_wiki": "北區自強街",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "大銃街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "總爺古街",
+  "aliases": [
+   "過坑仔街"
+  ],
+  "wiki_title": "總爺街",
+  "region": "south",
+  "county": "臺南市",
+  "location_wiki": "北區",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": true,
+   "resolved_title": "總爺街",
+   "extract": "總爺街（臺羅：Tsóng-iâ-ke），原名過坑仔街（臺羅：Kuè-khenn-á-ke），是臺灣府城鎮北坊的一條街。總爺街位於今臺南市北區崇安街113巷口起，沿崇安街東北東至崇安街63號鎮轅境土地祠前止，是臺南市保存較完整的老街之一。",
+   "lat": null,
+   "lng": null,
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/%E7%B8%BD%E7%88%BA%E5%8F%A4%E8%A1%97.jpg/960px-%E7%B8%BD%E7%88%BA%E5%8F%A4%E8%A1%97.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "喜樹老街",
+  "aliases": [],
+  "wiki_title": "喜樹老街",
+  "region": "south",
+  "county": "臺南市",
+  "location_wiki": "南區",
+  "type_wiki": "",
+  "features_wiki": "彩繪藝術",
+  "notes_wiki": "",
+  "wiki_image": "喜樹老街內景2.jpg",
+  "wiki": {
+   "exists": false,
+   "resolved_title": "喜樹老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "新營老街",
+  "aliases": [],
+  "wiki_title": "新營延平老街",
+  "region": "south",
+  "county": "臺南市",
+  "location_wiki": "新營區中山路、延平路",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "新營延平老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "鐵線橋老街",
+  "aliases": [],
+  "wiki_title": "鐵線橋老街",
+  "region": "south",
+  "county": "臺南市",
+  "location_wiki": "新營區",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": "鐵線橋老街.jpg",
+  "wiki": {
+   "exists": false,
+   "resolved_title": "鐵線橋老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "菁寮老街",
+  "aliases": [],
+  "wiki_title": "菁寮老街",
+  "region": "south",
+  "county": "臺南市",
+  "location_wiki": "後壁區",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": "菁寮金德興藥舖peter.jpg",
+  "wiki": {
+   "exists": true,
+   "resolved_title": "菁寮老街",
+   "extract": "菁寮老街位於台灣台南市後壁區菁寮，為2005年紀錄片無米樂的主要場景，在紀錄片播出之後，成為近年著名的旅遊景點。",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "橋南老街",
+  "aliases": [],
+  "wiki_title": "橋南老街",
+  "region": "south",
+  "county": "臺南市",
+  "location_wiki": "鹽水區",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "因港口淤積而沒落，轉為寧靜住宅區",
+  "wiki_image": "鹽水橋南老街.JPG",
+  "wiki": {
+   "exists": true,
+   "resolved_title": "橋南老街",
+   "extract": "橋南老街位於臺灣臺南市鹽水區，因位於興隆橋之南而得名。橋南老街為清光緒初年建造，因臨近鹽水舊港而繁盛一時，當時為鹽水通往南部鄉鎮的交通要道、店鋪行郊林立。後期隨著鹽水港的沒落，橋南老街逐漸轉為住宅區，但早期的商業街的特色建築仍留存至今，現為鹽水的觀光景點之一。\n主要信仰中心為鹽水護庇宮。",
+   "lat": null,
+   "lng": null,
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/%E5%8F%A4%E6%A8%B8%E7%9A%84%E6%A9%8B%E5%8D%97%E8%80%81%E8%A1%97%28%E5%8F%B0%E5%8D%97%E9%B9%BD%E6%B0%B4%29_Yanshui_South-bridge_Old_Street_-_panoramio.jpg/960px-%E5%8F%A4%E6%A8%B8%E7%9A%84%E6%A9%8B%E5%8D%97%E8%80%81%E8%A1%97%28%E5%8F%B0%E5%8D%97%E9%B9%BD%E6%B0%B4%29_Yanshui_South-bridge_Old_Street_-_panoramio.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "en_title": "Ciaonan Street"
+  }
+ },
+ {
+  "name_zh": "鹽水老街",
+  "aliases": [],
+  "wiki_title": "鹽水老街",
+  "region": "south",
+  "county": "臺南市",
+  "location_wiki": "鹽水區",
+  "type_wiki": "觀光",
+  "features_wiki": "鹽水意麵、八角樓",
+  "notes_wiki": "",
+  "wiki_image": "鹽水街景02.jpg",
+  "wiki": {
+   "exists": true,
+   "resolved_title": "鹽水老街",
+   "extract": "鹽水老街位於台南市鹽水區，位在三福路以南、中山路以北、治水路以東、中正路以西的中境里，是鹽水街最精華之地，因此里位處鹽水市街中心，故命名為中境里在鹽水街於日治時期實施街面改造，日昭和形二層樓式的商街取代原本低矮的街屋，並拆除城門、城牆、隘門，將街道拓寬。戰後街面雖又陸續改建，但仍可看到幾棟日式商店的舊建築。",
+   "lat": null,
+   "lng": null,
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/%E9%B9%BD%E6%B0%B4%E8%A1%97%E6%99%AF_Yanshui%2C_Tainan_-_panoramio.jpg/960px-%E9%B9%BD%E6%B0%B4%E8%A1%97%E6%99%AF_Yanshui%2C_Tainan_-_panoramio.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "麻豆老街",
+  "aliases": [],
+  "wiki_title": "麻豆老街",
+  "region": "south",
+  "county": "臺南市",
+  "location_wiki": "麻豆區",
+  "type_wiki": "觀光",
+  "features_wiki": "麻豆碗粿、電姬戲院",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": true,
+   "resolved_title": "麻豆老街",
+   "extract": "麻豆老街是位於臺灣臺南市麻豆區的老街。麻豆老街不是一條單一街道，而是從「頂街」興中路延伸到「下街」中山路、中正路的街廓，約興建於1920年（日治大正九年）至昭和年間，這個範圍是麻豆巴洛克式老街屋最集中的區域。不同於許多老街經過整治規劃後的形象統一，麻豆老街呈現新舊交雜之貌，許多老屋的外觀已被招牌擋住。\n位於中山路上，落成於1938年（昭和十三年）的電姬戲院是老街代表性的建築，除此之外特色建築尚有日新家具、永發商行、三商百貨以及頂街興中路段的統一超商、成記行、龍光乾洗店、振興家具行等。",
+   "lat": null,
+   "lng": null,
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/%E9%9B%BB%E5%A7%AC%E6%88%B2%E9%99%A2.jpg/960px-%E9%9B%BB%E5%A7%AC%E6%88%B2%E9%99%A2.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "佳里老街",
+  "aliases": [],
+  "wiki_title": "佳里老街",
+  "region": "south",
+  "county": "臺南市",
+  "location_wiki": "佳里區中山路",
+  "type_wiki": "",
+  "features_wiki": "金唐殿",
+  "notes_wiki": "",
+  "wiki_image": "佳里老街20220424.jpg",
+  "wiki": {
+   "exists": false,
+   "resolved_title": "佳里老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "西港老街",
+  "aliases": [],
+  "wiki_title": "西港老街",
+  "region": "south",
+  "county": "臺南市",
+  "location_wiki": "西港區",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "道路拓寬後，舊建築已不多。",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "西港老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "善化老街",
+  "aliases": [
+   "中山路老街"
+  ],
+  "wiki_title": "善化老街",
+  "region": "south",
+  "county": "臺南市",
+  "location_wiki": "善化區",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": true,
+   "resolved_title": "善化老街",
+   "extract": "善化老街位於臺灣台南市善化區，中山路東起保安路口西至中華路口，全長約400公尺。老街以三級古蹟慶安宮向二側發展，建築多在1930年代建造，為昭和初期的騎樓建築，因工商發展，老街半數以上的建築都經過翻修。",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "新化老街",
+  "aliases": [
+   "大目降老街"
+  ],
+  "wiki_title": "新化老街",
+  "region": "south",
+  "county": "臺南市",
+  "location_wiki": "新化區",
+  "type_wiki": "",
+  "features_wiki": "巴洛克式牌樓街屋",
+  "notes_wiki": "",
+  "wiki_image": "新化老街風華.jpg",
+  "wiki": {
+   "exists": true,
+   "resolved_title": "新化老街",
+   "extract": "新化老街位於臺灣臺南市新化區，曾獲選為南瀛十大歷史建築第一名、臺灣歷史建築百景徵選活動第二名，原本包括了中正路（西邊街）與中山路（南邊街）兩條老街，兩條路交會之處稱為「三角湧」，為昔日山區集貨買賣驛站，但中山路老街屋已在1995年的道路拓寬工程中被拆除，僅餘中正路上的老街屋。由於老街兩旁的街屋建築年代相差約17年，故有兩種建築風格並存。",
+   "lat": 23.0354576,
+   "lng": 120.3081207,
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/%E6%96%B0%E5%8C%96%E8%80%81%E8%A1%9701.jpg/960px-%E6%96%B0%E5%8C%96%E8%80%81%E8%A1%9701.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "en_title": "Xinhua Old Street"
+  }
+ },
+ {
+  "name_zh": "白河店仔口街",
+  "aliases": [],
+  "wiki_title": "白河店仔口街",
+  "region": "south",
+  "county": "臺南市",
+  "location_wiki": "白河區",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "白河店仔口街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "關子嶺老街",
+  "aliases": [],
+  "wiki_title": "關子嶺老街",
+  "region": "south",
+  "county": "臺南市",
+  "location_wiki": "白河區",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "關子嶺老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "東原老街",
+  "aliases": [
+   "東山老街"
+  ],
+  "wiki_title": "東原老街",
+  "region": "south",
+  "county": "臺南市",
+  "location_wiki": "東山區",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "東原老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "玉井老街",
+  "aliases": [],
+  "wiki_title": "玉井老街",
+  "region": "south",
+  "county": "臺南市",
+  "location_wiki": "玉井區",
+  "type_wiki": "",
+  "features_wiki": "芒果批發",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "玉井老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "北寮老街",
+  "aliases": [],
+  "wiki_title": "北寮老街",
+  "region": "south",
+  "county": "臺南市",
+  "location_wiki": "關廟區",
+  "type_wiki": "",
+  "features_wiki": "彩繪藝術",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "北寮老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "旗津老街",
+  "aliases": [
+   "通山老街"
+  ],
+  "wiki_title": "旗津老街",
+  "region": "south",
+  "county": "高雄市",
+  "location_wiki": "旗津區廟前路103巷",
+  "type_wiki": "",
+  "features_wiki": "打狗第一街",
+  "notes_wiki": "1990年道路拓寬後，舊建築已不多。",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "旗津老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "鹽埕町通",
+  "aliases": [
+   "銀座通",
+   "酒吧街"
+  ],
+  "wiki_title": "鹽埕町",
+  "region": "south",
+  "county": "高雄市",
+  "location_wiki": "鹽埕區七賢三路",
+  "type_wiki": "",
+  "features_wiki": "高雄銀座",
+  "notes_wiki": "1992年道路拓寬後，舊建築已不多。",
+  "wiki_image": "高雄國際商場拱廊街.jpg",
+  "wiki": {
+   "exists": true,
+   "resolved_title": "鹽埕町",
+   "extract": "鹽埕町（塩埕町）是臺灣日治時期高雄市的行政區劃之一，為瀨南鹽場一帶填海造陸後於1915年所設的五個町區之一。該區位於今天的鹽埕區五福四路與大勇路交叉處西北、鹽埕示範市場一帶，約等於今之鹽埕區陸橋、教仁、中山、瀨南、中原、新樂等里所轄範圍。在1926年時的人口約有4763人。",
+   "lat": null,
+   "lng": null,
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Takao_map_circa_1930.PNG/960px-Takao_map_circa_1930.PNG?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "鹽埕老街",
+  "aliases": [],
+  "wiki_title": "鹽埕老街",
+  "region": "south",
+  "county": "高雄市",
+  "location_wiki": "鹽埕區",
+  "type_wiki": "",
+  "features_wiki": "堀江商場、大溝頂、賊仔市、新興街、新樂街",
+  "notes_wiki": "",
+  "wiki_image": "高雄新樂街.jpg",
+  "wiki": {
+   "exists": false,
+   "resolved_title": "鹽埕老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "哈瑪星老街",
+  "aliases": [
+   "新濱老街"
+  ],
+  "wiki_title": "哈瑪星",
+  "region": "south",
+  "county": "高雄市",
+  "location_wiki": "鼓山區捷興二街一帶",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": "新濱老街廓20180518-1.jpg",
+  "wiki": {
+   "exists": true,
+   "resolved_title": "哈瑪星",
+   "extract": "哈瑪星是位於台灣高雄市鼓山區的一個地方，泛指現今五福四路與鐵路平交道的交會處以南，至鼓山漁港、漁市場，東至高雄港車站一帶的臨港線鐵路（已停用），西至哨船頭東側。開發於日治時代，臺南廳打狗支廳廳舍、高雄郡役所、高雄街役場、高雄市役所都曾設於此，曾是高雄的政經中心，今日則成為高雄的觀光地區之一。",
+   "lat": 22.62236111,
+   "lng": 120.27125,
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/20160706_Hamasen_Museum_of_Taiwan_Railway_IMG_1993.jpg/960px-20160706_Hamasen_Museum_of_Taiwan_Railway_IMG_1993.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "en_title": "Hamasen"
+  }
+ },
+ {
+  "name_zh": "內惟老街",
+  "aliases": [],
+  "wiki_title": "內惟老街",
+  "region": "south",
+  "county": "高雄市",
+  "location_wiki": "鼓山區",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "內惟老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "三鳳中街",
+  "aliases": [],
+  "wiki_title": "三鳳中街",
+  "region": "south",
+  "county": "高雄市",
+  "location_wiki": "三民區三鳳中街",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": "San Feng Zhong Jie.jpg",
+  "wiki": {
+   "exists": true,
+   "resolved_title": "三鳳中街",
+   "extract": "三鳳中街，是臺灣高雄市三民區饒富歷史韻味的一條街道，位於建國三路以北、縱貫線鐵路以南、中華三路以東與自立一路以西之間。三鳳中街橫穿三塊厝聚落中央，是一條集合南北雜貨販賣商的街道。為了因應台灣人過年時期辦年貨的習慣，中街於每年過年前一個月至除夕夜成為年貨大街，是中街最熱鬧的時期，人潮洶湧、萬頭攢動，也是全臺各大媒體爭相採訪報導的焦點，素來享有「北迪化，南中街」的美譽。\n西元1990年代之後，因各大超市賣場陸續成立，且均附設有大量停車位等優勢競爭條件，腹地受限的中街買氣大受打擊。為此，各商家在經濟部的協助與配合之下，成立「高雄市三鳳中街商機促進會」，旨在建立消費者對於三鳳中街商圈的品牌意識，嚴格為消費者把關商品品質，並提升服務，讓消費者能用比超市、大賣場更優惠的批發價格，買受物美價廉的商品；大幅翻修街道的硬體設施及在近自立一路的中街入口處設立三鳳中街地標（七彩浴火鳳凰）─象徵各商家經營世代承先啟後、寓有商圈生生不息之意，三鳳中街正逐步恢復昔日榮景。\n2011年的偶像劇《我和我的兄弟·恩》就有在三鳳中街擷取美景拍攝的鏡頭。",
+   "lat": 22.6374546,
+   "lng": 120.293935,
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/San_Feng_Zhong_Jie.jpg/960px-San_Feng_Zhong_Jie.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "en_title": "Sanfong Central Street"
+  }
+ },
+ {
+  "name_zh": "鳳山第一街",
+  "aliases": [],
+  "wiki_title": "鳳山第一街",
+  "region": "south",
+  "county": "高雄市",
+  "location_wiki": "鳳山區三民路287巷",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "鳳山第一街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "鳳山打鐵街",
+  "aliases": [],
+  "wiki_title": "鳳山打鐵街",
+  "region": "south",
+  "county": "高雄市",
+  "location_wiki": "鳳山區",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "鳳山打鐵街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "埤仔頭街",
+  "aliases": [],
+  "wiki_title": "埤子頭 (高雄市)",
+  "region": "south",
+  "county": "高雄市",
+  "location_wiki": "左營區埤仔頭街、店仔頂路一帶",
+  "type_wiki": "",
+  "features_wiki": "左營舊城、舊城城隍廟",
+  "notes_wiki": "舊建築多已改建",
+  "wiki_image": null,
+  "wiki": {
+   "exists": true,
+   "resolved_title": "埤子頭 (高雄市)",
+   "extract": "埤子頭，原寫為埤仔頭，是台灣高雄市左營區內的一個聚落，位於該區西部。相較於今日行政區，範圍大致包括埤東里、埤西里、埤北里、崇實里東部中段、廍南里南端、城南里西南部邊界地帶。",
+   "lat": null,
+   "lng": null,
+   "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Saei%2C_Taiwan_houzu.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "左營下路",
+  "aliases": [],
+  "wiki_title": "左營下路",
+  "region": "south",
+  "county": "高雄市",
+  "location_wiki": "左營區",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": "舊城國小後曾家古建物.JPG",
+  "wiki": {
+   "exists": true,
+   "resolved_title": "左營下路",
+   "extract": "左營下路為高雄市左營區的一般道路，本道路早年是左營舊聚落的重要幹道，後因左營大路的興建而逐漸失去主要道路的地位。近年來，隨著左營下路拓寬工程的實施，部分路段已完成拓寬，而元帝路至孔營路之間則保留了原左營下路的舊貌，同時在其旁新辟了左營新路。",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "西陵街",
+  "aliases": [
+   "上海街"
+  ],
+  "wiki_title": "西陵街",
+  "region": "south",
+  "county": "高雄市",
+  "location_wiki": "左營區",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": true,
+   "resolved_title": "西陵街",
+   "extract": "西陵街（Xiling St.），為臺灣高雄市左營區的一條街道，因為其特殊商業生態，曾有過上海街（正確來說上海街指的是軍校路起端的小巷，但因兩者相連，無準確定義）、西服街、軍品街、左營後街等暱稱。",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "楠梓舊街",
+  "aliases": [],
+  "wiki_title": "楠梓舊街",
+  "region": "south",
+  "county": "高雄市",
+  "location_wiki": "楠梓區",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "楠梓舊街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "橋頭老街",
+  "aliases": [],
+  "wiki_title": "橋頭老街",
+  "region": "south",
+  "county": "高雄市",
+  "location_wiki": "橋頭區",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "2009年道路拓寬後，舊建築已不多。",
+  "wiki_image": "橋頭老街jpg.jpg",
+  "wiki": {
+   "exists": false,
+   "resolved_title": "橋頭老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "三奶壇老街",
+  "aliases": [
+   "三角湧"
+  ],
+  "wiki_title": "三奶壇老街",
+  "region": "south",
+  "county": "高雄市",
+  "location_wiki": "大社區三民路、翠屏路一帶",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": "大社翠屏路20201228-1.jpg",
+  "wiki": {
+   "exists": false,
+   "resolved_title": "三奶壇老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "林園老街",
+  "aliases": [],
+  "wiki_title": "林園老街",
+  "region": "south",
+  "county": "高雄市",
+  "location_wiki": "林園區福興街",
+  "type_wiki": "",
+  "features_wiki": "頂林仔邊警察官吏派出所",
+  "notes_wiki": "",
+  "wiki_image": "林園崑記商號20200908.jpg",
+  "wiki": {
+   "exists": false,
+   "resolved_title": "林園老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "林園新街",
+  "aliases": [],
+  "wiki_title": "林園新街",
+  "region": "south",
+  "county": "高雄市",
+  "location_wiki": "林園區林園北路",
+  "type_wiki": "",
+  "features_wiki": "安樂樓",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "林園新街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "岡山老街",
+  "aliases": [
+   "岡山中街"
+  ],
+  "wiki_title": "岡山老街",
+  "region": "south",
+  "county": "高雄市",
+  "location_wiki": "岡山區",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": "岡山老街20180720-1.jpg",
+  "wiki": {
+   "exists": true,
+   "resolved_title": "岡山老街",
+   "extract": "岡山老街（英語：Gangshan Old Street）位在中華民國高雄市岡山區，範圍為維仁路、開元街、平和路一帶，多以生活用品販售為主，早晨會有街道生鮮雜貨市集。",
+   "lat": null,
+   "lng": null,
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/%E5%B2%A1%E5%B1%B1%E8%80%81%E8%A1%9720180720-1.jpg/960px-%E5%B2%A1%E5%B1%B1%E8%80%81%E8%A1%9720180720-1.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "旗山老街",
+  "aliases": [],
+  "wiki_title": "旗山老街",
+  "region": "south",
+  "county": "高雄市",
+  "location_wiki": "旗山區",
+  "type_wiki": "觀光",
+  "features_wiki": "旗山舊火車站、石拱形亭仔腳",
+  "notes_wiki": "",
+  "wiki_image": "旗山老街.jpg",
+  "wiki": {
+   "exists": true,
+   "resolved_title": "旗山老街",
+   "extract": "旗山老街位於臺灣高雄市旗山區，指的是旗山的中山路，為日治時期開闢的「本通」。在這條老街上有指定為歷史建築的「石拱圈亭仔腳」與巴洛克式街屋立面，此外還有旗山車站與旗山區農會等文化資產。而這條老街在2001年的歷史建築百景徵選活動中，被票選為第24名。",
+   "lat": 22.8854479,
+   "lng": 120.4819467,
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/%E6%97%97%E5%B1%B1%E4%BA%AD%E4%BB%94%E8%85%B3%EF%BC%88%E7%9F%B3%E6%8B%B1%E5%9C%88%EF%BC%89%EF%BC%9C1%EF%BC%9E.jpg/960px-%E6%97%97%E5%B1%B1%E4%BA%AD%E4%BB%94%E8%85%B3%EF%BC%88%E7%9F%B3%E6%8B%B1%E5%9C%88%EF%BC%89%EF%BC%9C1%EF%BC%9E.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "永安老街",
+  "aliases": [
+   "美濃老街"
+  ],
+  "wiki_title": "永安老街",
+  "region": "south",
+  "county": "高雄市",
+  "location_wiki": "美濃區",
+  "type_wiki": "",
+  "features_wiki": "客家庄、油紙傘",
+  "notes_wiki": "",
+  "wiki_image": "永安老街 3.jpg",
+  "wiki": {
+   "exists": false,
+   "resolved_title": "永安老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "六龜老街",
+  "aliases": [],
+  "wiki_title": "六龜老街",
+  "region": "south",
+  "county": "高雄市",
+  "location_wiki": "六龜區",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "六龜老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "里港老街",
+  "aliases": [],
+  "wiki_title": "里港老街",
+  "region": "south",
+  "county": "屏東縣",
+  "location_wiki": "里港鄉",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "里港老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "豐田老街",
+  "aliases": [],
+  "wiki_title": "豐田老街",
+  "region": "south",
+  "county": "屏東縣",
+  "location_wiki": "內埔鄉",
+  "type_wiki": "",
+  "features_wiki": "客家老街",
+  "notes_wiki": "",
+  "wiki_image": "內埔鄉新北勢三山國王廟.jpg",
+  "wiki": {
+   "exists": false,
+   "resolved_title": "豐田老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "內埔陽濟院老街",
+  "aliases": [],
+  "wiki_title": "內埔陽濟院老街",
+  "region": "south",
+  "county": "屏東縣",
+  "location_wiki": "內埔鄉",
+  "type_wiki": "",
+  "features_wiki": "保留完整",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "內埔陽濟院老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "二崙老街",
+  "aliases": [],
+  "wiki_title": "二崙老街",
+  "region": "south",
+  "county": "屏東縣",
+  "location_wiki": "竹田鄉",
+  "type_wiki": "觀光",
+  "features_wiki": "彩繪村",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "二崙老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "美崙老街",
+  "aliases": [],
+  "wiki_title": "美崙老街",
+  "region": "south",
+  "county": "屏東縣",
+  "location_wiki": "竹田鄉",
+  "type_wiki": "觀光",
+  "features_wiki": "彩繪村",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "美崙老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "頭崙老街",
+  "aliases": [],
+  "wiki_title": "頭崙老街",
+  "region": "south",
+  "county": "屏東縣",
+  "location_wiki": "竹田鄉",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "頭崙老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "西盛老街",
+  "aliases": [
+   "五溝水老街"
+  ],
+  "wiki_title": "西盛老街",
+  "region": "south",
+  "county": "屏東縣",
+  "location_wiki": "萬巒鄉",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "西盛老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "萬丹老街",
+  "aliases": [],
+  "wiki_title": "萬丹老街",
+  "region": "south",
+  "county": "屏東縣",
+  "location_wiki": "萬丹鄉萬丹路一段",
+  "type_wiki": "",
+  "features_wiki": "萬丹萬惠宮、芳美商號",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "萬丹老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "潮州老街",
+  "aliases": [
+   "虎仔街"
+  ],
+  "wiki_title": "潮州老街",
+  "region": "south",
+  "county": "屏東縣",
+  "location_wiki": "潮州鎮建基路",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "潮州老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "東港延平老街",
+  "aliases": [],
+  "wiki_title": "東港延平老街",
+  "region": "south",
+  "county": "屏東縣",
+  "location_wiki": "東港鎮",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "東港延平老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "小琉球老街",
+  "aliases": [
+   "三民老街"
+  ],
+  "wiki_title": "小琉球老街",
+  "region": "south",
+  "county": "屏東縣",
+  "location_wiki": "琉球鄉三民路、中山路一帶",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "小琉球老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "佳冬老街",
+  "aliases": [],
+  "wiki_title": "佳冬老街",
+  "region": "south",
+  "county": "屏東縣",
+  "location_wiki": "佳冬鄉",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "佳冬老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "車城老街",
+  "aliases": [],
+  "wiki_title": "車城老街",
+  "region": "south",
+  "county": "屏東縣",
+  "location_wiki": "車城鄉中正路一帶",
+  "type_wiki": "",
+  "features_wiki": "舊車城庄役場",
+  "notes_wiki": "道路拓寬後，舊建築已不多。",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "車城老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "四重溪溫泉老街",
+  "aliases": [],
+  "wiki_title": "四重溪溫泉老街",
+  "region": "south",
+  "county": "屏東縣",
+  "location_wiki": "車城鄉",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "四重溪溫泉老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "恆春老街",
+  "aliases": [],
+  "wiki_title": "恆春老街",
+  "region": "south",
+  "county": "屏東縣",
+  "location_wiki": "恆春鎮",
+  "type_wiki": "觀光",
+  "features_wiki": "電影海角七號熱點、恆春古城",
+  "notes_wiki": "",
+  "wiki_image": "恒春老街 - Hengchun Old Street - 2012.02 - panoramio.jpg",
+  "wiki": {
+   "exists": false,
+   "resolved_title": "恆春老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "頭城老街",
+  "aliases": [
+   "頭圍老街"
+  ],
+  "wiki_title": "頭城老街",
+  "region": "east",
+  "county": "宜蘭縣",
+  "location_wiki": "頭城鄉",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": "宜蘭頭城老街.jpg",
+  "wiki": {
+   "exists": true,
+   "resolved_title": "頭城老街",
+   "extract": "頭城老街即有「開蘭第一街」之稱、古名「頭圍街」的臺灣宜蘭縣頭城鎮和平街，其範圍是從該街的「南門福德祠」到「北門福德祠」之間約長600公尺的部分。該街大致成南北走向，依靠東邊的頭圍港與北邊通往烏石港的港道發展起來，曾為繁華的貨物集散中心，但後來因為日治時期大正十三年（1924年）的洪水影響了頭圍港與陸運取代海運等因素而沒落。今在頭城老街上，有數座古蹟與老廟，此外還有珍貴的老榕樹。",
+   "lat": null,
+   "lng": null,
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/%E5%AE%9C%E8%98%AD%E9%A0%AD%E5%9F%8E%E8%80%81%E8%A1%97.jpg/960px-%E5%AE%9C%E8%98%AD%E9%A0%AD%E5%9F%8E%E8%80%81%E8%A1%97.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "en_title": "Toucheng Old Street"
+  }
+ },
+ {
+  "name_zh": "大里老街",
+  "aliases": [],
+  "wiki_title": null,
+  "region": "east",
+  "county": "宜蘭縣",
+  "location_wiki": "",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": "大里老街.jpg",
+  "wiki": {
+   "exists": false
+  }
+ },
+ {
+  "name_zh": "利簡澤老街",
+  "aliases": [
+   "利澤老街"
+  ],
+  "wiki_title": "利簡澤老街",
+  "region": "east",
+  "county": "宜蘭縣",
+  "location_wiki": "五結鄉",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": "利澤簡永安宮-2013年利澤簡走尪活動.jpg",
+  "wiki": {
+   "exists": false,
+   "resolved_title": "利簡澤老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "冬山老街",
+  "aliases": [],
+  "wiki_title": "冬山老街",
+  "region": "east",
+  "county": "宜蘭縣",
+  "location_wiki": "冬山鄉",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "冬山老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "新城老街",
+  "aliases": [],
+  "wiki_title": "新城老街",
+  "region": "east",
+  "county": "花蓮縣",
+  "location_wiki": "新城鄉",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": "新城老街13.jpg",
+  "wiki": {
+   "exists": false,
+   "resolved_title": "新城老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "山刀老街",
+  "aliases": [],
+  "wiki_title": "山刀老街",
+  "region": "east",
+  "county": "花蓮縣",
+  "location_wiki": "秀林鄉銅門村",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "山刀老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "里壠老街",
+  "aliases": [
+   "關山老街"
+  ],
+  "wiki_title": "里壠老街",
+  "region": "east",
+  "county": "臺東縣",
+  "location_wiki": "關山鎮",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "里壠老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "知本溫泉老街",
+  "aliases": [],
+  "wiki_title": "知本溫泉老街",
+  "region": "east",
+  "county": "臺東縣",
+  "location_wiki": "卑南鄉",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "知本溫泉老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "大武老街",
+  "aliases": [],
+  "wiki_title": "大武老街",
+  "region": "east",
+  "county": "臺東縣",
+  "location_wiki": "大武鄉",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "大武老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "中央老街",
+  "aliases": [
+   "媽宮老街"
+  ],
+  "wiki_title": "中央老街",
+  "region": "islands",
+  "county": "澎湖縣",
+  "location_wiki": "馬公市",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": "中央老街2.JPG",
+  "wiki": {
+   "exists": true,
+   "resolved_title": "中央老街",
+   "extract": "馬公市中央老街，俗稱街內（臺羅：kue-lāi），清朝將澎湖納入版圖後，初期僅有軍隊駐紮媽宮港澳，約莫至乾隆朝後，天后宮附近的商業店家才漸成規模。",
+   "lat": null,
+   "lng": null,
+   "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/3/3c/%E4%B8%AD%E5%A4%AE%E8%80%81%E8%A1%972.JPG?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "en_title": "Central Street (Taiwan)"
+  }
+ },
+ {
+  "name_zh": "小池角竹仔街",
+  "aliases": [],
+  "wiki_title": "小池角竹仔街",
+  "region": "islands",
+  "county": "澎湖縣",
+  "location_wiki": "西嶼鄉",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "小池角竹仔街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "二崁聚落",
+  "aliases": [],
+  "wiki_title": "二崁聚落",
+  "region": "islands",
+  "county": "澎湖縣",
+  "location_wiki": "西嶼鄉",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": "二坎房屋.jpg",
+  "wiki": {
+   "exists": false,
+   "resolved_title": "二崁聚落",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "沙美老街",
+  "aliases": [],
+  "wiki_title": "沙美老街",
+  "region": "islands",
+  "county": "金門縣",
+  "location_wiki": "金沙鎮",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": null,
+  "wiki": {
+   "exists": false,
+   "resolved_title": "沙美老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "陽翟老街",
+  "aliases": [],
+  "wiki_title": "陽翟老街",
+  "region": "islands",
+  "county": "金門縣",
+  "location_wiki": "金沙鎮",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": "陽翟聚落軍中樂園場景(2).jpg",
+  "wiki": {
+   "exists": false,
+   "resolved_title": "陽翟老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "金城老街",
+  "aliases": [],
+  "wiki_title": "金城老街",
+  "region": "islands",
+  "county": "金門縣",
+  "location_wiki": "金城鎮",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": "金城老街 - Old Street in Jincheng Township - 2014.05 - panoramio.jpg",
+  "wiki": {
+   "exists": false,
+   "resolved_title": "金城老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "明遺老街",
+  "aliases": [
+   "明故老街"
+  ],
+  "wiki_title": "明遺老街",
+  "region": "islands",
+  "county": "金門縣",
+  "location_wiki": "金城鎮",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": "石板路.jpg",
+  "wiki": {
+   "exists": false,
+   "resolved_title": "明遺老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ },
+ {
+  "name_zh": "模範街",
+  "aliases": [],
+  "wiki_title": "模範街",
+  "region": "islands",
+  "county": "金門縣",
+  "location_wiki": "金城鎮",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": "金門模範街之美-張利聰.jpg",
+  "wiki": {
+   "exists": true,
+   "resolved_title": "模範街",
+   "extract": "金門模範街，是中華民國歷史建築之一，位於金門縣金城鎮，原名模範街，1979年中美斷交，改名自強街，象徵需自立自強，數年後再改回原名。為丁字形的街道，共有40間。1924年，當時的金門縣商會會長傅錫琪與地方紳士翁同文決定為金門建起一條「足以為模範」的街道，因此前往南洋集資並蓋起這條街道。\n建築風貌具日本、閩南、西洋、南洋等各種風格。建築多為二進店屋，第一進為日式洋樓，第二進為閩式建築。是金門維持許久的老街之一。",
+   "lat": null,
+   "lng": null,
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Muofan_Street.JPG/960px-Muofan_Street.JPG?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "en_title": "Mofan Street"
+  }
+ },
+ {
+  "name_zh": "牛角聚落老街",
+  "aliases": [
+   "大澳老街"
+  ],
+  "wiki_title": "牛角聚落老街",
+  "region": "islands",
+  "county": "連江縣",
+  "location_wiki": "南竿鄉",
+  "type_wiki": "",
+  "features_wiki": "",
+  "notes_wiki": "",
+  "wiki_image": "Daao Old Street 大澳老街 - panoramio (4).jpg",
+  "wiki": {
+   "exists": false,
+   "resolved_title": "牛角聚落老街",
+   "extract": "",
+   "lat": null,
+   "lng": null,
+   "thumbnail": null,
+   "en_title": null
+  }
+ }
+]
